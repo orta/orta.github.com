@@ -1,0 +1,51 @@
+html{
+width: 2000px;
+overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 2em;
+  background-color: #bbb;
+  color:#494949;
+  font-size: 3em;
+  font-family: "QuicksandBook", Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1{
+  position: absolute;
+  top:-0.5em;
+  margin-bottom: 0.2em;
+}
+
+h2, ul#stuff{
+  display: inline-block;
+}
+
+ul#stuff{w
+  margin: 0.83em 0px;
+  font-size: 1.5em;
+  height: 3.5em;
+  overflow-y: hidden;
+  font-weight: bold;
+  vertical-align: top;
+  padding: 0;
+  
+}
+
+ul#stuff:hover{
+  overflow-y: auto;
+  height: auto;      
+}
+
+ul#stuff li:hover a{
+  border-bottom: 1px solid #B1EBFD;
+  border-top: 1px solid #B1EBFD;
+  
+}
+
+ul#stuff li a{
+  list-style: none;
+  text-decoration: none;
+  color: #B1EBFD;
+}

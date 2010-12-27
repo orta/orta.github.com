@@ -1,1 +1,76 @@
-My GitHub Page
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>ortatherox</title>
+  <!-- 27 dec 2010 -->
+  <meta name="author"  content="orta; http://ortatherox.com/" /> 
+  <meta name="title" content="ortatherox" /> 
+  <meta name="description" content="programmer and general rockerouterer." /> 
+  <meta name="keywords" content="orta, ortatherox, design, designer, code, iphone, awesome, iphone games, iphone apps, cocoa, cocoa apps, therox, cocos2d, flash, as3, html, css, github" /> 
+  <meta name="robots" content="all,follow" /> 
+  <!-- Date: 2009-Aug-16 --> 
+  
+  <!-- OpenID stuff --> 
+  <link rel="openid.server" href="http://openid.claimid.com/server" /> 
+  <link rel="openid.delegate" href="http://openid.claimid.com/orta" /> 
+
+  <link rel="stylesheet" href="assets/fonts/stylesheet.css">
+  <link rel="stylesheet" href="assets/stylesheets/style.css">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8" ></script>
+</head>
+<body>
+  
+  <h1>I'm orta</h1>
+  <h2>and I</h2>
+  <ul id="stuff">
+    <li><a href = "http://github.com/orta">code stuff</a></li>
+    <!-- <li><a href = "">am clonable</a></li> -->
+    <li><a href = "">got up everest</a></li>
+    <!-- <li><a href = "">drink heavily</a></li>     -->
+    <li><a href = "http://www.flickr.com/photos/ortatherox">take photos</a></li>
+    <li><a href = "http://foursquare.com/orta">rock out</a></li>
+    <li><a href = "http://goodreads.com/orta">read books</a></li>
+    <li><a href = "http://ortatherox.com/articles/movies">write about movies</a></li>
+    <li><a href = "http://ortatherox.com/articles/games">write about games</a></li>
+    <li><a href = "http://ortatherox.com/articles/23">was 23 once</a></li>
+    <li><a href = "http://www.ortatherox.com/site/Ben%20Maslen's%20Digital%20Portfolio.pdf">designed once or twice</a></li>
+    <li><a href = "http://ortatherox.com/games/">made some iphone games</a></li>
+    <li><a href = "http://www.brutaltechnopunk.com">play in a band</a></li>
+    <li><a href = "http://ortatherox.com/forumwarz">made a forumwarz bot</a></li>
+    <li><a href = "http://ortatherox.com/4chan">got bored with 4chan</a></li>
+    <li><a href = "mailto:orta.therox@gmail.com">am orta.therox@gmail.com</a></li>
+    <li><a href = "http://ortatherox.com/softstuff">made a font</a></li>
+    <li><a href = "http://www.amazon.co.uk/iPhone-Cool-Projects-Great-Development/dp/143022357X/ref=sr_1_1?ie=UTF8&s=books&qid=1293459945&sr=8-1">got code in print</a></li>
+    
+  </ul>
+  
+  <script>
+  
+  (function($){
+  	$.fn.shuffle = function() {
+  		return this.each(function(){
+  			var items = $(this).children().clone(true);
+  			return (items.length) ? $(this).html($.shuffle(items)) : this;
+  		});
+  	}
+
+  	$.shuffle = function(arr) {
+  		for(var j, x, i = arr.length; i; j = parseInt(Math.random() * i), x = arr[--i], arr[i] = arr[j], arr[j] = x);
+  		return arr;
+  	}
+  })(jQuery);  
+  
+    $(document).ready(function(){
+          
+      $("ul#stuff").shuffle()
+      
+      window.setInterval(function() {
+          if( $("ul#stuff:hover").length > 0) return
+          var first = $("ul li:eq(0)").remove()
+          $("ul").append(first)
+        }, 1500);
+    })
+  </script>
+</body>
+</html>
