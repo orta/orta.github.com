@@ -19,11 +19,12 @@ h1{
 }
 
 h2, ul#stuff{
+  margin: 0.83em 0px;
+  padding: 0;
   display: inline-block;
 }
 
-ul#stuff{w
-  margin: 0.83em 0px;
+ul#stuff{
   font-size: 1.5em;
   height: 3.5em;
   overflow-y: hidden;
@@ -49,3 +50,9 @@ ul#stuff li a{
   text-decoration: none;
   color: #B1EBFD;
 }
+
+ul#stuff li:first-child{
+  color: #76A5B7;
+  
+}
+
