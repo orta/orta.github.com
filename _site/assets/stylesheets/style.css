@@ -15,3 +15,7 @@ section#post{
   width: 800px;
   font-size: 1.5em;
 }
+
+section#post h3{
+  text-shadow: 0px 1px 0px #e5e5ee;
+}
