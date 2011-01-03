@@ -19,3 +19,11 @@ section#post{
 section#post h3{
   text-shadow: 0px 1px 0px #e5e5ee;
 }
+
+.lt-ie8  .ieonly{
+  display: inline-block;
+}
+
+.ieonly{
+  display: none;
+}
