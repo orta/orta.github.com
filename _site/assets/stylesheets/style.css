@@ -10,55 +10,8 @@ body {
   color:#494949;
   font-family: "QuicksandBook", Verdana, Arial, Helvetica, sans-serif;
 }
-#site {
-  font-size: 3em;
-}
-
-#site h1{
-  position: absolute;
-  top:-0.5em;
-  margin-bottom: 0.2em;
-}
-
-#site h2,#site  ul#stuff{
-  margin: 0.83em 0px;
-  padding: 0;
-  display: inline-block;
-}
-
-#site ul#stuff{
-  font-size: 1.5em;
-  height: 3.5em;
-  overflow-y: hidden;
-  font-weight: bold;
-  vertical-align: top;
-  padding: 0;
-  
-}
-
-#site ul#stuff:hover{
-  overflow-y: auto;
-  height: auto;      
-}
-
-#site ul#stuff li:hover a{
-  border-bottom: 1px solid #B1EBFD;
-  border-top: 1px solid #B1EBFD;
-  
-}
-
-#site ul#stuff li a{
-  list-style: none;
-  text-decoration: none;
-  color: #B1EBFD;
-}
-
-#site ul#stuff li:first-child{
-  color: #76A5B7;
-}
 
 section#post{
   width: 800px;
   font-size: 1.5em;
-  
 }

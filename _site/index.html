@@ -13,23 +13,37 @@
   <link rel="openid.server" href="http://openid.claimid.com/server" /> 
   <link rel="openid.delegate" href="http://openid.claimid.com/orta" /> 
   
-  <base href="http://127.0.0.1:4000/" />
-
-  <link rel="stylesheet" href="assets/fonts/stylesheet.css">
-  <link rel="stylesheet" href="assets/stylesheets/style.css">
+  <!-- <base href="http://orta.github.com/" /> -->
+  <base href="http://localhost:4000/" />
   
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8" ></script>
+  <link rel="stylesheet" href="assets/fonts/stylesheet.css">
+  <link rel="stylesheet" href="assets/stylesheets/style.css?v=1">
+  
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-5057919-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
   
 </head>
 <body>
   
-  <section id="home">  
+  <link rel="stylesheet" href="assets/stylesheets/home.css">
+
+<section id="site">  
   <h1>I'm orta</h1>
   <h2>and I</h2>
   <ul id="stuff">
     <li><a href = "http://github.com/orta">code stuff</a></li>
     <!-- <li><a href = "">am clonable</a></li> -->
-    <li><a href = "">got up everest</a></li>
     <!-- <li><a href = "">drink heavily</a></li>     -->
     <li><a href = "http://www.flickr.com/photos/ortatherox">take photos</a></li>
     <li><a href = "http://foursquare.com/orta">rock out</a></li>
@@ -51,6 +65,7 @@
     
     
   </ul>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8" ></script>
   
   <script>
   
