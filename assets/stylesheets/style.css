@@ -11,19 +11,35 @@ body {
   font-family: "QuicksandBook", Verdana, Arial, Helvetica, sans-serif;
 }
 
-section#post{
-  width: 800px;
+#post{
   font-size: 1.5em;
+  width: 800px;
+  
 }
 
-section#post h3{
+h1, h2, h3{
   text-shadow: 0px 1px 0px #e5e5ee;
 }
 
-.lt-ie8  .ieonly{
-  display: inline-block;
+#post a{
+  color: #222;
+  text-shadow: 0px 1px 0px #8E8E96;
+  text-decoration: none;
 }
 
-.ieonly{
-  display: none;
+#post a:hover{
+  color: #555;
+  text-shadow: 0px -1px 0px #3E3E43;
+  
+}
+
+#post a:visited {
+  color: #555;
+}
+.lt-ie8 .ieonly{
+  display: inline-block !important;
+}
+
+.ieonly {
+  display: none !important;
 }

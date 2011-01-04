@@ -1,0 +1,16 @@
+---
+layout: post
+title: "am a twitter spammer"
+---
+
+h1. I've looked at my twitter feed, it's official.
+
+<center>!assets/images/twitterspammer.png(I am mostly machine)!</center>
+
+So what can I do about this? I think the only real solution is to split off my automatic twitter stuff with another account, maybe "orta_bot":http://twitter.com/orta_bot I already have "orta_tips":http://twitter.com/orta_tips so that I dont spam my normal friends with a tonne of code related tweets. Here's how I plan on killing off this habit.
+
+h3. Kill off 35 "connections":http://twitter.com/settings/connections
+
+h3. Make another account
+
+h3. Bliss.
