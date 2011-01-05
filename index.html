@@ -23,10 +23,12 @@ title: Orta Therox
     <li><a href = "mailto:orta.therox@gmail.com">am orta.therox@gmail.com</a></li>
     <li><a href = "http://ortatherox.com/softstuff">made a font</a></li>
     <li><a href = "http://www.amazon.co.uk/iPhone-Cool-Projects-Great-Development/dp/143022357X/ref=sr_1_1?ie=UTF8&s=books&qid=1293459945&sr=8-1">got code in print</a></li>
-    {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
     
+    {% for post in site.posts %}
+      {% if post.frontpage == true %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
     
   </ul>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8" ></script>
