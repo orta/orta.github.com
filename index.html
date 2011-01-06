@@ -6,29 +6,33 @@ title: Orta Therox
 
 <section id="site">  
   <h1>I'm orta</h1>
-  <h2>and I <a class="ieonly" href="http://www.whatbrowser.org/">care not about IE users</a></h2>
-  <h2 class = "ieonly">also I</h2>
-  <ul id="stuff">
-    <li><a href = "http://github.com/orta">code stuff</a></li>
-    <!-- <li><a href = "">am clonable</a></li> -->
-    <!-- <li><a href = "">drink heavily</a></li>     -->
-    <li><a href = "http://www.flickr.com/photos/ortatherox">take photos</a></li>
-    <li><a href = "http://foursquare.com/orta">rock out</a></li>
-    <li><a href = "http://goodreads.com/orta">read books</a></li>
-    <li><a href = "http://www.ortatherox.com/site/Ben%20Maslen's%20Digital%20Portfolio.pdf">designed once or twice</a></li>
-    <li><a href = "http://www.brutaltechnopunk.com">play in a band</a></li>
-    <!-- <li><a href = "http://ortatherox.com/forumwarz">made a forumwarz bot</a></li>
-    <li><a href = "http://ortatherox.com/4chan">got bored with 4chan</a></li> -->
-    <li><a href = "mailto:orta.therox@gmail.com">am orta.therox@gmail.com</a></li>
-    <li><a href = "http://www.amazon.co.uk/iPhone-Cool-Projects-Great-Development/dp/143022357X/ref=sr_1_1?ie=UTF8&s=books&qid=1293459945&sr=8-1">got code in print</a></li>
+  
+  <div id="subtext">
+    <h2>and I <a class="ieonly" href="http://www.whatbrowser.org/">care not about IE users</a></h2>
+    <h2 class = "ieonly">also I</h2>
+    <ul id="stuff">
+      <li><a href = "http://github.com/orta">code stuff</a></li>
+      <!-- <li><a href = "">am clonable</a></li> -->
+      <!-- <li><a href = "">drink heavily</a></li>     -->
+      <li><a href = "http://www.flickr.com/photos/ortatherox">take photos</a></li>
+      <li><a href = "http://foursquare.com/orta">rock out</a></li>
+      <li><a href = "http://goodreads.com/orta">read books</a></li>
+      <li><a href = "http://www.ortatherox.com/site/Ben%20Maslen's%20Digital%20Portfolio.pdf">designed once or twice</a></li>
+      <li><a href = "http://www.brutaltechnopunk.com">play in a band</a></li>
+      <!-- <li><a href = "http://ortatherox.com/forumwarz">made a forumwarz bot</a></li>
+      <li><a href = "http://ortatherox.com/4chan">got bored with 4chan</a></li> -->
+      <li><a href = "mailto:orta.therox@gmail.com">am orta.therox@gmail.com</a></li>
+      <li><a href = "http://www.amazon.co.uk/iPhone-Cool-Projects-Great-Development/dp/143022357X/ref=sr_1_1?ie=UTF8&s=books&qid=1293459945&sr=8-1">got code in print</a></li>
     
-    {% for post in site.posts %}
-      {% if post.frontpage == true %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
+      {% for post in site.posts %}
+        {% if post.frontpage == true %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
     
-  </ul>
+    </ul>
+  </div>
+</section>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8" ></script>
   
   <script>
@@ -58,4 +62,3 @@ title: Orta Therox
         }, 1500);
     })
   </script>
-</section>

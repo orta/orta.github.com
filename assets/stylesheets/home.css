@@ -1,16 +1,33 @@
+.lt-1024 #site {
+  font-size: 2.2em;
+}
+
 #site {
   font-size: 3em;
 }
-
 #site h1{
   position: absolute;
   top:-0.5em;
+  left: 250px;
   margin-bottom: 0.2em;
 }
 
+#subtext{
+  position: absolute;
+  top:3em;
+  left: 250px;
+  width: 2000px;
+}
+
+.lt-1024 #subtext, .lt-1024 #site h1 {
+  left: 30px;
+  margin-left: 0;
+  padding-left: 0;
+}
+
 #site h2, #site ul#stuff{
-  margin: 1.1em 0px;
   padding: 0;
+  margin: 0;
   display: inline-block;
 }
 
@@ -26,12 +43,12 @@
 #site ul#stuff:hover{
   overflow-y: auto;
   height: auto;      
+  margin-bottom: 2em;
 }
 
 #site ul#stuff li:hover a{
   border-bottom: 1px solid #B1EBFD;
   border-top: 1px solid #B1EBFD;
-  
 }
 
 #site ul#stuff li a{
