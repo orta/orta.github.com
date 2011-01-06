@@ -5,17 +5,18 @@
 #site {
   font-size: 3em;
 }
+
 #site h1{
   position: absolute;
   top:-0.5em;
-  left: 250px;
+  left: 270px;
   margin-bottom: 0.2em;
 }
 
 #subtext{
   position: absolute;
   top:3em;
-  left: 250px;
+  left: 270px;
   width: 2000px;
 }
 
