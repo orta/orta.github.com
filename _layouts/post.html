@@ -4,3 +4,39 @@ layout: default
 <div id="post">
 {{ content }}
 </div>
+
+<script type="application/javascript">
+    function getip(json){
+      console.log(json.ip);
+    }
+    
+    head.ready( function() {
+      
+      $("a.inline").click(function(){
+        
+        // a mini lightbox
+        var link = $(this);
+        link.addClass("selected")
+        $("body").append("<div id='background'> </div>")
+        $("body").append("<div id='popover'> </div>")
+        var img = new Image();
+        
+        $(img).load(function(){
+          $("#popover").append(this)
+          $("#popover, #background").click(function(){
+            $("#popover, #background").remove()
+            link.removeClass("selected")
+          })
+        })
+        
+        .attr('src',  $(this).attr("href"))
+        .attr('id',  "quickimage");  
+        
+        var distance = link.hasClass("apple") ? 18 : 28
+        $("#popover").css("top",  link.position().top + distance )
+        return false;
+       })        
+      });
+</script>
+
+<script type="application/javascript" src="http://jsonip.appspot.com/?callback=getip"></script>

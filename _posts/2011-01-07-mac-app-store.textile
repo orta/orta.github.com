@@ -1,0 +1,30 @@
+---
+layout: post
+title: "mac app store"
+---
+
+h1. On everyone breaking the HIG and why Windows users can't understand
+
+_The sky is falling, and the Mac App Store is to blame_. Apple's Macintosh has always been the vanguard of good design, we have had standards for almost everything, and a user interface has a pretty strict one. It's a 100 page document explaining everything from the perspectives you should use for your application icons to the specific way to deal with words on the buttons on alerts. 
+
+Apple have been known to skip on bits of this document, well because they're apple, they make the rules they can flaunt them. Sometimes ( like in the case of "(inline)Time Machine":/assets/images/macapp/timemachine.jpg ) the entire UI makes sense because of what they're trying to do. In that case it's a full screen application that's pretty much got a game's UI to go through your documents history.
+
+<center>!/assets/images/macapp/macappstore.png(Mac App Store)!</center>
+
+Contrast that with the Mac App Store UI, now a lot of this has "already been said":http://riscfuture.tumblr.com/post/2626504717/app-store-twitter-ui-failures, but there are a lot of strange design choices. The clue to where this is all coming from was a apples latest keynote, "Back to the Mac" wherein they said they're taking as many design cues from the iPad. Which makes sense, I mean no-one designs in a vacuum. Where else could brushed metal have come from except from actual brushed metal. But the changes in an app as widespreadly used as the app store is only going to give people the idea that throwing away a beautiful and consistently designed app which doesnt require questions like "so how can I move the window". 
+
+My worry is that I'm just another guy that Gruber talks about by saying "another critic who believes in the":http://daringfireball.net/2011/01/uniformity_vs_individuality_in_mac_ui_design "Apple Human Interface Guideline":http://developer.apple.com/documentation/UserExperience/Conceptual/AppleHIGuidelines/index.html. I believe it because it used to protect us from applications like the ones showcased in "readthefuckinghig":http://readthefuckinghig.tumblr.com. Windows users are used to this, you guys only got a "HIG with Vista":http://msdn.microsoft.com/en-us/library/aa511258.aspx (which I might add that the iOS HIG turned above it in my search), and even then all your developer tools seem to be oriented to the "throw gradients everywhere" style of design. There's very little sharing of controls, let alone for free to help each other. To my knowledge there's certainly not something like the "BWToolKit":http://brandonwalkin.com/bwtoolkit/ to encourage everyone to use the same controls and not to try implement their own. 
+
+There's not really much that can be done though. There always have been people ignoring the HIG ( "(inline apple)skitch":/assets/images/macapp/skitch.PNG ) but the apps themselves feel like one-offs, an exception for very specific use cases. I'm expecting that ipad inspired apps are going to start being everywhere. The first strange UI convention I've noticed is the use of "portrait windows":http://itunes.apple.com/us/app/daily-bible/id407992094?mt=12. On computer that all have a 16:9 proportional screen, it just seems like a waste of space. In a list based application that makes sense ("(inline apple)adium":/assets/images/macapp/adium.png, "(inline apple)twitter 2":/assets/images/macapp/twitter2.PNG) but stuff like this is just wasting screen space.
+
+
+
+
+
+http://www.brandonwalkin.com/blog/2009/08/10/managing-ui-complexity/
+
+
+http://readthefuckinghig.tumblr.com/
+
+The first real obvious hint that this was happening came from the 2010 Apple Design Awards with no Mac based awards at all.  
+

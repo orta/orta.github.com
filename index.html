@@ -11,6 +11,10 @@ title: Orta Therox
     <h2>and I <a class="ieonly" href="http://www.whatbrowser.org/">care not about IE users</a></h2>
     <h2 class = "ieonly">also I</h2>
     <ul id="stuff">
+      
+      <li><a href = "http://calendaraboutnothing.com/~orta">contribute code </a></li>
+      <li><a href = "https://github.com/orta/FUSEHub">wrote a filesystem</a></li>
+      
       <li><a href = "http://github.com/orta">code stuff</a></li>
       <!-- <li><a href = "">am clonable</a></li> -->
       <!-- <li><a href = "">drink heavily</a></li>     -->
@@ -33,25 +37,22 @@ title: Orta Therox
     </ul>
   </div>
 </section>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8" ></script>
   
   <script>
   
-  (function($){
-  	$.fn.shuffle = function() {
-  		return this.each(function(){
-  			var items = $(this).children().clone(true);
-  			return (items.length) ? $(this).html($.shuffle(items)) : this;
-  		});
-  	}
+  head.ready( function() {
+        
+    $.fn.shuffle = function() {
+      return this.each(function(){
+        var items = $(this).children().clone(true);
+        return (items.length) ? $(this).html($.shuffle(items)) : this;
+      });
+    }
 
-  	$.shuffle = function(arr) {
-  		for(var j, x, i = arr.length; i; j = parseInt(Math.random() * i), x = arr[--i], arr[i] = arr[j], arr[j] = x);
-  		return arr;
-  	}
-  })(jQuery);  
-  
-    $(document).ready(function(){
+    $.shuffle = function(arr) {
+      for(var j, x, i = arr.length; i; j = parseInt(Math.random() * i), x = arr[--i], arr[i] = arr[j], arr[j] = x);
+      return arr;
+    }
           
       $("ul#stuff").shuffle()
       

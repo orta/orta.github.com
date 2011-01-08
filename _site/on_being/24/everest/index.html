@@ -29,7 +29,9 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-
+    
+    head.js("http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js");
+    
   </script>
   
 </head>
@@ -37,6 +39,8 @@
   <section id="sidebar">
     <a href="/"><img src="/assets/images/orta.jpg" alt="Orta"></a>
     <h2>new shit</h2>
+    
+      <p><a href="/mac-app-store">mac app store</a></p>
     
       <p><a href="/find-music-on-spotify">find music on spotify</a></p>
     
@@ -47,8 +51,6 @@
       <p><a href="/softstuff">made a font</a></p>
     
       <p><a href="/pirates">pirates</a></p>
-    
-      <p><a href="/grabbed">grabbed</a></p>
     
     
   </section>
@@ -74,6 +76,43 @@
 <strong>Interwebs?</strong> Yep, at least every 2-3 days we&#8217;d stop somewhere with an internet cafe, how else could I Facebook propose to my current wife <a href="http://twitter.com/_whatshesays">Raîssa</a>, or just throw up some pictures onto the internets.</p>
 <center><img src="/assets/images/everest/done.jpeg" title="done" alt="done" /></center>
 </div>
+
+<script type="application/javascript">
+    function getip(json){
+      console.log(json.ip);
+    }
+    
+    head.ready( function() {
+      
+      $("a.inline").click(function(){
+        
+        // a mini lightbox
+        var link = $(this);
+        link.addClass("selected")
+        $("body").append("<div id='background'> </div>")
+        $("body").append("<div id='popover'> </div>")
+        var img = new Image();
+        
+        $(img).load(function(){
+          $("#popover").append(this)
+          $("#popover, #background").click(function(){
+            $("#popover, #background").remove()
+            link.removeClass("selected")
+          })
+        })
+        
+        .attr('src',  $(this).attr("href"))
+        .attr('id',  "quickimage");  
+        
+        var distance = link.hasClass("apple") ? 18 : 28
+        $("#popover").css("top",  link.position().top + distance )
+        return false;
+       })        
+      });
+</script>
+
+<script type="application/javascript" src="http://jsonip.appspot.com/?callback=getip"></script>
+
   
 </body>
 </html>
