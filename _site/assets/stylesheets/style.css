@@ -102,14 +102,15 @@ h1, h2, h3{
 }
 
 blockquote{
+  background: #5D5D5D url('../images/site/quotes.png') no-repeat top left;
+  padding: 2em 1em 1em 1em;
+  
   margin: 1em;
   font-size: 0.8em;
-  background-color: #5D5D5D;
   color: #B3B3B3;
 }
 
 blockquote p {
-  padding: 1em;
 }
 
 p.source{
