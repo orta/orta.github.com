@@ -55,7 +55,7 @@ and that includes "porn sites":https://duckduckgo.com/?q=iphone+porn.
 
 p(source). source : "Apple's Thoughts on Flash":http://www.apple.com/hotnews/thoughts-on-flash/
 
-It's 2011, the original came out in June 2007, the android October 2008. Neither of these have a stable build of Flash. There is a version of "Flash for the Android":http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428 phones, but it's specific to certain phones and has recent "security issues":http://www.androidcentral.com/adobe-releases-security-advisory-flash. Which is exactly the problems Steve Jobs wrote in the article quoted. Note quotes like these in the article
+It's 2011, the original came out in June 2007, the android October 2008. Neither of these have a stable build of Flash. There is a version of "Flash for the Android":http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428 phones, andavailble for "50% of android":http://www.eurodroid.com/2011/01/stats-android-2-2-now-on-52-of-android-phones-2-3-on-0-4/ phones and has recent "security issues":http://www.androidcentral.com/adobe-releases-security-advisory-flash. Which is exactly the problems Steve Jobs wrote in the article quoted. Note quotes like these in the article
 
 bq. My 4 year old wants to leave. I try and buy my oldest some time and hand her the smartphone pointed to a Disney.com video or NickJr. Dora and Mickey are a great way to pass the time.</br>
 The rub: Disney didn’t quite work with Flash Player on Android. Neither did AddictingGames.com.
