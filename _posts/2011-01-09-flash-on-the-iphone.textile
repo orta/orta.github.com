@@ -6,7 +6,7 @@ title: "flash on the iphone"
 h1. Flash on iPhone.
 Why doesn't it exist?
 
-My housemates decided to create a nice anti-apple rant, but wouldn't actually listen to me being that the louder was too drunk. So I thought I'd write down what I know. And sort it out that way
+My housemates decided to offer me a nice anti-apple rant. It was pretty interesting, and I think there must be a few common misconceptions there. So I thought I'd write down what I know. And see how it goes.
 
 Well first off it does, there are a lot of flash apps on the iPhone, "South Park Avatar Creator":http://itunes.apple.com/us/app/south-park-avatar-creator/id331751052?mt=8, "Chroma Circuit":http://itunes.apple.com/app/chroma-circuit/id331078068?mt=8, "Adobe Connect":http://itunes.apple.com/us/app/id338279127?mt=8, "etc etc":http://labs.adobe.com/wiki/index.php/Applications_for_iPhone:Developer_FAQ#Are_there_currently_any_applications_on_the_iTunes_App_Store_created_with_Flash.3F these are more or less direct ports of flash applications on to the iPhone itself. I'm pretty sure there's gonna be more than 150 of those by now. These are full screen flash apps, with pretty much the full flash stack underneath. But here's the thing: It's not actually flash underneath, it's the exact same code from the developers perspective, but it's actually code made very specifically for the iPhone and that mean's it's fast. What it also means is that there isn't a port of the same Flash that runs in your browser.
 
