@@ -100,3 +100,25 @@ h1, h2, h3{
   text-align: center;
   width:100%;
 }
+
+blockquote{
+  margin: 1em;
+  font-size: 0.8em;
+  background-color: #5D5D5D;
+  color: #B3B3B3;
+}
+
+blockquote p {
+  padding: 1em;
+}
+
+p.source{
+  text-align: right;
+  position: relative;
+  margin-top: -0.8em;
+  margin-right: 1em;
+}
+
+p.source:after{
+  clear: both;
+}

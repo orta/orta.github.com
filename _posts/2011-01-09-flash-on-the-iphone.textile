@@ -1,0 +1,75 @@
+---
+layout: post
+title: "flash on the iphone"
+---
+
+h1. Flash on iPhone.
+Why doesn't it exist?
+
+My housemates decided to create a nice anti-apple rant, but wouldn't actually listen to me being that the louder was too drunk. So I thought I'd write down what I know. And sort it out that way
+
+Well first off it does, there are a lot of flash apps on the iPhone, "South Park Avatar Creator":http://itunes.apple.com/us/app/south-park-avatar-creator/id331751052?mt=8, "Chroma Circuit":http://itunes.apple.com/app/chroma-circuit/id331078068?mt=8, "Adobe Connect":http://itunes.apple.com/us/app/id338279127?mt=8, "etc etc":http://labs.adobe.com/wiki/index.php/Applications_for_iPhone:Developer_FAQ#Are_there_currently_any_applications_on_the_iTunes_App_Store_created_with_Flash.3F these are more or less direct ports of flash applications on to the iPhone itself. I'm pretty sure there's gonna be more than 150 of those by now. These are full screen flash apps, with pretty much the full flash stack underneath. But here's the thing: It's not actually flash underneath, it's the exact same code from the developers perspective, but it's actually code made very specifically for the iPhone and that mean's it's fast. What it also means is that there isn't a port of the same Flash that runs in your browser.
+
+h3. What that means.
+
+
+h4. It means you don't get Flash in Safari. Or on a more important level, Webkit, and thus every app on the iPhone.
+
+First off, you can install Flash onto your iPhone if you jailbreak it.
+
+<center>
+  <object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/43Ij4CPmIIk?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/43Ij4CPmIIk?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object>
+</center>
+
+So that works, and it looks reasonably smooth on this video but reviews seem to indicate problems with instability and watching video
+
+bq. Yes, it crashes a lot, and yes, it's incapable of doing most videos, or any sort of Flash games, which are arguably the two main reasons to get Flash onto an iOS device. However, for something as simple as loading up a restaurant menu, or a Flash-only splash screen that clicks through to an HTML site, Frash has the makings of an invaluable tool.
+
+p(source). source : "CNET":http://news.cnet.com/8301-27076_3-20013186-248.html#ixzz1AYyMeC00
+
+So, it kinda works. But enough extrapolating. Somehow they were under the concept that Flash was disabled because of porn. Lets go one further and take the words out of the horses mouth.
+
+bq. Adobe’s Flash products are 100% proprietary. They are only available from Adobe, and Adobe has sole authority as to their future enhancement, pricing, etc. While Adobe’s Flash products are widely available, this does not mean they are open, since they are controlled entirely by Adobe and available only from Adobe
+
+p(source). source : "Apple's Thoughts on Flash":http://www.apple.com/hotnews/thoughts-on-flash/
+
+Reading between the lines, that says, if we want to make updates we have to ensure Adobe keeps the pace. Apple have been reliant on other companies before and it almost destroyed the company. Like before the Apple Stores existed, like the "switch to intel":http://www.everymac.com/articles/q&a/macintel/faq/why-did-apple-switch-to-intel.html once PowerPC started to be working on smaller, less power vs faster, like the "macintosh clones":http://www.infoworld.com/d/the-industry-standard/rotten-apple-apples-12-biggest-failures-231&current=10&last=2#slideshowTop in the 90's "etc etc":http://www.informationweek.com/643/43iuapp.htm.
+
+bq. Adobe has repeatedly said that Apple mobile devices cannot access “the full web” because 75% of video on the web is in Flash. What they don’t say is that almost all this video is also available in a more modern format, H.264, and viewable on iPhones, iPods and iPads. YouTube, with an estimated 40% of the web’s video, shines in an app bundled on all Apple mobile devices, with the iPad offering perhaps the best YouTube discovery and viewing experience ever. Add to this video from Vimeo, Netflix, Facebook, ABC, CBS, CNN, MSNBC, Fox News, ESPN, NPR, Time, The New York Times, The Wall Street Journal, Sports Illustrated, People, National Geographic, and many, many others. iPhone, iPod and iPad users aren’t missing much video.
+
+p(source). source : "Apple's Thoughts on Flash":http://www.apple.com/hotnews/thoughts-on-flash/
+
+Basically Apple say that Flash's focus is movies, but basically everyone has "skated to where the puck is going to be":http://thinkexist.com/quotation/i_skate_to_where_the_puck_is_going_to_be-not/149961.html and supports "HTML5 Video":http://www.html5rocks.com/tutorials/video/basics/
+
+and that includes "porn sites":https://duckduckgo.com/?q=iphone+porn.
+
+<blockquote>
+<p>Third, there’s reliability, security and performance.</p>
+
+<p>Symantec recently highlighted Flash for having one of the worst security records in 2009. We also know first hand that Flash is the number one reason Macs crash. We have been working with Adobe to fix these problems, but they have persisted for several years now. We don’t want to reduce the reliability and security of our iPhones, iPods and iPads by adding Flash.</p>
+
+<p>In addition, Flash has not performed well on mobile devices. We have routinely asked Adobe to show us Flash performing well on a mobile device, any mobile device, for a few years now. We have never seen it. Adobe publicly said that Flash would ship on a smartphone in early 2009, then the second half of 2009, then the first half of 2010, and now they say the second half of 2010. We think it will eventually ship, but we’re glad we didn’t hold our breath. Who knows how it will perform?</p>
+
+<p>Fourth, there’s battery life.</p>
+</blockquote>
+
+p(source). source : "Apple's Thoughts on Flash":http://www.apple.com/hotnews/thoughts-on-flash/
+
+It's 2011, the original came out in June 2007, the android October 2008. Neither of these have a stable build of Flash. There is a version of "Flash for the Android":http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428 phones, but it's specific to certain phones and has recent "security issues":http://www.androidcentral.com/adobe-releases-security-advisory-flash. Which is exactly the problems Steve Jobs wrote in the article quoted. Note quotes like these in the article
+
+bq. My 4 year old wants to leave. I try and buy my oldest some time and hand her the smartphone pointed to a Disney.com video or NickJr. Dora and Mickey are a great way to pass the time.</br>
+The rub: Disney didn’t quite work with Flash Player on Android. Neither did AddictingGames.com.
+
+bq. “It’s not an API issue,” said Murarka, noting that the Flash team is investigating the sites I had trouble with on the Droid X. Flash Player 10.1 uses the same code base across experiences, but sites aren’t set up to provide a desktop experience on a mobile device.
+
+p(source). source : "ZDNet":http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428
+
+Basically, the site's need to rewrite bits for Flash Mobile. In doing that they might as well just go with HTML5 and support everything.
+
+So that's the gist; speed, security and HTML5 
+
+Not that they don't want porn, "that's the iPhone App Store":http://www.appscout.com/2008/03/iphone_porn_steve_jobs_just_sa.php
+
+bq. But Apple's plan has restrictions that will probably still ensure that the illicit world of "jailbreaked" applications continues to exist. During his presentation, Steve Jobs flashed up a slide with six categories of apps that won't be allowed: "*Porn*, privacy, bandwidth hog, illegal, malicious," and "unforeseen." Though Apple didn't go into details, that probably means "bandwidth hogging" peer-to-peer applications are out along with anything Apple feels could potentially violate media copyrights.
+
+p(source). source : "AppScout":http://www.appscout.com/2008/03/iphone_porn_steve_jobs_just_sa.php
