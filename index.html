@@ -14,10 +14,9 @@ title: Orta Therox
       
       <li><a href = "http://calendaraboutnothing.com/~orta">contribute code </a></li>
       <li><a href = "https://github.com/orta/FUSEHub">wrote a filesystem</a></li>
+      <li><a href = "http://www.amazon.co.uk/wishlist/5HKV2ZZKDZU2">have my wishes</a>
       
       <li><a href = "http://github.com/orta">code stuff</a></li>
-      <!-- <li><a href = "">am clonable</a></li> -->
-      <!-- <li><a href = "">drink heavily</a></li>     -->
       <li><a href = "http://www.flickr.com/photos/ortatherox">take photos</a></li>
       <li><a href = "http://foursquare.com/orta">rock out</a></li>
       <li><a href = "http://goodreads.com/orta">read books</a></li>
@@ -28,8 +27,7 @@ title: Orta Therox
       <li><a href = "mailto:orta.therox@gmail.com">am orta.therox@gmail.com</a></li>
       <li><a href = "http://www.amazon.co.uk/iPhone-Cool-Projects-Great-Development/dp/143022357X/ref=sr_1_1?ie=UTF8&s=books&qid=1293459945&sr=8-1">got code in print</a></li>
     
-      {% for post in site.posts %}
-        {% if post.frontpage == true %}
+      {% for post in site.posts -%}{% if post.frontpage == true -%}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
