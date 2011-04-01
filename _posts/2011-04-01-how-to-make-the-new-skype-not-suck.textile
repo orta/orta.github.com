@@ -18,4 +18,8 @@ h1. "insta-install-a-click":adiumxtra://www.adiumxtras.com/download/5011
 
 With it installed just restart Adium, and add Skype to your current accounts. Skype has to be running, but you don't have to see it unless you're gonna do video chat.
 
+bq. rm -R ~/Library/Application\ Support/Adium\ 2.0/PlugIns/SkypePlugin.AdiumPlugin
+
+p(source). terminal command to remove
+
 You can thank me on "twitter":http://twitter.com/orta
