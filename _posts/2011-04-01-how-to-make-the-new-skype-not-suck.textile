@@ -1,0 +1,21 @@
+---
+layout: post
+title: "make the new skype not suck"
+---
+
+<center>
+h1. {{ page.title }}
+
+!/assets/images/skype/skype_on_adium.png(Skype on Adium)!</center>
+
+Yeah, so "no-one":https://www.facebook.com/betterSkype5 "likes":http://ignorethecode.net/blog/2011/03/30/skype_5/ "the":http://www.usabilitycounts.com/2011/02/24/five-reasons-why-skype-5-0-for-mac-sucks/ "new Skype":http://forum.skype.com/index.php?showtopic=756073, that's ok. I don't either, at all. 
+
+However at the minute I have to use it to record podcasts, so how can I remain sane in everyday life when I use it to talk to people at work? Easy, someone wrote an "Adium plugin":http://www.adiumxtras.com/index.php?a=xtras&xtra_id=5011 that powers Skype behind the scenes for you.
+
+<center>
+h1. "insta-install-a-click":adiumxtra://www.adiumxtras.com/download/5011
+</center>
+
+With it installed just restart Adium, and add Skype to your current accounts. Skype has to be running, but you don't have to see it unless you're gonna do video chat.
+
+You can thank me on "twitter":http://twitter.com/orta
