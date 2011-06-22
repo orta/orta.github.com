@@ -1,0 +1,113 @@
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>ortatherox - make the new skype not suck</title>
+  <!-- 03 jan 2011 -->
+  <meta name="author"  content="orta; http://ortatherox.com/" /> 
+  <meta name="title" content="ortatherox" /> 
+  <meta name="description" content="programmer and general rockerouterer." /> 
+  <meta name="keywords" content="orta, ortatherox, design, designer, code, iphone, awesome, iphone games, iphone apps, cocoa, cocoa apps, therox, cocos2d, flash, as3, html, css, github" /> 
+  <meta name="robots" content="all,follow" /> 
+  <link rel="alternate" type="application/atom+xml" title="Atom Blog Feed" href="/blog.atom" />
+  
+  <!-- OpenID stuff --> 
+  <link rel="openid.server" href="http://openid.claimid.com/server" /> 
+  <link rel="openid.delegate" href="http://openid.claimid.com/orta" /> 
+    
+  <link rel="stylesheet" href="/assets/fonts/stylesheet.css">
+  <link rel="stylesheet" href="/assets/stylesheets/style.css">
+  
+  <script src="/assets/javascripts/head.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-5057919-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+    head.js("http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js");
+    
+  </script>
+  
+</head>
+<body>
+  <section id="sidebar">
+    <a href="/"><img src="/assets/images/orta.jpg" alt="Orta"></a>
+    <h2>new shit</h2>
+    
+      <p><a href="/translate-inline-in-adium">translate inline in Adium</a></p>
+    
+      <p><a href="/on_making/podcasting-through-april">podcasting in april</a></p>
+    
+      <p><a href="/how-to-make-the-new-skype-not-suck">make the new skype not suck</a></p>
+    
+      <p><a href="/on-music">on music</a></p>
+    
+      <p><a href="/on-finding-things-worth-reading-on-the-internets">on finding things worth reading on the internets</a></p>
+    
+      <p><a href="/on_being/cloneable">am clonable</a></p>
+    
+    
+  </section>
+  
+  <div id="post">
+<center>
+<h1>make the new skype not suck</h1>
+<p><img src="/assets/images/skype/skype_on_adium.png" title="Skype on Adium" alt="Skype on Adium" /></center></p>
+<p>Yeah, so <a href="https://www.facebook.com/betterSkype5">no-one</a> <a href="http://ignorethecode.net/blog/2011/03/30/skype_5/">likes</a> <a href="http://www.usabilitycounts.com/2011/02/24/five-reasons-why-skype-5-0-for-mac-sucks/">the</a> <a href="http://forum.skype.com/index.php?showtopic=756073">new Skype</a>, that&#8217;s ok. I don&#8217;t either, at all.</p>
+<p>However at the minute I have to use it to record podcasts, so how can I remain sane in everyday life when I use it to talk to people at work? Easy, someone wrote an <a href="http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=5011">Adium plugin</a> that powers Skype behind the scenes for you.</p>
+<center>
+<h1><a href="adiumxtra://www.adiumxtras.com/download/5011">insta-install-a-click</a></h1>
+</center>
+<p>With it installed just restart Adium, and add Skype to your current accounts. Skype has to be running, but you don&#8217;t have to see it unless you&#8217;re gonna do video chat.</p>
+<blockquote>
+<p>rm -R ~/Library/Application\ Support/Adium\ 2.0/PlugIns/SkypePlugin.AdiumPlugin</p>
+</blockquote>
+<p class="source">terminal command to remove</p>
+<p>You can thank me on <a href="http://twitter.com/orta">twitter</a></p>
+</div>
+
+<script type="application/javascript">
+    function getip(json){
+      console.log(json.ip);
+    }
+    
+    head.ready( function() {
+      
+      $("a.inline").click(function(){
+        
+        // a mini lightbox
+        var link = $(this);
+        link.addClass("selected")
+        $("body").append("<div id='background'> </div>")
+        $("body").append("<div id='popover'> </div>")
+        var img = new Image();
+        
+        $(img).load(function(){
+          $("#popover").append(this)
+          $("#popover, #background").click(function(){
+            $("#popover, #background").remove()
+            link.removeClass("selected")
+          })
+        })
+        
+        .attr('src',  $(this).attr("href"))
+        .attr('id',  "quickimage");  
+        
+        var distance = link.hasClass("apple") ? 18 : 28
+        $("#popover").css("top",  link.position().top + distance )
+        return false;
+       })        
+      });
+</script>
+
+<script type="application/javascript" src="http://jsonip.appspot.com/?callback=getip"></script>
+
+  
+</body>
+</html>

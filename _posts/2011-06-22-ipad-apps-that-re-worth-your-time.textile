@@ -1,0 +1,67 @@
+---
+layout: post
+title: iPad apps that're worth your time
+categories: unfinished
+updated_at: 2011-06-22
+uuid: 21CF3A20-A03D-41BA-A447-F12BD6210CE4
+---
+
+<center>
+h1. iPad apps worth using
+
+!/assets/images/ipad/ipad_home.jpg(My homescreen)!</center>
+
+
+h2. Games
+
+There's a lot of game links for "iPhone/iPad here":/on_culture/games/
+
+"Infinity Blade":http://www.epicgames.com/infinityblade/ - really really high production values on this baby, it's the one you show people to say, this is what you can do on something less than a centimeter thick. 
+
+"Slice HD":http://apps.smallball.com/slice/index.jsp - is a game that could only exist on the ipad, love watching people try this game. You've got to move knifes, multiple knives at once to touch a button. Easy to pick up, awesome to watch.
+
+"Feed Me Oil":http://www.chillingo.com/sku.htm?sid=80172 - the successor to "Cut the Rope":http://www.chillingo.com/sku.htm?sid=344 simple liquid based level puzzler. Amazing art style.
+
+h2. Art
+
+"Finger Piano":http://fingerpiano.net/fingerpiano/ - I use this to learn Piano, that alone is impressive enough.
+
+"GarageBand":http://www.apple.com/ipad/from-the-app-store/garageband.html - Apple's GarageBand is great for podcasts / writing songs on.
+
+
+h2. News
+
+"Alien Blue":http://alienblue.org/ - easily the nicest way to read reddit. Much better than their site. Even with the reddit enhancement suite.
+
+"Hacker News":http://itunes.apple.com/us/app/hacker-news-hd/id372166856?mt=8 - a beautifully designed Hacker News browser, makes it easy to jump between the article and comments
+
+"TED":http://blog.ted.com/2010/10/14/introducing-the-ted-ipad-app/ - if you don't know what a TED talk is, download this. If you do download this. I'm in awe that you can give it a timeframe, a rough idea of what kind of video you want to see and it'll happily make you a playlist. Everytime I've done this it's been a pleasure to watch. 
+
+"SC2Casts":http://thenextweb.com/apps/2010/11/30/sc2casts-hd-is-my-new-favorite-ipad-app/ - if you have any interest in how people watch videogames as sports o the iPad this is it. I use this daily.
+
+h2. Social
+
+"Twitter":http://twitter.com - well, it's kinda built into the iPad soon, so you'll get it regardless.
+
+"Official Facebook App":http://facebook.com - there's a lot of challengers for the iPad facebook application., but so far no-one's got it right. They're unstable, and buggy. Not that the iPhone version is perfect, but it's enough. Here's to hoping we get an official iPad app.
+
+
+h2. Utilities
+
+"Find iPhone":http://www.apple.com/iphone/features/find-my-iphone.html - everyone should do this without a seconds thought. 
+
+"Wakemate":http://wakemate.com - I love stats. This tracks my sleeping patterns via a wristband that talks to the iPad. Good numbers.
+
+"Word Lens":http://questvisual.com/ - magic. Fucking magic. Translates text from the camera in realtime to other languages. magic.
+
+"Elements":http://www.secondgearsoftware.com/elements/ - a Text editor that syncs with Dropbox. Perhaps with Apple's iCloud this kinda thing will be less needed, but for now, it's amazing for writing quick notes.
+
+"iCatcher":http://www.joeisanerd.com/apps/iCatcher - I use this podcast client, though I don't think it's the best one for the iPad. Looks a bit naff sometimes, but it does it's job of podcasting well.
+
+"Prompt":http://www.panic.com/blog/2011/04/introducing-prompt-ssh-for-ios/ - if SSHing into a server is something you do. Then this is what you need. Otherwise, not for you.
+
+h2. Reading
+
+"Instapaper":http://www.instapaper.com/ - save websites to read later in a more comfortable setting. E.g. from work to your iPad later.
+
+"Flipboard":http://flipboard.com/ - part of the future of media.

@@ -1,0 +1,149 @@
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>ortatherox - flash on the iphone</title>
+  <!-- 03 jan 2011 -->
+  <meta name="author"  content="orta; http://ortatherox.com/" /> 
+  <meta name="title" content="ortatherox" /> 
+  <meta name="description" content="programmer and general rockerouterer." /> 
+  <meta name="keywords" content="orta, ortatherox, design, designer, code, iphone, awesome, iphone games, iphone apps, cocoa, cocoa apps, therox, cocos2d, flash, as3, html, css, github" /> 
+  <meta name="robots" content="all,follow" /> 
+  <link rel="alternate" type="application/atom+xml" title="Atom Blog Feed" href="/blog.atom" />
+  
+  <!-- OpenID stuff --> 
+  <link rel="openid.server" href="http://openid.claimid.com/server" /> 
+  <link rel="openid.delegate" href="http://openid.claimid.com/orta" /> 
+    
+  <link rel="stylesheet" href="/assets/fonts/stylesheet.css">
+  <link rel="stylesheet" href="/assets/stylesheets/style.css">
+  
+  <script src="/assets/javascripts/head.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-5057919-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+    head.js("http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js");
+    
+  </script>
+  
+</head>
+<body>
+  <section id="sidebar">
+    <a href="/"><img src="/assets/images/orta.jpg" alt="Orta"></a>
+    <h2>new shit</h2>
+    
+      <p><a href="/translate-inline-in-adium">translate inline in Adium</a></p>
+    
+      <p><a href="/on_making/podcasting-through-april">podcasting in april</a></p>
+    
+      <p><a href="/how-to-make-the-new-skype-not-suck">make the new skype not suck</a></p>
+    
+      <p><a href="/on-music">on music</a></p>
+    
+      <p><a href="/on-finding-things-worth-reading-on-the-internets">on finding things worth reading on the internets</a></p>
+    
+      <p><a href="/on_being/cloneable">am clonable</a></p>
+    
+    
+  </section>
+  
+  <div id="post">
+<h1>Flash on iPhone.<br />
+Why doesn&#8217;t it exist?</h1>
+<p>My housemates decided to offer me a nice anti-apple rant. It was pretty interesting, and I think there must be a few common misconceptions there. So I thought I&#8217;d write down what I know. And see how it goes.</p>
+<p>Well first off it does, there are a lot of flash apps on the iPhone, <a href="http://itunes.apple.com/us/app/south-park-avatar-creator/id331751052?mt=8">South Park Avatar Creator</a>, <a href="http://itunes.apple.com/app/chroma-circuit/id331078068?mt=8">Chroma Circuit</a>, <a href="http://itunes.apple.com/us/app/id338279127?mt=8">Adobe Connect</a>, <a href="http://labs.adobe.com/wiki/index.php/Applications_for_iPhone:Developer_FAQ#Are_there_currently_any_applications_on_the_iTunes_App_Store_created_with_Flash.3F">etc etc</a> these are more or less direct ports of flash applications on to the iPhone itself. I&#8217;m pretty sure there&#8217;s gonna be more than 150 of those by now. These are full screen flash apps, with pretty much the full flash stack underneath. But here&#8217;s the thing: It&#8217;s not actually flash underneath, it&#8217;s the exact same code from the developers perspective, but it&#8217;s actually code made very specifically for the iPhone and that mean&#8217;s it&#8217;s fast. What it also means is that there isn&#8217;t a port of the same Flash that runs in your browser.</p>
+<h3>What that means.</h3>
+<h4>It means you don&#8217;t get Flash in Safari. Or on a more important level, Webkit, and thus every app on the iPhone.</h4>
+<p>First off, you can install Flash onto your iPhone if you jailbreak it.</p>
+<center>
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/43Ij4CPmIIk?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/43Ij4CPmIIk?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object>
+</center>
+<p>So that works, and it looks reasonably smooth on this video but reviews seem to indicate problems with instability and watching video</p>
+<blockquote>
+<p>Yes, it crashes a lot, and yes, it&#8217;s incapable of doing most videos, or any sort of Flash games, which are arguably the two main reasons to get Flash onto an iOS device. However, for something as simple as loading up a restaurant menu, or a Flash-only splash screen that clicks through to an <span class="caps">HTML</span> site, Frash has the makings of an invaluable tool.</p>
+</blockquote>
+<p class="source">source : <a href="http://news.cnet.com/8301-27076_3-20013186-248.html#ixzz1AYyMeC00"><span class="caps">CNET</span></a></p>
+<p>So, it kinda works. But enough extrapolating. Somehow they were under the concept that Flash was disabled because of porn. Lets go one further and take the words out of the horses mouth.</p>
+<blockquote>
+<p>Adobe’s Flash products are 100% proprietary. They are only available from Adobe, and Adobe has sole authority as to their future enhancement, pricing, etc. While Adobe’s Flash products are widely available, this does not mean they are open, since they are controlled entirely by Adobe and available only from Adobe</p>
+</blockquote>
+<p class="source">source : <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Apple&#8217;s Thoughts on Flash</a></p>
+<p>Reading between the lines, that says, if we want to make updates we have to ensure Adobe keeps the pace. Apple have been reliant on other companies before and it almost destroyed the company. Like before the Apple Stores existed, like the <a href="http://www.everymac.com/articles/q&amp;a/macintel/faq/why-did-apple-switch-to-intel.html">switch to intel</a> once PowerPC started to be working on smaller, less power vs faster, like the <a href="http://www.infoworld.com/d/the-industry-standard/rotten-apple-apples-12-biggest-failures-231&amp;current=10&amp;last=2#slideshowTop">macintosh clones</a> in the 90&#8217;s <a href="http://www.informationweek.com/643/43iuapp.htm">etc etc</a>.</p>
+<blockquote>
+<p>Adobe has repeatedly said that Apple mobile devices cannot access “the full web” because 75% of video on the web is in Flash. What they don’t say is that almost all this video is also available in a more modern format, H.264, and viewable on iPhones, iPods and iPads. YouTube, with an estimated 40% of the web’s video, shines in an app bundled on all Apple mobile devices, with the iPad offering perhaps the best YouTube discovery and viewing experience ever. Add to this video from Vimeo, Netflix, Facebook, <span class="caps">ABC</span>, <span class="caps">CBS</span>, <span class="caps">CNN</span>, <span class="caps">MSNBC</span>, Fox News, <span class="caps">ESPN</span>, <span class="caps">NPR</span>, Time, The New York Times, The Wall Street Journal, Sports Illustrated, People, National Geographic, and many, many others. iPhone, iPod and iPad users aren’t missing much video.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Apple&#8217;s Thoughts on Flash</a></p>
+<p>Basically Apple say that Flash&#8217;s focus is movies, but basically everyone has <a href="http://thinkexist.com/quotation/i_skate_to_where_the_puck_is_going_to_be-not/149961.html">skated to where the puck is going to be</a> and supports <a href="http://www.html5rocks.com/tutorials/video/basics/">HTML5 Video</a></p>
+<p>and that includes <a href="https://duckduckgo.com/?q=iphone+porn">porn sites</a>.</p>
+<blockquote>
+<p>Third, there’s reliability, security and performance.</p>
+<p>Symantec recently highlighted Flash for having one of the worst security records in 2009. We also know first hand that Flash is the number one reason Macs crash. We have been working with Adobe to fix these problems, but they have persisted for several years now. We don’t want to reduce the reliability and security of our iPhones, iPods and iPads by adding Flash.</p>
+<p>In addition, Flash has not performed well on mobile devices. We have routinely asked Adobe to show us Flash performing well on a mobile device, any mobile device, for a few years now. We have never seen it. Adobe publicly said that Flash would ship on a smartphone in early 2009, then the second half of 2009, then the first half of 2010, and now they say the second half of 2010. We think it will eventually ship, but we’re glad we didn’t hold our breath. Who knows how it will perform?</p>
+<p>Fourth, there’s battery life.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Apple&#8217;s Thoughts on Flash</a></p>
+<p>It&#8217;s 2011, the original came out in June 2007, the android October 2008. Neither of these have a stable build of Flash. There is a version of <a href="http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428">Flash for the Android</a> phones, andavailble for <a href="http://www.eurodroid.com/2011/01/stats-android-2-2-now-on-52-of-android-phones-2-3-on-0-4/">50% of android</a> phones and has recent <a href="http://www.androidcentral.com/adobe-releases-security-advisory-flash">security issues</a>. Which is exactly the problems Steve Jobs wrote in the article quoted. Note quotes like these in the article</p>
+<blockquote>
+<p>My 4 year old wants to leave. I try and buy my oldest some time and hand her the smartphone pointed to a Disney.com video or NickJr. Dora and Mickey are a great way to pass the time.</br><br />
+The rub: Disney didn’t quite work with Flash Player on Android. Neither did AddictingGames.com.</p>
+</blockquote>
+<blockquote>
+<p>“It’s not an <span class="caps">API</span> issue,” said Murarka, noting that the Flash team is investigating the sites I had trouble with on the Droid X. Flash Player 10.1 uses the same code base across experiences, but sites aren’t set up to provide a desktop experience on a mobile device.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428">ZDNet</a></p>
+<p>Basically, the site&#8217;s need to rewrite bits for Flash Mobile. In doing that they might as well just go with HTML5 and support everything.</p>
+<p>So that&#8217;s the gist; speed, security and HTML5</p>
+<p>Not that they don&#8217;t want porn, <a href="http://www.appscout.com/2008/03/iphone_porn_steve_jobs_just_sa.php">that&#8217;s the iPhone App Store</a></p>
+<blockquote>
+<p>But Apple&#8217;s plan has restrictions that will probably still ensure that the illicit world of &#8220;jailbreaked&#8221; applications continues to exist. During his presentation, Steve Jobs flashed up a slide with six categories of apps that won&#8217;t be allowed: &#8220;<strong>Porn</strong>, privacy, bandwidth hog, illegal, malicious,&#8221; and &#8220;unforeseen.&#8221; Though Apple didn&#8217;t go into details, that probably means &#8220;bandwidth hogging&#8221; peer-to-peer applications are out along with anything Apple feels could potentially violate media copyrights.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.appscout.com/2008/03/iphone_porn_steve_jobs_just_sa.php">AppScout</a></p>
+</div>
+
+<script type="application/javascript">
+    function getip(json){
+      console.log(json.ip);
+    }
+    
+    head.ready( function() {
+      
+      $("a.inline").click(function(){
+        
+        // a mini lightbox
+        var link = $(this);
+        link.addClass("selected")
+        $("body").append("<div id='background'> </div>")
+        $("body").append("<div id='popover'> </div>")
+        var img = new Image();
+        
+        $(img).load(function(){
+          $("#popover").append(this)
+          $("#popover, #background").click(function(){
+            $("#popover, #background").remove()
+            link.removeClass("selected")
+          })
+        })
+        
+        .attr('src',  $(this).attr("href"))
+        .attr('id',  "quickimage");  
+        
+        var distance = link.hasClass("apple") ? 18 : 28
+        $("#popover").css("top",  link.position().top + distance )
+        return false;
+       })        
+      });
+</script>
+
+<script type="application/javascript" src="http://jsonip.appspot.com/?callback=getip"></script>
+
+  
+</body>
+</html>

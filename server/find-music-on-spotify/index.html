@@ -1,0 +1,113 @@
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>ortatherox - find music on spotify</title>
+  <!-- 03 jan 2011 -->
+  <meta name="author"  content="orta; http://ortatherox.com/" /> 
+  <meta name="title" content="ortatherox" /> 
+  <meta name="description" content="programmer and general rockerouterer." /> 
+  <meta name="keywords" content="orta, ortatherox, design, designer, code, iphone, awesome, iphone games, iphone apps, cocoa, cocoa apps, therox, cocos2d, flash, as3, html, css, github" /> 
+  <meta name="robots" content="all,follow" /> 
+  <link rel="alternate" type="application/atom+xml" title="Atom Blog Feed" href="/blog.atom" />
+  
+  <!-- OpenID stuff --> 
+  <link rel="openid.server" href="http://openid.claimid.com/server" /> 
+  <link rel="openid.delegate" href="http://openid.claimid.com/orta" /> 
+    
+  <link rel="stylesheet" href="/assets/fonts/stylesheet.css">
+  <link rel="stylesheet" href="/assets/stylesheets/style.css">
+  
+  <script src="/assets/javascripts/head.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-5057919-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+    head.js("http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js");
+    
+  </script>
+  
+</head>
+<body>
+  <section id="sidebar">
+    <a href="/"><img src="/assets/images/orta.jpg" alt="Orta"></a>
+    <h2>new shit</h2>
+    
+      <p><a href="/translate-inline-in-adium">translate inline in Adium</a></p>
+    
+      <p><a href="/on_making/podcasting-through-april">podcasting in april</a></p>
+    
+      <p><a href="/how-to-make-the-new-skype-not-suck">make the new skype not suck</a></p>
+    
+      <p><a href="/on-music">on music</a></p>
+    
+      <p><a href="/on-finding-things-worth-reading-on-the-internets">on finding things worth reading on the internets</a></p>
+    
+      <p><a href="/on_being/cloneable">am clonable</a></p>
+    
+    
+  </section>
+  
+  <div id="post">
+<h1>How to find new music on the interwebs with Spotify</h1>
+<p>finding new music has always fascinated me, there&#8217;s a world of cool music that I&#8217;ve not heard out there. And thanks to Spotify the issue really is discoverability rather than price / location. I&#8217;ve had a Spotify pro account for about 6 months now, and the only serious gaps in the service are usually fixed by me buying the CD.</p>
+<p><em>So what are the good ways to find new stuff?</em></p>
+<h2>Spotify radio. You pick an era, and choose some genres and you&#8217;re running.</h2>
+<center><img src="/assets/images/spotify/spotifyradio.png" title="Spotify Radio" alt="Spotify Radio" /></center>
+<p>Spotify radio is great for background music, everytime I write now I switch on blues from the last 30 years, I&#8217;m pretty much guaranteed to not know the songs, but I&#8217;m pretty much guaranteed to enjoy them. I&#8217;ve never been a particular blues fan, but members of my family are, and I loved the <a href="http://www.youtube.com/watch?v=tjGfnsjdJec">Blues Brothers</a> . So just picking a genre and leaving it is one way. Though this so far only has one down side, during the festivus period it gets full of christmas songs regardless of genre and that is just plain annoying.</p>
+<h2>Spotify Social Playlists. Just steal friend&#8217;s playlists.</h2>
+<p>These are playlists from your facebook friends, or people you add as friends (which is pretty difficult, and very few people aren&#8217;t connected to facebook.) Everyone knows someone with good music taste, or I guess just as importantly different music taste. Because Spotify imports all your existing playlists from other media players, lots of people will have their playlists public. So you can just subscribe to their playlists, this means whenever it&#8217;s updated by the owner you&#8217;ll get the changes instantly and you can have it in your sourcelist.</p>
+<h2>Spotify Playlist Websites. Get audiophiles playlists.</h2>
+<p>Not everyone has pedantic friends with huge amounts of playlists worth listening to. Shame, but so is life. So I&#8217;ve always been a fan of <a href="http://sharemyplaylists.com">http://sharemyplaylists.com/</a> because the design is kickass and the playlists page actually show all the songs, so you can try figure out if that&#8217;s the one. These playlists can be huge, you can find a curated genre here and just throw it in random and you&#8217;ve got hours of music. Or try get through some of the <a href="http://sharemyplaylists.com/10000songsyoumusthearbeforeyoudi">10,001 songs to listen to before you die</a>.</p>
+<h2>Spotify Inbox</h2>
+<center><img src="/assets/images/spotify/spotifyinbox.png" title="Spotify Inbox" alt="Spotify Inbox" /></center>
+<p>I guess this is my favourite, simply because it&#8217;s the most fun, and it gives you that warm fuzzy feeling etc. Sending people songs and receiving them is my 2nd favourite feature of Spotify after actually listening to any music.</p>
+<p>Sending tracks often feels like a game of tennis, today I sent you some Wham! so you replied with Andrew WK and so on and so on. It&#8217;s also a great way to spam my bands album to my friends =)</p>
+</div>
+
+<script type="application/javascript">
+    function getip(json){
+      console.log(json.ip);
+    }
+    
+    head.ready( function() {
+      
+      $("a.inline").click(function(){
+        
+        // a mini lightbox
+        var link = $(this);
+        link.addClass("selected")
+        $("body").append("<div id='background'> </div>")
+        $("body").append("<div id='popover'> </div>")
+        var img = new Image();
+        
+        $(img).load(function(){
+          $("#popover").append(this)
+          $("#popover, #background").click(function(){
+            $("#popover, #background").remove()
+            link.removeClass("selected")
+          })
+        })
+        
+        .attr('src',  $(this).attr("href"))
+        .attr('id',  "quickimage");  
+        
+        var distance = link.hasClass("apple") ? 18 : 28
+        $("#popover").css("top",  link.position().top + distance )
+        return false;
+       })        
+      });
+</script>
+
+<script type="application/javascript" src="http://jsonip.appspot.com/?callback=getip"></script>
+
+  
+</body>
+</html>

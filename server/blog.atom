@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>orta therox</title>
+ <link href="http://orta.github.com/blog.atom" rel="self"/>
+ <link href="http://orta.github.com/"/>
+ <updated>2011-06-22T11:40:46+01:00</updated>
+ <id>http://orta.github.com/</id>
+ <author>
+   <name>orta therox</name>
+   <email>orta.therox@gmail.com</email>
+ </author>
+ 
+ <entry>
+   <title type="html">translate inline in Adium</title>
+   <link rel="alternate" href="http://orta.github.com/translate-inline-in-adium"/>
+   <updated>2011-05-13T00:00:00+01:00</updated>
+   <id>http://orta.github.com/translate-inline-in-adium</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <h1>translate inline in Adium</h1>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">podcasting in april</title>
+   <link rel="alternate" href="http://orta.github.com/on_making/podcasting-through-april"/>
+   <updated>2011-04-04T00:00:00+01:00</updated>
+   <id>http://orta.github.com/on_making/podcasting-through-april</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <center>
+<h1>on making podcasts in April<br />
+<a href="http://ortacast.heroku.com"><img src="/assets/images/podcast/podcast.png" title="I mispelt Podcast, oh well!" alt="I mispelt Podcast, oh well!" /></a></h1>
+</center>
+<p>I wanted to do something a little bit out of my comfort zone, so I figured I&#8217;d try a daily podcast for a month. Which turns out to be quite a ballache to get started. But I&#8217;ve got it up and running. <br />
+This is <a href="http://ortacast.heroku.com/">my setup</a></p>
+<ul>
+	<li>Server
+	<ol>
+		<li><a href="https://github.com/orta/ortacasts">Sinatra app</a> running on <a href="http://heroku.com">Heroku</a></li>
+		<li>MP3s hosted on <a href="http://aws.amazon.com/s3/">Amazon S3</a></li>
+	</ol></li>
+</ul>
+<ul>
+	<li>Clients
+	<ol>
+		<li><a href="http://www.apple.com/ilife/garageband/">Garageband</a></li>
+		<li><a href="/how-to-make-the-new-skype-not-suck/">Skype</a></li>
+	</ol></li>
+</ul>
+<ul>
+	<li>Distributors
+	<ol>
+		<li><a href="http://www.feedburner.com/">Feedburner</a></li>
+		<li><a href="http://mailchimp.com/">Mailchimp</a></li>
+	</ol></li>
+</ul>
+<p>The code, hosted <a href="https://github.com/orta/ortacasts">on Github</a> ( of course ) is a small webapp that contains a <a href="https://github.com/orta/ortacasts/blob/master/tests.rb">few tests</a> to ensure the data you put in to the server is valid before sending it off to heroku for hostage.</p>
+<p>From there <a href="http://feeds.feedburner.com/ortacasts">Feedburner</a> eventually picks up on the changes and updates my <span class="caps">RSS</span> feeds, once that&#8217;s updated Mailchimp picks up any changes every 8pm and sends out emails to people that prefer to get a mail update. Right now they&#8217;re both about as popular as each other.</p>
+<center>
+<h1><a href="pcast://feeds.feedburner.com/ortacasts">insta-itunes-a-subscriba</a></h1>
+</center>
+<p>At some point later I&#8217;ll talk about talking on podcasts.</p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">make the new skype not suck</title>
+   <link rel="alternate" href="http://orta.github.com/how-to-make-the-new-skype-not-suck"/>
+   <updated>2011-04-01T00:00:00+01:00</updated>
+   <id>http://orta.github.com/how-to-make-the-new-skype-not-suck</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <center>
+<h1>make the new skype not suck</h1>
+<p><img src="/assets/images/skype/skype_on_adium.png" title="Skype on Adium" alt="Skype on Adium" /></center></p>
+<p>Yeah, so <a href="https://www.facebook.com/betterSkype5">no-one</a> <a href="http://ignorethecode.net/blog/2011/03/30/skype_5/">likes</a> <a href="http://www.usabilitycounts.com/2011/02/24/five-reasons-why-skype-5-0-for-mac-sucks/">the</a> <a href="http://forum.skype.com/index.php?showtopic=756073">new Skype</a>, that&#8217;s ok. I don&#8217;t either, at all.</p>
+<p>However at the minute I have to use it to record podcasts, so how can I remain sane in everyday life when I use it to talk to people at work? Easy, someone wrote an <a href="http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=5011">Adium plugin</a> that powers Skype behind the scenes for you.</p>
+<center>
+<h1><a href="adiumxtra://www.adiumxtras.com/download/5011">insta-install-a-click</a></h1>
+</center>
+<p>With it installed just restart Adium, and add Skype to your current accounts. Skype has to be running, but you don&#8217;t have to see it unless you&#8217;re gonna do video chat.</p>
+<blockquote>
+<p>rm -R ~/Library/Application\ Support/Adium\ 2.0/PlugIns/SkypePlugin.AdiumPlugin</p>
+</blockquote>
+<p class="source">terminal command to remove</p>
+<p>You can thank me on <a href="http://twitter.com/orta">twitter</a></p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">on music</title>
+   <link rel="alternate" href="http://orta.github.com/on-music"/>
+   <updated>2011-03-04T00:00:00+00:00</updated>
+   <id>http://orta.github.com/on-music</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <h1>on music</h1>
+<p>There&#8217;s a beautiful amount of romance associated with being a musician, you get to go to far off places, people watch you and you get to pretend that you&#8217;re gonna remember their name.</p>
+<p>I&#8217;ve been involved in 2 bands now, Kieronononon and The Stack of Barrels. And to be honest, I&#8217;m not really very musical, I love word-play so I massively enjoy helping out on the lyrics</p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">on finding things worth reading on the internets</title>
+   <link rel="alternate" href="http://orta.github.com/on-finding-things-worth-reading-on-the-internets"/>
+   <updated>2011-03-04T00:00:00+00:00</updated>
+   <id>http://orta.github.com/on-finding-things-worth-reading-on-the-internets</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <h1>on finding things worth reading on the internets</h1>
+<p>So, simple question, and relatively easy answer. Depends on what interests you. So, as I have no idea what you like. I can at least explain how I have found things that attract my attention over the ages. And by ages I really mean about as long as my memory lasts, probably about 8 years.</p>
+<p>TL:DR, StumbleUpon &#8211; <span class="caps">RSS</span> &#8211; Digg &#8211; Delicious &#8211; Hacker News &#8211; Reddit &#8211; Twitter</p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">am clonable</title>
+   <link rel="alternate" href="http://orta.github.com/on_being/cloneable"/>
+   <updated>2011-02-09T00:00:00+00:00</updated>
+   <id>http://orta.github.com/on_being/cloneable</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <h1>am clonable</h1>
+<p>Checkkit, someone wrote a better blog post about it</p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">on being 24, 2</title>
+   <link rel="alternate" href="http://orta.github.com/on-being-24%2C-2"/>
+   <updated>2011-01-12T00:00:00+00:00</updated>
+   <id>http://orta.github.com/on-being-24,-2</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">flash on the iphone</title>
+   <link rel="alternate" href="http://orta.github.com/flash-on-the-iphone"/>
+   <updated>2011-01-09T00:00:00+00:00</updated>
+   <id>http://orta.github.com/flash-on-the-iphone</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <h1>Flash on iPhone.<br />
+Why doesn&#8217;t it exist?</h1>
+<p>My housemates decided to offer me a nice anti-apple rant. It was pretty interesting, and I think there must be a few common misconceptions there. So I thought I&#8217;d write down what I know. And see how it goes.</p>
+<p>Well first off it does, there are a lot of flash apps on the iPhone, <a href="http://itunes.apple.com/us/app/south-park-avatar-creator/id331751052?mt=8">South Park Avatar Creator</a>, <a href="http://itunes.apple.com/app/chroma-circuit/id331078068?mt=8">Chroma Circuit</a>, <a href="http://itunes.apple.com/us/app/id338279127?mt=8">Adobe Connect</a>, <a href="http://labs.adobe.com/wiki/index.php/Applications_for_iPhone:Developer_FAQ#Are_there_currently_any_applications_on_the_iTunes_App_Store_created_with_Flash.3F">etc etc</a> these are more or less direct ports of flash applications on to the iPhone itself. I&#8217;m pretty sure there&#8217;s gonna be more than 150 of those by now. These are full screen flash apps, with pretty much the full flash stack underneath. But here&#8217;s the thing: It&#8217;s not actually flash underneath, it&#8217;s the exact same code from the developers perspective, but it&#8217;s actually code made very specifically for the iPhone and that mean&#8217;s it&#8217;s fast. What it also means is that there isn&#8217;t a port of the same Flash that runs in your browser.</p>
+<h3>What that means.</h3>
+<h4>It means you don&#8217;t get Flash in Safari. Or on a more important level, Webkit, and thus every app on the iPhone.</h4>
+<p>First off, you can install Flash onto your iPhone if you jailbreak it.</p>
+<center>
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/43Ij4CPmIIk?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/43Ij4CPmIIk?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object>
+</center>
+<p>So that works, and it looks reasonably smooth on this video but reviews seem to indicate problems with instability and watching video</p>
+<blockquote>
+<p>Yes, it crashes a lot, and yes, it&#8217;s incapable of doing most videos, or any sort of Flash games, which are arguably the two main reasons to get Flash onto an iOS device. However, for something as simple as loading up a restaurant menu, or a Flash-only splash screen that clicks through to an <span class="caps">HTML</span> site, Frash has the makings of an invaluable tool.</p>
+</blockquote>
+<p class="source">source : <a href="http://news.cnet.com/8301-27076_3-20013186-248.html#ixzz1AYyMeC00"><span class="caps">CNET</span></a></p>
+<p>So, it kinda works. But enough extrapolating. Somehow they were under the concept that Flash was disabled because of porn. Lets go one further and take the words out of the horses mouth.</p>
+<blockquote>
+<p>Adobe’s Flash products are 100% proprietary. They are only available from Adobe, and Adobe has sole authority as to their future enhancement, pricing, etc. While Adobe’s Flash products are widely available, this does not mean they are open, since they are controlled entirely by Adobe and available only from Adobe</p>
+</blockquote>
+<p class="source">source : <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Apple&#8217;s Thoughts on Flash</a></p>
+<p>Reading between the lines, that says, if we want to make updates we have to ensure Adobe keeps the pace. Apple have been reliant on other companies before and it almost destroyed the company. Like before the Apple Stores existed, like the <a href="http://www.everymac.com/articles/q&amp;a/macintel/faq/why-did-apple-switch-to-intel.html">switch to intel</a> once PowerPC started to be working on smaller, less power vs faster, like the <a href="http://www.infoworld.com/d/the-industry-standard/rotten-apple-apples-12-biggest-failures-231&amp;current=10&amp;last=2#slideshowTop">macintosh clones</a> in the 90&#8217;s <a href="http://www.informationweek.com/643/43iuapp.htm">etc etc</a>.</p>
+<blockquote>
+<p>Adobe has repeatedly said that Apple mobile devices cannot access “the full web” because 75% of video on the web is in Flash. What they don’t say is that almost all this video is also available in a more modern format, H.264, and viewable on iPhones, iPods and iPads. YouTube, with an estimated 40% of the web’s video, shines in an app bundled on all Apple mobile devices, with the iPad offering perhaps the best YouTube discovery and viewing experience ever. Add to this video from Vimeo, Netflix, Facebook, <span class="caps">ABC</span>, <span class="caps">CBS</span>, <span class="caps">CNN</span>, <span class="caps">MSNBC</span>, Fox News, <span class="caps">ESPN</span>, <span class="caps">NPR</span>, Time, The New York Times, The Wall Street Journal, Sports Illustrated, People, National Geographic, and many, many others. iPhone, iPod and iPad users aren’t missing much video.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Apple&#8217;s Thoughts on Flash</a></p>
+<p>Basically Apple say that Flash&#8217;s focus is movies, but basically everyone has <a href="http://thinkexist.com/quotation/i_skate_to_where_the_puck_is_going_to_be-not/149961.html">skated to where the puck is going to be</a> and supports <a href="http://www.html5rocks.com/tutorials/video/basics/">HTML5 Video</a></p>
+<p>and that includes <a href="https://duckduckgo.com/?q=iphone+porn">porn sites</a>.</p>
+<blockquote>
+<p>Third, there’s reliability, security and performance.</p>
+<p>Symantec recently highlighted Flash for having one of the worst security records in 2009. We also know first hand that Flash is the number one reason Macs crash. We have been working with Adobe to fix these problems, but they have persisted for several years now. We don’t want to reduce the reliability and security of our iPhones, iPods and iPads by adding Flash.</p>
+<p>In addition, Flash has not performed well on mobile devices. We have routinely asked Adobe to show us Flash performing well on a mobile device, any mobile device, for a few years now. We have never seen it. Adobe publicly said that Flash would ship on a smartphone in early 2009, then the second half of 2009, then the first half of 2010, and now they say the second half of 2010. We think it will eventually ship, but we’re glad we didn’t hold our breath. Who knows how it will perform?</p>
+<p>Fourth, there’s battery life.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Apple&#8217;s Thoughts on Flash</a></p>
+<p>It&#8217;s 2011, the original came out in June 2007, the android October 2008. Neither of these have a stable build of Flash. There is a version of <a href="http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428">Flash for the Android</a> phones, andavailble for <a href="http://www.eurodroid.com/2011/01/stats-android-2-2-now-on-52-of-android-phones-2-3-on-0-4/">50% of android</a> phones and has recent <a href="http://www.androidcentral.com/adobe-releases-security-advisory-flash">security issues</a>. Which is exactly the problems Steve Jobs wrote in the article quoted. Note quotes like these in the article</p>
+<blockquote>
+<p>My 4 year old wants to leave. I try and buy my oldest some time and hand her the smartphone pointed to a Disney.com video or NickJr. Dora and Mickey are a great way to pass the time.</br><br />
+The rub: Disney didn’t quite work with Flash Player on Android. Neither did AddictingGames.com.</p>
+</blockquote>
+<blockquote>
+<p>“It’s not an <span class="caps">API</span> issue,” said Murarka, noting that the Flash team is investigating the sites I had trouble with on the Droid X. Flash Player 10.1 uses the same code base across experiences, but sites aren’t set up to provide a desktop experience on a mobile device.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.zdnet.com/blog/btl/adobe-tops-1-million-flash-downloads-on-android/40428">ZDNet</a></p>
+<p>Basically, the site&#8217;s need to rewrite bits for Flash Mobile. In doing that they might as well just go with HTML5 and support everything.</p>
+<p>So that&#8217;s the gist; speed, security and HTML5</p>
+<p>Not that they don&#8217;t want porn, <a href="http://www.appscout.com/2008/03/iphone_porn_steve_jobs_just_sa.php">that&#8217;s the iPhone App Store</a></p>
+<blockquote>
+<p>But Apple&#8217;s plan has restrictions that will probably still ensure that the illicit world of &#8220;jailbreaked&#8221; applications continues to exist. During his presentation, Steve Jobs flashed up a slide with six categories of apps that won&#8217;t be allowed: &#8220;<strong>Porn</strong>, privacy, bandwidth hog, illegal, malicious,&#8221; and &#8220;unforeseen.&#8221; Though Apple didn&#8217;t go into details, that probably means &#8220;bandwidth hogging&#8221; peer-to-peer applications are out along with anything Apple feels could potentially violate media copyrights.</p>
+</blockquote>
+<p class="source">source : <a href="http://www.appscout.com/2008/03/iphone_porn_steve_jobs_just_sa.php">AppScout</a></p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">mac app store</title>
+   <link rel="alternate" href="http://orta.github.com/mac-app-store"/>
+   <updated>2011-01-07T00:00:00+00:00</updated>
+   <id>http://orta.github.com/mac-app-store</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <h1>On everyone breaking the <span class="caps">HIG</span> and why Windows users can&#8217;t understand</h1>
+<p><em>The sky is falling, and the Mac App Store is to blame</em>. Apple&#8217;s Macintosh has always been the vanguard of good design, we have had standards for almost everything, and a user interface has a pretty strict one. It&#8217;s a 100 page document explaining everything from the perspectives you should use for your application icons to the specific way to deal with words on the buttons on alerts.</p>
+<p>Apple have been known to skip on bits of this document, well because they&#8217;re apple, they make the rules they can flaunt them. Sometimes ( like in the case of <a href="/assets/images/macapp/timemachine.jpg" class="inline">Time Machine</a> ) the entire UI makes sense because of what they&#8217;re trying to do. In that case it&#8217;s a full screen application that&#8217;s pretty much got a game&#8217;s UI to go through your documents history.</p>
+<center><img src="/assets/images/macapp/macappstore.PNG" title="Mac App Store" alt="Mac App Store" /></center>
+<p>Contrast that with the Mac App Store UI, now a lot of this has <a href="http://riscfuture.tumblr.com/post/2626504717/app-store-twitter-ui-failures">already been said</a>, but there are a lot of strange design choices. The clue to where this is all coming from was a apples latest keynote, &#8220;Back to the Mac&#8221; wherein they said they&#8217;re taking as many design cues from the iPad. Which makes sense, I mean no-one designs in a vacuum. Where else could brushed metal have come from except from actual brushed metal. But the changes in an app as widespreadly used as the app store is only going to give people the idea that throwing away a beautiful and consistently designed app which doesnt require questions like &#8220;so how can I move the window&#8221;.</p>
+<p>My worry is that I&#8217;m just another guy that Gruber talks about by saying <a href="http://daringfireball.net/2011/01/uniformity_vs_individuality_in_mac_ui_design">another critic who believes in the</a> <a href="http://developer.apple.com/documentation/UserExperience/Conceptual/AppleHIGuidelines/index.html">Apple Human Interface Guideline</a>. I believe it because it used to protect us from applications like the ones showcased in <a href="http://readthefuckinghig.tumblr.com">readthefuckinghig</a>. Windows users are used to this, you guys only got a <a href="http://msdn.microsoft.com/en-us/library/aa511258.aspx"><span class="caps">HIG</span> with Vista</a> (which I might add that the iOS <span class="caps">HIG</span> turned above it in my search), and even then all your developer tools seem to be oriented to the &#8220;throw gradients everywhere&#8221; style of design. There&#8217;s very little sharing of controls, let alone for free to help each other. To my knowledge there&#8217;s certainly not something like the <a href="http://brandonwalkin.com/bwtoolkit/">BWToolKit</a> to encourage everyone to use the same controls and not to try implement their own.</p>
+<p>There&#8217;s not really much that can be done though. There always have been people ignoring the <span class="caps">HIG</span> ( <a href="/assets/images/macapp/skitch.PNG" class="inline apple">skitch</a> ) but the apps themselves feel like one-offs, an exception for very specific use cases. I&#8217;m expecting that ipad inspired apps are going to start being everywhere. The first strange UI convention I&#8217;ve noticed is the use of <a href="http://itunes.apple.com/us/app/daily-bible/id407992094?mt=12">portrait windows</a>. On computer that all have a 16:9 proportional screen, it just seems like a waste of space. In a list based application that makes sense (<a href="/assets/images/macapp/adium.png" class="inline apple">adium</a>, <a href="/assets/images/macapp/twitter2.PNG" class="inline apple">twitter 2</a>) but stuff like this is just wasting screen space.</p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">find music on spotify</title>
+   <link rel="alternate" href="http://orta.github.com/find-music-on-spotify"/>
+   <updated>2011-01-06T00:00:00+00:00</updated>
+   <id>http://orta.github.com/find-music-on-spotify</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <h1>How to find new music on the interwebs with Spotify</h1>
+<p>finding new music has always fascinated me, there&#8217;s a world of cool music that I&#8217;ve not heard out there. And thanks to Spotify the issue really is discoverability rather than price / location. I&#8217;ve had a Spotify pro account for about 6 months now, and the only serious gaps in the service are usually fixed by me buying the CD.</p>
+<p><em>So what are the good ways to find new stuff?</em></p>
+<h2>Spotify radio. You pick an era, and choose some genres and you&#8217;re running.</h2>
+<center><img src="/assets/images/spotify/spotifyradio.png" title="Spotify Radio" alt="Spotify Radio" /></center>
+<p>Spotify radio is great for background music, everytime I write now I switch on blues from the last 30 years, I&#8217;m pretty much guaranteed to not know the songs, but I&#8217;m pretty much guaranteed to enjoy them. I&#8217;ve never been a particular blues fan, but members of my family are, and I loved the <a href="http://www.youtube.com/watch?v=tjGfnsjdJec">Blues Brothers</a> . So just picking a genre and leaving it is one way. Though this so far only has one down side, during the festivus period it gets full of christmas songs regardless of genre and that is just plain annoying.</p>
+<h2>Spotify Social Playlists. Just steal friend&#8217;s playlists.</h2>
+<p>These are playlists from your facebook friends, or people you add as friends (which is pretty difficult, and very few people aren&#8217;t connected to facebook.) Everyone knows someone with good music taste, or I guess just as importantly different music taste. Because Spotify imports all your existing playlists from other media players, lots of people will have their playlists public. So you can just subscribe to their playlists, this means whenever it&#8217;s updated by the owner you&#8217;ll get the changes instantly and you can have it in your sourcelist.</p>
+<h2>Spotify Playlist Websites. Get audiophiles playlists.</h2>
+<p>Not everyone has pedantic friends with huge amounts of playlists worth listening to. Shame, but so is life. So I&#8217;ve always been a fan of <a href="http://sharemyplaylists.com">http://sharemyplaylists.com/</a> because the design is kickass and the playlists page actually show all the songs, so you can try figure out if that&#8217;s the one. These playlists can be huge, you can find a curated genre here and just throw it in random and you&#8217;ve got hours of music. Or try get through some of the <a href="http://sharemyplaylists.com/10000songsyoumusthearbeforeyoudi">10,001 songs to listen to before you die</a>.</p>
+<h2>Spotify Inbox</h2>
+<center><img src="/assets/images/spotify/spotifyinbox.png" title="Spotify Inbox" alt="Spotify Inbox" /></center>
+<p>I guess this is my favourite, simply because it&#8217;s the most fun, and it gives you that warm fuzzy feeling etc. Sending people songs and receiving them is my 2nd favourite feature of Spotify after actually listening to any music.</p>
+<p>Sending tracks often feels like a game of tennis, today I sent you some Wham! so you replied with Andrew WK and so on and so on. It&#8217;s also a great way to spam my bands album to my friends =)</p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">using jekyll</title>
+   <link rel="alternate" href="http://orta.github.com/creating_things/using-jekyll"/>
+   <updated>2011-01-05T00:00:00+00:00</updated>
+   <id>http://orta.github.com/creating_things/using-jekyll</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <p><a href="http://ortatherox.com">ortatherox.com</a> has always been a good central hub for my projects, the main site itself provided a relatively easy way to update when I&#8217;d want to publish a new project  into the world. But it wasn&#8217;t perfect, infact it was very busy. I have at least 35 subfolders in the root directory so theres lots of things going on in there that people don&#8217;t expect.</p>
+<p>rewriting your homepage is the programmer equivalent to an artist drawing their self portrait, get it right once and then suddenly every other attempt requires it being not just better, but exponentially better or just plain different. So inbetween the last public version [img] and the current one are 6 separate attempts at tackling the issue with a different slant. Eventually I got to a point where I&#8217;d taken out almost every element I didn&#8217;t want to use in it and had replaced 200 odd lines of <span class="caps">PHP</span> with 2 sentences statically generated via jekyll.</p>
+<p>I knew that I wanted the site hosted at either <a href="http://github.com">github</a> or <a href="http://heroku.com">heroku</a>, which would force me into using the latest frameworks and techniques that are actually elegant. My old site used a method of templating via 80 separate files thrown together at runtime ( each project had 3 separate files) and the overall template was pulled in via PHP&#8217;s require file. So it was neither fast nor elegantly written, but it existed, and for the time, it was enough.</p>
+I&#8217;d experimented with rails, sinatra and nanoc in-between for ways to write my website, but none ever felt like it was the right way to write my code. I needed something that gets around a lot of the issues I was now facing. I have a lot of legacy projects that need pulling in, templating (there&#8217;s at least 3 separate templates for projects) and there&#8217;s got to be an easy way to blog. So here&#8217;s my new work flow.
+<p>I use 750words to mock up each post, first of all I believe in the morning pages concept, and second it makes me want to write and I have to think about what I want to write about.  I don&#8217;t write everyday, because when I wake up totally hungover I don&#8217;t write much. I then have a <a href="https://gist.github.com/100171"><span class="caps">ZSH</span> script that al3x payne</a> wrote which means I can just type in blog &#8220;name&#8221; and it will make the next post and open it in textmate. The file is a static blog post in mojambo&#8217;s jekyll. Jekyll is a great static site generator. It supports seperate page templates, code parsing, actively encourages source control and most importantly to me keeps everything in programs that I like. It has meant I&#8217;ve had to learn how _why&#8217;s textile works but that&#8217;s been easy and quick because it makes sense.</p>
+<p>So I write blog, copy in the 750words mockup and then go through and fill in all the missing urls and add images, no-one wants to read 750+ blog posts that are all words, even when the typography is large and readable. The page is given its name and categories (categories are used to transform the URLs) and then I run my custom git command to both log what I&#8217;ve committed to my log server and to add and commit to git, a simple git push to github and then the blog is updated. I&#8217;ve got my copy, and github has their copy, I&#8217;m happy. It&#8217;s better this way because even during the moving process I managed to completely nuke one of my existing articles about movies, and the only backup was from google cache. Not the right place to be in.</p>
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">thrown</title>
+   <link rel="alternate" href="http://orta.github.com/thrown"/>
+   <updated>2011-01-05T00:00:00+00:00</updated>
+   <id>http://orta.github.com/thrown</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <center> 
+  <h1>Thrown</h1> 
+  <img src = "/old/images/mini/thrown.png" alt="screenshot"/><br/> 
+  <p> 
+    code: <a href="https://github.com/orta/thrown/">code</a><br/> 
+    group: <a href ="https://github.com/orta/thrown/issues">Google group</a><br/> 
+    queries: <a href ="mailto:orta.therox@gmail.com">orta.therox@gmail.com</a> 
+  </p> 
+</center> 
+
+
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">made a font</title>
+   <link rel="alternate" href="http://orta.github.com/softstuff"/>
+   <updated>2011-01-05T00:00:00+00:00</updated>
+   <id>http://orta.github.com/softstuff</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <style type="text/css" media="screen">
+html{
+  background-color: white;
+}
+</style>
+<center>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="984" height="588" id="softstuff" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="../old/images/mini/softstuff.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#FFFFFF">
+<embed src="/old/images/mini/softstuff.swf" quality="high" bgcolor="#FFFFFF" width="984" height="588" name="softstuff" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+
+</center>
+
+
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">pirates</title>
+   <link rel="alternate" href="http://orta.github.com/pirates"/>
+   <updated>2011-01-05T00:00:00+00:00</updated>
+   <id>http://orta.github.com/pirates</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <center> 
+  <h1> 
+    Pirates
+  </h1> 
+  <img src = "/old/images/mini/pirates.png" alt="screenshot"/><br/> 
+<p>  Everyone loves cracked IPAs of their games all over the interwebs, by using a tiny amount of code you can make life quite a bit more difficult for crackers, and more importantly throw off people who are just running scripts to do the job.<br/> Readme is in the PirateGame.m<br/> 
+</p> 
+<p>
+  This code is *very* out of date, but may still be of some use to someone. Requires cocos2d
+</p>
+<p>  code: <a href="/old/images/mini/pirates.zip">source</a><br/> 
+  queries: <a href ="mailto:orta.therox@gmail.com">orta.therox@gmail.com</a> 
+</p></center></body> 
+
+
+    </div>
+   </content>
+ </entry>
+ 
+ <entry>
+   <title type="html">grabbed</title>
+   <link rel="alternate" href="http://orta.github.com/grabbed"/>
+   <updated>2011-01-05T00:00:00+00:00</updated>
+   <id>http://orta.github.com/grabbed</id>
+   <content type="xhtml" xml:lang="en" xml:base="http://orta.github.com/">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <center> 
+  <h1>Grabbed</h1> 
+  <img src = "/old/images/mini/grabbed.png" alt="screenshot"/><br/> 
+  <p> 
+    code: <a href="https://github.com/orta/grabbed/">code</a><br/> 
+    group: <a href ="https://github.com/orta/grabbed/issues">Google group</a><br/> 
+    queries: <a href ="mailto:orta.therox@gmail.com">orta.therox@gmail.com</a> 
+  </p> 
+</center> 
+
+    </div>
+   </content>
+ </entry>
+ 
+</feed>
