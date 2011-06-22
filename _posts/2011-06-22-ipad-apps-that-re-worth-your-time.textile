@@ -3,7 +3,7 @@ layout: post
 title: iPad apps that're worth your time
 categories: 
 - thoughts
-- on
+- about
 updated_at: 2011-06-22
 uuid: 21CF3A20-A03D-41BA-A447-F12BD6210CE4
 ---
