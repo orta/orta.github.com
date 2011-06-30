@@ -28,6 +28,7 @@ body {
 
 h1, h2, h3{
   text-shadow: 0px 1px 0px #e5e5ee;
+  font-weight: normal;
 }
 
  a{
@@ -110,9 +111,6 @@ blockquote{
   color: #B3B3B3;
 }
 
-blockquote p {
-}
-
 p.source{
   text-align: right;
   position: relative;
@@ -122,4 +120,10 @@ p.source{
 
 p.source:after{
   clear: both;
+}
+
+
+h4.code_heading {
+  margin-bottom: -6px;
+  text-shadow:none;
 }

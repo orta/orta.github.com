@@ -1,0 +1,10 @@
+---
+layout: post
+title: iD iPhone / iPad Dev Day 1
+categories:
+- id
+updated_at: 2011-06-26
+uuid: 5187C4DC-1753-43DE-93DC-25878A2B0A93
+---
+
+

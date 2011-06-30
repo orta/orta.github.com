@@ -1,0 +1,106 @@
+---
+layout: post
+title: iD iPhone / iPad Dev Day 1
+categories:
+- id
+updated_at: 2011-06-26
+uuid: 5187C4DC-1753-43DE-93DC-25878A2B0A93
+---
+
+h1. Resources for iPhone Dev
+
+h2. Get your Certificates installed!
+
+To do this grab this file !/assets/images/princeton/certs.png(Princeton Certs)!, and double click it. It will ask you for a password, I'll give it you.
+    
+  
+Connect your iOS device. Then open XCode, go to Window -> Organiser. You should see your iThingie in there and you right click on its name on the left side, then click "Use for Development"
+
+
+h1. Project 1
+
+h2. My Flippy App
+
+We want to make an app that uses our images and flips between two separate pages in the app. This app involves no code at all and is just a matter of understanding how Interface Builder works. And how show your own images in an iPhone app.
+
+"!/assets/images/princeton/flippy.jpg(Flippy stuff)!":/assets/files/princeton/FlippyView.zip
+
+
+h1. Project 2
+
+h2. Buttons McButtons
+
+We want to make an app that has buttons that you click that writes some debug text out to the console. The console is an area where you can throw text, but anyone using your app doesn't see it unless they get a crash report.
+
+"!/assets/images/princeton/buttons.jpg(Pressing things)!":/assets/files/princeton/ButtonsMcButtons.zip
+
+The only code we are going to write is a button clicked method, you can see it below.
+
+h4(code_heading). ButtonsMcButtonsViewController.h - header file
+
+{% highlight objc %}
+  - (IBAction)thanksClicked:(id)sender;
+{% endhighlight %}
+
+
+h4(code_heading). ButtonsMcButtonsViewController.m - implementation file
+
+{% highlight objc %}
+  - (IBAction)thanksClicked:(id)sender {
+    NSLog(@"Aww that's really nice of you!");
+  }
+{% endhighlight %}
+
+This code has to be hooked up via Interface Builder, by double clicking on the *ButtonsMcButtonsView.xib*, adding a UIButton, then right clicking on the _"Files Owner"_ object, and dragging the small circle next to _thanksClicked_ to your button in the view.
+
+
+h1. Project 3
+
+h2. NoisyBot
+
+We want to play some audio, in this case we want to play some "Boxxy":http://knowyourmeme.com/memes/boxxy and be able to pause her beautiful song. 
+
+"!/assets/images/princeton/sounds.jpg(Pressing things)!":/assets/files/princeton/NoisyBot.zip
+
+To do that we need to include the AVFoundation framework into our application, in XCode 3 you right click on _Frameworks_ , then go to _Add Frameworks_. It should be in that list.
+
+h4(code_heading). ButtonsMcButtonsViewController.m - implementation file
+
+{% highlight objc %}
+- (IBAction)playClicked:(id)sender {
+  
+  // Open a music file that's been dragged into the project, called boxxy.mp3
+  NSString * mp3Path = [NSString stringWithFormat:@"%@/boxxy.mp3", [[NSBundle mainBundle] resourcePath]];
+  NSURL *url = [NSURL fileURLWithPath:mp3Path];
+  
+  // create an AudioPlayer with the file used above
+	NSError *error;
+	audioPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:url error:&error];  
+	if (audioPlayer == nil)
+		NSLog(@"Error playing sound %@", [error description]);
+	else
+		[audioPlayer play];
+}
+{% endhighlight %}
+
+
+h1. Quickies
+
+h2. Landscape App
+
+To make an application landscape you have to override _shouldAutorotateToInterfaceOrientation_: in your ViewController
+
+{% highlight objc %}
+- (BOOL)shouldAutorotateToInterfaceOrientation: (UIInterfaceOrientation)interfaceOrientation {
+  return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
+}
+{% endhighlight %}
+
+h2. Remove Status Bar
+
+Go into the *info.plist* (this is usually [app-name]-info.plist ) and add another key / value pair, add _"Status Bar is Initially Hidden"_ and set to true. This won't remove them from your individual views / windows. You can do that in Interface Builder.
+
+h2. Dealing with Multiple Orientations
+
+You need to override _shouldAutorotateToInterfaceOrientation_ to return _YES_. After that you need to look into the resizing of the UI when it's rotated, this is best done in Interface Builder, loading the _Inspector_ and clicking the ruler at the top. Changing how the app resizes is done by defining which parts stay static and which can scale.
+

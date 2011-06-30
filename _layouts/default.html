@@ -16,6 +16,7 @@
     
   <link rel="stylesheet" href="/assets/fonts/stylesheet.css">
   <link rel="stylesheet" href="/assets/stylesheets/style.css">
+  <link rel="stylesheet" href="/assets/stylesheets/syntax.css">
   
   <script src="/assets/javascripts/head.js" type="text/javascript" charset="utf-8"></script>
   <script type="text/javascript">
@@ -38,7 +39,7 @@
 <body>
   <section id="sidebar">
     <a href="/"><img src="/assets/images/orta.jpg" alt="Orta"></a>
-    <h2>new shit</h2>
+    <h2>new stuff</h2>
     {% for post in site.posts limit:6 %}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endfor %}
