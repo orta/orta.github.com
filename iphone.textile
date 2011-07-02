@@ -11,7 +11,7 @@ h1. Resources for iPhone Dev
 
 h2. Get your Certificates installed!
 
-To do this grab your certificates !/assets/images/princeton/certs.png(Princeton Certs)!, and double click it. It's normal to have these password protected.
+To do this grab your certificates !/assets/images/iphone/certs.png(Princeton Certs)!, and double click it. It's normal to have these password protected.
     
   
 Connect your iOS device. Then open XCode, go to Window -> Organiser. You should see your iThingie in there and you right click on its name on the left side, then click "Use for Development" - that mixed with your Apple Developer account username / password combo should be all you need to get started on your device.
@@ -23,7 +23,7 @@ h2. My Flippy App
 
 We want to make an app that uses our images and flips between two separate pages in the app. This app involves no code at all and is just a matter of understanding how Interface Builder works. And how show your own images in an iPhone app.
 
-"!/assets/images/princeton/flippy.jpg(Flippy stuff)!":/assets/files/princeton/FlippyView.zip
+"!/assets/images/iphone/flippy.jpg(Flippy stuff)!":/assets/files/iphone/FlippyView.zip
 
 
 h1. Project 2
@@ -32,7 +32,7 @@ h2. Buttons McButtons
 
 We want to make an app that has buttons that you click that writes some debug text out to the console. The console is an area where you can throw text, but anyone using your app doesn't see it unless they get a crash report.
 
-"!/assets/images/princeton/buttons.jpg(Pressing things)!":/assets/files/princeton/ButtonsMcButtons.zip
+"!/assets/images/iphone/buttons.jpg(Pressing things)!":/assets/files/iphone/ButtonsMcButtons.zip
 
 The only code we are going to write is a button clicked method, you can see it below.
 
@@ -60,7 +60,7 @@ h2. NoisyBot
 
 We want to play some audio, in this case we want to play some "Boxxy":http://knowyourmeme.com/memes/boxxy and be able to pause her beautiful song. 
 
-"!/assets/images/princeton/sounds.jpg(Pressing things)!":/assets/files/princeton/NoisyBot.zip
+"!/assets/images/iphone/sounds.jpg(Pressing things)!":/assets/files/iphone/NoisyBot.zip
 
 To do that we need to include the AVFoundation framework into our application, in XCode 3 you right click on _Frameworks_ , then go to _Add Frameworks_. It should be in that list.
 
@@ -90,7 +90,7 @@ h2. WebbyBoy
 
 Its time to start working with IBOutlets, working on applications that contain references to the views in addition to ones that you can press buttons with. This example also shows how to use the "delegate pattern":http://en.wikipedia.org/wiki/Delegation_pattern and how to use your own methods to make sure you're not duplicating code.
 
-"!/assets/images/princeton/webbyboy.jpg(Pressing things)!":/assets/files/princeton/WebbyBoy.zip
+"!/assets/images/iphone/webbyboy.jpg(Web Browser App)!":/assets/files/iphone/WebbyBoy.zip
 
 The parts that are interesting are, 
 
@@ -116,6 +116,15 @@ h4(code_heading). WebbyBoyViewController.h - header file
 @end
 
 {% endhighlight %}
+
+h1. Project 5
+
+h2. AnotherImageGallery57
+
+Next up is looking at ways of sending messages between ViewControllers, again using the delegate pattern and this time using protocols to make sure that we can guarantee that the delegate has the methods we expect. It also uses a different transition when changing between views.
+
+"!/assets/images/iphone/anothergallery57.jpg(Image Gallery App)!":/assets/files/iphone/WebbyBoy.zip
+
 
 
 h1. Quickies
