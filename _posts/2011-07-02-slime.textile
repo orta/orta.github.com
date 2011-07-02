@@ -11,7 +11,7 @@ h1. Slime
 No need for this, use this command
 
 {% highlight objc %}
-  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/slime
+  sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/bin/slime
 {% endhighlight %}
 
 and check out their "documentation":http://www.sublimetext.com/docs/2/osx_command_line.html
