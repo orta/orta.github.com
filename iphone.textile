@@ -146,3 +146,9 @@ h2. Dealing with Multiple Orientations
 
 You need to override _shouldAutorotateToInterfaceOrientation_ to return _YES_. After that you need to look into the resizing of the UI when it's rotated, this is best done in Interface Builder, loading the _Inspector_ and clicking the ruler at the top. Changing how the app resizes is done by defining which parts stay static and which can scale.
 
+h2. App Works In Simulator But Not On Device
+
+( May be jailbreak related; but I've always dev'ed on jailbroken iPhones, take it as you will.)
+
+If you're seeing a lot of debug logs about UUID mismatches for object files, go and delete the files related to the iOS version for the device. You can find your list here:
+*/Developer/Platforms/iPhoneOS.platform/DeviceSupport* if you unplug and replug in the iPhone it'll recreate them. It's fixed it for me before.
