@@ -2,6 +2,7 @@
 layout: default
 title: Orta Therox
 ---
+
 <link rel="stylesheet" href="assets/stylesheets/home.css">
 
 <section id="site">  
@@ -33,7 +34,7 @@ title: Orta Therox
   <script>
   
   head.ready( function() {
-        
+    $("body").addClass("index")
     $.fn.shuffle = function() {
       return this.each(function(){
         var items = $(this).children().clone(true);

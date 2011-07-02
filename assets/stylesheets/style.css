@@ -1,4 +1,4 @@
-html{
+html.index{
 width: 2000px;
 overflow-x: hidden;
 }
@@ -122,8 +122,24 @@ p.source:after{
   clear: both;
 }
 
-
 h4.code_heading {
   margin-bottom: -6px;
   text-shadow:none;
+}
+
+ul#archives li{
+  list-style: none;
+  clear: both;
+  padding-top: 8px;
+
+}
+ul#archives div{
+  float: left;
+}
+ul#archives div.date{
+  font-size: 0.6em;
+  padding-top: 10px;
+  text-align:right;
+  width: 150px;
+  margin-right: 8px;
 }

@@ -5,11 +5,7 @@ layout: default
 {{ content }}
 </div>
 
-<script type="application/javascript">
-    function getip(json){
-      console.log(json.ip);
-    }
-    
+<script type="application/javascript">  
     head.ready( function() {
       
       $("a.inline").click(function(){
@@ -38,5 +34,3 @@ layout: default
        })        
       });
 </script>
-
-<script type="application/javascript" src="http://jsonip.appspot.com/?callback=getip"></script>
