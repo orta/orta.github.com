@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iD iPhone / iPad Dev Day 1
+title: iD iPhone / iPad Dev Notes
 categories:
 - id
 updated_at: 2011-06-26
