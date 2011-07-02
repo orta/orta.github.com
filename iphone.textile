@@ -11,10 +11,10 @@ h1. Resources for iPhone Dev
 
 h2. Get your Certificates installed!
 
-To do this grab this file !/assets/images/princeton/certs.png(Princeton Certs)!, and double click it. It will ask you for a password, I'll give it you.
+To do this grab your certificates !/assets/images/princeton/certs.png(Princeton Certs)!, and double click it. It's normal to have these password protected.
     
   
-Connect your iOS device. Then open XCode, go to Window -> Organiser. You should see your iThingie in there and you right click on its name on the left side, then click "Use for Development"
+Connect your iOS device. Then open XCode, go to Window -> Organiser. You should see your iThingie in there and you right click on its name on the left side, then click "Use for Development" - that mixed with your Apple Developer account username / password combo should be all you need to get started on your device.
 
 
 h1. Project 1
@@ -84,7 +84,49 @@ h4(code_heading). ButtonsMcButtonsViewController.m - implementation file
 {% endhighlight %}
 
 
+h1. Project 4
+
+h2. WebbyBoy
+
+Its time to start working with IBOutlets, working on applications that contain references to the views in addition to ones that you can press buttons with. This example also shows how to use the "delegate pattern":http://en.wikipedia.org/wiki/Delegation_pattern and how to use your own methods to make sure you're not duplicating code.
+
+"!/assets/images/princeton/webbyboy.jpg(Pressing things)!":/assets/files/princeton/WebbyBoy.zip
+
+The parts that are interesting are, 
+
+h4(code_heading). WebbyBoyViewController.h - header file
+
+{% highlight objc %}
+@interface WebbyBoyViewController : UIViewController {
+  UIWebView *webView;
+  IBOutlet UITextField *urlTextField;
+}
+
+// When someone presses enter its the same thing
+// as pressing a button from the code's perspective
+- (IBAction)urlTypedIn:(id)sender;
+- (IBAction)searchRequestTyped:(id)sender;
+
+- (IBAction)backPressed:(id)sender;
+- (IBAction)forwardsPressed:(id)sender;
+
+// We define our own method to load a web address
+// using a string to make it simpler
+- (void) loadURLString: (NSString*)address;
+@end
+
+{% endhighlight %}
+
+
 h1. Quickies
+
+h2. Apps without ViewControllers
+
+Don't do it.
+
+h2. Change an App Name
+
+Do it in the info.plist
 
 h2. Landscape App
 
