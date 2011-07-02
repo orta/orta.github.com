@@ -8,12 +8,19 @@ uuid: BD817BBA-30B0-4518-823D-5CF176BB2985
 ---
 h1. Slime
 
+No need for this, use this command
+
+{% highlight objc %}
+  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/slime
+{% endhighlight %}
+
+and check out their "documentation":http://www.sublimetext.com/docs/2/osx_command_line.html
+
+Wanna investigate anyway?
+
 h4(code_heading). Terminal Command
 
 {% highlight objc %}
   gem install slime
 {% endhighlight %}
 
-Slime is a (currently quite limited) gem for installing a command in terminal to open up Sublime Editor with files and folders from the Terminal. 
-
-At some point  I'd like it to accept pipes and create files that don't exist yet, but TBH, this is good enough for the while.
