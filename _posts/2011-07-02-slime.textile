@@ -1,0 +1,19 @@
+---
+layout: post
+title: slime = mate for sublime editor 2
+categories:
+- code
+updated_at: 2011-07-02
+uuid: BD817BBA-30B0-4518-823D-5CF176BB2985
+---
+h1. Slime
+
+h4(code_heading). Terminal Command
+
+{% highlight objc %}
+  gem install slime
+{% endhighlight %}
+
+Slime is a (currently quite limited) gem for installing a command in terminal to open up Sublime Editor with files and folders from the Terminal. 
+
+At some point  I'd like it to accept pipes and create files that don't exist yet, but TBH, this is good enough for the while.
