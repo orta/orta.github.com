@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iD iPhone / iPad Dev Notes
+title: Learn iPhone Stuff
 categories:
 - id
 updated_at: 2011-06-26
@@ -172,6 +172,72 @@ h4(code_heading). PongLayer.m - implementation file
 } 
 {% endhighlight %}
 
+
+
+h1. Project 7
+
+h2. ILikeSpring
+
+This app is about dealing with persistance, so saving data and loading it. This app keeps track of how many times you've agreed with the fact that Spring Rools.
+
+"!/assets/images/iphone/spring.jpg(Persistance App)!":/assets/files/iphone/ILikeSpring.zip
+
+This application deals with NSUserDefaults, which are a great way to store small amounts of data, and it should be stored across devices with iCloud.
+
+h4(code_heading). ILikeSpringViewController.m - implementation file
+
+{% highlight objc %}
+- (void)viewDidLoad {
+  // after loading is finished, 
+  // grab storedClickCount from User Defaults
+  // then update the text on the screen
+  [super viewDidLoad];
+  NSUserDefaults * defaults = [NSUserDefaults standardUserDefaults];
+  self.clickCount = [defaults integerForKey:@"clickCount"];
+  [self updateTextOnScreen];
+}
+
+- (IBAction)agreeClicked:(id)sender {
+  // add one to the click count and then store it in User Defaults
+  self.clickCount = self.clickCount + 1;
+  NSUserDefaults * defaults = [NSUserDefaults standardUserDefaults];
+  [defaults setInteger:self.clickCount forKey:@"clickCount"];
+  [defaults synchronize];
+  [self updateTextOnScreen];
+}
+
+{% endhighlight %}
+
+h1. Project 8
+
+h2. MagicSwipe
+
+This application uses the device's proximity sensor ( the bit that knows if your face is near the phone to disable the screen ) to allow us to do some simple magic tricks. 
+
+"!/assets/images/iphone/swipe.jpg(Proximity App)!":/assets/files/iphone/MagicSwipe.zip
+
+With MagicSwipe we use the "notification design pattern":http://cocoawithlove.com/2008/06/five-approaches-to-listening-observing.html to register an interest in finding out when something is in proximity to the device.
+
+h4(code_heading). MagicSwipeViewController.m - implementation file
+
+{% highlight objc %}
+- (void)viewDidLoad {
+  ...
+  [[UIDevice currentDevice]setProximityMonitoringEnabled:YES];
+  [[NSNotificationCenter defaultCenter] 
+     addObserver:self
+        selector:@selector(proximityStateDidChange:)
+            name:@"UIDeviceProximityStateDidChangeNotification" 
+          object:nil];
+  ...
+}
+
+- (void)proximityStateDidChange:(NSNotification*)notification {
+  if([[UIDevice currentDevice]proximityState]){
+    [self switchImage];
+  }
+}
+{% endhighlight %}
 
 h1. Quickies
 
