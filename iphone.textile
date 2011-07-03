@@ -257,6 +257,10 @@ h2. Change App Loading Screen
 
 Make a 480x320 image, name it Default.png, drag it in.
 
+h2. What is this "Collect Device Debugging Info" thing when I connect my device?
+
+Click Collect, doing this will allow you to use the phone for development, if you don't take it out and plug it in again.
+
 h2. Retina stuff
 
 <p>Any images that are the same, you do [imagename]2x@[filetype] and the iOS will use that instead on a retina displat, this is true with the icon / splash screen. E.g. Icon.png -> Icon@2x.png</p>
