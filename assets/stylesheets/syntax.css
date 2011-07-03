@@ -1,5 +1,5 @@
 pre { white-space: pre-wrap; }
-.highlight { background-color: #49483e; padding: 8px; }
+.highlight { background-color: #49483e; padding: 8px; color:#75715e; }
 .c { color: #75715e } /* Comment */
 .err { color: #960050; background-color: #1e0010 } /* Error */
 .k { color: #66d9ef } /* Keyword */

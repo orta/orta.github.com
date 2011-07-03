@@ -126,6 +126,52 @@ Next up is looking at ways of sending messages between ViewControllers, again us
 "!/assets/images/iphone/anothergallery57.jpg(Image Gallery App)!":/assets/files/iphone/WebbyBoy.zip
 
 
+h1. Project 6
+
+h2. SedgwickPong
+
+So, sometimes people want to diverge into games. This is cool, so its always a good idea to start working on some of the simpler games in existence, so here's a copy of Pong. 
+
+"!/assets/images/iphone/sedgwickpong.jpg(Pong Game)!":/assets/files/iphone/WebbyBoy.zip
+
+This is the first app that uses _#define_ to let us create readble code when dealing with numbers. It also is the first to have a seperate run loop ( in this case it is below, running the ball movement and collision detection. )
+
+h4(code_heading). PongLayer.h - header file
+
+{% highlight objc %}
+#define UPLEFT 0
+#define UPRIGHT 1
+#define DOWNLEFT 2
+#define DOWNRIGHT 3
+
+#import "cocos2d.h"
+
+@interface PongLayer : CCLayer {
+  CCSprite * player_1_bar;
+  CCSprite * player_2_bar;
+  CCSprite * ball;
+  
+  int direction;
+  float speed;
+}
+
++(CCScene *) scene;
+-(void) moveBall;
+-(void) checkForCollisions;
+@end
+{% endhighlight %}
+
+h4(code_heading). PongLayer.m - implementation file
+
+{% highlight objc %}
+// this is our run loop, where the collision detection
+// and ball movement code is held 
+-(void) step: (ccTime) delta {
+  [self moveBall];
+  [self checkForCollisions];
+} 
+{% endhighlight %}
+
 
 h1. Quickies
 
@@ -135,7 +181,19 @@ Don't do it.
 
 h2. Change an App Name
 
-Do it in the info.plist
+Do it in the *info.plist* (this is usually [app-name]-info.plist)
+
+h2. Change App Icon
+
+Make a 72x72 icon, name it Icon.png go to your *info.plist* and write that as your Icon file.
+
+h2. Change App Loading Screen
+
+Make a 480x320 image, name it Default.png, drag it in.
+
+h2. Retina stuff
+
+<p>Any images that are the same, you do [imagename]2x@[filetype] and the iOS will use that instead on a retina displat, this is true with the icon / splash screen. E.g. Icon.png -> Icon@2x.png</p>
 
 h2. Landscape App
 
@@ -149,7 +207,7 @@ To make an application landscape you have to override _shouldAutorotateToInterfa
 
 h2. Remove Status Bar
 
-Go into the *info.plist* (this is usually [app-name]-info.plist ) and add another key / value pair, add _"Status Bar is Initially Hidden"_ and set to true. This won't remove them from your individual views / windows. You can do that in Interface Builder.
+Go into the *info.plist* and add another key / value pair, add _"Status Bar is Initially Hidden"_ and set to true. This won't remove them from your individual views / windows. You can do that in Interface Builder.
 
 h2. Dealing with Multiple Orientations
 
