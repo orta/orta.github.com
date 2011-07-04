@@ -257,7 +257,7 @@ h4(code_heading). MagicSwipeViewController.m - implementation file
 
 h1. Project 9
 
-h2.Clock
+h2. GemClock
 
 This application takes the current time, and adds 15 minutes to it. So that someone I know who is always 15 minutes late can always arrive on time. What more could you want? The app uses an NSTimer to update the labels 4 times a second. Considering it only shows hours and minutes it's a bit of a waste.
 
