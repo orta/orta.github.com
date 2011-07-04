@@ -239,7 +239,49 @@ h4(code_heading). MagicSwipeViewController.m - implementation file
 }
 {% endhighlight %}
 
+
+h1. Project 9
+
+h2.Clock
+
+This application takes the current time, and adds 15 minutes to it. So that someone I know who is always 15 minutes late can always arrive on time. What more could you want? The app uses an NSTimer to update the labels 4 times a second. Considering it only shows hours and minutes it's a bit of a waste.
+
+"!/assets/images/iphone/time.jpg(Time App)!":/assets/files/iphone/GemClock.zip
+
+This app show how you can have a run loop, and how you can go from an NSDate to a NSString that you can show to the users.
+
+h4(code_heading). GemClockViewController.m - implementation file
+
+{% highlight objc %}
+-(void)updateTime {
+  // all girls are 15 minutes late. Take this into account
+  // and make sure they think they're 15 minutes late
+  
+  NSDate *date = [NSDate dateWithTimeIntervalSinceNow: (15 * 60)];
+  
+  // we want to set a format that we can get the string from the date
+  // http://codex.wordpress.org/Formatting_Date_and_Time
+  
+  NSDateFormatter *hourFormatter = [[[NSDateFormatter alloc]init]autorelease];
+  hourFormatter.dateFormat = @"HH";
+  NSString *hourString = [hourFormatter stringFromDate:date];
+
+  NSDateFormatter *minFormatter = [[[NSDateFormatter alloc]init]autorelease];
+  minFormatter.dateFormat = @"mm";
+  NSString *minString = [minFormatter stringFromDate:date];
+
+  [hourLabel setText: hourString];
+  [minuteLabel setText:minString];
+}
+
+{% endhighlight %}
+
+
 h1. Quickies
+
+h2. Orta doesn't know everything?!
+
+"Try Here":http://www.iphoneexamples.com/
 
 h2. Apps without ViewControllers
 
