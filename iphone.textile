@@ -64,7 +64,22 @@ We want to play some audio, in this case we want to play some "Boxxy":http://kno
 
 To do that we need to include the AVFoundation framework into our application, in XCode 3 you right click on _Frameworks_ , then go to _Add Frameworks_. It should be in that list.
 
-h4(code_heading). ButtonsMcButtonsViewController.m - implementation file
+
+h4(code_heading). NoisyBotViewController.h - header file
+
+{% highlight objc %}
+#import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
+
+@interface NoisyBotViewController : UIViewController{
+  //We keep track of the audio player here on the class
+  AVAudioPlayer *audioPlayer;
+  
+}
+{% endhighlight %}
+
+
+h4(code_heading). NoisyBotViewController.m - implementation file
 
 {% highlight objc %}
 - (IBAction)playClicked:(id)sender {
@@ -281,7 +296,7 @@ h1. Quickies
 
 h2. Orta doesn't know everything?!
 
-"Try Here":http://www.iphoneexamples.com/
+"Try Here":http://www.iphoneexamples.com/ or "here":http://www.raywenderlich.com/
 
 h2. Apps without ViewControllers
 
