@@ -60,7 +60,7 @@ h2. NoisyBot
 
 We want to play some audio, in this case we want to play some "Boxxy":http://knowyourmeme.com/memes/boxxy and be able to pause her beautiful song. 
 
-"!/assets/images/iphone/sounds.jpg(Pressing things)!":/assets/files/iphone/HelloKat.zip
+"!/assets/images/iphone/sounds.jpg(Pressing things)!":/assets/files/iphone/NoisyBot.zip
 
 To do that we need to include the AVFoundation framework into our application, in XCode 3 you right click on _Frameworks_ , then go to _Add Frameworks_. It should be in that list.
 
@@ -103,7 +103,7 @@ h1. Project 4
 
 h2. HelloKat
 
-With the next App we want to look at making changes that are visible to the user of the app, to do this our view controller needs to have some  Interface Outlets (_IBOutlets_)
+With the next App we want to look at making changes that are visible to the user of the app, to do this our view controller needs to have some  Interface Outlets (_IBOutlets_) and by using the delegate of the UITextField.
 
 "!/assets/images/iphone/labelchange.jpg(Pressing things)!":/assets/files/iphone/HelloKat.zip
 
@@ -111,31 +111,30 @@ With the next App we want to look at making changes that are visible to the user
 h4(code_heading). HelloViewController.h - header file
 
 {% highlight objc %}
-
-@interface HelloViewController : UIViewController {
+@interface HelloViewController : UIViewController <UITextFieldDelegate> {
   IBOutlet UILabel *label;
   IBOutlet UITextField *textField;
   IBOutlet UIImageView *speechBubbleImage;
 }
 
--(IBAction)changeText:(id)sender;
-
+- (BOOL)textFieldShouldReturn:(UITextField *)inTextField;
+@end
 {% endhighlight %}
 
 
 h4(code_heading). HelloViewController.m - implementation file
 
 {% highlight objc %}
--(IBAction)changeText:(id)sender{
+- (BOOL)textFieldShouldReturn:(UITextField *)inTextField {
   [speechBubbleImage setHidden:NO];
   [label setHidden:NO];
 
   // Hide keyboard
-  [sender resignFirstResponder];
+  [inTextField resignFirstResponder];
   // Set label text
-  label.text = [NSString stringWithFormat:@"Hello %@",textField.text];
+  label.text = [NSString stringWithFormat:@"Hello %@", inTextField.text];
+  return YES;
 }
-
 {% endhighlight %}
 
 h1. Project 5
