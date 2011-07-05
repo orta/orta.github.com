@@ -138,7 +138,7 @@ h2. AnotherImageGallery57
 
 Next up is looking at ways of sending messages between ViewControllers, again using the delegate pattern and this time using protocols to make sure that we can guarantee that the delegate has the methods we expect. It also uses a different transition when changing between views.
 
-"!/assets/images/iphone/anothergallery57.jpg(Image Gallery App)!":/assets/files/iphone/WebbyBoy.zip
+"!/assets/images/iphone/anothergallery57.jpg(Image Gallery App)!":/assets/files/iphone/AnotherImageGallery57.zip
 
 
 h1. Project 6
