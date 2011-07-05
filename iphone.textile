@@ -101,6 +101,45 @@ h4(code_heading). NoisyBotViewController.m - implementation file
 
 h1. Project 4
 
+h2. HelloKat
+
+With the next App we want to look at making changes that are visible to the user of the app, to do this our view controller needs to have some  Interface Outlets (_IBOutlets_)
+
+"!/assets/images/iphone/labelchange.jpg(Pressing things)!":/assets/files/iphone/NoisyBot.zip
+
+
+h4(code_heading). HelloViewController.h - header file
+
+{% highlight objc %}
+
+@interface HelloViewController : UIViewController {
+  IBOutlet UILabel *label;
+  IBOutlet UITextField *textField;
+  IBOutlet UIImageView *speechBubbleImage;
+}
+
+-(IBAction)changeText:(id)sender;
+
+{% endhighlight %}
+
+
+h4(code_heading). HelloViewController.m - implementation file
+
+{% highlight objc %}
+-(IBAction)changeText:(id)sender{
+  [speechBubbleImage setHidden:NO];
+  [label setHidden:NO];
+
+  // Hide keyboard
+  [sender resignFirstResponder];
+  // Set label text
+  label.text = [NSString stringWithFormat:@"Hello %@",textField.text];
+}
+
+{% endhighlight %}
+
+h1. Project 5
+
 h2. WebbyBoy
 
 Its time to start working with IBOutlets, working on applications that contain references to the views in addition to ones that you can press buttons with. This example also shows how to use the "delegate pattern":http://en.wikipedia.org/wiki/Delegation_pattern and how to use your own methods to make sure you're not duplicating code.
@@ -132,7 +171,7 @@ h4(code_heading). WebbyBoyViewController.h - header file
 
 {% endhighlight %}
 
-h1. Project 5
+h1. Project 6
 
 h2. AnotherImageGallery57
 
@@ -141,7 +180,7 @@ Next up is looking at ways of sending messages between ViewControllers, again us
 "!/assets/images/iphone/anothergallery57.jpg(Image Gallery App)!":/assets/files/iphone/AnotherImageGallery57.zip
 
 
-h1. Project 6
+h1. Project 7
 
 h2. SedgwickPong
 
@@ -189,7 +228,7 @@ h4(code_heading). PongLayer.m - implementation file
 
 
 
-h1. Project 7
+h1. Project 8
 
 h2. ILikeSpring
 
@@ -223,7 +262,7 @@ h4(code_heading). ILikeSpringViewController.m - implementation file
 
 {% endhighlight %}
 
-h1. Project 8
+h1. Project 9
 
 h2. MagicSwipe
 
@@ -255,7 +294,7 @@ h4(code_heading). MagicSwipeViewController.m - implementation file
 {% endhighlight %}
 
 
-h1. Project 9
+h1. Project 10
 
 h2. GemClock
 
