@@ -147,7 +147,7 @@ h2. SedgwickPong
 
 So, sometimes people want to diverge into games. This is cool, so its always a good idea to start working on some of the simpler games in existence, so here's a copy of Pong. 
 
-"!/assets/images/iphone/sedgwickpong.jpg(Pong Game)!":/assets/files/iphone/WebbyBoy.zip
+"!/assets/images/iphone/sedgwickpong.jpg(Pong Game)!":/assets/files/iphone/SedgwickPong.zip
 
 This is the first app that uses _#define_ to let us create readble code when dealing with numbers. It also is the first to have a seperate run loop ( in this case it is below, running the ball movement and collision detection. )
 
