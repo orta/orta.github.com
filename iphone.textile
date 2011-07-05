@@ -60,7 +60,7 @@ h2. NoisyBot
 
 We want to play some audio, in this case we want to play some "Boxxy":http://knowyourmeme.com/memes/boxxy and be able to pause her beautiful song. 
 
-"!/assets/images/iphone/sounds.jpg(Pressing things)!":/assets/files/iphone/NoisyBot.zip
+"!/assets/images/iphone/sounds.jpg(Pressing things)!":/assets/files/iphone/HelloKat.zip
 
 To do that we need to include the AVFoundation framework into our application, in XCode 3 you right click on _Frameworks_ , then go to _Add Frameworks_. It should be in that list.
 
@@ -294,7 +294,7 @@ h4(code_heading). MagicSwipeViewController.m - implementation file
 {% endhighlight %}
 
 
-h1. Project 10
+h1. Project 10 sa
 
 h2. GemClock
 
