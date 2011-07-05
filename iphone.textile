@@ -105,7 +105,7 @@ h2. HelloKat
 
 With the next App we want to look at making changes that are visible to the user of the app, to do this our view controller needs to have some  Interface Outlets (_IBOutlets_)
 
-"!/assets/images/iphone/labelchange.jpg(Pressing things)!":/assets/files/iphone/NoisyBot.zip
+"!/assets/images/iphone/labelchange.jpg(Pressing things)!":/assets/files/iphone/HelloKat.zip
 
 
 h4(code_heading). HelloViewController.h - header file
