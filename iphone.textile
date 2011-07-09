@@ -336,7 +336,7 @@ h2. PingPong
 
 This is a peer-to-peer chat client that allows you to send text messages between 2 iOS devices, it comes with its own seperate networking class which is generified and can be used in any project and it uses GameKit as the framework for sending data.
 
-"!/assets/images/iphone/pingping.jpg(Chat App)!":/assets/files/iphone/PingPong.zip
+"!/assets/images/iphone/pingpong.jpg(Chat App)!":/assets/files/iphone/PingPong.zip
 
 This app also shows the use of protocols to ensure that delegates support the methods you expect them to use.
 
