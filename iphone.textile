@@ -100,6 +100,13 @@ h4(code_heading). NoisyBotViewController.m - implementation file
 }
 {% endhighlight %}
 
+If you want to have the sound stop you can use this snippet of code
+{% highlight objc %}
+  if ([audioPlayer isPlaying]){
+    [audioPlayer stop];
+  }
+{% endhighlight %}
+
 
 h1. Project 4
 
