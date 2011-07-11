@@ -32,7 +32,7 @@ pre { white-space: pre-wrap; }
 .nf { color: #a6e22e } /* Name.Function */
 .nl { color: #f8f8f2 } /* Name.Label */
 .nn { color: #f8f8f2 } /* Name.Namespace */
-.nx { color: #a6e22e } /* Name.Other */
+.nx { color: #f8f8f2 } /* Name.Other */
 .py { color: #f8f8f2 } /* Name.Property */
 .nt { color: #f92672 } /* Name.Tag */
 .nv { color: #f8f8f2 } /* Name.Variable */

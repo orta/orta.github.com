@@ -17,6 +17,8 @@ To do this grab your certificates !/assets/images/iphone/certs.png(Princeton Cer
 Connect your iOS device. Then open XCode, go to Window -> Organiser. You should see your iThingie in there and you right click on its name on the left side, then click "Use for Development" - that mixed with your Apple Developer account username / password combo should be all you need to get started on your device.
 
 
+h1. "First steps in OOP":http://orta.github.com/learn_ios
+
 h1. Project 1
 
 h2. My Flippy App
@@ -312,7 +314,7 @@ h4(code_heading). GemClockViewController.m - implementation file
   
   NSDate *date = [NSDate dateWithTimeIntervalSinceNow: (15 * 60)];
   
-  // we want to set a format that we can get the string from the date
+  // we want to set a format that we can get the string from now
   // http://codex.wordpress.org/Formatting_Date_and_Time
   
   NSDateFormatter *hourFormatter = [[[NSDateFormatter alloc]init]autorelease];
