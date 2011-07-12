@@ -160,24 +160,47 @@ h4(code_heading). WebbyBoyViewController.h - header file
 
 {% highlight objc %}
 @interface WebbyBoyViewController : UIViewController {
-  UIWebView *webView;
+  IBOutlet UIWebView *webView;
   IBOutlet UITextField *urlTextField;
 }
-
-// When someone presses enter its the same thing
-// as pressing a button from the code's perspective
-- (IBAction)urlTypedIn:(id)sender;
-- (IBAction)searchRequestTyped:(id)sender;
-
-- (IBAction)backPressed:(id)sender;
-- (IBAction)forwardsPressed:(id)sender;
 
 // We define our own method to load a web address
 // using a string to make it simpler
 - (void) loadURLString: (NSString*)address;
-@end
 
+@end
 {% endhighlight %}
+
+
+h4(code_heading). WebbyBoyViewController.m - implementation file
+
+{% highlight objc %}
+- (BOOL)textFieldShouldReturn:(UITextField *)inTextField {
+  [self loadURLString: [inTextField text]];
+  return YES;
+}
+
+//  This will do a google search instead
+//  [self loadURLString: [@"http://google.com/search?q=" stringByAppendingString:[sender text]]];
+
+- (void) loadURLString: (NSString*)address{  
+  //make sure it has a http:// before it  
+  if( [address hasPrefix:@"http://"] == FALSE){
+    address = [@"http://" stringByAppendingString:address];
+  }
+  
+  NSLog(@"Loading webpage %@", address );
+  
+  //load it into the UIWebView
+  NSURL* url = [NSURL URLWithString:address];
+  NSURLRequest * request = [NSURLRequest requestWithURL:url];
+  [webView loadRequest: request];
+  
+  //make the webview the focus
+  [webView becomeFirstResponder];
+}
+{% endhighlight %}
+
 
 h1. Project 6
 
