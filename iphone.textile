@@ -105,6 +105,7 @@ If you want to have the sound stop you can use this snippet of code
   if ([audioPlayer isPlaying]){
     [audioPlayer stop];
   }
+
 {% endhighlight %}
 
 
