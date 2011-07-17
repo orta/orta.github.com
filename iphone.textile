@@ -9,13 +9,6 @@ uuid: 5187C4DC-1753-43DE-93DC-25878A2B0A93
 
 h1. Resources for iPhone Dev
 
-h2. Get your Certificates installed!
-
-To do this grab your certificates !/assets/images/iphone/certs.png(Princeton Certs)!, and double click it. It's normal to have these password protected.
-    
-  
-Connect your iOS device. Then open XCode, go to Window -> Organiser. You should see your iThingie in there and you right click on its name on the left side, then click "Use for Development" - that mixed with your Apple Developer account username / password combo should be all you need to get started on your device.
-
 
 h1. "First steps in OOP":http://orta.github.com/learn_ios
 
@@ -468,3 +461,11 @@ h2. App Works In Simulator But Not On Device
 
 If you're seeing a lot of debug logs about UUID mismatches for object files, go and delete the files related to the iOS version for the device. You can find your list here:
 */Developer/Platforms/iPhoneOS.platform/DeviceSupport* if you unplug and replug in the iPhone it'll recreate them. It's fixed it for me before.
+
+
+h2. Get your Certificates installed!
+
+To do this grab your certificates !/assets/images/iphone/certs.png(Princeton Certs)!, and double click it. It's normal to have these password protected.
+    
+  
+Connect your iOS device. Then open XCode, go to Window -> Organiser. You should see your iThingie in there and you right click on its name on the left side, then click "Use for Development" - that mixed with your Apple Developer account username / password combo should be all you need to get started on your device.
