@@ -1,0 +1,26 @@
+---
+layout: post
+title: Open current folder in a new Split View in iTerm 2
+categories:
+- unfinished
+updated_at: 2011-07-23
+uuid: 6919E6B4-0892-462B-8837-75BF34FF62DB
+---
+
+
+tab(){
+osascript -e "
+tell application \"System Events\"
+	tell process \"iTerm\"
+		click menu item \"Split Vertically\" of menu 1 of menu bar item \"Shell\" of menu bar 1
+	end tell
+end tell
+
+tell application \"iTerm\"
+ tell the first terminal
+  tell the last session
+   write text \"cd $(pwd)\"
+  end tell
+ end tell
+end tell"
+}
