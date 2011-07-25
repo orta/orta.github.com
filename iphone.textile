@@ -18,7 +18,7 @@ h2. Text Adventures
 
 Using the WibbleQuest Text Adventure game framework you can create full Text Adventure games for the iPhone / iPad. There's a lot of code wrote for you here, and you just need to work on understanding the objects and how they all interact!
 
-"!/assets/images/iphone/textadventure.jpg(Flippy stuff)!":/assets/files/iphone/TextAdventureStarter.zip
+"!/assets/images/iphone/textadventure.jpg(Flippy stuff)!":/assets/files/iphone/KierononononQuest.zip
 
 
 h2. But that's not all! 
