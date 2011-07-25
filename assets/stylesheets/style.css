@@ -30,6 +30,12 @@ h1, h2, h3{
   text-shadow: 0px 1px 0px #e5e5ee;
   font-weight: normal;
 }
+            
+h1.important{
+  text-align: center;
+  background-color: #2D2D2D;   
+  color:#BFBFBF;
+} 
 
  a{
   color: #222;

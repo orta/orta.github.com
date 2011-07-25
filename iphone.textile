@@ -10,7 +10,7 @@ uuid: 5187C4DC-1753-43DE-93DC-25878A2B0A93
 h1. Resources for iPhone Dev
 
 
-h1. "First steps in OOP":http://orta.github.com/learn_ios
+h1(important). "First steps in OOP":http://orta.github.com/learn_ios
 
 h1. Project 0
 
