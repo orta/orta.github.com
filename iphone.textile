@@ -23,8 +23,7 @@ Using the WibbleQuest Text Adventure game framework you can create full Text Adv
 
 h2. But that's not all! 
 
-You can grab a more advanced game using the text Adventure engine "here":/TextAdventureExamples and get an idea for just how deep you can go with that.
-
+There's a great amount of documentation on the "WibbleQuest website":/WibbleQuest checkit!
 
 h1. Project 1
 
