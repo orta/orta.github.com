@@ -23,7 +23,14 @@ h2. What software are you using?
 
 Let's get this straight upfront, I love Text Editors. I feel really cramped when I have to crush myself into an IDE where I share my code interface space with a bunch of toolbars or sidebars. So my workhorse is the never updated "TextMate":http://macromates.com/ - TextMate was the first text editor I really sat down and learned to a very very deep level, and so far I've not quite got anywhere close with any other editor yet. 
 
+
 Slime - Choc - MacVim - Espresso 
-Totalfinder 
+
+Daily
+Totalfinder, Mailplane, Adium, Dropbox, PeepOpen, Skype, 1Password
 Spotify, Twitter, Fresh, zsh, iTerm 2, zFiles, Xcode, Github
-Cloudly, Acorn Safari, Ablert, Vimari, Gleebox, Moom
+Cloudly, Acorn Safari, Ablert, Vimari, Gleebox, Moom, oh-my-zsh
+Steam, The Unarchiver, XTorrent, Daisy Disk, 
+
+Rails
+Base, Sequel Pro, rvm
