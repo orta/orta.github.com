@@ -1,0 +1,26 @@
+---
+layout: post
+title: my setup
+updated_at: 2011-08-08
+uuid: B8E87855-19C3-47B8-BB51-F3A36B64F9A8
+---
+
+h1. Who are you, and what do you do?
+
+I'm a programmer at heart, but I spend a lot of time taking photos, teaching, thinking about design and making music with my "brutal techno punk":http://brutaltechnopunk.com band. I've been doing Rails and iPhone for a while lately and to be frank it's the best hard thinking I've ever done. 
+
+h2. What hardware are you using?
+
+My main workhorse is a Macbook Pro 15", I don't know what the processor is, it's fast enough. I run off a "ridiculously fast SSD":http://www.anandtech.com/show/4186/ocz-vertex-3-preview-the-first-client-focused-sf2200 which I replaced my DVD drive with. I'm usually hooked up to a 2nd display running as high a resolution as possible. I tend to dual boot with the most two OSes from Apple on this laptop. I've also got a "Mac Pro":http://www.apple.com/macpro/ that isn't used as much as it should be back at my house, one of my housemate uses my old "~2007ish MacBook":https://secure.wikimedia.org/wikipedia/en/wiki/MacBook
+
+I do my iPhone stuff in the simulator, or on an iPad 2.
+
+With Photography I moved to 3/4 lens based cameras after I went up "Everest":http://orta.github.com/on_being/24/everest/, and didn't really get results I was "happy with":http://craigmod.com/journal/gf1-fieldtest/. I bought the "Panasonic GF1":http://www.dpreview.com/reviews/PanasonicGF1/, which conveniently broke at the same time as the "GF2":http://www.engadget.com/2010/11/04/panasonic-lumix-gf2-preview/ came out. To be frank though, I preferred the first. Low light photos always seemed to come out better. Also, the "GF3":http://www.dpreview.com/previews/panasonicdmcgf3/ came out. Maybe at some point I'll get to try that but I'm really not in a rush to do so. I occasionally do wedding photography, but it's under duress. I used to have a flickr account I cared about, but then delicious got shut down, so I started but haven't finished my "own photo site":http://orta.phot.us/.
+
+In the band I play "Keytar":http://80music.about.com/b/2009/02/24/todays-80s-instrument-spotlight-the-keytar.htm, or any other random instrument that comes near to hand. I mostly do the "singing":https://www.youtube.com/results?search_query=kieronononon.
+
+h2. And what software?
+
+So I love text editors. But I guess the grand-daddy of them for me is "TextMate":http://macromates.com/, old faithful, never updated. I'm always on the lookout for another text editor, I've been using the "Chocolat":http://chocolatapp.com/ alpha off and on since they let me in, and this really feels like what TextMate 2 could be like. It's still buggy, but it's an alpha. 
+
+h2. What would be your dream setup
