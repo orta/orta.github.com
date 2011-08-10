@@ -19,8 +19,31 @@ With Photography I moved to 3/4 lens based cameras after I went up "Everest":htt
 
 In the band I play "Keytar":http://80music.about.com/b/2009/02/24/todays-80s-instrument-spotlight-the-keytar.htm, or any other random instrument that comes near to hand. I mostly do the "singing":https://www.youtube.com/results?search_query=kieronononon.
 
-h2. And what software?
+h2. What software are you using?
 
-So I love text editors. But I guess the grand-daddy of them for me is "TextMate":http://macromates.com/, old faithful, never updated. I'm always on the lookout for another text editor, I've been using the "Chocolat":http://chocolatapp.com/ alpha off and on since they let me in, and this really feels like what TextMate 2 could be like. It's still buggy, but it's an alpha. 
+Let's get this straight upfront, I love Text Editors. I feel really cramped when I have to crush myself into an IDE where I share my code interface space with a bunch of toolbars or sidebars. So my workhorse is the never updated "TextMate":http://macromates.com/ - TextMate was the first text editor I really sat down and learned to a very very deep level, and so far I've not quite got anywhere close with any other editor yet. It's always there if I need to get something done reliably.
 
-h2. What would be your dream setup
+"Sublime Text 2":http://www.sublimetext.com/2, is a my current favourite other text editor it's more stable than "Chocolat":http://chocolatapp.com/, and it's cross platform which is always a boon when working on linux boxen. Sublime Edit has lots of features I'd like to see in Textmate like split views, and a support for Lion stuff.
+
+I like to tinker with "Macvim":https://github.com/b4winckler/macvim with the "Janus plugin":https://github.com/carlhuda/janus set to make it feel slightly TextMateish, I like it, but I keep poring time into Macvim and I never really feel like I'm getting anywhere and after a week or two I jump back to a non-modal editor. 
+
+"Espresso":http://macrabbit.com/espresso/ gets a shout out here also for being great for quick CSS edits when Webkit's "amazing developer tools":http://code.google.com/chrome/devtools/docs/videos.html aren't em. But it's not my kinda thing, too close to being an IDE (same with Coda.)  In iPhone dev I use XCode a lot, I've tweaked a lot of the default keybindings and I generally feel pretty nippy with moving text around in everyday life.
+
+ I use Safari as my default browser, but that'll probably end up changing to Chrome again. When using Web Browsers I always have "LiveReload":https://github.com/mockko/livereload, "YoutubeWide":http://pedrocc.com/safari, "Facebook Photozoom":https://www.facebook.com/fbphotozoom and some kinda of support to work with "instapaper":http://instapaper.com/.
+
+Two essential tools for everyday Web Browsing for me are "Vimari":https://github.com/guyht/vimari / "Vimium":http://vimium.github.com/ which give an amazing experience when dealing with website from your keyboard. Vimium is defintely better, but I'm really glad Vimari exists. The other tool is "Gleebox":http://thegleebox.com/, which allows me to do Quicksilver-esk commands from inside my webbrowser. 
+
+For things that aren't text editors or web browsers. I use "Totalfinder":http://totalfinder.binaryage.com/ to give me tabs in finder, and to add cut & paste. I use these often. I do all my talking in "Adium":http://adium.im/, and I have a useful "script":https://github.com/orta/adium-log-stats/blob/master/log_stats.rb to let me see who I talk to most, and a custom chat theme that can inline translate text for me between lanaguges. I've used "Mailplane":http://mailplaneapp.com/ since it's beta days, still not planning on moving to any other mail client. 
+
+For collaborating with people I use "Dropbox":https://www.dropbox.com/ (doesn't everyone? ), "Skype":http://skype.com for videochat, "CloudApp":http://www.getcloudapp.com/ for instantly uploading anything I take a screenshot of, can't recommend this app enough.
+
+For dealing with my operating system, I like to use "Albert":http://www.alfredapp.com/ to open applications and to provide global hotkeys to Applescripts I write. It's now got an API, that's pretty exciting to me. 
+
+
+Daily Dropbox, PeepOpen, Skype, 1Password
+Spotify, Twitter, Fresh, zsh, iTerm 2, zFiles, Xcode, Github
+Cloudly, Acorn Safari, Ablert, Vimari, Gleebox, Moom, oh-my-zsh
+Steam, The Unarchiver, XTorrent, Daisy Disk, 
+
+Rails
+Base, Sequel Pro, rvm
