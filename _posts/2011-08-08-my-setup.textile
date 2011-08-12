@@ -1,13 +1,15 @@
 ---
 layout: post
-title: my setup
+title: "use this"
+frontpage: true
+
 updated_at: 2011-08-08
 uuid: B8E87855-19C3-47B8-BB51-F3A36B64F9A8
 ---
 
 h2. Who are you, and what do you do?
 
-I'm a programmer at heart, but I spend a lot of time taking photos, teaching, thinking about design and making music with my "brutal techno punk":http://brutaltechnopunk.com band. I've been doing Rails and iPhone for a while lately and to be frank it's the best hard thinking I've done. 
+I'm a programmer at heart, but I spend a lot of time taking photos, teaching, thinking about user experience and making music with my "brutal techno punk":http://brutaltechnopunk.com band. I've been doing Rails and iPhone for a while lately and to be frank it's the best hard thinking I've done. 
 
 h2. What hardware are you using?
 
@@ -53,4 +55,4 @@ I write all my code on "github":http://github.com/orta and I relase it all under
 
 h2. What would be your dream setup?
 
-It'd be nice to not have to repurchase applications that move to the Mac App store. It'd be nice to have a "MacBook Air":http://shawnblanc.net/2011/08/macbook-air-review/. It's not essential, I'm really happy with the state of computing for nerds. I'm more interested in working towards the dream setup for people who aren't some computer literate.
+It'd be nice to not have to repurchase applications that move to the Mac App store. It'd be nice to have a "MacBook Air":http://shawnblanc.net/2011/08/macbook-air-review/. It's not essential, I'm really happy with the state of computing for nerds. I'm more interested in working towards the dream setup for people who aren't totally computer literate.
