@@ -13,7 +13,7 @@ I'm a programmer at heart, but I spend a lot of time taking photos, teaching, th
 
 h2. What hardware are you using?
 
-My main workhorse is a Macbook Pro 15", I don't know what the processor is, it's fast enough. I run off a "ridiculously fast SSD":http://www.anandtech.com/show/4186/ocz-vertex-3-preview-the-first-client-focused-sf2200 which I replaced my DVD drive with. I'm usually hooked up to a 2nd display running as high a resolution as possible. I tend to dual boot with the most two OSes from Apple on this laptop. I've also got a "Mac Pro":http://www.apple.com/macpro/ that isn't used as much as it should be back at my house, one of my housemate uses my old "~2007ish MacBook":https://secure.wikimedia.org/wikipedia/en/wiki/MacBook
+My main workhorse is a Macbook Pro 15", I don't know what the processor is, it's fast enough. I run off a "ridiculously fast SSD":http://www.anandtech.com/show/4186/ocz-vertex-3-preview-the-first-client-focused-sf2200 which I replaced my DVD drive with. I'm usually hooked up to a 2nd display running as high a resolution as possible. I tend to dual boot with the most recent two OSes from Apple on this laptop. I've also got a "Mac Pro":http://www.apple.com/macpro/ that isn't used as much as it should be back at my house, one of my housemate uses my old "~2007ish MacBook":https://secure.wikimedia.org/wikipedia/en/wiki/MacBook
 
 I do my iPhone stuff in the simulator, or on an iPad 2.
 
