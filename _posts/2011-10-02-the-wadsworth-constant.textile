@@ -1,0 +1,22 @@
+---
+layout: post
+title: The Wadsworth Constant
+categories:
+- bookmarklets
+updated_at: 2011-10-02
+uuid: 6E9565BA-F9E8-412D-AE6A-740FDEC58777
+---
+
+
+<center>
+h1. {{ page.title }}
+
+!/assets/images/misc/wadsworth.png(Wadsworth Comment Example)!</center>
+
+Everyone's loving the "Wadsworth Constant":http://www.reddit.com/r/reddit.com/comments/kxtzp/and_so_the_wadsworth_constant_was_born/ on Reddit at the minute, so why not see what all the rage is about and use this handy bookmarklet on a Reddit comment page and see 2/3s of the content. Sound good? drag the link below onto your browser then try it on a page.
+
+I'm "orta":http://www.reddit.com/user/orta/ on Reddit, if you like it friend me. This works on Chrome with Reddit Enhancement Suite, if it doesnt work for you, message me.
+
+<center>
+<h1><a href='javascript:$(".md").each(function(array, comment){var removeThisMany = $(this).text().split(" ").length;$(this).text( $(this).text().split(" ").slice(removeThisMany / 3).join(" ") );})'>Wadsworth Constant</a></h1>
+</center>
