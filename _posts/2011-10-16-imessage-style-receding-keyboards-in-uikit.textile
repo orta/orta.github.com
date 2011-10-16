@@ -1,0 +1,55 @@
+---
+layout: post
+title: iMessage Style Receding Keyboards in UIKit
+categories:
+- code
+updated_at: 2011-10-16
+uuid: 6186359C-9862-45D2-B460-6BA3877475C9
+---
+
+<style>
+  .highlight{
+    font-size: 0.7em;
+  }
+</style>
+
+h1. Dragging Keyboards
+
+iOS5 came out with a beautifully thought out idea for letting you peak at the content underneath your keyboard in iMessages. The issue Apple had was that there is only one Textfield on the user interface and it wouldn't have been a good idea to have the keyboard lose focus after every message. So they only get a limited amount of space to actually show your message on an iPhone. 
+
+Their solution to this was that you pulled the keyboard down with a normal flick down through your messages. This page will show you how to do something similar. 
+
+<center>
+
+h1. "Code on Github":https://github.com/orta/iMessage-Style-Receding-Keyboard
+
+div(highlight). git clone git://github.com/orta/iMessage-Style-Receding-Keyboard.git
+
+</center>
+
+The important bits.
+
+Getting access to the view of the Keyboard, the class in OS5 at least, is UIPeripheralHostView. If you use UIKeyboard based checks you're only going to get the views for the corners of the keyboard. Also you have to be sure there is a keyboard before this code can be ran.
+
+{% highlight objc %}
+  //Because we cant get access to the UIKeyboard throught the SDK we will just use UIView. 
+  //UIKeyboard is a subclass of UIView anyways
+  //see discussion http://www.iphonedevsdk.com/forum/iphone-sdk-development/6573-howto-customize-uikeyboard.html
+
+  UIWindow* tempWindow = [[[UIApplication sharedApplication] windows] objectAtIndex:1];
+  for(int i = 0; i < [tempWindow.subviews count]; i++) {
+    UIView *possibleKeyboard = [tempWindow.subviews objectAtIndex:i];
+    if([[possibleKeyboard description] hasPrefix:@"%3CUIPeripheralHostView"] == YES){
+      keyboard = possibleKeyboard;
+      return;
+    }
+  }
+{% endhighlight %}
+
+The animation for the Textfield losing focus will always play from the top, even if the keyboard is currently off-screen, so in order to use your own animations you'll have to set keyboard's hidden value to true, and then on keyboardWillAppear: reset it back to NO.
+
+{% highlight objc %}
+  keyboard.hidden = YES;
+{% endhighlight %}
+
+This isn't 100% accurate, iMessages version seems to work with checking the velocity for closing, and also seems to be a bit smarter about whether your finger is touching the bottom of the visible view. Pull requests always welcome!
