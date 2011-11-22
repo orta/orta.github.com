@@ -29,4 +29,4 @@ Once you've got it install just type
 
 <div class="highlight" style="color:white;font-size: 0.8em;">pt help</div>
 
-and rock on.
+and rock on. Also, slightly crashy on ruby 1.8. Use 1.9 already.
