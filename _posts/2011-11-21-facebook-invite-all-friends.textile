@@ -1,0 +1,15 @@
+---
+layout: post
+title: facebook invite all friends
+categories:
+- automagically
+updated_at: 2011-11-21
+uuid: 28B40896-0505-4B25-A6F1-CB037ED5E7CC
+---
+
+
+div(highlight). javascript:elms=document.querySelectorAll('.fbProfileBrowserListContainer input');for(var fid in elms){elms[fid].click();}
+
+h2. Copy and paste this into your browser window
+
+You want to make sure that you've scrolled down through all of your friends so that they are loaded, then then paste the above code into the browser bar, and it should spend about 5-10 seconds churning away as it clicks on all the people for you. Then it's done. Really useful for dealing with facebook events.
