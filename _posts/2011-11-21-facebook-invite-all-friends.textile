@@ -9,7 +9,7 @@ uuid: 28B40896-0505-4B25-A6F1-CB037ED5E7CC
 
 h1. Facebook Friend invite javascript
 
-<div stlye="font-size: 0.8em;">
+<div style="font-size: 0.8em;">
 
 
 {% highlight js %}
