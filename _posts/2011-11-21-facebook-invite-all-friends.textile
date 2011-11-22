@@ -7,8 +7,12 @@ updated_at: 2011-11-21
 uuid: 28B40896-0505-4B25-A6F1-CB037ED5E7CC
 ---
 
+h1. Facebook Friend invite javascript
 
-div(highlight). javascript:elms=document.querySelectorAll('.fbProfileBrowserListContainer input');for(var fid in elms){elms[fid].click();}
+{% highlight js %}
+  javascript:elms=document.querySelectorAll('.fbProfileBrowserListContainer input');for(var fid in elms){elms[fid].click();}
+{% endhighlight %}
+
 
 h2. Copy and paste this into your browser window
 
