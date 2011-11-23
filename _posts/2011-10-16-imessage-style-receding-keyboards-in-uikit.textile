@@ -15,9 +15,9 @@ uuid: 6186359C-9862-45D2-B460-6BA3877475C9
 
 h1. Dragging Keyboards
 
-iOS5 came out with a beautifully thought out idea for letting you peak at the content underneath your keyboard in iMessages. The issue Apple had was that there is only one Textfield on the user interface and it wouldn't have been a good idea to have the keyboard lose focus after every message. So they only get a limited amount of space to actually show your message on an iPhone. 
+iOS5 came out with a beautifully thought out idea for letting you peak at the content above the top fold in iMessages. The issue Apple had was that there is only one Textfield on the user interface and it wouldn't have been a good idea to have the keyboard lose focus after every message. So they only get a limited amount of space to actually show your message on an iPhone. 
 
-Their solution to this was that you pulled the keyboard down with a normal flick down through your messages. This page will show you how to do something similar. 
+Their solution to this was that you pulled the keyboard down with a normal flick down through your messages. My XCode project will show you how to do this.
 
 <center>
 
@@ -52,4 +52,4 @@ The animation for the Textfield losing focus will always play from the top, even
   keyboard.hidden = YES;
 {% endhighlight %}
 
-This isn't 100% accurate, iMessages version seems to work with checking the velocity for closing, and also seems to be a bit smarter about whether your finger is touching the bottom of the visible view. Pull requests always welcome!
+This is now pretty polished, and though I've not had anyone tell me they've had a rejection from it, they've not said that they've got an app in the store with it.
