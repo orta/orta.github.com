@@ -45,9 +45,10 @@ January had my first return to Rio since working with "Ben Jackson":http://twitt
 
 This trip to Rio involved a lot of hanging out, I walked throughout most of the city. I would just walk for hours on end, without a camera, or a specific goal. I knew the city, getting lost wasn’t going to be an issue. Plus I had a phone for the place. The evenings were as awesome as they used to be. My Portuguese had kept at about the same prowess, which is to say, enough to hold a simple but interesting conversation. I got to visit all my old regular haunts like Pista 3, A Rosa de Ouro, Mil Frutas and the Lagoa. The people there were still as flaky as they used to be, but that’s a part of the youth culture there and you learn to accept it. I was over at the same time as a friend of mine from England was, and she and I got to rock out in some weird places. My favourite being a club that was showing porn all night long. 
 
+!/assets/images/25/kierononon.jpg(brutal techno punk yeh?)!
+
 In February "Kieronononon":http://brutaltechnopunk.com/ started recording "Komplaints Deptartment":http://brutaltechnopunk.com/music. It takes a few weekends of recording, and then a few months of mixing to make a good Kieronononon record, and so a lot of credit needs to go to both "floatstarpx":http://twitter.com/floatstarpxlol and "@raffmonkey":http://twitter.com/raffmonnkey for the time they put in tweaking the release to sound just right. This release felt lighter than the previous Kieronononon EPs, it feels like it isn’t taking itself too seriously. In a good way. It came with my favourite Kierononon cover, Holding Out for a Hero. Or as we called it “Letters to Celine”, in honour of the original singer/songwriter Celine Dion. It’s definitely our most easily accessible collection of songs. If you’ve never tried us, click play on the video below.
 
-!/assets/images/25/kierononon.jpg(the three peaks)!
 
 <center>
   <iframe width="560" height="315" src="http://www.youtube.com/embed/64tePVem9ms" frameborder="0" allowfullscreen></iframe>
@@ -81,19 +82,19 @@ June was move to Princeton time. At some point at the start of the year, my budd
 
 It was my first time living in America, and the first thing that really hit me was how little they drank in comparison to the UK. Up until this time I was used to programming till late then going out drinking 3/4 times a week. To suddenly apply the brakes and switch that to about once a month had quite an impact on my ability to hold my drink. 
 
-!/assets/images/25/princeton.jpg(the green man)!
+!/assets/images/25/princeton.jpg(princeton)!
 
 My job was to teach iPhone app development, something I'd been doing professionally for a while. So my knowledge wasn't much of a problem, but the tools that the summer camp used were terrible. I kinda felt sorry for my first set of students, as they had me writing the course syllabus as I was lecturing them. It was easy to focus at Princeton, as there were no girls to chase ( nor was I inclined to) and I had a lot of free time to build things. I wrote an amazing game framework for making "text adventure games":http://wibblequest.com on iOS. It really made teaching objects in programming substantially easier. It's got a few followers on github, but it's not particularly popular which is a shame in my opinion.
 
 At Princeton there were two buddies who really helped make the stay living there interesting. There was the stereotypical tall, barbecue loving Texan Robo Raider, and the surprisingly young and with potential pH. I now live in the same city as pH and hopefully I'll get an excuse to go to SXSW and go see Robo. Throughout Princeton Danger and I were talking daily about everything.
 
-!/assets/images/25/everclear.jpg(the three peaks)!
+!/assets/images/25/everclear.jpg(drinks)!
 
 Once all the students left Princeton we had a party. There was a $200 account for booze as there was about 5-6 people who drank, so it was substantial. I got to try Everclear, a 180% proof alcohol that rips the skin from the inside of your mouth. I enjoyed that. Probably could've just had that. Still, the night ended rather calmly. So me and my last drinking partner went to get sandwiches, then I went to bed. I was woken up by the police making sure I was still alive. Beautiful. I went back the next week about mid August.
 
 %Returning had given me focus. Danger had decided that she was going to go to Australia in November, meaning I only had a few months of her. And I never know my plans more than a few months in advance, I could be anywhere by the time she gets back. I knew that I was going to push for us to go further, so I went and talked to my friend (her ex) about it. His reaction was pretty admirable, her reaction was to tell me that that wasn't going to happen.%
 
-!/assets/images/25/yorkshire_park.jpg(the three peaks)!
+!/assets/images/25/yorkshire_park.jpg(art)!
 
 Now back in England Danger and I went to the Yorkshire sculpture park, I really enjoyed that. I remembered how much I enjoyed her company and spent quite a lot of time discussing about the installations and sculptures around the place. We went in the morning and stayed till it it was too late. The security guard was packing up as we got to the gate. The sculpture park really shows you what's beautiful about Yorkshire, long valleys and beautiful green scenery.
 
@@ -101,9 +102,9 @@ She announced that I had to keep a day free, a Tuesday, which was to be my early
 
 I wasn't in England for long after Princeton before I was back out again in August to Crete, my older sister was getting married. As a man who doesn't see his extended family that much I really appreciate hanging out with them, and I got to do a lot of that out there. We spent a week out on that small island. I got to play football on a mountainside and went fishing, without actually fishing. I did jump off a really high cliff though, that was fun. The pictures from that wedding are amazing, you should take a look at the "official photographs":http://jamesmeliaphoto.com/ben-jens-wedding-crete/ from "@jamesmeliaphotos":http://twitter.com/jamesmeliaphotos.
 
-!/assets/images/25/jen1.jpg(the three peaks)!
+!/assets/images/25/jen1.jpg(a kid at the wedding AWWWWWW)!
 
-!/assets/images/25/jen2.jpg(the three peaks)!
+!/assets/images/25/jen2.jpg(bride / groom etc)!
 
 I had offered to do a Pecha Kucha of my own, after my impromptu one earlier in the year a few days after I got back from Greece. So I spent a bit of time thinking about what I wanted to do it on, and decided that I was going to do it on a hobby I had picked up at Princeton, Folk Dancing. Or at least more specifically Contra Dancing. I wanted people to really get a feel for what it was like, so I asked Danger if she would get up on stage and do some of the moves normally done in that style of folk dancing on stage in front of everyone. She was nervous as hell about it - but she said yes.
 
@@ -115,7 +116,7 @@ The week after that was the first time Gem and I had done Life Art classes. I've
 
 The same week we attended a zombie apocalypse simulator, "2.8 hours later":http://2.8hourslater.com/ around Manchester whilst being chased by zombies. It was amazing, and I hope to attend other events like it someday in the future. We went together as a pair of scientists and met some cool people. 
 
-!/assets/images/25/zombies.jpg(zombies)!
+!/assets/images/25/zombies.jpg(zombie partners)!
 
 The week after that we attended the latest in the Kazimier shows. This was called "Atalonia - Journey to the Center of The Earth":http://atalonia.com/. This is something I really should have written up because it was fascinating. The Kazimier is a club in Liverpool, where all the art kids around the area (and there's a lot of them!) put on shows. They also seem to do a lot of gigs. Roughly every 6 months they do a big event, and I've now attended 3 of these. The first was a night of lots of small shows and drinking, the second was like a giant costume party in the middle of Manchester, and this one was a collection of theatre pieces. It revolved around us getting into an elevator and going through different warehouses and visiting inside of this world experiences. There's a "great video about it":http://vimeo.com/32381452.
 
@@ -137,4 +138,4 @@ November was when Gem and I left. She left early in the month, I stuck around fo
 
 I have hope for this place. I'm still feeling a bit awkward in the city, as big cities have never been my scene, and a lot of choice sometimes just makes me freeze.  But I am here now, and 26.
 
-!/assets/images/25/happy.jpg(comic con)!
+!/assets/images/25/happy.jpg(teh endsors)!
