@@ -1,0 +1,141 @@
+---
+layout: post
+title: on being 25
+categories:
+- "on"
+- being
+updated_at: 2011-12-08
+uuid: 5EED618A-A041-4EBE-843F-67352C540AA4
+---
+<style type="text/css" media="screen">
+  span { 
+    display: none;
+  }
+</style>
+
+<script>
+
+// remove contraversy for a year, unless you add #all to the URL
+head.ready( function() {
+  var releaseDate = Date.parse("Nov 24, 2012");
+  var today = new Date().getTime();
+  if((today > releaseDate) || (window.location.hash == "#all")){
+    $("span").css("display", "inline-block");
+  }
+});
+</script>
+
+h1. on being 25
+
+It was another hungover day in November, and I woke up in my bed in Huddersfield and looked at my girlfriend. Her name was Shelley, and she was stunning. A brunette fashion student who was a local to the town and studied out in Manchester an hours train ride from where I lived. And that is how I started my 25th year of existence.
+
+!/assets/images/25/header2.jpg(looking confused)!
+
+I'd been with Shelley for about half a year, and it was starting to come to an end. She and I had started to argue, and the writing was on the wall within a month or so. My room was a mess (actually the entire house was a mess) and there was still some partying going on. My house was renowned for hosting great house parties for the bar staff, and they truly did rock. This one was still going.
+
+I shuffled out of bed. The guys at work knew I would be late, quite a few of them had been there last night and would be in a similar state. Work has changed a lot, the last major writeup (23) I had been working for a small company making websites in the same county. They are still running, but I left them a month or two after getting back from Everest. I was beginning to feel like I was treading water with them. My calendar for that month or two is blank. The guys here were a small startup called Wireless Grids. They were interested in working on network tech with the idea that you can create a collection of networks that communicate with each other over a common protocol. What tended to happen was that the tech would get demoed and then we would work on making a client version using the demo for the base structure. It was brilliant. The people were amazing and I still get the privilege of hanging with them in a shared workspace. I was working on the Mac client for a program called "(inline apple )Wejay":/assets/images/25/wejay.PNG , which was an app for sharing and collaborating playlists with your friends. As this was the application used in demos it had to be shiny. But I worked hard on it and I am proud of how it turned out.
+
+November had been the first few "Kieronononon":http://brutaltechnopunk.com (my band of 6 years with "Floatstarpx":http://floatstarpx.co.uk and Goat-Buoy) gigs that used a new format. We had ditched a few instruments and tried to streamline the amount of stuff we needed, for two reasons. The first is that I'd got rid of my car and had no intention of driving again for a long time. So everyone needs to be able to transport their stuff. The second was to try and up the showmanship of our gigs. It's not that we had problems, but it's always good to try new ideas. These gigs were fun! You could feel that audiences really couldn't do anything but watch whilst we play. The gigs were bloody, I had my arm pierced, and they were always leaking. Especially in gigs.
+
+December I had gigs with my other band, Stack 'O Barrels. I played bass for these guys. It’s a real different experience to being a front-man. I was never particularly good at bass and arguably with any instrument. But we endeavoured on. The band has a problem wherein they get bassists for a gig, and then the bassist leaves the band. Want to guess what happened? Heh, I lasted two gigs. That was their record. They've not done any practices since I left so I wonder if they're considered disbanded. The only other thing I got around to doing in December was to ice skate daily with a friend who was working on the Ice Rink in Huddersfield, which was fun.
+
+January had my first return to Rio since working with "Ben Jackson":http://twitter.com/benjaminjackson. I wasn’t seeing him out there, but I was seeing my facebook-wife, Raissa, and a workmate-com-best buddy "CarolG":http://twitter.com/carolg88. Coming back to Rio was an odd experience. It was my first time there as a tourist, and it felt weird hanging out in hostels reading books or sitting at the beach. I normally do a lot of travelling ( infact I think I’ll have a stamp on every page of my passport way before it expires in 2016 ) but it’s mostly related to me doing work somewhere, or having something pretty specific to do. 
+
+!/assets/images/25/rio.jpg(rio)!
+
+This trip to Rio involved a lot of hanging out, I walked throughout most of the city. I would just walk for hours on end, without a camera, or a specific goal. I knew the city, getting lost wasn’t going to be an issue. Plus I had a phone for the place. The evenings were as awesome as they used to be. My Portuguese had kept at about the same prowess, which is to say, enough to hold a simple but interesting conversation. I got to visit all my old regular haunts like Pista 3, A Rosa de Ouro, Mil Frutas and the Lagoa. The people there were still as flaky as they used to be, but that’s a part of the youth culture there and you learn to accept it. I was over at the same time as a friend of mine from England was, and she and I got to rock out in some weird places. My favourite being a club that was showing porn all night long. 
+
+In February "Kieronononon":http://brutaltechnopunk.com/ started recording "Komplaints Deptartment":http://brutaltechnopunk.com/music. It takes a few weekends of recording, and then a few months of mixing to make a good Kieronononon record, and so a lot of credit needs to go to both "floatstarpx":http://twitter.com/floatstarpxlol and "@raffmonkey":http://twitter.com/raffmonnkey for the time they put in tweaking the release to sound just right. This release felt lighter than the previous Kieronononon EPs, it feels like it isn’t taking itself too seriously. In a good way. It came with my favourite Kierononon cover, Holding Out for a Hero. Or as we called it “Letters to Celine”, in honour of the original singer/songwriter Celine Dion. It’s definitely our most easily accessible collection of songs. If you’ve never tried us, click play on the video below.
+
+!/assets/images/25/kierononon.jpg(the three peaks)!
+
+<center>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/64tePVem9ms" frameborder="0" allowfullscreen></iframe>
+</center>
+
+It also was the second month of watching Tool Academy like a hawk. My sister was a contestant in a reality TV show that they eventually won. She beat me onto "wikipedia too":http://en.wikipedia.org/wiki/Tool_Academy_UK#Contestants. Blarg.
+
+March was a pretty boring month, with a few spots of Kieronononon gigs, nothing notable. It was the calm of March that kicked me into giving myself a difficult challenge, podcast everyday in April. Something I did almost pretty well considering I wanted to have a life as well as doing my podcasts. I got through 16 of them, and got to have a sit-down with a lot of interesting people in the process. Though the series starts off a bit slow the later ones iparticularly the last 6 are interesting looks at some of the people in Huddersfield. April is also the month that I re-found Danger McShane, a girl I knew who has a tendency to say yes to interesting things.
+
+!/assets/images/25/gem.jpg(Danger McShane)!
+
+I knew her because she used to date one of my friends from Huddersfield, and for a while I got lots of free tickets to the theatre. When I couldn’t go she would use them with her friends. I invited her to watch one the next week. 
+
+It was a comedy about a magician with a love potion who tries to set people up in a small village, but fails and everyone falls for the wrong person. After that it became decided that we would do “Awesome Thursdays”. The following Thursday was an event called Pecha Kucha, which is a presentation style that involves doing 20 slides for 20 seconds. The strict timings and the push towards being creative with it really resonated with me. Plus, a friend of mine was speaking, and I’d never want to miss a moment with Magic Stuart. I got to meet Danger’s friends, Rich, Chris, Lolly and Tom that night. The speeches went well until the last one, where a man found he was too drunk to talk. Shame, he’d been heckling a lot of the night too. So someone got up and continued but then passed on the mic to someone else, and he didn’t seem to be enjoying it. So I came over and took the mic. I talked the rest of the presentation about the villains from James Bond films and everyone seemed to really enjoy the night. Other cool things we did together in April are seeing monster trucks and seeing Rio the film, where I shouted "Even the bins are correct!" to the uninterested audience. 
+
+Toward the end of April came the Hastings Green Man Festival. A folk festival that as Kieronononon we had crashed before ( when I was 23 no less ) and would do so again if the chance arrived. The Green Man is a strange Kierononon bonding session. I usually come out of it pumped to do stuff, and it tends to be one of the few times I get to see our roadie Awesome Kev nowadays. We used to play videogames together every night, now we just pass stupid messages to each other on steam occasionally. 
+
+!/assets/images/25/hastings.jpg(looking confused)!
+
+The Green Man really just involves walking around Hastings dressed up green. We just apply liberal amounts of facepaint and donned papersuits. This year Grax ( of the Graxdomain ) streaked, and we recorded a cover of Gold in a karaoke booth. Odd that later in the year I used that event for a Pecha Kucha talk with Danger.
+
+May was a quiet month. Danger and I experimented at indoor skydiving with Mr Henry Downs which was fun. We watched Insidious, to which I shouted fuck a few times loudly. More theatre, some bowling. Performed on stage with Danger at the circus. At the end of the month I went walking with Grax, and Awesome Kev. We went and did the Yorkshire Three Peaks. I made the mistake of using new boots and lost skin on my feet that still hasn't healed. Ouch. Grax has a good video on the whole experience in his typical far too excited about everything ways here.
+
+!/assets/images/25/yorkshire.jpg(the three peaks)!
+
+I got to visit Northern Ireland, Belfast has a pretty terrible zoo.
+
+We had a 3 day hot-tub party as a leaving do for Princeton.
+
+June was move to Princeton time. At some point at the start of the year, my buddy James "Smiler" Hughes sent me a text asking if I wanted to go and do some iPhone work out in Princeton. This ambiguous text message eventually turned into a job offer as a summer camp councillor out in New Jersey. Rather sadly at the time, the company I was working for were having funding issues, "Bloody lawyers". It did mean that my timing was inadvertently good to leave the country however. 
+
+It was my first time living in America, and the first thing that really hit me was how little they drank in comparison to the UK. Up until this time I was used to programming till late then going out drinking 3/4 times a week. To suddenly apply the brakes and switch that to about once a month had quite an impact on my ability to hold my drink. 
+
+!/assets/images/25/hastings.jpg(the green man)!
+
+
+My job was to teach iPhone app development, something I'd been doing professionally for a while. So my knowledge wasn't much of a problem, but the tools that the summer camp used were terrible. I kinda felt sorry for my first set of students, as they had me writing the course syllabus as I was lecturing them. It was easy to focus at Princeton, as there were no girls to chase ( nor was I inclined to) and I had a lot of free time to build things. I wrote an amazing game framework for making text adventure games on iOS. It really made teaching objects in programming substantially easier. It's got a few followers on github, but it's not particularly popular which is a shame in my opinion.
+
+At Princeton there were two buddies who really helped make the stay living there interesting. There was the stereotypical tall, barbecue loving Texan Robo Raider, and the surprisingly young and with potential pH. I now live in the same city as pH and hopefully I'll get an excuse to go to SXSW and go see Robo. Throughout Princeton Danger and I were talking daily about everything.
+
+!/assets/images/25/everclear.jpg(the three peaks)!
+
+Once all the students left Princeton we had a party. There was a $200 account for booze as there was about 5-6 people who drank, so it was substantial. I got to try Everclear, a 180% proof alcohol that rips the skin from the inside of your mouth. I enjoyed that. Probably could've just had that. Still, the night ended rather calmly. So me and my last drinking partner went to get sandwiches, then I went to bed. I was woken up by the police making sure I was still alive. Beautiful.
+
+My return to England in mid August had given me focus. Danger had decided that she was going to go to Australia in November, meaning I only had a few months of her. And I never know my plans more than a few months in advance, I could be anywhere by the time she gets back. I knew that I was going to push for us to go further, so I went and talked to my friend (her ex) about it. His reaction was pretty admirable, her reaction was to tell me that that wasn't going to happen.
+
+!/assets/images/25/yorkshire_park.jpg(the three peaks)!
+
+Danger and I went to the Yorkshire sculpture park, I really enjoyed that. I remembered how much I enjoyed her company and spent quite a lot of time discussing about the installations and sculptures around the place. We went in the morning and stayed till it it was too late. The security guard was packing up as we got to the gate. The sculpture park really shows you what's beautiful about Yorkshire, long valleys and beautiful green scenery.
+
+She announced that I had to keep a day free, a Tuesday, which was to be my early birthday present from me. It turns out she had booked tickets to see one of my favourite singers in Leeds, in this kooky little place called The Brudenell Social Club - a place we visited 3 times in the next two months.
+
+I wasn't in England for long after Princeton before I was back out again in August to Crete, my older sister was getting married. As a man who doesn't see his extended family that much I really appreciate hanging out with them, and I got to do a lot of that out there. We spent a week out on that small island. I got to play football on a mountainside and went fishing, without actually fishing. I did jump off a really high cliff though, that was fun. The pictures from that wedding are amazing, you should take a look at the "official photographs":http://jamesmeliaphoto.com/ben-jens-wedding-crete/ from "@jamesmeliaphotos":http://twitter.com/jamesmeliaphotos.
+
+!/assets/images/25/jen1.jpg(the three peaks)!
+
+!/assets/images/25/jen2.jpg(the three peaks)!
+
+I had offered to do a Pecha Kucha of my own, after my impromptu one earlier in the year a few days after I got back from Greece. So I spent a bit of time thinking about what I wanted to do it on, and decided that I was going to do it on a hobby I had picked up at Princeton, Folk Dancing. Or at least more specifically Contra Dancing. I wanted people to really get a feel for what it was like, so I asked Danger if she would get up on stage and do some of the moves normally done in that style of folk dancing on stage in front of everyone. She was nervous as hell about it - but she said yes.
+
+So we practiced, %once, after drinking till the early morning in Huddersfield. We went out on a Friday and went into a local park and danced for a few hours. I presume people through we were just being drunk idiots, and that is a pretty safe assumption. The practice kinda paid off.% When I did the talk everyone was really impressed, so much so that they asked me to do the same one again so they could record it. Which I said yes to, but in hindsight should have said no. The problem was that no-one wants to hear the same thing twice, and I really didn't want to have a bored audience. So I tried to find new perspectives on the topic and the slides, but still retaining the same content. Didn't really work so well.
+
+September was a great month for hanging out with Danger. By this point I was in talks with the guys I work for now, and there was a possibility that I might be moving to New York. It was now  certain that Danger was gonna move out to Australia for a year. Knowing that we both were going to disappear soon meant that the rate at which we started to do cool things together erupted. So after the Pecha Kucha, we went Ice Skating with her and my friends. It was the first time she'd been on the ice in ages, and I was pretty confident. %So we just held hands and skated around the rink for hours.% The DJ was amazing, he loved the slow down button, so would regularly turn the songs to half speed and just leave it there. 
+
+The week after that was the first time Gem and I had done Life Art classes. I've been trying to get a grasp on drawing for a few years off and on, and Danger had been practicing quite a lot on her own with the same books as me. My impression of life art classes had always been that you sit down for a few hours and draw a naked person. Turns out though that it was both like that, and not. Life Art is like speed-dating for drawing. The longest we had the same pose for was 15 minutes. Danger was not a happy bunny at the start though, she couldn't get into the 30 second sketch mindset.,This stressed her out. To be fair though, she won some cool paints and things for her final drawing, which I've kept. It's great. 
+
+The same week we attended a zombie apocalypse simulator, "2.8 hours later":http://2.8hourslater.com/ around Manchester whilst being chased by zombies. It was amazing, and I hope to attend other events like it someday in the future. We went together as a pair of scientists and met some cool people. 
+
+!/assets/images/25/zombies.jpg(zombies)!
+
+The week after that we attended the latest in the Kazimier shows. This was called "Atalonia - Journey to the Center of The Earth":http://atalonia.com/. This is something I really should have written up because it was fascinating. The Kazimier is a club in Liverpool, where all the art kids around the area (and there's a lot of them!) put on shows. They also seem to do a lot of gigs. Roughly every 6 months they do a big event, and I've now attended 3 of these. The first was a night of lots of small shows and drinking, the second was like a giant costume party in the middle of Manchester, and this one was a collection of theatre pieces. It revolved around us getting into an elevator and going through different warehouses and visiting inside of this world experiences. There's a "great video about it":http://vimeo.com/32381452.
+
+Unfortunately I didn't get pictures because they asked us not to. Shame.
+
+October was when things started to get serious for Artsy. I had done my interviews and talked on Skype a lot and was just starting to get started on their iOS client. I was going to be working with "Ben Jackson":http://90wpm.com again for the first time since I had lived in Brazil back when I was 23 - and that was going to be exciting. %October was the month that Gem's brother moved out to Germany, which affected her. She had lived with him for years and now lived alone until she was going to move out to Australia. And finally, October was the month that Gem and I got together. She said that I just came back from Princeton and basically said this is how it's going to end, so why don't we just start now. But it still took some time. I may regularly throw caution into the wind but it's nice to know that the people I choose to hang with are a little more apprehensive. It took time, and because of that we had amazing foundations based off of friendship.%
+
+%From then on we started to spend more time together, and less time doing quite so many cool things. We did however go out with% Danger's Mum %who% was visiting from Northern Ireland. We went to see a comedian Peter Kay but it turned out to be what happens when you "click this link":http://www.youtube.com/watch?v=dQw4w9WgXcQ. I was amazed, neither had even heard of the concept. Gem went back with her Mum, and I did some Kierononon gigs. They were pretty cool, it was the first time we had a keyboardist in the band.
+
+!/assets/images/25/danger3.jpg(comic con)!
+
+We finished off October by going down to London for a comic convention. I'm a closet comic book nerd, and Danger had been working her way through some of my collection. Plus, she's a girl who says yes to interesting things. We went down with our friends Rich and Chris, who didn't get into the comic spirit by dressing up. Danger and I competed in costumes for who got the most people taking photos of them. She won, massively. But she got all the creepy guys wanting to get up close. I got comic book artists and meganerds who recognised my costume. London was fun, we did a bit of touristy stuff which normally I would've skipped because I can never find inspiration to do that kinda thing.
+
+November was when Gem and I left. She left early in the month, I stuck around for a bit longer, but not substantially. Our final event together was seeing one of her favourite folk singers (and now the first I listen to) at the same place we saw Duke Special, the Brudenell Social Club. It was stunning to watch, because the man sings such soft yet depressing songs. But he is quite funny and interesting on stage, not something you really expect. I bought Danger the Brudenell t-shirt.
+
+<span><img src="/assets/images/25/danger2.jpg"></span>
+
+%She left to quite a bit of fanfare it was really nice to see her get all dressed up and watch everyone make such a big fuss about her. All our friends miss her. I miss her. Once she had left I didn't have that much more to stay for back in England for a year.% So when Artsy asked if I could come out early I said no problem, and cleaned out my place and moved to NYC for a while. 
+
+I have hope for this place. I'm still feeling a bit awkward in the city, as big cities have never been my scene, and a lot of choice sometimes just makes me freeze.  But I am here now, and 26.
+
+!/assets/images/25/happy.jpg(comic con)!
