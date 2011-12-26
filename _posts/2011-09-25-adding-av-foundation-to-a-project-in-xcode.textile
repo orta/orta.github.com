@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding AV Foundation to a project in XCode 3 and 4
+title: Adding frameworks in XCode 3 and 4
 categories:
 - code
 updated_at: 2011-09-25
