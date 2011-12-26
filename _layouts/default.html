@@ -39,11 +39,13 @@
 <body>
   <section id="sidebar">
     <a href="/"><img src="/assets/images/orta.jpg" alt="Orta"></a>
-    <h2>new stuff</h2>
+    <h2><a href="/rebase">short form</a></h2>
+
+    <h2>new pages</h2>
     {% for post in site.posts limit:6 %}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endfor %}
-    <h2><a href="/archives">all stuff</a></h2>
+    <h2><a href="/archives">everything!</a></h2>
     
   </section>
   
