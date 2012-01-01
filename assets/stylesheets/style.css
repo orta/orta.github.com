@@ -153,3 +153,12 @@ ul#archives div.date{
 #footer {
   color:#767676;
 }
+
+article {
+	clear:both;
+}
+
+.excerpt {
+	float:left;
+	margin-right:10px;
+}
