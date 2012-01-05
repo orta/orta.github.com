@@ -14,12 +14,7 @@ h1. Pivotal Tacker CLI
 
 <div class="highlight" style="color:white;font-size: 0.8em;">
   <pre>
-    git clone git://github.com/raul/pt.git
-    cd pt/
-    gem build pt.gemspec
-    gem install pt*.gem
-    cd ..
-    rm pt/
+    gem install pt
   </pre>
 </div>
 
