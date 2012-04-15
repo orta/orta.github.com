@@ -8,7 +8,7 @@ updated_at: 2011-12-26
 uuid: FC506DE5-FF90-4655-9B08-76FB583B8865
 ---
 
-h1. Kiwi XCode Template
+h1. Kiwi Xcode Template
 
 <center> 
   <a href="/assets/files/KiwiTest.xctemplate.zip"><img src="/assets/images/kiwi/kiwi_example.png" alt="screenshot"/></a>

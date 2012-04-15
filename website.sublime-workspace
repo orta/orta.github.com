@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xc",
+				"xcodeproj"
+			],
+			[
+				"find",
+				"find_owner"
+			],
+			[
+				"string",
+				"stringWithFormat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/RubyMotion.sublime-build",
+	"command_palette":
+	{
+		"height": 72.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"cache",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clan",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacci",
+				"Package Control: Install Package"
+			],
+			[
+				"packli",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 136.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/orta/spiel/html/orta.github.com/_posts/2012-01-10-we-need-to-talk-about-xcode.textile",
+		"/Users/orta/spiel/html/orta.github.com/_posts/2011-12-26-kiwi-test-case-xcode-template.textile",
+		"/Users/orta/working/artsy/energy/Resources/ArtsyPartner.xcdatamodeld/ArtsyPartner.xcdatamodel/contents",
+		"/Users/orta/spiel/html/misha/public/index.html",
+		"/Users/orta/.gitconfig",
+		"/Users/orta/spiel/html/misha/.gems",
+		"/Users/orta/working/artsy/energy/Resources/email_template.html",
+		"/Users/orta/spiel/ruby/pt/README.md",
+		"/Users/orta/.zshrc",
+		"/Users/orta/spiel/ruby/pt/lib/pt.rb",
+		"/Users/orta/spiel/ruby/pt/lib/pt/ui.rb",
+		"/Users/orta/spiel/ruby/pt/pt.gemspec",
+		"/Users/orta/spiel/ruby/pt/Changelog.md",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/User/RubyMotion.sublime-build",
+		"/Users/orta/spiel/motion/test1/app/main.rb",
+		"/Users/orta/Desktop/objectivec",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/orta/spiel/demo/1.rb",
+		"/Users/orta/spiel/html/learn_iphone/_posts/2011-01-30-first5slides.html",
+		"/Users/orta/spiel/html/learn_iphone/_posts/2011-01-28-intro-objective-c.html",
+		"/Users/orta/spiel/html/learn_iphone/_posts/2011-01-26-not_that_easy.textile",
+		"/Users/orta/spiel/html/learn_iphone/_posts/2011-01-29-psuedo-classes.html",
+		"/Users/orta/spiel/html/learn_iphone/_posts/2011-01-22-other_links.textile",
+		"/Users/orta/spiel/html/learn_iphone/_posts/2011-01-24-xcode3.textile",
+		"/Users/orta/spiel/html/learn_iphone/_posts/2011-01-25-thought_youd_got_away.textile",
+		"/Users/orta/working/artsy/energy/.gitignore",
+		"/Users/orta/working/artsy/energy/Classes/ARAppDelegate.m",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/orta/working/artsy/energy/Classes/Controllers/ARSettingsDefaultsEditor.h",
+		"/Users/orta/working/artsy/energy/Classes/Controllers/ARSettingsDefaultsEditor.m",
+		"/Users/orta/working/artsy/energy/Classes/Controllers/ARRoomViewController.m",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/orta/working/artsy/energy/Classes/ARAppDelegate.h",
+		"/Users/orta/working/artsy/energy/Classes/Views/ARRoomView.h",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+		"/Users/orta/spiel/ruby/pt/lib/pt/data_row.rb",
+		"/Users/orta/spiel/ruby/pt/Gemfile",
+		"/Users/orta/spiel/ruby/pt/.gitignore",
+		"/Users/orta/spiel/ruby/pt/bin/pt",
+		"/Users/orta/working/artsy/energy/doc/CodingStandards.md",
+		"/Users/orta/spiel/html/rebase/_config.yml",
+		"/Users/orta/spiel/html/rebase/api/index.html",
+		"/Users/orta/spiel/html/rebase/index.html",
+		"/Users/orta/spiel/html/rebase/_site/api/index.html",
+		"/Users/orta/spiel/html/rebase/_site/api/pages.html",
+		"/Users/orta/spiel/html/rebase/blog.atom",
+		"/Users/orta/spiel/html/rebase/api/pages.html",
+		"/Users/orta/spiel/html/orta.github.com/_posts/2011-06-22-ipad-apps-that-re-worth-your-time.textile",
+		"/Users/orta/spiel/html/rebase/Gemfile",
+		"/Users/orta/spiel/html/rebase/_posts/2011-01-06-find-music-on-spotify.textile",
+		"/Users/orta/spiel/html/rebase/_posts/2011-01-07-mac-app-store.textile",
+		"/Users/orta/spiel/html/rebase/_posts/2011-01-09-flash-on-the-iphone.textile",
+		"/Users/orta/spiel/html/rebase/_posts/2011-11-21-pivotal-tacker-in-terminal.textile",
+		"/Users/orta/spiel/html/rebase/_posts/2011-12-26-kiwi-test-case-xcode-template.textile",
+		"/Users/orta/spiel/html/rebase/assets/stylesheets/rebase.css",
+		"/Users/orta/spiel/html/rebase/_layouts/default.html",
+		"/Users/orta/spiel/html/orta.github.com/_posts/2011-11-21-pivotal-tacker-in-terminal.textile",
+		"/Users/orta/spiel/html/orta.github.com/archives.html",
+		"/Users/orta/spiel/zsh/blog",
+		"/Users/orta/spiel/zsh/post",
+		"/Users/orta/spiel/html/orta.github.com/_site/how-to-make-the-new-skype-not-suck/index.html",
+		"/Users/orta/spiel/html/orta.github.com/_layouts/default.html",
+		"/Users/orta/spiel/html/orta.github.com/assets/fonts/Quicksand_Bold_Oblique-webfont.woff",
+		"/Users/orta/Downloads/Kiwi Test.xctemplate/___FILEBASENAME___Spec.m",
+		"/Users/orta/spiel/iphone/Mixtapes/README",
+		"/Users/orta/spiel/ruby/pt/LICENSE",
+		"/Users/orta/spiel/ruby/pt/.pt",
+		"/Users/orta/Library/Developer/Xcode/DerivedData/Artsy_Folio-ecssolnfjdnkkhcjfnqqoqzcynye/Build/Products/Debug-iphonesimulator/Artsy Folio.app/Artsy Folio",
+		"/Users/orta/spiel/ruby/aspirin2/Gemfile",
+		"/Users/orta/spiel/ruby/aspirin2/app/assets/javascripts/application.js",
+		"/Users/orta/spiel/ruby/aspirin2/.rvmrc",
+		"/Users/orta/spiel/ruby/aspirin/Gemfile",
+		"/Users/orta/spiel/ruby/aspirin/views/project.haml",
+		"/Users/orta/spiel/ruby/aspirin/app.rb",
+		"/Users/orta/spiel/ruby/aspirin/.gitignore",
+		"/Users/orta/spiel/ruby/aspirin/.rvmrc",
+		"/Users/orta/spiel/ruby/aspirin/user,repo,gist",
+		"/Users/orta/Library/Application Support/Sublime Text 2/Packages/Camaleon/Camaleon.sublime-settings",
+		"/Users/orta/spiel/js/irtsybot/hubot-scripts.json",
+		"/Users/orta/spiel/js/irtsybot/scripts/artsyconnect.coffee",
+		"/Users/orta/spiel/js/irtsybot/node_modules/hubot/src/robot.coffee",
+		"/Users/orta/spiel/js/irtsybot/node_modules/hubot/src/user.coffee",
+		"/Users/orta/spiel/js/irtsybot/node_modules/bang/docs/cli.html",
+		"/Users/orta/working/todayeye/app/views/layouts/application.html.haml",
+		"/Users/orta/working/todayeye/app/controllers/sessions_controller.rb",
+		"/Users/orta/working/todayeye/app/views/shared/_pagetitle.html",
+		"/Users/orta/working/todayeye/app/views/sessions/new.html.haml",
+		"/Users/orta/working/todayeye/app/assets/stylesheets/application.css.scss",
+		"/Users/orta/working/todayeye/.rvmrc",
+		"/Users/orta/working/todayeye/app/views/home/index.html.haml",
+		"/Users/orta/working/todayeye/app/views/home/_feedpreview.html.haml",
+		"/Users/orta/working/todayeye/app/views/shared/_header.html.haml",
+		"/Users/orta/working/todayeye/app/views/services/index.html.haml",
+		"/Users/orta/working/todayeye/config.ru",
+		"/Users/orta/working/todayeye/app/assets/stylesheets/home.css.scss",
+		"/Users/orta/working/todayeye/config/application.rb",
+		"/Users/orta/working/todayeye/public/assets/manifest.yml",
+		"/Users/orta/working/todayeye/config/environments/development.rb",
+		"/Users/orta/working/todayeye/Gemfile",
+		"/Users/orta/working/todayeye/app/assets/stylesheets/typography.css.scss",
+		"/Users/orta/working/todayeye/config/environments/production.rb",
+		"/Users/orta/working/todayeye/config/routes.rb",
+		"/Users/orta/spiel/text/gemsMixTape",
+		"/Users/orta/working/todayeye/app/views/applicants/index.html.haml",
+		"/Users/orta/spiel/html/orta.github.com/edit/my-setup.textile",
+		"/Users/orta/spiel/html/orta.github.com/_posts/2011-08-08-my-setup.textile"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  for *.xcworkspace\n    open *.xcworkspace\n    exit\n  done\n\n  for *.xcodeproj\n    open *.xcodeproj\n    exit\n",
+			"task_type_or_nil",
+			"find_owner",
+			"erik",
+			"ero",
+			"erok",
+			"Erikhttp://art.sy/api/v1/me/partners?access_token=e4ec50a8eb69dd4bf4ff2783c57c4003",
+			"Erik",
+			"Erik Frydenborg",
+			"\"",
+			"\n",
+			"create",
+			"comment",
+			"iconv",
+			"find",
+			"current_state",
+			"show_task",
+			"find",
+			"get_my_work",
+			"find_owner",
+			"done",
+			"deliver_task",
+			"done",
+			"finish_task",
+			"finish",
+			"start",
+			"estimate",
+			"estiat",
+			"current_state",
+			"lock",
+			"redis",
+			"save",
+			"image",
+			"images",
+			"assets",
+			"application.js",
+			".precompile",
+			"assets.precompile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Resources/email_template.html"
+			],
+			[
+				"xcode",
+				"_posts/2012-01-24-opening-xcode-projects-and-workspaces.textile"
+			],
+			[
+				"pt",
+				"pt.gemspec"
+			],
+			[
+				".h",
+				"Classes/Views/ARRoomView.h"
+			],
+			[
+				"",
+				"Classes/Controllers/ARSettingsDefaultsEditor.h"
+			],
+			[
+				"appdel",
+				"Classes/ARAppDelegate.m"
+			],
+			[
+				"room",
+				"Classes/Views/ARRoomView.h"
+			],
+			[
+				"arde",
+				"Classes/Controllers/ARSettingsDefaultsEditor.m"
+			],
+			[
+				"arvc",
+				"Classes/Controllers/ARRoomViewController.m"
+			],
+			[
+				"arappde",
+				"Classes/ARAppDelegate.m"
+			],
+			[
+				"appdele",
+				"Classes/ARAppDelegate.m"
+			],
+			[
+				"ara",
+				"Classes/ARAppDelegate.h"
+			],
+			[
+				"change",
+				"Changelog.md"
+			],
+			[
+				"ui",
+				"lib/pt/ui.rb"
+			],
+			[
+				"c",
+				"CodingStandards.md"
+			],
+			[
+				"rebase",
+				"assets/stylesheets/rebase.css"
+			],
+			[
+				"newye",
+				"_posts/2012-01-01-newyears.textile"
+			],
+			[
+				"atom",
+				"blog.atom"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"home",
+				"orta.github.com/_site/how-to-make-the-new-skype-not-suck/index.html"
+			],
+			[
+				"bl",
+				"/Users/orta/spiel/zsh/blog"
+			],
+			[
+				"pivot",
+				"orta.github.com/_posts/2011-11-21-pivotal-tacker-in-terminal.textile"
+			],
+			[
+				"kiwi",
+				"_posts/2011-12-26-kiwi-test-case-xcode-template.textile"
+			],
+			[
+				"kiwow",
+				"assets/fonts/Quicksand_Bold_Oblique-webfont.woff"
+			],
+			[
+				"lic",
+				"LICENSE"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"swit",
+				"lib/pt/switch_ssl.rb"
+			],
+			[
+				"applicajs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"r",
+				".rvmrc"
+			],
+			[
+				"pro",
+				"views/project.haml"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"robot",
+				"node_modules/hubot/src/robot.coffee"
+			],
+			[
+				"arts",
+				"scripts/artsyconnect.coffee"
+			],
+			[
+				"rvm",
+				".rvmrc"
+			],
+			[
+				"pagetit",
+				"app/views/shared/_pagetitle.html"
+			],
+			[
+				"sesnew",
+				"app/views/sessions/new.html.haml"
+			],
+			[
+				"applscss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"applicahaml",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"header",
+				"app/views/shared/_header.html.haml"
+			],
+			[
+				"index",
+				"app/views/home/index.html.haml"
+			],
+			[
+				"sessnew",
+				"app/views/sessions/new.html.haml"
+			],
+			[
+				"layoutap",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"sessioncon",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"layap",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"typo",
+				"app/assets/stylesheets/typography.css.scss"
+			],
+			[
+				"sessionnew",
+				"app/views/sessions/new.html.haml"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"environ",
+				"config/environments/production.rb"
+			],
+			[
+				"applicr",
+				"config/application.rb"
+			],
+			[
+				"applicationscs",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"homescss",
+				"app/assets/stylesheets/home.css.scss"
+			],
+			[
+				"applscs",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"appscs",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"homeinde",
+				"app/views/home/index.html.haml"
+			],
+			[
+				"inde",
+				"app/views/applicants/index.html.haml"
+			],
+			[
+				"my",
+				"edit/my-setup.textile"
+			],
+			[
+				"set",
+				"edit/my-setup.textile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/orta/spiel/html/orta.github.com/website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}
