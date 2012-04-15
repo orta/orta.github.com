@@ -1,3 +1,5 @@
 _site
 .DS_Store
 server
+website.sublime-project
+website.sublime-workspace
