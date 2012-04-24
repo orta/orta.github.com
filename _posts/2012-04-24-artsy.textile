@@ -1,0 +1,62 @@
+---
+layout: post
+title: Artsy
+categories:
+- "on"
+updated_at: 2012-04-24
+uuid: FC506DE5-FF90-4655-5B08-76FB583B8865
+---
+
+When I was young I believed in the idea that someone could either be creative, or be smart. When I had the chance to start picking subjects that were for me both simple and science based. 
+
+I flew through maths, history and physics. I dove into programming in my teens, spending my time working on simple code. Not particularly elegant but it did the job.
+
+<center> 
+	<img src="/assets/images/art/blue.jpg" alt="blue"/>
+	<br/>
+</center>
+
+At university I took a small chance, and experimented with dance. Not much, but it felt like a great way to meet some new people and to really get outside of my comfort zone of programming. Dance was fun, I wasn't particularly good dance is a great expressive medium and if you put a lot of effort it sure pays off. 
+
+I got the chance to do more dance when I was working at Princeton doing contra dancing with some friends. It was great and I hope to do more things similar in the future.
+
+<center>
+	<img src="/assets/images/art/blue2.jpg" alt="still blue"/>
+	<br/>
+</center>
+
+Briefly at University I did some drawing, nothing much, some attempts at understanding style but without any real study. It took till I was working writing games with Mr "90 Words Per Minute":http://90wpm.com/ that I starting taking an interest in the actual concepts of taking what you can see and transforming it into dark pencil scratches on paper. 
+
+I grabbed a book on drawing techniques; read, practiced and experimented. With time I became reasonable at drawing what I can see. It was never quite what I was after though, with drawing I love style. I wish that style comes easy, but it doesn't. I don't know if I'll ever get to that level of skill in drawing either.
+
+<center>
+	<img src="/assets/images/art/green.jpg" alt="green now"/>
+	<br/>
+</center>
+
+I was lucky. I had some time inbetween jobs, and had just gained some money, so I enrolled in design school. In design school I studied hard and did some real "interesting":http://brutaltechnopunk.com/ design "projects":/softstuff/ whilst doing that. I'd had the chance to really make the branding for my band stick out, and I know that a lot of people will always see a certain shade of orange and thing "'brutal techno punk'":http://brutaltechnopunk.com 
+
+Study of design really gave me an appreciation for the arts, by applying design concepts to photography I became renound locally as a photographer and by being confident in my skills I made a lot of projects that were risky for one man to do on their own. I've built a "beautiful iOS Game Framework":http://wibblequest.com, an "iPad client to share Spotify playlists":http://mixtapesapp.com and a (Work in Progress) "iPad app for a streaming website":http://github.com/orta/puttio.
+
+<center>
+	<img src="/assets/images/art/redyellow.jpg" alt="coloury"/>
+	<br/>
+</center>
+
+An appreciation of art is a great thing. One day out of the blue a friend said they were working on the iPad app for an art company, I checked their website and saw that they were building things in some of the "amazing tech":http://art.sy/job/developer that I was only using in small bleeding edge rails projects. 
+
+
+He came back a few days later saying that they were interested in working on an iOS project and that he's been doing it with them. I was totally free, and to me it represented the chance to work on something that was something I didn't understand. The Art World.
+
+<center>
+	<img src="/assets/images/art/ipad.jpg" alt="coloury"/>
+	<br/>
+</center>
+
+That was 9 months ago, and 4 App Store releases of the Artsy iPad application. Since then I've done some work onsite in New York and remotely from Portugal, Germany and Canada. And then this arrived.
+
+<center>
+	<img src="/assets/images/art/artsy.jpg" alt="artsy"/>
+</center>
+
+And I said yes.
