@@ -117,6 +117,10 @@ blockquote{
   color: #B3B3B3;
 }
 
+blockquote a, blockquote a:hover, blockquote a:visited {
+  color : white;
+}
+
 p.source{
   text-align: right;
   position: relative;
