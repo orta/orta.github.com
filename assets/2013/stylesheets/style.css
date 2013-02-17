@@ -1,0 +1,308 @@
+body {
+	font-size: 1em;
+	color: #8a8683;
+	background-color:#dfdfdf;
+  font-size:18px; 
+  line-height:22px;
+  
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+img {
+	max-width: 100%;
+}
+
+a {
+  padding: -6px;
+  color:white;
+  background-color:black;
+  text-decoration:none;
+}
+
+a:hover {
+  background-color:#d7d7d7;
+  color:black;
+}
+
+.menu, .header-unit, .buttons, h4 {
+  text-transform:uppercase;
+}
+
+.header-unit {
+  color:#c0c0c0;
+  text-align:center;
+}
+
+/* Navigation */
+
+h1,h2,h3,h4, .buttons {
+  font-weight:normal;
+	font-family: 'League Gothic', sans-serif;
+}
+
+h1,h2,h3,h4 {
+  line-height: 1em;
+}
+
+h4 {
+  font-size: 24px;
+  color:black;
+  line-height:18px;
+  margin: 1em;
+  margin-left:0;
+}
+
+.menu {
+	position:fixed;
+	top:0px;
+	width:100%; 
+  height: 80px;
+  color:black;
+  background-color:#d7d7d7;
+  padding:0;
+	z-index:100;
+}
+.menu a {
+  background-color:#d7d7d7;
+}
+.menu h1 {
+  margin:0;
+  font-size:48px;
+  line-height: 48px;
+  padding: 18px 0;
+}
+
+.menu img {
+  padding-top:10px;
+  height:60px;
+  opacity:1;
+}
+
+.menu img:hover {
+  opacity:0.7;
+}
+  
+#nav {
+	text-align: right;
+	margin: 0;
+}
+
+.navigation {
+	float: right;
+	list-style: none;
+	margin: 0;
+  padding:0;
+}
+
+.navigation li {
+	float: left;
+	padding:0 0 0 10px;
+}
+.navigation li:hover {
+	cursor:pointer;
+	color: #a9d3d0;
+}
+.navigation .active {
+	cursor:pointer;
+	color: #f68f67;
+	font-weight:bold;
+}
+
+
+/* General Slides */ 
+
+.slide {
+	width:100%;
+	padding:0px 0px;
+}
+
+.photo_slide {
+  height: 480px;
+	color:#dfdfdf;  
+}
+
+.photo_caption {
+  margin-top: 340px;
+}
+
+.photo_caption h1 {
+  text-transform:uppercase;
+  font-size:60px;
+  margin: 0;
+  color:white;
+}
+
+.photo_caption h2 {
+  font-size:48px;
+  color:white;
+  
+}
+
+.photo_info {
+  padding: 42px 0 144px 0;
+}
+
+.photo_info h2 {
+  font-size:48px;
+  color:black;
+}
+
+.photo_info p {
+    color:black;
+}
+
+.photo_info .thumbnails {
+  text-align:right;
+}
+
+.photo_info .thumbnails img {
+  margin-left:12px;
+  margin-top: 12px;
+  background-color:#8a8683;
+  cursor:pointer;
+  opacity:1;
+}
+
+.photo_info .thumbnails img.selected {
+  opacity:0.5;
+}
+
+.photo_info .thumbnails img:hover {
+  opacity:0.7;
+}
+
+.buttons {
+  margin-top: 32px;
+}
+
+.buttons a {
+  display:inline-block;
+  text-align:center;
+  font-size: 24px;
+  line-height:48px;
+  width: 120px;
+  height: 44px;
+  margin-bottom: 12px;
+  background-color: black;
+  color:#d7d7d7;
+  text-decoration:none;
+  margin-right: 16px;
+}
+
+.buttons a:hover {
+  background-color: #6b6b6b;
+}
+
+ul {
+  padding-left:0;
+}
+
+/* ////////////////////////////////////////////////////// CONTENT ////////////////////////////////////////////////////// */
+
+/* Code is Art */ 
+.slide:nth-of-type(2) {
+  padding-top:160px;
+}
+
+.headline {
+  height: 300px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  cursor:default;
+}
+
+.headline h1 {
+	font-size: 4em;
+  color:#d7d7d7;
+}
+
+.project h2 {
+  font-size: 3em;
+  color:white;
+  text-align:center;
+  text-transform:uppercase;
+}
+
+.project a {
+  background-color:#d7d7d7;
+}
+
+.project a:hover {
+  background-color:black;
+  color:white;
+}
+
+/* Put.IO for iOS */ 
+
+#putio-header-unit {
+	background: url('http://ortastuff.s3.amazonaws.com/site/images/putio-1.jpg') center 0 no-repeat #d7d7d7;
+}
+
+#folio-header-unit {
+  background:url('http://ortastuff.s3.amazonaws.com/site/images/folio-2.jpg')  center 0 no-repeat #d7d7d7;
+}
+
+#mixtapes-header-unit {
+  background:url('http://ortastuff.s3.amazonaws.com/site/images/mixtapes-1.jpg')  center 0 no-repeat #d7d7d7;
+}
+
+/* Tablet */
+@media screen and (max-width: 1024px) {
+
+  .photo_slide {
+    background-size:auto;
+  }
+
+  .thumbnails img {
+    width:110px;
+    height:110px;
+  }
+
+  .buttons a {
+    width: 90px;
+    }
+
+}
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+
+  .hidden_tiny {
+    display:none;
+  }
+  
+
+  #logo {
+    width: 15%;
+  }
+  
+  #nav {
+    float:right;
+    width:80%;
+  }
+
+  .buttons {
+    text-align:center;
+  }
+  .buttons a {
+    margin: 6px;
+  }
+
+  .photo_info  .thumbnails {
+    text-align:center;
+  }
+  .photo_info  .thumbnails img {
+    width:120px;
+    height:120px;
+    margin: 2px;
+  }
+  
+
+  .photo_slide {
+    background-size:960px 480px;
+  }
+    
+  .thumbnails {
+  text-align:center;
+  }
+}
