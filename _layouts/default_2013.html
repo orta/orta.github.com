@@ -165,6 +165,7 @@ window.requestAnimFrame = (function(){
   }
 
   // mobile browsers don't send scroll events, so ignore them
+  // also retina browsers are slow so skip them, irony.
   
  if( navigator.userAgent.match(/Android/i)
  || navigator.userAgent.match(/webOS/i)
@@ -173,6 +174,8 @@ window.requestAnimFrame = (function(){
  || navigator.userAgent.match(/iPod/i)
  || navigator.userAgent.match(/BlackBerry/i)
  || navigator.userAgent.match(/Windows Phone/i)
+ || window.devicePixelRatio > 1
+ 
  ){
     
   } else {
