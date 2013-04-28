@@ -59,7 +59,7 @@
 {{content}}
 
 <script type="text/javascript">
-// look at me, no jqeury!
+// look at me, no jquery!
 // it's like writing c
 // but in js
 
@@ -80,6 +80,10 @@ if (document.querySelectorAll){
       }
       
       this.className = this.className + " selected";
+      if(photo.className.indexOf("selected") == -1) {
+        photo.className = photo.className + " selected";
+      }
+      
       photo.style.backgroundImage = "url(http://ortastuff.s3.amazonaws.com/site/images/" + targetImage + ")";
     }
   }   

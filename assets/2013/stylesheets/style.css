@@ -163,11 +163,11 @@ h4 {
   opacity:1;
 }
 
-.photo_info .thumbnails img.selected {
+.thumbnails img.selected {
   opacity:0.5;
 }
 
-.photo_info .thumbnails img:hover {
+.thumbnails img:hover {
   opacity:0.7;
 }
 
@@ -243,6 +243,10 @@ ul {
   background:url('http://ortastuff.s3.amazonaws.com/site/images/mixtapes-1.jpg')  center 0 no-repeat #d7d7d7;
 }
 
+#cocoadocs-header-unit {
+  background: center 0 no-repeat;
+}
+
 /* Tablet */
 @media screen and (max-width: 1024px) {
 
@@ -258,7 +262,6 @@ ul {
   .buttons a {
     width: 90px;
     }
-
 }
 
 /* Mobile */

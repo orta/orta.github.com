@@ -10,7 +10,7 @@ title: Home
 </div>
 
 
-<div class="slide photo_slide" id = "putio-header-unit" data--480-top="background-position: center -160px;"  data-480-bottom=";background-position: center 0px;">
+<div class="slide photo_slide" id = "putio-header-unit">
   <div class="container clearfix">
 		
 		<div class="grid_12">
@@ -52,7 +52,7 @@ title: Home
 
 
 
-<div class="slide photo_slide" id="folio-header-unit" data--480-top="background-position: center -160px;"  data-480-bottom=";background-position: center 0px;"> 
+<div class="slide photo_slide" id="folio-header-unit"> 
 	<div class="container clearfix">
 		
 		<div class="grid_12">
@@ -92,7 +92,7 @@ title: Home
 </div>
 
 
-<div class="slide photo_slide" id="mixtapes-header-unit" data--480-top="background-position: center -160px;"  data-480-bottom=";background-position: center 0px;">
+<div class="slide photo_slide" id="mixtapes-header-unit">
 	<div class="container clearfix">
 		
 		<div class="grid_12">
@@ -138,33 +138,88 @@ title: Home
   </div>
 </div>
 
-<div class="slide container project">
-  <div class=" clearfix grid_3">
+<style>
+  .cocoapods {
+    background-color:#f2e5d1; 
+    color: black;
+    height: 480px;
+  }
+  .cocoapods.selected div div {
+    display:none;
+  }
+  .cocoapods h1 {
+    color:#ca8a29;
+  }
+  .cocoapods h2 {
+    color:#723d2a;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 48px;
+  }
+  
+  .cocoadocs_thumbs {
+    text-align:center;
+    background-color:#f2e5d1;
+    height:84px;
+    padding-top:12px;
+  }
+  .cocoadocs_thumbs img {
+    padding-left:12px;
+  }
+</style>
+
+<div class="slide photo_slide headline cocoapods" id="cocoapods-header-unit">
+
+  <div class="container">
+    <div class=" clearfix grid_12 header-unit">
+  		<h1><span style="font-size:84px">/</span>COCOAPODS/COCOADOCS<span style="font-size:84px">/</span></h1>	
+    </div>
+
+    <div class="grid_6 alpha">
+      <h2>COCOAPODS</h2>
+      <p><a href="https://cocoapods.org">Cocoapods</a> is <em>the</em> dependency management tool for Objective-C. I sit around with the core team dealing with the Specs repo, improving the design / branding, fixing <a href="https://duckduckgo.com/english_as_a_second_or_foreign_language">ESL</a>-isms and writing documentation.</p>
+    </div>
+
+    <div class="grid_6 omega">
+      <h2>COCOADOCS</h2>
+      <p>Cocoadocs is a sister project of Cocoapods, it uses the Cocoapods repository of open source code to generate documentation for all 3000-odd different podspecs. This was originally ran on my laptop and pushed up to S3 but now has a place incrementally docing your pods in the cloud.</p>
+    </div>  
+  </div>
+  <div class="clearfix"></div>
+</div>
+
+<div class="slide cocoadocs_thumbs" >
+  <div class="container">
+    <div class="grid_12 thumbnails omega">
+      <img height=70 width=70 src="http://ortastuff.s3.amazonaws.com/site/images/cocoadocs-70-1.jpg" data-target="cocoapods-header-unit" data-url="cocoadocs-1.jpg"> 
+      <img height=70 width=70 src="http://ortastuff.s3.amazonaws.com/site/images/cocoadocs-70-2.jpg" data-target="cocoapods-header-unit" data-url="cocoadocs-2.jpg"> 
+      <img height=70 width=70 src="http://ortastuff.s3.amazonaws.com/site/images/cocoadocs-70-3.jpg" data-target="cocoapods-header-unit" data-url="cocoadocs-3.jpg"> 
+      <img height=70 width=70 src="http://ortastuff.s3.amazonaws.com/site/images/cocoadocs-70-4.jpg" data-target="cocoapods-header-unit" data-url="cocoadocs-4.jpg"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="clearfix slide container project" style="margin-top:64px;">
+  <div class="grid_3 clearfix">
     <h2>pt</h2>
     <p><a href="https://github.com/raul/pt">pt</a> is a gem that is a command line interface to pivotal tracker. It's a much faster way to create new issues, and to get an overview of your things to do.</p>
   </div>
-</div>
 
-<div class="slide container project">
-  <div class=" clearfix grid_3">
-    <h2>Cocoapods</h2>
-    <p>I'm a core member of the <a href="http://cocoapods.org">Cocoapods</a> team. I feel that through this I contribute to the health of the iOS &amp; Mac ecosystem. I don't want more <a href="http://xkcd.com/927/">of this.</a></p>
-  </div>
-</div>
-
-<div class="slide container project">
   <div class=" clearfix grid_3">
     <h2>GIFs</h2>
-    <p>WIP, the greatest way to <a href="https://github.com/orta/GIFs">find and browse GIFs</a> on the mac. Expect this to move up there ^ sometime in the future.</p>
+    <p>WIP, the greatest way to <a href="https://github.com/orta/GIFs">find and browse GIFs</a> on the mac.This should improve in the future. To quote a cocoapod dev <em>"This is what you'll be famous for."</em></p>
   </div>
-</div>
 
-<div class="slide container project">
   <div class=" clearfix grid_3 omega">
     <h2>ARAnalytics</h2>
     <p>A <a href ="https://github.com/orta/ARAnalytics">generic API</a> for different analytics platforms on iOS. A useful library used in 5 apps of mine now.</p>
   </div>
-</div>
+
+  <div class=" clearfix grid_3 ">
+    <h2>chairs</h2>
+    <p>Chairs makes <a href ="https://github.com/orta/chairs">hot-swapping iOS simulator app directories</a> easy. Dealing with migrations and large syncs is now not so time consuming.</p>
+  </div>
 
 <div class=" clearfix grid_12"></div>
 
@@ -174,30 +229,24 @@ title: Home
     <h2>WibbleQuest</h2>
     <p>I wrote a <a href="http://wibblequest.com">text adventure game framework</a> to help kids learn objective-c. I nowadays I make people presents in the form of simple games with this.</p>
   </div>
-</div>
 
-<div class="slide container project">
-  <div class=" clearfix grid_3 ">
-    <h2>chairs</h2>
-    <p>Chairs makes <a href ="https://github.com/orta/chairs">hot-swapping iOS simulator app directories</a> easy. Dealing with migrations and large syncs is now not so time consuming.</p>
-  </div>
-</div>
-
-<div class="slide container project">
   <div class=" clearfix grid_3">
     <h2>Put.IO Kit</h2>
     <p>I welcome competition for my Put.IO app. So I <a href="https://github.com/PutioKit/PutioKit">generified the networking</a> used into my app and turned it into a cocoapod for anyone else to use.</p>
   </div>
-</div>
 
-<div class="slide container project">
   <div class=" clearfix grid_3 omega">
     <h2>Spacepapers</h2>
     <p>The easiest way to set your desktop background to some amazingly epic space wallpapers. Powered by the reddit search from GIFs. No link yet, probably could do with putting it online.</p>
   </div>
+  
+  <div class=" clearfix grid_3">
+    <h2>NSManchester</h2>
+    <p>I run a meetup in manchester called <a href="http://nsmanchester.github.io">NSManchester</a>. It's the last wednesday of every month and we talk about cool cocoa stuff.
+    </p>
+  </div>
+  
 </div>
-
-
 
 <div class="slide headline container">
 	<div class="grid_12 header-unit">
