@@ -133,7 +133,7 @@ h4 {
 }
 
 .photo_caption h2 {
-  font-size:48px;
+  font-size:44px;
   color:white;
   
 }
@@ -241,6 +241,10 @@ ul {
 
 #mixtapes-header-unit {
   background:url('http://ortastuff.s3.amazonaws.com/site/images/mixtapes-1.jpg')  center 0 no-repeat #d7d7d7;
+}
+
+#artsy-header-unit {
+  background:url('http://ortastuff.s3.amazonaws.com/site/images/artsy-3.jpg')  center 0 no-repeat #d7d7d7;
 }
 
 #cocoadocs-header-unit {
