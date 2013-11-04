@@ -1,0 +1,136 @@
+---
+layout: on_being
+title: "27"
+categories:
+- "on"
+- "being"
+---
+
+
+# Starts in NYC
+
+It was another year with a birthday in New York City. At the moment I don't personally remember what was happening at the time, personally I don't think much was happening. I had a relatively calm time in the end of November in NYC.
+
+I had just got back from 2 months traveling around Asia with Danger, and we briefly experimented with moving in together for 2 weeks before I moved out to NYC for three months. 
+
+
+In early December, Miami Basel happened, it's a party I've mentioned before where nearly all of the Arsty staff go down to Miami for a week and experience the art world at its most intense. I've talked about it before so there's no need to re-iterate but it was a lovely trip and I'm always glad to have the opportunity to do that. Eventually Artsy will get too big and it won't be feasible :(. 
+
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/miami.jpg" tag_header="Miami" tag_body="Florida" %}
+
+
+It was about this time we started slowing down work on an _instagram for Artsy_ -like iOS client that ended up mothballed. Instead switching back to the Artsy partner app Folio. Folio is a solid little app, that's already been dwarfed in lines of code by the current Artsy iOS app. 
+
+I was offered to go and visit my amazing ex-housemate [Dave Grandinetti](http://twitter.com/dbgrandi) over Christmas and I took it. He lives up in the north of the state New York, in a place called Syracuse. I've _never_ seen so much snow. It started, and then overnight there was 6 foot covering everything. We travelled out into the country to spend time with 
+
+the rest of his family, it was a great experience and whilst I'm not the sort to get homesick it did remind me that I'd missed christmas for a few years in a row. Dave and his housemate were active users of my Put.IO app, so over Christmas I got some work done on it.
+
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/snow.jpg" tag_header="Syracuse" tag_body="New York State" %}
+
+# OSS
+
+
+By January I got back into the city and started to get more active in the open source community. I had always believed in the open source ideals, I've had `./free` tattoo'd on my arm since I was 16. Yet I didn't really feel like I had contributed enough back. So I came upon a course of action. There are some people who can write a lot of libraries, and there are some people that only need to write one. I started with open-sourcing a library I had slowly been building internally for abstracting out [Analytics in iOS apps](http://artsy.github.io/blog/2013/04/10/aranalytics/).
+
+It wasn’t really a crazy break-out success, so I opted to put my time and effort in the place I could make the most impact, CocoaPods. It became a pretty simple decision; before travelling around Asia with Danger I had been managing pull requests for CocoaPods so that the maintainers could think about code. Once I had got back, [someone else](https://smileykeith.com) had taken that role, and still does to this day. Having that freed up meant I started looking at other issues.
+
+CocoaPods had always had a developer chatroom, but once we started getting going in january it became alive, over the course of time it's moved to have about 4-8 people in daily who are some of the most interesting and respected ruby/obj-c developers I know. One ten-minute conversation fixed an issue that had been plaguing me for months. I basically owe [Michele Titolo](http://michele.io) a blood-debt.
+
+To obtain the level of GIF-ness I wanted in both the artsy internal chat room, and the CocoaPods chat room I build a native app for OS X that lets you search [Reddit for GIFs](http://github.com/orta/GIFs). Highly recommended. At this point I also re-designed my website to be more image centric. The new site is the opposite of the text-heavy site I had used for a few years, I wanted to be able to show off some of the cool artsy work and interesting (and visually distinct) app designs I'd made.
+
+With my 3 month VISA wrapped up it was time to head back to the UK, there wasn't really a discussion about moving back in with Danger. It just worked well before and continued to do so.  I ( for some reason ) was optimistic that I'd have a working US VISA sorted by April. So it didn't seem like it would be too much trouble.
+
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/github.jpg" tag_header="" tag_body="" %}
+
+
+# UK Conferences
+
+
+My younger sister had her first child, February 1st. Kids are cute, but I'm glad it's not me. I don't really like the baby stage of a human being,  they sure get interesting by toddler stage though. By this point I was pretty active in the CocoaPods community, I still haven't ever submitted any code changes but where I am now it's probably better this way. 
+
+February marked the return of conferences for me, I had been to WWDC in 2007 and attended a few ruby conferences in the time between but I forgot just how amazing it was to be surrounded by your peers. 
+
+NSConference was great, I saw some great talks, and I advertised myself as the goto-guy for CocoaPods discussion. I was interested in feedback, and trying to get an idea for where we're letting people down. I felt like I was faking being the CocoaPods guy at the time, which as Mattt told me later was a feeling that probably might not ever fade. There's an interesting debate about everything we do being a facade.
+
+So I faked it, and I made it, I talked to a lot of people. I distinctly remember being impressed by Krystof going out of his way to say hi, being able to talk to Nick Lockwood and accidentally starting a conversation with Peter Steinberger ( who would 6 months later call me Lady Ga-Ga of the Obj-C community ) about his WWDC coat.
+
+I owe [Niklas Saers](https://twitter.com/niklassaers) a thanks here, we talked a bunch of times at NSConference and he later would be the first person to ask me speak at a conference, triggering off it's own chain of events. You backed the right horse there. Thanks.
+
+The rest of February blurred by, I helped a long-time friend ( who I worked with back when I was 25 ) run TEDx Huddersfield, and started studying how people speak publicly. 
+
+# CocoaDocs
+
+In preparation for these write-ups, I scour my calendar, talk to people and go over almost all my emails for each month. I normally have 5-6 lines of notes per month. In March I have one word. *CocoaDocs.*
+
+CocoaDocs is the second major event, over the course of a month and a half any non-artsy time was devoted to documentation and building a tool that would document thousands of open-source projects without falling over. It started pretty innocuously in a discussion with [@speednoisemovement](http://speednoisemovement.com) about how we never knew a method existed in AFNetworking and there should be a single place to go and get documentation from any project. This idea just took over everything, much like how the rush to iOS7 launch happened later in the story ( I warned my girlfriend "This will be like CocoaDocs but for months.") 
+
+CocoaDocs got built in secret, I didn't even mention it to the CocoaPods devs until it was starting to get ready to work with the CocoaPods specs repo I could start testing at scale and realtime. I just used to have my laptop running overnight parsing documents every night till it wouldn't fail on any that seemed reasonable to me. It still has issues with C projects. 
+
+It's great to have a girlfriend that may not entirely understand your motives, but believes in you. I would be working on it before she woke up in a morning, then whist she was getting ready to go to work - I'd do my Artsy stuff, then arrive back at 1-2am and we'd barely overlap. 
+
+By April CocoaDocs was public, Danger and I celebrate by me saying "I'll buy us a champagne" and then never doing it. We waited till I declared myself "internet famous". This was when [@mattt](https://twitter.com/mattt) followed me and I was almost at 1,000. I bought the most expensive Champagne I could find.
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/cern.jpg" tag_header="CERN HQ" tag_body="Geneva, Switzerland" %}
+
+# Euro Travel
+
+In a narrative sense it would make sense to say I took Danger to CERN to as a great birthday present, but the reality was it was nice timing. The Large Hadron Collider had been closed down a few months earlier and I booked the first available site tour. Whilst the tour as a bit underwhelming, our AirBnB host made up for it. Getting stoned with CERN engineers and people from the UN is a story I rarely tell but always think is amazing.
+
+On the subject of travel, Artsy had been looking to hire and we had a potential iOS developer in Hamburg, and I figured I would go over and hang out on his first week. I invited Danger along and we got to do some amazing germanic stuff. We started back on the Artsy for iOS idea, this time trying to focus on what shows are happening now and to try and get the browsing experience solid.
+
+With CocoaDocs _"wrapped"_ for v1, I reflected on what issues I had with it in order to understand what a v2 could be. And the main issue personally was that I felt restricted in dealing with the CocoaPods branding. Which wasn't a CocoaDocs issue but something a little bit deeper. CocoaPods was build by programmers building solid useful and functional tools and sites. As they'd grown organically so had the branding, there was a pretty outdated colour scheme, no-cohesive branding and an illustration as a logo. It needed some work.
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/cocoapods.jpg" tag_header="" tag_body="" %}
+
+
+So I contacted an old friend from when I was in [design school](23), [Andy Myers](http://andy-myers.co.uk). He'd done some amazing work as a freelance developer around Manchester and was currently working for the BBC. I had hired him before to do album aart for my band, worked beautifully. I asked if he wanted to work on CocoaPods, as a side project with me, we back &amp; forwarded for about 2 months before getting to a point where there was a single logo. And another month or so before we had ideas about what the site &amp; related bradning would look and feel like.
+
+In that time, I started up the CocoaPods guides project which Michele Titolo rolled with and made a guide for nearly all the major aspects of learning CocoaPods once we’d figured the hierarchy by extracting things from the github wikis, issues and chat room discussion. Then dividing the sections by the users understanding of CocoaPods.
+
+During this time I built an app for finding wallpapers for you mac based on GIFs code, re-started a [meetup in Manchester](http://nsmanchester.org) that [Dave Verwer](https://twitter.com/daveverwer) used to run, made a tool for making it easier to respond to a [lot of github issues](https://github.com/orta/OSS-vs-Fabio)  and built a screensaver that plays [games on speed runs](https://github.com/orta/SpeedS-ver).
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/wwdc.jpg" tag_header="WWDC" tag_body="San Francisco" %}
+
+# WWDC & iOS7
+
+In June, WWDC happened, and so did my first major twitter follower count. WWDC is a big Obj-C developers conference, essentially the apple developer's mecca. I had the fortune of having a ticket, which considering they were sold out in less than two minutes was fortunate to say the least. My aims out there were pretty simple, schmooze, talk to as many Apple designers about our app as possible and try and find people I'd love to work with. We still didn't have an app that people could use, so Artsy wasn't really on any iOS developers radar. We have the name at the bottom of CocoaPods/CocoaDocs which is a start but we had something beautiful to preview to interested parties.
+
+The Apple designers were all super impressed, and a few were already using Artsy the website which worked. Their feedback was minor, which meant we were on the right direction. Once I got back we started talking with Apple about our aims for an iOS7 launch, it would be tight - we had to cut a lot of features, and rely on the artsy mobile artsy website to get it out, but it was solid. And a lot of the internal feedback couldn't tell when the app ended and the website started, which meant we could work it.
+
+It was a pretty gruelling 2 months trying to get the app out, you could see the entire Obj-C community just be totally inactive for this time till the iOS app submission window around the 5th of September. I celebrated the app submission by running 12 mile obstacle course in the middle of Yorkshire. 
+
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/orta-beer.jpg" tag_header="" tag_body="" %}
+
+At WWDC I got the chance to meet Mattt Thompson almost every day, through either being at similar parties or by going to his AFNetworking commiters meetup BBQ. ( I made one commit changing his documentation URL to point to CocoaDocs - it counts! ) Which coincidentally was where I met [@dstnbrkr](https://twitter.com/dstnbrkr) who ended up working with me. Anyway, Mattt turned down the opportunity to talk at NSSpain. And in his lieu said they should ge tin contact with me. This was before I'd ever met him, and based entirely on my CocoaDocs work. So I owe him a thanks too. Thanks. 
+
+With the Artsy App in the queue, I started the end of september which was public speaking and conferences for a month straight. It started with the beautifully named Wuthering Bytes, a conference for makers where I talked about how we try to maintain the CocoaPods community ( lots of PRs, lots of people, surprisingly small amounts of drama.)
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/spain.jpg" tag_header="NSSpain afterparty" tag_body="Logroño, Spain" %}
+
+### Speaking engagements
+
+I was then straight back out the door to Logronó in Spain for NSSpain. NSSpain has been the most fun conference I've ever attended. It was _brimming_ with the most interesting developers, and a few who I really look up to. It was crazy to live with Fabio of CocoaPods and to go drinking with Luis, Borja, Marin and all the spanish developers who came. Danger came out after the conference had finished and we were honoured guests shown around by Luis and found the whole experience to be one for the history books. Would go again, would recommend anyone to go. Spain is beautiful, the talks are English and everyone is accessible. 5/5.
+
+I got a tooth infection when I was about to leave Spain. Most painful experience of my life. Brutal. Couldn't even be funny.
+
+With my mouth in working order, and 2 days back in England, I set off to the european haven of Denmark for GOTO Aarhus. Now let me get my bias out of the way here, I'm pretty sure I now want to go and settle in Denmark in a few years. The place, the attitudes and the people just bowled me over and I'm well traveled. It's almost impossible to pin down to any one thing, but it feels right.
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/aarhus.jpg" tag_header="iOS track venue" tag_body="Aarhus, Denmark" %}
+
+Anyway, the conference at Aurhus was a fun conference with a much larger scope than objective-c which meant I got to pick a lot of brains about OSS projects which do similar jobs to CocoaPods and find out what they do better. The iOS track was held in a beautiful art gallery, with some amazing works. Again I got to speak to a bunch of people who had built some amazing things and got to give a talk on what CocoaPods is, ow it works and where it's going. I really got a lot out of that trip.
+
+Mid-NSSpain iOS 7 came out, and so did Artsy for iPhone. This is easily my best work. With [Speednoise]([http://speednoisemovement.com](http://speednoisemovement.com)) and some help from Benoit Corda &amp; Claudiu Vlad Ursache. Not to mention all the design work from Robert Lenne &amp; Daniel Kallborne. It came out to the front page of the App Store and I couldn't be prouder of all our work.
+
+Denmark wrapped up September, and October marked the first month that I had a VISA to live in the states. I didn't move initially, I had plans to move out mid-October but they ended up getting pushed back to November 2nd. I used October to kickstart the CocoaPods re-design I had been talking about.
+
+# Getting the CocoaPods branding out
+
+Andy had got a lot of the foundations down, and it was a matter of trying out some of the designs as implementations to get a feel for it. I started on the blog, we had a CocoaPods release coming up and it made sense to try nd use the blog as our first point of progress for the CocoaPods rebranding, it was the simplest of the sites. It all went smoothly, Andy &amp; I sent a few emails back and forth, I built off Smiley Keith's initial work to build a beautiful blog for us. I announced it with a blog post on the CocoaPods redesign and a week later we announced the next release by it. Posts have been going every week or so, so I tink it's doing well.
+
+By mid October I tackled the CocoaPods guides, it was arguably the most needed of all the subsites for CocoaPods and I think I did the design for it justice. It contains an huge amount of information but scopes them all nicely into what type of use you are, with a few reference sections incase you just want the raw info.
+
+By the end of the guides. It was the end of the month, and time to move back out to NYC, and in to "on being 28".
