@@ -33,6 +33,14 @@ a:hover {
   text-align:center;
 }
 
+#logo a {
+  color:black;
+}
+
+#logo a:hover {
+  color:white;
+}
+
 /* Navigation */
 
 h1,h2,h3,h4, .buttons {
