@@ -6,7 +6,6 @@ categories:
 - "being"
 ---
 
-
 # Starts in NYC
 
 It was another year with a birthday in New York City. At the moment I don't personally remember what was happening at the time, personally I don't think much was happening. I had a relatively calm time in the end of November in NYC.
@@ -111,7 +110,7 @@ With the Artsy App in the queue, I started the end of september which was public
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/spain.jpg" tag_header="NSSpain afterparty" tag_body="Logroño, Spain" %}
 
-### Speaking engagements
+# Speaking engagements
 
 I was then straight back out the door to Logronó in Spain for NSSpain. NSSpain has been the most fun conference I've ever attended. It was _brimming_ with the most interesting developers, and a few who I really look up to. It was crazy to live with Fabio of CocoaPods and to go drinking with Luis, Borja, Marin and all the spanish developers who came. Danger came out after the conference had finished and we were honoured guests shown around by Luis and found the whole experience to be one for the history books. Would go again, would recommend anyone to go. Spain is beautiful, the talks are English and everyone is accessible. 5/5.
 
