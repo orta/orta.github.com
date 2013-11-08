@@ -41,17 +41,15 @@ It wasn’t just my family who went along, we invited the amazingly talented Jam
 
 I arrived back from Canada with the family with some fresh aspirations; I was working full time with Artsy making the amazing Artsy Folio remotely, and Danger was out in Austrailia so I opted to try sharpen my portuguese again. Last year I went to Brazil, this year I opted for Portugual. I picked the only city I had really heard of and moved to Porto for a month. To be honest I spent the entire time working and running around the city (lots of cool hills and old buildings) as I was pushing to get version 1 of Folio out. It was a pretty hectic month but it was possible to get a real high level of focus out there.
 
-{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/family.jpg" tag_header="" tag_body="Photo by James Melia" %}
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/family.jpg" tag_header="&nbsp;" tag_body="Photo by James Melia" %}
 
 I did take some time to reflect on my wardrobe out in Porto. I was beginning to feel that I was done with jeans. They’re all just different shades of blue and black, I wanted colours. So I threw all my jeans away and started fresh, buying as many different colours and materials as possible.
-
 
 I arrived back from Porto and had no place to live, after moving out of my shared house at the start of this year. [Dave Grandinetti](http://twitter.com/dbgrandi) offered to let me crash at his as he was going to America for a few months and he would have an empty place. What a nice guy. So I set up camp in his spare room hooking myself up with a hammock. I wanted to experiment with paint and figured this was as good a time as any, so I started painting, daily. I thought it could help me understand people who collect art better, so I would create little gallery shows in the house. 
 
 Whilst painting I would watch TV. During this I started thinking that there just isnt a good experience for dealing with media and just throwing it on an Apple TV. So I found Put.IO, saw they had an API and figured I could work with their backend to have an amazing search and stream interface. Since the website itself is pretty plain, and there’s a bunch of cheap low quality iPhone / iPad apps. I figured it was a good idea to build something with a great experience. Though to be honest if I had known how many months it would take to make I’m not sure I would have done it. Because here I am nine months after I started the project still making more features for the app. _-- editors note, still submitting fixes, last one was October 2013_
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/folio.jpg" tag_header="UK" tag_body="Huddersfield" %}
-
 
 The app was an interesting approach to a hosted file sharing, it is the app I use to experiment with new ideas before using them in Folio. My reviews have been positive, it’s currently at 4.5 stars. It is my first app that people have to pay to use, that was a hard decision but I feel that it’s worked out. 
 
@@ -75,7 +73,7 @@ These few months were kinda slow for events, I spent a lot of my free time exerc
 
 I played a lot of Monopoly the card game. Thanks Fenn. I gave another Pecha Kucha, but this one was about Monopoly the game and its various histories. It turns out there’s a lot of contention in the history. Did you know that board game rules can’t be patented, only the pieces. Anti-Monopoly looks kinda cool.
 
-{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/dave.jpg" tag_header="" tag_body="Photo by Karl Baird" %}
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/dave.jpg" tag_header="&nbsp;" tag_body="Photo by Karl Baird" %}
 
 Dave arrived back in August and soon enough I was helping him set down shop, he was going to move back to America ( spoiler: I just spent Xmas + New Years with him. ) Which was fine as I had been setting up plans to go out of the country myself. About 2 weeks before I left my makey makey arrived, and a few days earlier I had agreed to talk to kids at a school on things to do with maths. So I did what any programmer would do, I wrote a program that works with my makey makey to show how you simple maths can do cool animations. By mixing that with awesome banana piano action I think they might’ve got a bit more of an inkling to create.
 
