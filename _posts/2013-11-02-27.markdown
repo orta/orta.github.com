@@ -85,7 +85,7 @@ With CocoaDocs _"wrapped"_ for v1, I reflected on what issues I had with it in o
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/cocoapods.jpg" tag_header="" tag_body="" %}
 
 
-So I contacted an old friend from when I was in [design school](../23), [Andy Myers](http://andy-myers.co.uk). He'd done some amazing work as a freelance developer around Manchester and was currently working for the BBC. I had hired him before to do album aart for my band, worked beautifully. I asked if he wanted to work on CocoaPods, as a side project with me, we back &amp; forwarded for about 2 months before getting to a point where there was a single logo. And another month or so before we had ideas about what the site &amp; related bradning would look and feel like.
+So I contacted an old friend from when I was in [design school](../23), [Andy Myers](http://andy-myers.co.uk). He'd done some amazing work as a freelance developer around Manchester and was currently working for the BBC. I had hired him before to do album art for my band, worked beautifully. I asked if he wanted to work on CocoaPods, as a side project with me, we back &amp; forwarded for about 2 months before getting to a point where there was a single logo. And another month or so before we had ideas about what the site &amp; related bradning would look and feel like.
 
 In that time, I started up the CocoaPods guides project which Michele Titolo rolled with and made a guide for nearly all the major aspects of learning CocoaPods once we’d figured the hierarchy by extracting things from the github wikis, issues and chat room discussion. Then dividing the sections by the users understanding of CocoaPods.
 
