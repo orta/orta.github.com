@@ -104,7 +104,7 @@ It was a pretty gruelling 2 months trying to get the app out, you could see the 
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/orta-beer.jpg" tag_header="" tag_body="" %}
 
-At WWDC I got the chance to meet Mattt Thompson almost every day, through either being at similar parties or by going to his AFNetworking commiters meetup BBQ. ( I made one commit changing his documentation URL to point to CocoaDocs - it counts! ) Which coincidentally was where I met [@dstnbrkr](https://twitter.com/dstnbrkr) who ended up working with me. Anyway, Mattt turned down the opportunity to talk at NSSpain. And in his lieu said they should ge tin contact with me. This was before I'd ever met him, and based entirely on my CocoaDocs work. So I owe him a thanks too. Thanks. 
+At WWDC I got the chance to meet Mattt Thompson almost every day, through either being at similar parties or by going to his AFNetworking commiters meetup BBQ. ( I made one commit changing his documentation URL to point to CocoaDocs - it counts! ) Which coincidentally was where I met [@dstnbrkr](https://twitter.com/dstnbrkr) who ended up working with me. Anyway, Mattt turned down the opportunity to talk at NSSpain. And in his lieu said they should get in contact with me. This was before I'd ever met him, and based entirely on my CocoaDocs work. So I owe him a thanks too. Thanks.
 
 With the Artsy App in the queue, I started the end of september which was public speaking and conferences for a month straight. It started with the beautifully named Wuthering Bytes, a conference for makers where I talked about how we try to maintain the CocoaPods community ( lots of PRs, lots of people, surprisingly small amounts of drama.)
 
