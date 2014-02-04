@@ -255,6 +255,11 @@ ul {
   background:url('http://ortastuff.s3.amazonaws.com/site/images/artsy-3.jpg')  center 0 no-repeat #d7d7d7;
 }
 
+#cocoapods-header {
+  background:url('http://ortastuff.s3.amazonaws.com/site/images/cocoapods1.jpg')  center 0 no-repeat #d7d7d7;
+}
+
+
 #cocoadocs-header-unit {
   background: center 0 no-repeat;
 }
