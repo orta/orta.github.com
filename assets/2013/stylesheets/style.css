@@ -221,6 +221,10 @@ ul {
   color:#d7d7d7;
 }
 
+.project p {
+  padding:12px;
+}
+
 .project h2 {
   font-size: 3em;
   color:white;
