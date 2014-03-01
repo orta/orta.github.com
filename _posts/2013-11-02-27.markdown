@@ -85,7 +85,7 @@ With CocoaDocs _"wrapped"_ for v1, I reflected on what issues I had with it in o
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/cocoapods.jpg" tag_header="" tag_body="" %}
 
 
-So I contacted an old friend from when I was in [design school](23), [Andy Myers](http://andy-myers.co.uk). He'd done some amazing work as a freelance developer around Manchester and was currently working for the BBC. I had hired him before to do album aart for my band, worked beautifully. I asked if he wanted to work on CocoaPods, as a side project with me, we back &amp; forwarded for about 2 months before getting to a point where there was a single logo. And another month or so before we had ideas about what the site &amp; related bradning would look and feel like.
+So I contacted an old friend from when I was in [design school](../23), [Andy Myers](http://andy-myers.co.uk). He'd done some amazing work as a freelance developer around Manchester and was currently working for the BBC. I had hired him before to do album art for my band, worked beautifully. I asked if he wanted to work on CocoaPods, as a side project with me, we back &amp; forwarded for about 2 months before getting to a point where there was a single logo. And another month or so before we had ideas about what the site &amp; related bradning would look and feel like.
 
 In that time, I started up the CocoaPods guides project which Michele Titolo rolled with and made a guide for nearly all the major aspects of learning CocoaPods once we’d figured the hierarchy by extracting things from the github wikis, issues and chat room discussion. Then dividing the sections by the users understanding of CocoaPods.
 
@@ -104,7 +104,7 @@ It was a pretty gruelling 2 months trying to get the app out, you could see the 
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/orta-beer.jpg" tag_header="" tag_body="" %}
 
-At WWDC I got the chance to meet Mattt Thompson almost every day, through either being at similar parties or by going to his AFNetworking commiters meetup BBQ. ( I made one commit changing his documentation URL to point to CocoaDocs - it counts! ) Which coincidentally was where I met [@dstnbrkr](https://twitter.com/dstnbrkr) who ended up working with me. Anyway, Mattt turned down the opportunity to talk at NSSpain. And in his lieu said they should ge tin contact with me. This was before I'd ever met him, and based entirely on my CocoaDocs work. So I owe him a thanks too. Thanks. 
+At WWDC I got the chance to meet Mattt Thompson almost every day, through either being at similar parties or by going to his AFNetworking commiters meetup BBQ. ( I made one commit changing his documentation URL to point to CocoaDocs - it counts! ) Which coincidentally was where I met [@dstnbrkr](https://twitter.com/dstnbrkr) who ended up working with me. Anyway, Mattt turned down the opportunity to talk at NSSpain. And in his lieu said they should get in contact with me. This was before I'd ever met him, and based entirely on my CocoaDocs work. So I owe him a thanks too. Thanks.
 
 With the Artsy App in the queue, I started the end of september which was public speaking and conferences for a month straight. It started with the beautifully named Wuthering Bytes, a conference for makers where I talked about how we try to maintain the CocoaPods community ( lots of PRs, lots of people, surprisingly small amounts of drama.)
 
