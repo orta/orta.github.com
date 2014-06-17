@@ -327,3 +327,23 @@ ul {
   text-align:center;
   }
 }
+
+/* top nav under headline */
+
+.initial li {
+  width:150px;
+  display:inline-block;  
+}
+
+.initial li a {
+  background-color: #cecece;
+  color:#d7d7d7;
+  font-size: 3em;
+  font-weight: normal;
+  font-family: 'League Gothic', sans-serif;
+  padding:10px;
+}
+
+.initial li a:hover {
+  background-color: black;
+}
