@@ -1,0 +1,97 @@
+---
+layout: on_being
+title: "28"
+categories:
+- "on"
+- "being"
+---
+
+Notes: Go see github activity
+
+It was another year with a birthday in New York City. I gave myself a treat. I went to one of the most memorable Starcraft events in american history. It was the opening paragraph in a New Yorker article that [came out today](http://www.newyorker.com/magazine/2014/11/24/good-game). I'd got my US VISA (h1b) back in October but delayed getting out until November due to life.
+
+I finished my last article, [on being 27](/on/being/27/), with a mention that I was working on a new CocoaPods branding. On my birthday I released the initial blog post [announcing it](http://blog.cocoapods.org/Beta/) to the world. The site was in beta and things were moving forwards. A lot of the ideas around what it was going to be were pretty cemented, and after finishing up on a particularly brutal amount of overtime getting the Artsy app out in time for iOS7, I just wanted to do some simple web programming. This had also taken its toll on the Artsy Mobile team. One of the founding [partners left](http://www.speednoisemovement.com) to join Google, making it a two person team.
+
+Part of the re-branding had been that we were going to explore community events a bit more. I had ran a series of lightning talks that went beautifully called [CocoaKucha](http://blog.cocoapods.org/Cocoa-Kucha) ( based on the [PechaKucha](http://www.pechakucha.org) format ). I still don't think I've quite got the hang of being the host of an event yet. They're like this funny awkward black humour affair which doesn't always appeal. But it was a good springboard to some of the events that we played with further along the year.
+
+I headed back to the UK in December. I had been invited to a wedding in India, and that meant taking the chance to be a part of my friends first step into maturity ( his wife gave birth last week, as of writing. ) He was marring an indian lady, and they are an amazing couple. Kevin was the [roadie for my band](http://kieronononon.herokuapp.com) back when we [played.](https://www.youtube.com/watch?v=64tePVem9ms).
+
+[[[[ photos ]]]]
+
+I flew out to Kerala for 2 weeks of wedding-ness. I had no laptop, and no control over what was happening for the entire time. We visited cities, parks and mountains full of tea. It was one of the most colourful places I've ever been in my life. Consider me very impressed.
+
+On the downside, the other Artsy Mobile engineer also announced he was leaving for Facebook whilst I was in India. Dropping the team down to one was a bit of a bummer. However, I got a promotion of sorts as I was the only one left. This gave me time to reflect on the ( at the time ) two years I've been working at Artsy. I still felt it was the right place for me then. I do now also FWIW.
+
+I had skipped a few xmases with my family. So I stopped back in the UK till early January with Danger. We bought a Wii U and completed Super Mario World 3D. It was great. We ended up playing a few games together this year; Mario World 3D, Mario Kart Wii U, Gone Home, AntiChamber, The Wolf Among Us, Portal, Portal 2 and current Broken Age. I personally threw tens of hours into TF2 this year, as a mental cool down agent.
+
+For new years we just hung out and drank wine.
+
+We started 2014 by making our own cheese, and then making pizza with it. The cheese was terrible. The pizza less so. Turns out we have no idea how to do this. Plus the kit gave us really bad advice. I blame the kit. 
+
+I started a busy travel year by going to Poland for the 11th for [MCE 2014](http://2014.mceconf.com). I was speaking between two people who I respected greatly, Jon Reid & Chris Eidhof. I'd been reading Jon Reid's blog for years, and regularly consulted it for advice on understanding how to write tests in my apps. And Chris makes cool stuff, and is obviously quirky online, but far more so face to face. Chris and I had overlapped at NSSpain last year, but it was pretty fleeting. We made up for it at MCE. On the taxi in I met [Dave Wiskus](http://betterelevation.com), who had also just moved to NYC ( and was doing a better job of being there than me. ) We got on beautifully, I think he's a brilliant, flawed and awesome human being. We promised to meet again in NYC and we made good on that. 
+
+I took a break from Mac/iOS programming in early 2011 and did Ruby on Rails. A good chunk of the company I was working for went to [The Scottish Ruby Conf](http://2014.scottishrubyconference.com), it was the first conference I had been to since I went to WWDC as a student in 2007. I remember going to Scottish Ruby Conf and someone pointing out two people; one ( who recently passed away :( ) who [created Rake](https://github.com/jimweirich/wyriki/commit/d28fac7f18aeacb00d8ad3460a0a5a901617c2d4) and the other who was the [maintainer of Sinatra](http://rkh.im). My mind was blown. These were every-day tools for me at the time, I had a million questions and I just wanted to say "thanks, I really appreciate the time you've put into those tools." I only managed to get to say it to one of them ( and I've been chasing down Konstanin for a high-five ever since. ) However it had a profound effect on me as a developer. I gained a much stronger insight into communities, infamy and being humble.
+
+When I went to MCE, I realised I was one of the ones that people pointed at and said "He's that guy that did _x_". 
+
+To some extent it is an obvious side-effect of making large-scale community contributions. I have put countless hundreds of hours into improving boring things like documentation, and less boring things like design for tools that affect almost everyone. I think it comes with some responsibilities, I want to trigger what I felt in other people. So when I'm speaking at a conference, I try spend my entire time being available for anyone to come up and say hi. Try and engage anyone in conversation, find out what makes them tick, deflect praise for CocoaPods by saying that I do not work on the tool itself, and share all the web credit with the [quiet](http://florianhanke.com) [few](http://kylefuller.co.uk) [helping](http://michele.io) [out](http://segiddins.me) [also](http://www.smileykeith.com). It mattered to me then, I hope it matters to people on the other side of the conversation.
+
+After the success of the previous Cocoa Kucha, [Daniel Haight](http://twitter.com/daniel1of1) got in contact and we talked about running a CocoaKucha in London. I hadn't seen [Kyle](http://kylefuller.co.uk) in a while, and it was a great excuse to drag [Fabio Pelosin](https://github.com/fabiopelosin) ( still #1 on [commit counts](http://cocoapods.org/about) to CocoaPods ) out to play. We hung out, did some talks. It was lovely. We hacked on one of the first CocoaPods plugins one of those nights, creating what turned into the CocoaPods Hooks API that [Sam Giddens](http://segiddins.me) and I used for [cocoapods-keys](https://github.com/orta/cocoapods-keys/).
+
+Chris and I had made a [orta/life#6](https://github.com/orta/life/issues/6) issue to go mountain running at the end of 2013 over twitter. As Berlin was freezing over in January 2014, I opted instead to try run another [CocoaPods event](http://blog.cocoapods.org/Cocoa-Kucha-3-Berlin/) in Berlin and to invite myself to Chris' house to hang out. He had seemed like a nice enough chap over the internet. He's even nicer in real life. The Berlin CococaKucha
+
+Jan
+  Made Cheese
+  Made Pizza
+  MCE - Poland
+  CocoaKucha London ( with Fabio? )
+  CocoaKucha - Berlin on my own
+  Talk at Nick
+
+Feb
+  NYC + Snow
+  Snow Mobile
+  NYC Meetup - Cocoa Kommitee
+
+Mar
+  Amsterdam
+  Armory Show
+  Artsy Hackathon
+  CocoaPods Bug Bash
+  Rock Smith
+
+April
+  Started CD redesign
+  Started Podcast with DB
+  Date night with dwiskus
+  UK
+  Istanbul Tech Talks
+
+May
+  UIKonf
+  SF - Ruby Motion
+
+Jun
+  WWDC
+  Prototype GIFs app
+
+July
+  NSAlps
+  Sweden?
+
+Aug
+  NYC
+  Swift Start
+  Eidolon
+
+Sept
+  NSSpain
+  GIFs.app
+
+Oct
+  Milan
+  Coins
+  YAC
+
+Nov
+  Eidolon Launch
