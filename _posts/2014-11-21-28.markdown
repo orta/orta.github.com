@@ -38,27 +38,28 @@ To some extent it is an obvious side-effect of making large-scale community cont
 
 After the success of the previous Cocoa Kucha, [Daniel Haight](http://twitter.com/daniel1of1) got in contact and we talked about running a CocoaKucha in London. I hadn't seen [Kyle](http://kylefuller.co.uk) in a while, and it was a great excuse to drag [Fabio Pelosin](https://github.com/fabiopelosin) ( still #1 on [commit counts](http://cocoapods.org/about) to CocoaPods ) out to play. We hung out, did some talks. It was lovely. We hacked on one of the first CocoaPods plugins one of those nights, creating what turned into the CocoaPods Hooks API that [Sam Giddens](http://segiddins.me) and I used for [cocoapods-keys](https://github.com/orta/cocoapods-keys/).
 
-Chris and I had made a [orta/life#6](https://github.com/orta/life/issues/6) issue to go mountain running at the end of 2013 over twitter. As Berlin was freezing over in January 2014, I opted instead to try run another [CocoaPods event](http://blog.cocoapods.org/Cocoa-Kucha-3-Berlin/) in Berlin and to invite myself to Chris' house to hang out. He had seemed like a nice enough chap over the internet. He's even nicer in real life. The Berlin CococaKucha
+Chris and I had made a [orta/life#6](https://github.com/orta/life/issues/6) issue to go mountain running at the end of 2013 over twitter. As Berlin was freezing over in January 2014, I opted instead to try run another [CocoaPods event](http://blog.cocoapods.org/Cocoa-Kucha-3-Berlin/) in Berlin and to invite myself to Chris' house to hang out. He had seemed like a nice enough chap over the internet. He's even nicer in real life. The Berlin CococaKucha went beautifully, and I got to hang out with another CocoaPods dev. Danger came to Berlin too, and we hung out. 
 
-Jan
-  Made Cheese
-  Made Pizza
-  MCE - Poland
-  CocoaKucha London ( with Fabio? )
-  CocoaKucha - Berlin on my own
-  Talk at Nick
+[[berlin photos]]
 
-Feb
-  NYC + Snow
-  Snow Mobile
-  NYC Meetup - Cocoa Kommitee
+My Artsy work had started up again in january, the entire of the Artsy dev team planned to pivot towards building a significantly improved fair experience for a new york art fair called [The Armory Show](https://artsy.net/the-armory-show). We wanted to make the Artsy mobile app to be the definitive guide to the fair when on-site. On the iOS side we planned a local map, guides, and a revised version of most of the app's pages when inside a fair. We had a hard deadline for early March as that's when the event started. Luckily I had help, 1aura Brown another Artsier switched from Ruby to iOS, and so did dB. They were quick learners. We pulled in [Robb Böhnke](http://robb.is/working-on/artsy-iphone-app/) to help us get the app built. 
 
-Mar
-  Amsterdam
-  Armory Show
-  Artsy Hackathon
-  CocoaPods Bug Bash
-  Rock Smith
+To finish January I headed back to NYC, and did a talk at Nickelodeon. February was a cold month. The snow in NYC was pretty intense. You have this image in your head of NYC + snow and it's beautiful, white and pristine. This is right, for about an hour. Afterwards its slushy brown piles a meter high making walking anywhere difficult.
+
+I had applied earlier in the year to speak at my first American conference, [Snow-Mobile Madison](http://www.snow-mobile.org). It had the bad luck of being on the last week of being on my deadline. I had this interesting mix of trying to be as sociable as possible whilst crunching in the back corner of a conference. I pretty much say this about al lthe conferences but this conference stuck out to me because it was already at a place where most conferences are trying to be. They had a great, diverse and interested selection of speakers talking on technical and non-technical topics which I found fascinating. It was hard to differentiate between speakers and attendees because everyone seemed to know each other. [Joe Burgess](https://www.youtube.com/watch?v=QpH-pz8fZE4) who I had met in NYC a few times also speaking, we discussed the idea of trying to run a mini-conference in NYC.
+
+As a side-effect of the Artsy mobile team's brain drain I had been very worried about the [bus factor](http://en.wikipedia.org/wiki/Bus_factor) ( "In software development, the bus factor is the number of key developers who would need to be incapacitated to make a project unable to proceed." ) for the Artsy mobile side. Hiring more people is one way to reduce this problem, another was by cementing the internal knowledge of a project into somethign else. This could be via extensive documentation, but I think the more interesting ( and less likely to be out of date ) method is by using automated tests. 
+
+I had tried before to add tests to the Artsy apps but without [CI](http://www.thoughtworks.com/continuous-integration) and everyone else wanting to test it failed. 
+
+After Snow-Mobile, I arrived back in NYC with my deadline over. I had been organizing another [CocoaPods meetup](http://blog.cocoapods.org/The-Kommittee-NYC/). For the Cocoa Kuchas I had ran a few lightning talk style meetups so I wanted to experiment with a new format. Since Jon Reid's [talk at MCE](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) had really explained the basics well enough that I could springboard off with his [recommended books](https://speakerdeck.com/jonreid/unit-testing-control-your-dependencies), I felt like I had some good foundations on testing and wanted to try get people I knew (or wanted to) to get together and talk about testing. So I created a Cocoa Kommitteee, a panel on testing with a wide array of experiences to discuss tooling, methodologies and validity. It worked out really well, I'd like to do something similar again.
+
+March came along, and I went to Amsterdam instead of seeing what the Artsy iPhone fair experience was really like. I was speaking at [Mdevcon](http://vimeo.com/105491405) which we had agreed should be the official CocoaPods meetup for the year. Alloy, Fabio, Kyle, Boris & Ash all were in attendence and we rented a CocoaPods house on Airbnb so we could do some serious hanging out. While we were hanging out we came up with the idea of a [CocoaPods Bug Bash](http://blog.cocoapods.org/CocoaPods-Bug-Bash/) as a way of clearing the backlog of issues so that Fabio could knock out big features easily.
+
+The bash happened later in the month and was a really interesing event. We asked some developers if we could get licenses of apps for people to have as prizes and that worked out well. You can get the full details in the [blog post](http://blog.cocoapods.org/CocoaPods-Bug-Bash). Howver the interesting thing that I can see looking back is that it inspired more people to hack on the CocoaPods code-base. Fabio had spent some time building a meta-repo called [Rainforest](https://github.com/CocoaPods/Rainforest) which he was using to release CocoaPods ( a release involves updating several things at once. ) We found that this tool makes a really nice development environment. After we finished the bug bash early we encouraged people still interested in doing something to install development CocoaPods and hack on some small features. Through this we had [Boris Bügling](http://buegling.com) and [Sam Giddins](http://segiddins.me) eventually join the core team. It was highly valuble for us.
+
+I headed back to NYC, and I had been spending some great time with [Dave Wiskus](http://betterelevation.com) in NYC. We went on romantic walks down the riverside, had fancy macarons, failed a few times to get broadway tickets and visited a lot of cool bars.
+
 
 April
   Started CD redesign
