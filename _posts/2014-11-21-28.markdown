@@ -54,7 +54,7 @@ I had tried before to add tests to the Artsy apps but without [CI](http://www.th
 
 After Snow-Mobile, I arrived back in NYC with my deadline over. I had been organizing another [CocoaPods meetup](http://blog.cocoapods.org/The-Kommittee-NYC/). For the Cocoa Kuchas I had ran a few lightning talk style meetups so I wanted to experiment with a new format. Since Jon Reid's [talk at MCE](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) had really explained the basics well enough that I could springboard off with his [recommended books](https://speakerdeck.com/jonreid/unit-testing-control-your-dependencies), I felt like I had some good foundations on testing and wanted to try get people I knew (or wanted to) to get together and talk about testing. So I created a Cocoa Kommitteee, a panel on testing with a wide array of experiences to discuss tooling, methodologies and validity. It worked out really well, I'd like to do something similar again.
 
-March came along, and I went to Amsterdam instead of seeing what the Artsy iPhone fair experience was really like. I was speaking at [Mdevcon](http://vimeo.com/105491405) which we had agreed should be the official CocoaPods meetup for the year. Alloy, Fabio, Kyle, Boris & Ash all were in attendence and we rented a CocoaPods house on Airbnb so we could do some serious hanging out. While we were hanging out we came up with the idea of a [CocoaPods Bug Bash](http://blog.cocoapods.org/CocoaPods-Bug-Bash/) as a way of clearing the backlog of issues so that Fabio could knock out big features easily.
+March came along, and I went to Amsterdam instead of seeing what the Artsy iPhone fair experience was really like. I was speaking at [Mdevcon](http://vimeo.com/105491405) which we had agreed should be the official CocoaPods meetup for the year. Alloy, Fabio, Kyle, Boris & Ash all were in attendence and we rented a CocoaPods house on Airbnb so we could do some serious hanging out. While we were out there I talked to Ash about his current situation and pointed out that Artsy was definitely looking for more senior iOS people, and kind of left it at that for a while. While we were hanging out we came up with the idea of a [CocoaPods Bug Bash](http://blog.cocoapods.org/CocoaPods-Bug-Bash/) as a way of clearing the backlog of issues so that Fabio could knock out big features easily. 
 
 The bash happened later in the month and was a really interesting event. We asked some developers if we could get licenses of apps for people to have as prizes and that worked out well. You can get the full details in the [blog post](http://blog.cocoapods.org/CocoaPods-Bug-Bash). Howver the interesting thing that I can see looking back is that it inspired more people to hack on the CocoaPods code-base. Fabio had spent some time building a meta-repo called [Rainforest](https://github.com/CocoaPods/Rainforest) which he was using to release CocoaPods ( a release involves updating several things at once. ) We found that this tool makes a really nice development environment. After we finished the bug bash early we encouraged people still interested in doing something to install development CocoaPods and hack on some small features. Through this we had [Boris Bügling](http://buegling.com) and [Sam Giddins](http://segiddins.me) eventually join the core team. It was highly valuble for us.
 
@@ -64,7 +64,9 @@ In April I had cleared enough from my CocoaPods TODO to start getting back to Co
 
 April was also the first time that [Danger](https://www.facebook.com/gem.mcshane) came out to a conference, we went out together to Istanbul for the [Istanbul Tech Talks](http://www.istanbultechtalks.com). It was aweeeeesome. I got to hang out with [Peter Steinburger](http://petersteinberger.com), [Chris Eidhof](http://eidhof.nl) and [Siri Nordstorm](https://www.facebook.com/iris.siri.39). I got to speak to a lot of passionate turkish people, see an area of the world that was culturally foreign as a westerner and have my girlfriend see me talk.
 
-We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. In Artsy stuff I moved back from the [Artsy iOS App](http://iphone.artsy.net) to our [Gallery Portfolio app](https://itunes.apple.com/us/app/artsy-folio/id504862164?mt=8) to start working on version 2.0.  
+We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. In Artsy stuff I moved back from the [Artsy iOS App](http://iphone.artsy.net) to our [Gallery Portfolio app](https://itunes.apple.com/us/app/artsy-folio/id504862164?mt=8) to start working on version 2.0. This co-incided with the first non-artsy person joining the mobile team. Ash, who I had talked to back in Amsterdam emailed me sometime inbetween the and we had slowly gone through the process and he was on his 3 month initial contract. This was double awesome, because it meant I now didn't have to concentrate on two apps at once. Plus he came with a wealth of knowledge in areas I've not touched.
+
+My codebases are strange. For more or less my entire working career I've only ever built my own codebases as the principal author, I've never inherited something older than a month or two, and so I have _no clue_ on how other people work. So it was great to have someone experienced come in and provide a second pair of eyes. To be fair, I think he was impressed enough that we wrote tests and used continuous integration to overlook anything else.
 
 I aimed to get CocoaDocs v2 ready for UIKonf, I wanted to talk about what the team was working on and to show off some new things that we'd been working on. At UIKonf I announced the initial prototypes of CocoaDocs v.2 and [that the authentication server](http://blog.cocoapods.org/CocoaPods-Trunk) would be turned on for people to [claim their pods](http://blog.cocoapods.org/Claim-Your-Pods/) within a week. 
 
@@ -74,15 +76,17 @@ Tap talk is another ephemeral photos app. It's aimed towards taking a picture (o
 
 Here's some golden ones. [[photos]]
 
+And here's another way to deal with them.
+
+I really, really enjoyed UIKonf. I felt like it was exactly the sort of conference I would like to run myself. Also rather convienently  Afterwards I went back to England to spend some quality time with Danger before setting off to San Francisco, it was WWDC in time for June.
+
+WWDC is this big thing. It's a monolithic conference ran by Apple that for many years was the only Mac + iOS conference, and is pretty much the only thing at it's scale for our community. It brings thousands of developers to San Francisco for a few weeks and is a great time to meet a bunch of people that you've only seen an avatar for. I went early, the lovely Delisa Mason let me crash at her place and we went to the Ruby Motion [motion#inspect](http://www.rubymotion.com/conference/2014/) conference to say hi to [Alloy](https://github.com/alloy) and the Motion team. They announced Motion on Android, I think that's super awesome. It was fun to hang out. Delisa and I played some video games. The rest of the Artsy mobile team came out ( they had tickets ) to SF later too! It was fun.
+
+There's a cool alternative WWDC that happens across the road from WWDC itself, it's a 3 day long conference with some of the biggest names coming and going. I spent as much time as possible there reading technical stuff and drinking with new people. Unsurprisingly I got to talk to a lot of people I had interacted with online and it was awesome.
+
+We ran a CocoaPods annual meetup that ran out of space at 300 people, I think the next one would have to be bigger / more formally organized. Crazy stuff. I think I also need to prepare quite a bit in advance.
 
 
-May
-  UIKonf
-  SF - Ruby Motion
-
-Jun
-  WWDC
-  Prototype GIFs app
 
 July
   NSAlps
