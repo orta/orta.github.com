@@ -42,11 +42,11 @@ Chris and I had made a [orta/life#6][25] issue to go mountain running at the end
 
 [[berlin photos]]
 
-My Artsy work had started up again in january, the entire of the Artsy dev team planned to pivot towards building a significantly improved fair experience for a new york art fair called [The Armory Show][27]. We wanted to make the Artsy mobile app to be the definitive guide to the fair when on-site. On the iOS side we planned a local map, guides, and a revised version of most of the app's pages when inside a fair. We had a hard deadline for early March as that's when the event started. Luckily I had help, 1aura Brown another Artsier switched from Ruby to iOS, and so did dB. They were quick learners. We pulled in [Robb Böhnke][28] to help us get the app built. 
+My Artsy work had started up again in january, the entire of the Artsy dev team planned to pivot towards building a significantly improved fair experience for a New York art fair called [The Armory Show][27]. We wanted to make the Artsy mobile app to be the definitive guide to the fair when on-site. On the iOS side we planned a local map, guides, and a revised version of most of the app's pages when inside a fair. We had a hard deadline for early March as that's when the event started. Luckily I had help, 1aura Brown another Artsier switched from Ruby to iOS, and so did dB. They were quick learners. We pulled in [Robb Böhnke][28] to help us get the app built. 
 
 To finish January I headed back to NYC, and did a talk at Nickelodeon. February was a cold month. The snow in NYC was pretty intense. You have this image in your head of NYC + snow and it's beautiful, white and pristine. This is right, for about an hour. Afterwards its slushy brown piles a meter high making walking anywhere difficult.
 
-I had applied earlier in the year to speak at my first American conference, [Snow-Mobile Madison][29]. It had the bad luck of being on the last week of being on my deadline. I had this interesting mix of trying to be as sociable as possible whilst crunching in the back corner of a conference. I pretty much say this about al lthe conferences but this conference stuck out to me because it was already at a place where most conferences are trying to be. They had a great, diverse and interested selection of speakers talking on technical and non-technical topics which I found fascinating. It was hard to differentiate between speakers and attendees because everyone seemed to know each other. [Joe Burgess][30] who I had met in NYC a few times also speaking, we discussed the idea of trying to run a mini-conference in NYC.
+I had applied earlier in the year to speak at my first American conference, [Snow-Mobile Madison][29]. It had the bad luck of being on the last week of being on my deadline. I had this interesting mix of trying to be as sociable as possible whilst crunching in the back corner of a conference. I pretty much say this about all the conferences but this conference stuck out to me because it was already at a place where most conferences are trying to be. They had a great, diverse and interested selection of speakers talking on technical and non-technical topics which I found fascinating. It was hard to differentiate between speakers and attendees because everyone seemed to know each other. [Joe Burgess][30] who I had met in NYC a few times also speaking, we discussed the idea of trying to run a mini-conference in NYC.
 
 As a side-effect of the Artsy mobile team's brain drain I had been very worried about the [bus factor][31] ( "In software development, the bus factor is the number of key developers who would need to be incapacitated to make a project unable to proceed." ) for the Artsy mobile side. Hiring more people is one way to reduce this problem, another was by cementing the internal knowledge of a project into something else. This could be via extensive documentation, but I think the more interesting ( and less likely to be out of date ) method is by using automated tests. 
 
@@ -68,7 +68,7 @@ April was also the first time that [Danger][43] came out to a conference, we wen
 
 We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. When we were staying there were [riots][48], it gave the place a really odd atmosphere at night. 
 
- In Artsy stuff I moved back from the [Artsy iOS App][49] to our [Gallery Portfolio app][50] to start working on version 2.0. This co-incided with the first non-artsy person joining the mobile team. Ash, who I had talked to back in Amsterdam emailed me sometime inbetween the and we had slowly gone through the process and he was on his 3 month initial contract. This was double awesome, because it meant I now didn't have to concentrate on two apps at once. Plus he came with a wealth of knowledge in areas I've not touched.
+ In Artsy stuff I moved back from the [Artsy iOS App][49] to our [Gallery Portfolio app][50] to start working on version 2.0. This coincided with the first non-artsy person joining the mobile team. Ash, who I had talked to back in Amsterdam emailed me sometime inbetween the and we had slowly gone through the process and he was on his 3 month initial contract. This was double awesome, because it meant I now didn't have to concentrate on two apps at once. Plus he came with a wealth of knowledge in areas I've not touched.
 
 My codebases are strange. For more or less my entire working career I've only ever built my own codebases as the principal author, I've never inherited something older than a month or two, and so I have _no clue_ on how other people work. So it was great to have someone experienced come in and provide a second pair of eyes. To be fair, I think he was impressed enough that we wrote tests and used continuous integration to overlook anything else.
 
@@ -92,7 +92,7 @@ We ran a CocoaPods annual meetup that ran out of space at 300 people, I think th
 
 WWDC introduced a new language that got everyone in the iOS dev community excited. iOS8 was a bit meh. I was more interested in hanging out with other makers. The language change meant that we had a lot of work to do on CocoaPods to get a new version out. We, the CocoaPods dev team, were slowly having less and less time to work on the project. Making support for a new language was outside of the scope for anyone. We all had real-life work to do, and though we had just been accepted as a scholarship project for Stripe, it's seemed bad form to ask them for time for one thing, then switch it up in the first week of them accepting the proposal.
 
-In July was booked to come to Sweden to the CocoaHeads Stockholm, it wasn't a conference and I had talked to a few swedish people at WWDC and it sounded super friendly. So I went back to Europe, grabbed Danger went east to Sweden, we hosteled in a boat. We walked around this old beautiful city, and it was the first time Danger took out her new camera. She took these:
+In July was booked to come to Sweden to the CocoaHeads Stockholm, it wasn't a conference and I had talked to a few Swedish people at WWDC and it sounded super friendly. So I went back to Europe, grabbed Danger went east to Sweden, we hosteled in a boat. We walked around this old beautiful city, and it was the first time Danger took out her new camera. She took these:
 
 [[ photos ]]
 
@@ -152,11 +152,10 @@ When I got back there were a few more additions to Eidolon based off our first r
 
 This made it November. Given that I had crunched, November was a  pretty quiet month. I flew back to the UK just before my birthday turning me 29.
 
-
 ---
 
 Separate sections?
- : People I've worked with this year
+ : People I've worked with this year who inspired
    : Dustin, dB, Robb, Ash
 
  : Gaming with Danger
