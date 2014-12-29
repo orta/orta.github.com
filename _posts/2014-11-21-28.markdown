@@ -64,6 +64,8 @@ In April I had cleared enough from my CocoaPods TODO to start getting back to Co
 
 April was also the first time that [Danger](https://www.facebook.com/gem.mcshane) came out to a conference, we went out together to Istanbul for the [Istanbul Tech Talks](http://www.istanbultechtalks.com). It was aweeeeesome. I got to hang out with [Peter Steinburger](http://petersteinberger.com), [Chris Eidhof](http://eidhof.nl) and [Siri Nordstorm](https://www.facebook.com/iris.siri.39). I got to speak to a lot of passionate turkish people, see an area of the world that was culturally foreign as a westerner and have my girlfriend see me talk.
 
+[[ photos ]]
+
 We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. In Artsy stuff I moved back from the [Artsy iOS App](http://iphone.artsy.net) to our [Gallery Portfolio app](https://itunes.apple.com/us/app/artsy-folio/id504862164?mt=8) to start working on version 2.0. This co-incided with the first non-artsy person joining the mobile team. Ash, who I had talked to back in Amsterdam emailed me sometime inbetween the and we had slowly gone through the process and he was on his 3 month initial contract. This was double awesome, because it meant I now didn't have to concentrate on two apps at once. Plus he came with a wealth of knowledge in areas I've not touched.
 
 My codebases are strange. For more or less my entire working career I've only ever built my own codebases as the principal author, I've never inherited something older than a month or two, and so I have _no clue_ on how other people work. So it was great to have someone experienced come in and provide a second pair of eyes. To be fair, I think he was impressed enough that we wrote tests and used continuous integration to overlook anything else.
@@ -80,17 +82,23 @@ And here's another way to deal with them.
 
 I really, really enjoyed UIKonf. I felt like it was exactly the sort of conference I would like to run myself. Also rather convienently  Afterwards I went back to England to spend some quality time with Danger before setting off to San Francisco, it was WWDC in time for June.
 
-WWDC is this big thing. It's a monolithic conference ran by Apple that for many years was the only Mac + iOS conference, and is pretty much the only thing at it's scale for our community. It brings thousands of developers to San Francisco for a few weeks and is a great time to meet a bunch of people that you've only seen an avatar for. I went early, the lovely Delisa Mason let me crash at her place and we went to the Ruby Motion [motion#inspect](http://www.rubymotion.com/conference/2014/) conference to say hi to [Alloy](https://github.com/alloy) and the Motion team. They announced Motion on Android, I think that's super awesome. It was fun to hang out. Delisa and I played some video games. The rest of the Artsy mobile team came out ( they had tickets ) to SF later too! It was fun.
+WWDC is this big thing. It's a monolithic conference ran by Apple that for many years was the only Mac + iOS conference, and is pretty much the only thing at it's scale for our community. It brings thousands of developers to San Francisco for a few weeks and is a great time to meet a bunch of people that you've only seen an avatar for. I went early, the lovely Delisa Mason let me crash at her place and we went to the Ruby Motion [motion#inspect](http://www.rubymotion.com/conference/2014/) conference to say hi to [Alloy](https://github.com/alloy) and the Motion team. They announced Motion on Android, I think that's super awesome. It was fun to hang out. Delisa and I played some video games. The rest of the Artsy mobile team came out ( they had WWDC tickets ) to SF later too! It was fun, it was the first time we had the entire mobile Artsy team in a single place.
 
-There's a cool alternative WWDC that happens across the road from WWDC itself, it's a 3 day long conference with some of the biggest names coming and going. I spent as much time as possible there reading technical stuff and drinking with new people. Unsurprisingly I got to talk to a lot of people I had interacted with online and it was awesome.
+There's a cool alternative WWDC that happens across the road from WWDC itself, it's a 3 day long conference with some of the biggest names coming and going. I spent as much time as possible there reading technical stuff and drinking with new people. I got to talk to a lot of people I had interacted with online and that never ceases to be awesome.
 
-We ran a CocoaPods annual meetup that ran out of space at 300 people, I think the next one would have to be bigger / more formally organized. Crazy stuff. I think I also need to prepare quite a bit in advance.
+We ran a CocoaPods annual meetup that ran out of space at 300 people, I think the next one would have to be bigger / more formally organized. We had a bunch of the CocoaPods contributors talking about things they had worked on and ideas they had this year. I'd like to do something again this year, perhaps on a larger scale. Hard to see that far from here though.
 
+WWDC introduced a new language that got everyone in the iOS dev community excited. iOS8 was a bit meh. I was more interested in hanging out with other makers. The langauge change meant that we had a lot of work to do on CocoaPods to get a new version out. We, the CocoaPods dev team, were slowly having less and less time to work on the project. Making support for a new language was outside of the scope for anyone. We all had real-life work to do, and though we had just been accepted as a scholarship project for Stripe, it's seemed bad form to ask them for time for one thing, then switch it up in the first week of them accepting the proposal.
 
+In July was booked to come to Sweden to the CocoaHeads Stockholm, it wasn't a conference and I had talked to a few swedish people at WWDC and it sounded super friendly. So I went back to europe, grabbed Danger went east to Sweden, we hostelled in a boat. We walked around this old beautiful city, and it was the first time Danger took out her new camera. She took these:
 
-July
-  NSAlps
-  Sweden?
+[[ photos ]]
+
+Not one to waste time in Europe, a week or two later I headed over to Austria to see Pete Steinberger. We had made plans to go to the alps with some other iOS devs. We went, it was beautiful. We did a lot of walking, some talking and had a really casual time. 
+
+[[ photos ]]
+
+I spent a few weeks back in the UK, then headed out to NYC. For the last 3 months I had been in full email mode for   
 
 Aug
   NYC
@@ -108,3 +116,13 @@ Oct
 
 Nov
   Eidolon Launch
+
+---
+
+Separate sections?
+ : People I've worked with this year
+   : Dustin, dB, Robb, Ash
+
+ : Gaming with Danger
+ 
+ : Eventual plan to migrate to cryptography
