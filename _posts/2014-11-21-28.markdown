@@ -89,7 +89,7 @@ Tap talk is another ephemeral photos app. It's aimed towards taking a picture (o
 
 Here's some golden ones. Click through to experience it properly.
 
-{% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/taptalk.jpg" tag_header="TAPTALK" tag_body="The World" url="https://orta.io/taptalk" %}
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/taptalk.jpg" tag_header="TAPTALK" tag_body="The World" url="http://orta.io/taptalk" %}
 
 I really, really enjoyed UIKonf. I felt like it was exactly the sort of conference I would like to run myself. Also rather convienently  Afterwards I went back to England to spend some quality time with Danger before setting off to San Francisco, it was WWDC in time for June.
 
