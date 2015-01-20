@@ -73,7 +73,7 @@ In April I had cleared enough from my CocoaPods TODO to start getting back to Co
 
 April was also the first time that [Danger][43] came out to a conference, we went out together to Istanbul for the [Istanbul Tech Talks][44]. It was aweeeeesome. I got to hang out with [Peter Steinburger][45], [Chris Eidhof][46] and [Siri Nordstorm][47]. I got to speak to a lot of passionate turkish people, see an area of the world that was culturally foreign as a westerner and have my girlfriend see me talk.
 
-{% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/istanbul.jpg" tag_header="ISTANBUL TECH TALKS" tag_body="Istanbul, Turkey" %}
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/istanbul.jpg" tag_header="ISTANBUL TECH TALKS" tag_body="Istanbul, Turkey" url="https://orta.exposure.co/istanbul" %}
 
 We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. When we were staying there were [riots][48], it gave the place a really odd atmosphere at night. 
 
