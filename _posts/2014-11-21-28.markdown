@@ -85,9 +85,7 @@ I aimed to get CocoaDocs v2 ready for UIKonf, I wanted to talk about what the te
 
 To me UIKonf was one of the shining examples of the thriving european conference scene. It had an amazing lineup, a beautiful venue and a collection of smart, well thought out, events surrounding the conference. I got to spend a lot of time with people at the conference itself and the hackathon. Really cool. We started really getting into an app [called TapTalk][54].
 
-Tap talk is another ephemeral photos app. It's aimed towards taking a picture (optionally with a location) and sending it to people quickly. When you load it up there's half a screen for the camera and half a screen for people's faces to send that camera still to. I've taken thousands. I've received thousands. I have a collection of a [few hundred on my Flickr][55].
-
-Here's some golden ones. Click through to experience it properly.
+Tap talk is another ephemeral photos app. It's aimed towards taking a picture (optionally with a location) and sending it to people quickly. When you load it up there's half a screen for the camera and half a screen for people's faces to send that camera still to. I've taken thousands. I've received thousands. I have a collection of a few hundred greats. Here's some golden ones. Click through to experience it properly.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/taptalk.jpg" tag_header="TAPTALK" tag_body="The World" url="http://orta.io/taptalk" %}
 
