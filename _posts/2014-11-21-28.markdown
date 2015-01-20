@@ -14,11 +14,12 @@ I finished my last article, [on being 27][2], with a mention that I was working 
 
 Part of the re-branding had been that we were going to explore community events a bit more. I had ran a series of lightning talks that went beautifully called [CocoaKucha][5] ( based on the [PechaKucha][6] format ). I still don't think I've quite got the hang of being the host of an event yet. They're like this funny awkward black humour affair which doesn't always appeal. But it was a good springboard to some of the events that we played with further along the year.
 
-I headed back to the UK in December. I had been invited to a wedding in India, and that meant taking the chance to be a part of my friends first step into maturity ( his wife gave birth last week, as of writing. ) He was marring an indian lady, and they are an amazing couple. Kevin was the [roadie for my band][7] back when we [played.][8].
-
-[[[[ photos ]]]]
+I headed back to the UK in December. I had been invited to a wedding in India, and that meant taking the chance to be a part of my friends first step into maturity ( his wife gave birth last week, as of writing. ) He was marrying an indian lady, and they are an amazing couple. Kevin was the [roadie for my band][7] back when we [played.][8].
 
 I flew out to Kerala for 2 weeks of wedding-ness. I had no laptop, and no control over what was happening for the entire time. We visited cities, parks and mountains full of tea. It was one of the most colourful places I've ever been in my life. Consider me very impressed.
+
+{% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/cern.jpg" tag_header="CERN HQ" tag_body="Geneva, Switzerland" exposure="https://orta.exposure.co/india" %}
+
 
 On the downside, the other Artsy Mobile engineer also announced he was leaving for Facebook whilst I was in India. Dropping the team down to one was a bit of a bummer. However, I got a promotion of sorts as I was the only one left. This gave me time to reflect on the ( at the time ) two years I've been working at Artsy. I still felt it was the right place for me then. I do now also FWIW. Probably more so.
 
@@ -70,7 +71,7 @@ April was also the first time that [Danger][43] came out to a conference, we wen
 
 We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. When we were staying there were [riots][48], it gave the place a really odd atmosphere at night. 
 
-In Artsy stuff, I moved back from the [Artsy iOS App][49] to our [Gallery Portfolio app][50] to start working on version 2.0. This coincided with the first non-artsy person joining the mobile team. Ash, who I had talked to back in Amsterdam emailed me sometime asking about a job, for more info on this check his [awesome 5 year review][51]. We had gone through the interview process process and he was on his 3 month initial contract. This was double awesome, because it meant I now didn't have to concentrate on two apps at once. Plus he came with a wealth of knowledge in areas I've not touched.
+In Artsy stuff, I moved back from the [Artsy iOS App][49] to our [Gallery Portfolio app][50] to start working on version 2.0. This coincided with the first non-artsy person joining the mobile team. Ash, who I had talked to back in Amsterdam emailed me sometime asking about a job, for more info on this check his [awesome 5 year review][51]. We had gone through the interview  process and he was on his 3 month initial contract. This was double awesome, because it meant I now didn't have to concentrate on two apps at once. Plus he came with a wealth of knowledge in areas I've not touched.
 
 My codebases are strange. For more or less my entire working career I've only ever built my own codebases as the principal author, I've never inherited something older than a month or two, and so I have _no clue_ on how other people work. So it was great to have someone experienced come in and provide a second pair of eyes. To be fair, I think he was impressed enough that we wrote tests and used continuous integration to overlook anything else.
 
@@ -104,7 +105,7 @@ Not one to waste time in Europe, a week or two later I headed over to Austria to
 
 I spent a few weeks back in the UK, then headed out to NYC. For the last 3 months I had been in full email mode for a conference  I would have liked to run in NYC. I’m pretty lucky to know a lot of interesting people, and have easy access to venues over there. I wanted to explore what a conference aimed at beginners should be like. There is a full writeup on my [blog][59]. It went well, and I can’t thank the speakers enough. For most of them it was their first time! =)
 
-At the same time as this we were starting to begin production on Artsy’s next iOS app, Eidolon. I pushed the initial commit on the 4th of August and for the first month I was totally hands off, only merging PRs and quick fixes. It was an test case for us on open-sourcing an iOS actively built application and Ash was going to be the driving force on the app.
+At the same time as this we were starting to begin production on Artsy’s next iOS app, Eidolon. I pushed the initial commit on the 4th of August and for the first month I was totally hands off, only merging PRs and quick fixes. It was a test case for us  open-sourcing an iOSapp and Ash was going to be the driving force.
 
 For me personally it was fascinating, as it was the first app I had worked on that had not been driven by me since my first job [back in brazil][60]. I’ve worked with other people off and on, but generally have accounted for most of the code on a project. So stepping back and trying to fit someone else’s code style was a challenge. 
 
