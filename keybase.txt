@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/orta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://orta.io
+  * I am orta (https://keybase.io/orta) on keybase.
+  * I have a public key with fingerprint E91F 36B1 5554 2702 F46E  E083 9F5E 5653 EE2A C266
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e237c9020384dbf0cd0b5c00bd96cc2dac9322fb54bf797d2df402b23f4a58df0a",
+            "fingerprint": "e91f36b155542702f46ee0839f5e5653ee2ac266",
+            "host": "keybase.io",
+            "key_id": "9f5e5653ee2ac266",
+            "kid": "0101e237c9020384dbf0cd0b5c00bd96cc2dac9322fb54bf797d2df402b23f4a58df0a",
+            "uid": "e7369ce59bbd707c2bd1fe55f1f73100",
+            "username": "orta"
+        },
+        "service": {
+            "hostname": "orta.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1443269448,
+    "expire_in": 157680000,
+    "prev": "4143a9ff5471cd46d2e4dab659bde8f7c47c84e47e588b730f7be7e7964abec5",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.46
+Comment: https://keybase.io/crypto
+
+yMM5AnicrZJvTBxFGMaPSqlFKRQo9UqJYaslItj9N7u3p7VYkZYUQSKBtCWc+2eW
+2+O8Pe72DigiAqnBgpgQQBqtYA1cg0ZCgGKqEigE7RURLVQQFEJre7QSUBtoC1V3
+URM/+NH5Mpl3nuc37/NmBoPu0wX60VMO772c4Vm/i/01Ll1mQNXBYoSThSLEWIzk
+wfUNWgXoVEx5koAYERRDMYgTNM+gOEoYSIETUV5AOcCjKCcwFM/jAsszBI6LHCA5
+kWZoARdEEsU5nBBJFhgEEWWROESUbLnQYXdINkXFQgYTCYrDAAAkTqO4SFIQogaC
+EQEEFCAgxFkepyjVaJadmkNtjmOd8AlJVmvqwbTe3n/o/+e+Xes4SBMUw0PAcJxA
+ozSPcwImQgBETKQJDEU1oRM6bOzLUFXLDoVFSuIQteKWeKgNVUvxr9u/YtgdsiLz
+slUtmhXFbtQ8SpFdExVAzvS33cRJNkGdnmpwQ4dTkm2IEVOVvCJpPIwkCZxiSNIQ
+h8BCu+SAJklTAJoyoOrSnoFuFUliJMEyoghIGuMFkhJwSAosR6mhBGgQaZ6keQMJ
+SRoCg4GjCVSkOUhDmqFIloM8QLRA+TZZZatQhc1VmU4p18YqLgdESs73Z/vr/AJ1
+ARs3aN9KF7g55J/P1uULvhfqOxPYdth8971UtH7bBUtKat5Pj3RfKv3oV13NQHHO
+NHkkpS4jaSrk6GpvWWJdpsW/88nlvqW0hndnzgy7kn8OP+Qfn5UQsXvjWMne78ao
+EeC6MFgUPTC4VJ4fyRTSP57z9tSezGw/fxqr6Hgl+5x5JkS/g2i//mVE2HBfbPrk
+rgX32tbLCTfAm10tD5+eHE3b9P6GrOTQ4qaSXpjafDX7miX4eqRHHt/Z9VBp9weN
+0WfNeHXNoVwiriRnNhnRT1+hLgabfJf1X9e2PjqvsybfOZu0uMzUyYVszN3x3Zao
+6asP2qvGda/WA5t1btLlafeGrfYsL/quHJm3l+m/fbFb6FmL9VgOR4zAzzpD8ep+
+QdoVMu1NL7xdjhUhcKWzcnPTrYzIjKdPrDSH9j6eZH0jURlqqRgaq9w+HtY3OsH8
+Uf1syiA43vVxY4OY3GJkWsfe2TY6v8fXtHcivjroGU/EJsvNpYXw9j23Y3gm9Jsv
+TDexqTtbn4/yfbLWkgt+NzVUmN3ZrxtBwectHZnXdh5biP8+wfKVwTuTZl/Jbmur
+O96zpTEWjWiVFiM9AVM2feWpUdPM8twDzVHb7/+w/NiW/Pq51QNVRUbx7bfanxrY
+Fz3BFOyPTE8xvfSb9bHwG559IzMdjbNDnzb8ElSaaM06evCH106VnUh6wbzDG7P/
+Uu1zBe5bfwKZusMD
+=hxAq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/orta
+
+==================================================================
