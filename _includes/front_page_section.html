@@ -6,14 +6,14 @@
 
 <div class="slide photo_slide" id = "{{ include.id }}-header">
   <div class="container clearfix">
-		
+
 		<div class="grid_12">
 	      <div class="photo_caption">
 	        <h1>{{ include.header }}</h1>
 	        <h2>{{ include.subtitle }}</h2>
 	      </div>
 		</div>
-	
+
 	</div>
 </div>
 
@@ -23,9 +23,9 @@
 
 		<div class="grid_7">
 			<h2>{{ include.title }}</h2>
-      
+
       {{ include.body }}
-			
+
 			<div class="buttons">
         {% if include.button1url %}
           <a href= "{{ include.button1url }}">{{ include.button1text }}</a>
@@ -40,10 +40,12 @@
 		</div>
 
 		<div class="grid_5 omega thumbnails">
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}1-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}1.jpg" class="selected"> 
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}2-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}2.jpg"> 
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}3-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}3.jpg"> 
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}4-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}4.jpg"> 
+		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}1-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}1.jpg" class="selected">
+		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}2-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}2.jpg">
+		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}3-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}3.jpg">
+      {% unless include.skiplastthumbnail %}
+		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}4-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}4.jpg">
+      {% endif %}
 		</div>
 
 	</div>
