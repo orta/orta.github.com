@@ -2,9 +2,9 @@ body {
 	font-size: 1em;
 	color: #8a8683;
 	background-color:#dfdfdf;
-  font-size:18px; 
+  font-size:18px;
   line-height:22px;
-  
+
   font-family: Verdana, Geneva, sans-serif;
 }
 
@@ -63,7 +63,7 @@ h4 {
 .menu {
 	position:fixed;
 	top:0px;
-	width:100%; 
+	width:100%;
   height: 80px;
   color:black;
   background-color:#d7d7d7;
@@ -89,7 +89,7 @@ h4 {
 .menu img:hover {
   opacity:0.7;
 }
-  
+
 #nav {
 	text-align: right;
 	margin: 0;
@@ -117,7 +117,7 @@ h4 {
 }
 
 
-/* General Slides */ 
+/* General Slides */
 
 .slide {
 	width:100%;
@@ -126,7 +126,7 @@ h4 {
 
 .photo_slide {
   height: 480px;
-	color:#dfdfdf;  
+	color:#dfdfdf;
 }
 
 .photo_caption {
@@ -143,7 +143,7 @@ h4 {
 .photo_caption h2 {
   font-size:44px;
   color:white;
-  
+
 }
 
 .photo_info {
@@ -241,7 +241,7 @@ ul {
   color:white;
 }
 
-/* Put.IO for iOS */ 
+/* Put.IO for iOS */
 
 #putio-header-unit {
 	background: url('http://ortastuff.s3.amazonaws.com/site/images/putio-1.jpg') center 0 no-repeat #d7d7d7;
@@ -291,12 +291,12 @@ ul {
   .hidden_tiny {
     display:none;
   }
-  
+
 
   #logo {
     width: 15%;
   }
-  
+
   #nav {
     float:right;
     width:80%;
@@ -317,12 +317,12 @@ ul {
     height:120px;
     margin: 2px;
   }
-  
+
 
   .photo_slide {
     background-size:960px 480px;
   }
-    
+
   .thumbnails {
   text-align:center;
   }
@@ -332,7 +332,7 @@ ul {
 
 .initial li {
   width:150px;
-  display:inline-block;  
+  display:inline-block;
 }
 
 .initial li a {
