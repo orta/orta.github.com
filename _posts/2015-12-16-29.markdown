@@ -1,6 +1,6 @@
 ---
 layout: on\_being
-title: "28"
+title: "29”
 categories:
 - "on"
 - "being"
@@ -13,20 +13,32 @@ a {
 }
 </style>
 
+---- 
+
+This is my seventh annual writeup, and I had a really interesting discussion with Danger about the direction that they have been heading. Skipping [24][1], which was a cop-out and only about going to Everest.
+
+One of the key things is that it’s moved a lot from general “I did a thing” to “I built a thing”, she probably doesn’t like that it’s now not so good as a diary for her too. ;)
+
+In general, I think this trend is positive, I think that I’ve been moving to a point where I can do work that has a [real impact][2] and in the beginning few years I’m not sure I had much focus. “Went to a museum, went to a party, someone came, someone went.”  
+
+I have over a decade’s worth of experience programming, probably multiples 10,000 [hours][3]. I should be using this expertise to help people out, not just make my life easier. These essays slowly become more about the things I create, the interactions within projects + the outer world, and how that changes me.
+
+---- 
+
 Where to start?
 
 I feel like a good opener here is that, so far, this is the most-overdue writeup yet. Upfront, I expect it to be the least simplest I’ve worked on. Previous years have had much less need for nuance, except for 26, when I first wrote that article I included some javascript to only show certain paragraphs after 1 year. Now it’s all there.
 
-Danger told me over IM that this year has been my darkest, that this is the first year that she’s seen long periods where I’m just uninspired to do things I know I should. She’s seemed genuinely worried after reading [Impact][1]. Unravelling the root cause is something I want to go over in this write-up. Because, soon enough, future Orta will not remember what it was like to be 29. Thirty-year olds have such different problems.
+Danger told me over IM that this year has been my darkest, that this is the first year that she’s seen long periods where I’m just uninspired to do things I know I should. She’s seemed genuinely worried after reading [Impact][4]. Unravelling the root cause is something I want to go over in this write-up. Because, soon enough, future Orta will not remember what it was like to be 29. Thirty-year olds have such different problems.
 
 If you don’t understand computers, you might want to skip this section. A TLDR is at the bottom.
 
-This time last year, the GitHub Mac team released Carthage, it’s a de-centralized dependency manager for Cocoa projects. It throws away many ideas that I’ve worked towards for years:
+This time last year, the GitHub Mac team released Carthage, it’s a de-centralised dependency manager for Cocoa projects. It throws away many ideas that I’ve worked towards for years:
 
 * Human-readable formats for understanding how a library works, sitting atop open platforms.
 * Discoverability of awesome libraries from people you’ve not heard of.
 * Working with existing codebases.
-* Actively engaging with the whole community for large improvements.
+* Actively engaging with the whole community for large infrastructure improvements.
 
 They choose to split the Cocoa community, forcing developers to do a us vs them choice. A chunk of community agrees with them and uses it. Now, in order to be discovered new contributors support CocoaPods, and in order to support as many users as they can they need to support Carthage. Raising the barrier to entry to OSS.
 
@@ -46,11 +58,12 @@ All in all, when people have been asking what I want to do in the next year, I�
 
 With the awkward bit over, perhaps there’s space for some positivity now.
 
-It feels like I’ve known about this guy for years, but I met Justin Searls, a man for whom I’m now turning into a total fanboy. He’s someone who talks about a lot of the problems I face in work and in my spare time. His talks have been inspirational in terms of understanding the asymmetry of power in working on large projects people rely on, and on programming ownership cycles.
+It feels like I’ve known about this guy for years, but I met [Justin Searls][5], a man for whom I’m now turning into a total fanboy. He’s someone who talks about a lot of the problems I face in work and in my spare time. His talks have been inspirational in terms of understanding the asymmetry of power in working on large projects people rely on, and on programming ownership cycles.
 
-If you’ve ever contributed to Open Source, you would get a lot of out watching this video on the [Social Coding Contract][2].
+If you’ve ever contributed to Open Source, you would get a lot of out watching this video on the [Social Coding Contract][6].
 
-----
+---- 
+
 As a part of “lowering the barrier” to entry I’ve been devoting time to projects in NYC devoted to improving the tech community:
 
 * I helped Ash Furrow run the Artsy Peer Labs, this aims to make life a bit better for beginners who still don’t know what they don’t know. We provide an environment for anyone to come work in the Artsy offices on a Saturday morning, and we’ve done it for almost a full year, missing only one date.
@@ -63,54 +76,55 @@ As a part of “lowering the barrier” to entry I’ve been devoting time to pr
 
 \* If you don’t know what a hacker school is, it’s a way to learn programming in a short time by being extremely focused on pragmatic skills.
 
-----
-My favourite book this year has been one on human \<-\> computer interactions, [Machines of Loving Grace: The Quest for Common Ground Between Humans and Robots][3]. It help me put a lot of the design decision differences between CocoaPods and Carthage into perspective. It covers a wide range of topics, from self-driving cars to the battle to get Siri treated as an assistant -not just a text to speech engine.
+---- 
+My favourite book this year has been one on human \<-\> computer interactions, [Machines of Loving Grace: The Quest for Common Ground Between Humans and Robots][7]. It help me put a lot of the design decision differences between CocoaPods and Carthage into perspective. It covers a wide range of topics, from self-driving cars to the battle to get Siri treated as an assistant -not just a text to speech engine.
 
 A lot of the books discussion revolves around two types of design paradigms:
 
-* Intelligence Augmentation, coming from [Douglas Englebart][4], which is mainly focused making it easier for humans to make decisions.
+* [Intelligence Augmentation][8], coming from [Douglas Englebart][9], which is mainly focused making it easier for humans to make better decisions.
 * Artificial Intelligence, which is concerned with replacing humans with machines.
 
-There is a lot of space for collaboration between the camps, and often, the book argues that it is a combination of the two that tends to work out best for the people involved. Related: I’ve been reading The Glass Cage, but haven’t got far enough to have an opinion yet.
+There is a lot of space for collaboration between the camps, and often, the book argues that it is a combination of the two that tends to work out best for the people involved. Related: I’ve been reading [The Glass Cage][10], but haven’t got far enough to have an opinion yet.
 
 Some other book highlights:
 
-* HPMOR, a Harry Potter Fanfiction was finished this year. As a web-serial, I felt like it would never end. I was kind of ok with that too. The podcast version finishes up in 2 weeks too. So it will be good to finish it for a second time. I find the slow pace of audiobooks ensure means I miss less.
+* [HPMOR][11], a Harry Potter Fan-fiction was finished this year. As a web-serial, I felt like it would never end. I was kind of ok with that too. The podcast version finishes up in 2 weeks too. So it will be good to finish it for a second time. I find the slow pace of audiobooks ensure means I miss less.
 
-* Worm, a web-serial that finished a few years back. As I couldn’t find motivation to do community projects, I opted to re-read some epics. The protagonist in Worm’s impact goes from barely affecting people at high-school to multi-universe mind-melting battles across dimensions. Glad I did a re-read, there’s a lot I understand better on the 2nd run through.
+* [Worm][12], a web-serial that finished a few years back. As I couldn’t find motivation to do community projects, I opted to re-read some epics. The protagonist in Worm’s impact goes from barely affecting people at high-school to multi-universe mind-melting battles across dimensions. Glad I did a re-read, there’s a lot I understand better on the 2nd run through.
 
-* Stories of Your Life, and Others. A series of short-stories with some of the best hooks I’ve ever read. “What if there was technology to turn off the ability to be attracted to someone”, “What if the babylonians built a tower and hit the heavens, based on their belief systems at the time”, “ajbfsjdhfsj”
+* [Stories of Your Life, and Others][13]. A series of short-stories with some of the best hooks I’ve ever read. “What if there was technology to turn off the ability to be attracted to someone”, “What if the babylonians built a tower and hit the heavens, based on their belief systems at the time”, “What happens when something you took as a core axiom in your belief system was shattered.”
 
-----
+---- 
+
 I’ve lived with Dave Grandinetti for a year now, this has been amazing. We’ve both changed so much in the last year, in so many subtle ways. After spending so long living in AirBnBs and crashing at Danger’s house, its really satisfying to come back and hang out at a place I can call home.
 
 We have this really cool policy of regularly inviting people to crash at ours, so the place always feels fresh, and it’s nice to have people to interact with. Plus people are much more likely to come over and say hi.
 
 One of the upsides of having a place, is that Danger can actually come over. She NYC visited three times this year. I’ll go into this later.
 
-Over the course of the year, we completed a few games, I feel like the one we put the most time into was The Binding of Isaac. I put a few hundred hours in to Team Fortress 2 this year, don’t worry, I’ve got a rare coin thing for my time.
+Over the course of the year, we completed a few games, I feel like the one we put the most time into was The Binding of Isaac. I put a few hundred hours in to Team Fortress 2 this year, don’t worry, I’ve got a [rare coin thing][14] for my time.
 
-----
+---- 
 
 I spent all of last year listening to Rise Against, A Day to Remember and Billy Talent. I mellowed out this year, and seemed to listen to a lot of Fallout Boy and My Chemical Romance.
 
 I wonder if I’m less angry about absolute surveillance. I bought a series of prints to remind me that I should be very angry. I still only make playlists called “Sprint [number]” on Spotify, which I play on repeat all day. I’ve been doing that for years.
 
-----
+---- 
 
-I’m 4 years into Artsy, and we’ve hit the [dunbar number][5] this year.
+I’m 4 years into Artsy, and we’ve hit the [dunbar number][15] this year.
 
 I feel like this year was when the Artsy mobile team really started to flourish. When it was created, dB and Laura joined from the web team to bolster numbers, and this year we filled it up enough to be able to stand on it’s own feet.
 
-To quote “[on being 28][6]”
+To quote “[on being 28][16]”
 
 > Dropping the team down to one was a bit of a bummer. However, I got a promotion of sorts as I was the only one left.
 
-It’s like night and day now. I study management styles like I used to study programming languages. I’d recommend reading [Tribal Leadership][7], [The Year Without Pants][8] and [Leadership and self-deception][9]. Artsy is big enough to have politics, and I find it interesting to be a part of that.
+It’s like night and day now. I study management styles like I used to study programming languages. I’d recommend reading [Tribal Leadership][17], [The Year Without Pants][18] and [Leadership and self-deception][19]. Artsy is big enough to have politics, and I find it interesting to be a part of that.
 
-We spent the time on building team foundations like the [article in objc.io][10] helping us understand how we see ourselves. We’re a confident team, shipping code in the open.
+We spent the time on building team foundations like the [article in objc.io][20] helping us understand how we see ourselves. We’re a confident team, shipping code in the open.
 
-This time last year, we had only just started down the path to [Open By Default][11]. Now that’s complete. With help from the rest of the team we successfully opened the entire development process for every Artsy iOS app.
+This time last year, we had only just started down the path to [Open By Default][21]. Now that’s complete. With help from the rest of the team we successfully opened the entire development process for every Artsy iOS app.
 
 Developing in The Open is the premise that hiding our code provides less value for us than keeping it open. It means showing process, design and source. It means making notes from meetings available, moving internal chats in the public and trying to make it accessible to as many as possible. Not everything is public, but the vast, vast majority is.
 
@@ -126,9 +140,9 @@ We’ve shipped a lot of things I’m super proud of helping out in.
 
 Last year I talked about crunch time, and how we had to make unhealthy tradeoffs to ship an app.
 
-> I worry that my ability to jump in and just do what it takes can negatively affect the future culture of the Artsy mobile team. Perhaps we need more [Gordian Knot][12] style answers for these things. I must work on this.
+> I worry that my ability to jump in and just do what it takes can negatively affect the future culture of the Artsy mobile team. Perhaps we need more [Gordian Knot][22] style answers for these things. I must work on this.
 
-I’m much happier about where we are at with this. There was nothing like the launch of [Eidolon][13], people are/were free to devote their time as [they please][14], but at no point this year was a crunch absolutely necessary.
+I’m much happier about where we are at with this. There was nothing like the launch of [Eidolon][23], people are/were free to devote their time as [they please][24], but at no point this year was a crunch absolutely necessary.
 
 With Ash confident on the team, I managed to get in a good rhythm with him around blogging on the Artsy Engineering blog. He’s established a weekly blogging process in the office that’s working out really well. I’ve been finding it satisfying to try and aim blog posts at people who are at experience levels where I found it hard to get documentation. Basically at the informed level, but not yet happy to consider themselves an expert in the domain.
 
@@ -138,7 +152,7 @@ We didn’t know we were looking for a junior till Sarah joined, and I’m reall
 
 Alloy joined our team and he’s been working on Eigen, the Artsy iOS app. It’s been amazing working with him, he had started to do less CocoaPods work and it was a shame seeing him become less active. So it’s kinda awesome that I get to hang out in a different context. He provides some maturity/seniority that I felt we really needed, I’m still mostly shipping things from the seat of my pants. He helps us feel like a real development team.
 
-----
+---- 
 
 Regardless of my general state of inspiration for OSS, I’ve still managed to ship a bunch of things I’m really proud of this year for CocoaPods.
 
@@ -154,20 +168,45 @@ Regardless of my general state of inspiration for OSS, I’ve still managed to s
 
 * I’ve been involved in the on-boarding process for mega-corporations converting to using CocoaPods as a distribution method.
 
-*
+As a team there’s been a bunch of solid releases, and the command-line gem has improved a lot, there’s an annual write-up on the blog now, [see 2015][25].
+
+---- 
+
+Alright, so let’s take a look over the year:
+
+I tried to make myself nervous on my 28th birthday. Danger + I went to a casino, I gave myself a hard limit of being able to lose up-to £1,000. We played on the roulette table all night, I had been [practicing Blackjack][26] for a bit, and was pretty comfortable with it, but the tables were all busy. By playing slow, not making silly moves we ended up coming out with £500 from the house. Deciding that was enough and you can’t win forever, we went [for Pizza][27], and  put the rest of the cash towards a car.
+
+Oddly enough, my calendar is completely empty throughout Dec -\> Feb. I did no talks, I helped out in shipping Swift support from the perspective of CP infrastructure, I started writing a book on testing in iOS projects and took a look at automating some of the 
+
+NYC?
+* DM over in feb, september and november
+* VISA renewed? O1? DM?
 
 
-[1]:	http://orta.io/rebase/impact/
-[2]:	sbglsbflhsg
-[3]:	lovinggrace
-[4]:	dougie
-[5]:	dumbbar
-[6]:	onbeen28
-[7]:	tribbey
-[8]:	panks
-[9]:	leadyy
-[10]:	objcio
-[11]:	dblock?%20mtself?%20video?
-[12]:	https://en.wikipedia.org/wiki/Gordian_Knot
-[13]:	28%20link?%20maybe
-[14]:	jobs%20post?
+[1]:	http://orta.io/on/being/24/
+[2]:	http://orta.io/rebase/spheres-of-influence/
+[3]:	http://www.newyorker.com/news/sporting-scene/complexity-and-the-ten-thousand-hour-rule
+[4]:	http://orta.io/rebase/impact/
+[5]:	https://twitter.com/searls
+[6]:	https://www.youtube.com/watch?v=e_-qV8waPVM
+[7]:	https://www.goodreads.com/book/show/23460922-machines-of-loving-grace?from_search=true&search_version=service
+[8]:	https://en.wikipedia.org/wiki/Intelligence_amplification
+[9]:	https://en.wikipedia.org/wiki/Douglas_Engelbart
+[10]:	https://www.goodreads.com/book/show/25622254-the-glass-cage?from_search=true&search_version=service
+[11]:	https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality?from_search=true&search_version=service
+[12]:	https://www.goodreads.com/book/show/18713259-worm?from_search=true&search_version=service
+[13]:	https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others
+[14]:	http://www.tf2items.com/id/orta#tab-backpack
+[15]:	https://en.wikipedia.org/wiki/Dunbar%27s_number
+[16]:	http://orta.github.com/on/being/28
+[17]:	tribbey
+[18]:	panks
+[19]:	leadyy
+[20]:	objcio
+[21]:	dblock?%20mtself?%20video?
+[22]:	https://en.wikipedia.org/wiki/Gordian_Knot
+[23]:	28%20link?%20maybe
+[24]:	jobs%20post?
+[25]:	http://blog.cocoapods.org/Stats-2015/
+[26]:	http://gizmodo.com/5973547/download-this-app-and-learn-to-play-blackjack
+[27]:	https://www.facebook.com/pages/Bar-Maroc/182124065217984
