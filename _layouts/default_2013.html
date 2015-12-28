@@ -6,21 +6,22 @@
   <!-- 03 jan 2011 -->
   <!-- 05 Oct 2012 -->
   <!-- 16 Feb 2013 -->
-  
-  <meta name="author"  content="orta; http://orta.github.com/" /> 
-  <meta name="title" content="orta therox" /> 
-  <meta name="description" content="programmer and general rockerouterer." /> 
-  <meta name="keywords" content="orta, ios, ortatherox, design, designer, code, iphone, awesome, iphone games, iphone apps, cocoa, cocoa apps, therox, cocos2d, html, css, github" /> 
-  <meta name="robots" content="all,follow"/> 
+  <!-- 01 Nov 2015 -->
+
+  <meta name="author"  content="orta; http://orta.github.com/" />
+  <meta name="title" content="orta therox" />
+  <meta name="description" content="programmer and general rockerouterer." />
+  <meta name="keywords" content="orta, ios, ortatherox, design, designer, code, iphone, awesome, iphone games, iphone apps, cocoa, cocoa apps, therox, cocos2d, html, css, github" />
+  <meta name="robots" content="all,follow"/>
   <link rel="alternate" type="application/atom+xml" title="Atom Blog Feed" href="/blog.atom" />
 	<meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no">
   <meta property="twitter:account_id" content="1512916920" />
-  
+
 	<link rel="stylesheet" href="/assets/fonts/leaguegothic-stylesheet.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/assets/2013/stylesheets/grid.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/assets/2013/stylesheets/normalize.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/assets/2013/stylesheets/style.css" type="text/css" media="screen">
-  
+
   <script type="text/javascript">
 
     var _gaq = _gaq || [];
@@ -32,13 +33,13 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-    
+
   </script>
-  
+
 </head>
 
 <body>
-<div class="menu">	
+<div class="menu">
 	<div class="container clearfix">
 
 		<div id="logo" class="grid_6">
@@ -46,7 +47,7 @@
         <h1>O<span class="hidden_tiny">rta-</span>T<span class="hidden_tiny">herox</span></h1>
       </a>
 		</div>
-    
+
 		<div id="nav" class="grid6 omega">
 			<ul class="navigation">
 				<li><a href="http://github.com/orta"><img src="http://ortastuff.s3.amazonaws.com/site/images/github_icon_black.png"></a></li>
@@ -54,11 +55,11 @@
 				<li><a href="http://artsy.net/orta"><img src="http://ortastuff.s3.amazonaws.com/site/images/artsy_black.png"></a></li>
 			</ul>
 		</div>
-    
+
 	</div>
 </div>
 
-  
+
 {{content}}
 
 <script type="text/javascript">
@@ -71,7 +72,7 @@ if (document.querySelectorAll){
  var thumbnails = document.querySelectorAll('.thumbnails img')
  for (var i=0; i < thumbnails.length; i++) {
    var thumbnail = thumbnails[i];
-   
+
    thumbnail.onclick = function(){
       var targetID = this.getAttribute("data-target");
       var targetImage = this.getAttribute("data-url");
@@ -81,15 +82,15 @@ if (document.querySelectorAll){
       for (var i=0; i < siblings.length; i++) {
           siblings[i].className = siblings[i].className.replace( /(?:^|\s)selected(?!\S)/g , '' )
       }
-      
+
       this.className = this.className + " selected";
       if(photo.className.indexOf("selected") == -1) {
         photo.className = photo.className + " selected";
       }
-      
+
       photo.style.backgroundImage = "url(http://ortastuff.s3.amazonaws.com/site/images/" + targetImage + ")";
     }
-  }   
+  }
 }
 
 // set the put.io hours data
@@ -98,7 +99,7 @@ function set_hour(data){
   var hours = Math.floor( (seconds / 60) / 60 )
   var element = document.getElementById("hours")
   var hours_string = hours.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-  
+
   element.innerText = hours_string;
 }
 
@@ -121,7 +122,7 @@ window.requestAnimFrame = (function(){
   var ticking = false;
   var photo_slides = document.querySelectorAll('.photo_slide')
   var last_scroll = (document.documentElement.scrollTop) ? document.documentElement.scrollTop : window.pageYOffset;
-  
+
   function onResize () {
     updateElements();
   }
@@ -135,12 +136,12 @@ window.requestAnimFrame = (function(){
 
   function updateElements() {
       // Orta Parallax
-    
+
       // when the bottom of a photo is at the top of the window, the offset is -160.
       // the the top is at the bottom on the window the offset is 0.
-    
-      // therefore we interpolate the 160 based on the percent that we're between its top-480 and top 
-    
+
+      // therefore we interpolate the 160 based on the percent that we're between its top-480 and top
+
       var window_y = (document.documentElement.scrollTop) ? document.documentElement.scrollTop : window.pageYOffset;
       var window_height = window.innerHeight
 
@@ -150,30 +151,30 @@ window.requestAnimFrame = (function(){
       }
 
       for (var i=0; i < photo_slides.length; i++) {
-      
+
         var slide = photo_slides[i];
 
         var slide_top_y = slide.offsetTop
         var slide_bottom_y = slide.offsetTop + slide.offsetHeight
         var amount_to_scroll = 160
-      
+
                           // bottom below the screen top                   // above the screen bottom
         var is_onscreen = (slide_top_y > window_y - slide.offsetHeight) && (slide_top_y < window_y + window_height)
 
         if (is_onscreen) {
           var percent_vertically_scrolled = ((slide_bottom_y - window_y) /  (window_height + slide.offsetHeight))
           var parallax = amount_to_scroll * percent_vertically_scrolled
-          slide.style.backgroundPosition = " center -" + parallax + "px"; 
+          slide.style.backgroundPosition = " center -" + parallax + "px";
         }
       }
-      
+
       last_scroll = window_y
       ticking = false;
   }
 
   // mobile browsers don't send scroll events, so ignore them
   // also retina browsers are slow so skip them, irony.
-  
+
  if( navigator.userAgent.match(/Android/i)
  || navigator.userAgent.match(/webOS/i)
  || navigator.userAgent.match(/iPhone/i)
@@ -182,9 +183,9 @@ window.requestAnimFrame = (function(){
  || navigator.userAgent.match(/BlackBerry/i)
  || navigator.userAgent.match(/Windows Phone/i)
  || window.devicePixelRatio > 1
- 
+
  ){
-    
+
   } else {
     win.addEventListener('resize', onResize, false);
     win.addEventListener('scroll', onScroll, false);
@@ -194,8 +195,6 @@ window.requestAnimFrame = (function(){
 })(window, document);
 
 </script>
-
-<script src="http://ortastuff.s3.amazonaws.com/putio/hours.json" type="text/javascript" charset="utf-8"></script>
 
 </body>
 </html>

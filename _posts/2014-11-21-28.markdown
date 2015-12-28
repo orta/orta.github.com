@@ -33,13 +33,13 @@ I had skipped a few xmases with my family. So I stopped back in the UK till earl
 
 For new years we just hung out and drank wine.
 
-We started 2014 by making our own cheese, and then making pizza with it. The cheese was terrible. The pizza less so. Turns out we have no idea how to do this. Plus the kit gave us really bad advice. I blame the kit. 
+We started 2014 by making our own cheese, and then making pizza with it. The cheese was terrible. The pizza less so. Turns out we have no idea how to do this. Plus the kit gave us really bad advice. I blame the kit.
 
-I started a busy travel year by going to Poland for the 11th for [MCE 2014][9]. I was speaking between two people who I respected greatly, Jon Reid & Chris Eidhof. I'd been reading Jon Reid's blog for years, and regularly consulted it for advice on understanding how to write tests in my apps. And Chris makes cool stuff, and is obviously quirky online, but far more so face to face. Chris and I had overlapped at NSSpain last year, but it was pretty fleeting. We made up for it at MCE. On the taxi in I met [Dave Wiskus][10], who had also just moved to NYC ( and was doing a better job of being there than me. ) We got on beautifully, I think he's a brilliant, flawed and awesome human being. We promised to meet again in NYC and we made good on that. 
+I started a busy travel year by going to Poland for the 11th for [MCE 2014][9]. I was speaking between two people who I respected greatly, Jon Reid & Chris Eidhof. I'd been reading Jon Reid's blog for years, and regularly consulted it for advice on understanding how to write tests in my apps. And Chris makes cool stuff, and is obviously quirky online, but far more so face to face. Chris and I had overlapped at NSSpain last year, but it was pretty fleeting. We made up for it at MCE. On the taxi in I met [Dave Wiskus][10], who had also just moved to NYC ( and was doing a better job of being there than me. ) We got on beautifully, I think he's a brilliant, flawed and awesome human being. We promised to meet again in NYC and we made good on that.
 
 I took a break from Mac/iOS programming in early 2011 and did Ruby on Rails. A good chunk of the company I was working for went to [The Scottish Ruby Conf][11], it was the first conference I had been to since I went to WWDC as a student in 2007. I remember going to Scottish Ruby Conf and someone pointing out two people; one ( who recently passed away :( ) who [created Rake][12] and the other who was the [maintainer of Sinatra][13]. My mind was blown. These were every-day tools for me at the time, I had a million questions and I just wanted to say "thanks, I really appreciate the time you've put into those tools." I only managed to get to say it to one of them ( and I've been chasing down Konstanin for a high-five ever since. ) However it had a profound effect on me as a developer. I gained a much stronger insight into communities, infamy and being humble.
 
-When I went to MCE, I realised I was one of the ones that people pointed at and said *"He's that guy that did x"*. 
+When I went to MCE, I realised I was one of the ones that people pointed at and said *"He's that guy that did x"*.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/confs.jpg" tag_header="" tag_body="" %}
 
@@ -47,23 +47,23 @@ To some extent it is an obvious side-effect of making large-scale community cont
 
 After the success of the previous Cocoa Kucha, [Daniel Haight][19] got in contact and we talked about running a CocoaKucha in London. I hadn't seen [Kyle][20] in a while, and it was a great excuse to drag [Fabio Pelosin][21] ( still #1 on [commit counts][22] to CocoaPods ) out to play. We hung out, did some talks. It was lovely. We hacked on one of the first CocoaPods plugins one of those nights, creating what turned into the CocoaPods Hooks API that [Sam Giddins][23] and I used for [cocoapods-keys][24].
 
-Chris and I had made an [orta/life#6][25] issue to go mountain running at the end of 2013 over twitter. As Berlin was freezing over in January 2014, I opted instead to try run another [CocoaPods event][26] in Berlin and to invite myself to Chris' house to hang out. He had seemed like a nice enough chap over the internet. He's even nicer in real life. The Berlin CococaKucha went beautifully, and I got to hang out with another CocoaPods dev. Danger came to Berlin too, and we hung out. 
+Chris and I had made an [orta/life#6][25] issue to go mountain running at the end of 2013 over twitter. As Berlin was freezing over in January 2014, I opted instead to try run another [CocoaPods event][26] in Berlin and to invite myself to Chris' house to hang out. He had seemed like a nice enough chap over the internet. He's even nicer in real life. The Berlin CococaKucha went beautifully, and I got to hang out with another CocoaPods dev. Danger came to Berlin too, and we hung out.
 
-My Artsy work had started up again in january, the entire of the Artsy dev team planned to pivot towards building a significantly improved fair experience for a New York art fair called [The Armory Show][27]. We wanted to make the Artsy mobile app to be the definitive guide to the fair when on-site. On the iOS side we planned a local map, guides, and a revised version of most of the app's pages when inside a fair. We had a hard deadline for early March as that's when the event started. Luckily I had help, 1aura Brown another Artsier switched from Ruby to iOS, and so did dB. They were quick learners. We pulled in [Robb Böhnke][28] to help us get the app built. 
+My Artsy work had started up again in january, the entire of the Artsy dev team planned to pivot towards building a significantly improved fair experience for a New York art fair called [The Armory Show][27]. We wanted to make the Artsy mobile app to be the definitive guide to the fair when on-site. On the iOS side we planned a local map, guides, and a revised version of most of the app's pages when inside a fair. We had a hard deadline for early March as that's when the event started. Luckily I had help, 1aura Brown another Artsier switched from Ruby to iOS, and so did dB. They were quick learners. We pulled in [Robb Böhnke][28] to help us get the app built.
 
 To finish January I headed back to NYC, and did a talk at Nickelodeon. February was a cold month. The snow in NYC was pretty intense. You have this image in your head of NYC + snow and it's beautiful, white and pristine. This is right, for about an hour. Afterwards its slushy brown piles a meter high making walking anywhere difficult.
 
 I had applied earlier in the year to speak at my first American conference, [Snow-Mobile Madison][29]. It had the bad luck of being on the last week of being on my deadline. I had this interesting mix of trying to be as sociable as possible whilst crunching in the back corner of a conference. I pretty much say this about all the conferences but this conference stuck out to me because it was already at a place where most conferences are trying to be. They had a great, diverse and interested selection of speakers talking on technical and non-technical topics which I found fascinating. It was hard to differentiate between speakers and attendees because everyone seemed to know each other. [Joe Burgess][30] who I had met in NYC a few times also speaking, we discussed the idea of trying to run a mini-conference in NYC.
 
-As a side-effect of the Artsy mobile team's brain drain I had been very worried about the [bus factor][31] ( _”In software development, the bus factor is the number of key developers who would need to be incapacitated to make a project unable to proceed.”_ ) for the Artsy mobile team. 
+As a side-effect of the Artsy mobile team's brain drain I had been very worried about the [bus factor][31] ( _”In software development, the bus factor is the number of key developers who would need to be incapacitated to make a project unable to proceed.”_ ) for the Artsy mobile team.
 
-Hiring more people is one way to reduce this problem, another was by cementing the internal knowledge of a project into something else. This could be via extensive documentation, but I think the more interesting ( and less likely to be out of date ) method is by using automated tests. 
+Hiring more people is one way to reduce this problem, another was by cementing the internal knowledge of a project into something else. This could be via extensive documentation, but I think the more interesting ( and less likely to be out of date ) method is by using automated tests.
 
-I had tried before to add tests to the Artsy apps but without [CI][32] and everyone else wanting to test it failed. 
+I had tried before to add tests to the Artsy apps but without [CI][32] and everyone else wanting to test it failed.
 
 After Snow-Mobile, I arrived back in NYC with my deadline over. I had been organising another [CocoaPods meetup][33]. For the CocoaKuchas I had ran a few lightning talk style meetups so I wanted to experiment with a new format. Since Jon Reid's [talk at MCE][34] had really explained the basics well enough that I could springboard off with his [recommended books][35], I felt like I had a good foundation on testing and wanted to try get people I knew (or wanted to) to get together and talk about testing. So I created a Cocoa Kommitteee, a panel on testing with a wide array of experiences to discuss tooling, methodologies and validity. It worked out really well, I'd like to do something similar again.
 
-March came along, and I went to Amsterdam instead of seeing what the Artsy iPhone fair experience was really like. I was speaking at [Mdevcon][36] which we had agreed should be the official CocoaPods meetup for the year. Alloy, Fabio, Kyle, Boris & Ash all were in attendance and we rented a CocoaPods house on Airbnb so we could do some serious hanging out. While we were out there I talked to Ash about his current situation and pointed out that Artsy was definitely looking for more senior iOS people, and kind of left it at that for a while. While we were hanging out we came up with the idea of a [CocoaPods Bug Bash][37] as a way of clearing the backlog of issues so that Fabio could knock out big features easily. 
+March came along, and I went to Amsterdam instead of seeing what the Artsy iPhone fair experience was really like. I was speaking at [Mdevcon][36] which we had agreed should be the official CocoaPods meetup for the year. Alloy, Fabio, Kyle, Boris & Ash all were in attendance and we rented a CocoaPods house on Airbnb so we could do some serious hanging out. While we were out there I talked to Ash about his current situation and pointed out that Artsy was definitely looking for more senior iOS people, and kind of left it at that for a while. While we were hanging out we came up with the idea of a [CocoaPods Bug Bash][37] as a way of clearing the backlog of issues so that Fabio could knock out big features easily.
 
 The bash happened later in the month and was a really interesting event. We asked some developers if we could get licenses of apps for people to have as prizes and that worked out well. You can get the full details in the [blog post][38]. However the interesting thing that I can see looking back is that it inspired more people to hack on the CocoaPods code-base. Fabio had spent some time building a meta-repo called [Rainforest][39] which he was using to release CocoaPods ( a release involves updating several things at once. ) We found that this tool makes a really nice development environment. After we finished the bug bash early we encouraged people still interested in doing something to install development CocoaPods and hack on some small features. Through this we had [Boris Bügling][40] and [Sam Giddins][41] eventually join the core team. It was highly valuable for us for that alone.
 
@@ -75,13 +75,13 @@ April was also the first time that [Danger][43] came out to a conference, we wen
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/istanbul.jpg" tag_header="ISTANBUL TECH TALKS" tag_body="Istanbul, Turkey" url="https://orta.exposure.co/istanbul" %}
 
-We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. When we were staying there were [riots][48], it gave the place a really odd atmosphere at night. 
+We stayed in Istanbul till early may after the conference. Danger took me to a cool massage parlour for her birthday. When we were staying there were [riots][48], it gave the place a really odd atmosphere at night.
 
 In Artsy stuff, I moved back from the [Artsy iOS App][49] to our [Gallery Portfolio app][50] to start working on version 2.0. This coincided with the first non-artsy person joining the mobile team. Ash, who I had talked to back in Amsterdam emailed me sometime asking about a job, for more info on this check his [awesome 5 year review][51]. We had gone through the interview  process and he was on his 3 month initial contract. This was double awesome, because it meant I now didn't have to concentrate on two apps at once. Plus he came with a wealth of knowledge in areas I've not touched.
 
 My codebases are strange. For more or less my entire working career I've only ever built my own codebases as the principal author, I've never inherited something older than a month or two, and so I have _no clue_ on how other people work. So it was great to have someone experienced come in and provide a second pair of eyes. To be fair, I think he was impressed enough that we wrote tests and used continuous integration to overlook anything else.
 
-I aimed to get CocoaDocs v2 ready for UIKonf, I wanted to talk about what the team was working on and to show off some new things that we'd been working on. At UIKonf I announced the initial prototypes of CocoaDocs v.2 and [that the authentication server][52] would be turned on for people to [claim their pods][53] within a week. 
+I aimed to get CocoaDocs v2 ready for UIKonf, I wanted to talk about what the team was working on and to show off some new things that we'd been working on. At UIKonf I announced the initial prototypes of CocoaDocs v.2 and [that the authentication server][52] would be turned on for people to [claim their pods][53] within a week.
 
 To me UIKonf was one of the shining examples of the thriving european conference scene. It had an amazing lineup, a beautiful venue and a collection of smart, well thought out, events surrounding the conference. I got to spend a lot of time with people at the conference itself and the hackathon. Really cool. We started really getting into an app [called TapTalk][54].
 
@@ -101,7 +101,7 @@ WWDC introduced a new language that got everyone in the iOS dev community excite
 
 In July I [was booked][58] to come to Sweden for the CocoaHeads Stockholm, it wasn't a conference and I had talked to a few Swedish people at WWDC and it sounded super friendly. So I went back to Europe, grabbed Danger went east to Sweden, we hosteled in a boat. We walked around this old beautiful city.
 
-Not one to waste time in Europe, a week or two later I headed over to Austria to see Pete Steinberger. We had made plans to go to the alps with some other iOS devs. We went, it was beautiful. We did a lot of walking, some talking and had a really casual time. 
+Not one to waste time in Europe, a week or two later I headed over to Austria to see Pete Steinberger. We had made plans to go to the alps with some other iOS devs. We went, it was beautiful. We did a lot of walking, some talking and had a really casual time.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/austria.jpg" tag_header="UNCONF" tag_body="The Alps, Austria" url="https://orta.exposure.co/austria" %}
 
@@ -109,21 +109,21 @@ I spent a few weeks back in the UK, then headed out to NYC. For the last 3 month
 
 At the same time as this we were starting to begin production on Artsy’s next iOS app, Eidolon. I pushed the initial commit on the 4th of August and for the first month I was totally hands off, only merging PRs and quick fixes. It was a test case for us  open-sourcing an iOSapp and Ash was going to be the driving force.
 
-For me personally it was fascinating, as it was the first app I had worked on that had not been driven by me since my first job [back in brazil][60]. I’ve worked with other people off and on, but generally have accounted for most of the code on a project. So stepping back and trying to fit someone else’s code style was a challenge. 
+For me personally it was fascinating, as it was the first app I had worked on that had not been driven by me since my first job [back in brazil][60]. I’ve worked with other people off and on, but generally have accounted for most of the code on a project. So stepping back and trying to fit someone else’s code style was a challenge.
 
 Luckily for me Ash is patient, and willing to answer repetitive questions with examples and “read more” links. I never felt dumb, but I did often feel out of my element.  
 
-September came, I went back the Europe. I had taken Danger to NSSpain last year, and so she came along to this one. This year’s NSSpain was considerably more polished. They had improved a lot from the last year, not that it was bad mind you, and I felt this said a lot about what it’s like to do an event like this for the second time. 
+September came, I went back the Europe. I had taken Danger to NSSpain last year, and so she came along to this one. This year’s NSSpain was considerably more polished. They had improved a lot from the last year, not that it was bad mind you, and I felt this said a lot about what it’s like to do an event like this for the second time.
 
-Reading reports from UIKonf and NSSpain in 2013 had implied that they were some of the strongest examples of the flourishing Cocoa conference scene in Western Europe. I think they still are. 
+Reading reports from UIKonf and NSSpain in 2013 had implied that they were some of the strongest examples of the flourishing Cocoa conference scene in Western Europe. I think they still are.
 
-NSSpain has a really interesting aspect of their location and time, though NSSpain is super awkward to get to, it’s worth it because it’s during a wine festival. The CocoaPods team were rented a house ( it was used as the speakers venue a few times )  and it gave us time to take some great photographs and hang out.  When everyone left it felt a bit strange, just me and Danger hanging out. 
+NSSpain has a really interesting aspect of their location and time, though NSSpain is super awkward to get to, it’s worth it because it’s during a wine festival. The CocoaPods team were rented a house ( it was used as the speakers venue a few times )  and it gave us time to take some great photographs and hang out.  When everyone left it felt a bit strange, just me and Danger hanging out.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/nsspain.jpg" tag_header="NSSPAIN" tag_body="La Rioja, Spain" url="https://orta.exposure.co/spain" %}
 
 Inspired by a talk at NSSpain, I went back to work on an app that I made 3 years ago. It’s a GIF finding app. I still haven’t shipped it. I feel guilty about that. However, life goes on.
 
-A few weeks after NSSpain I headed over to Milan, to finally catch up with the enigmatic Fabio Pelosin. Fabio is a business type that got into programming to give himself an edge. Turns out that he’s a really prolific programmer, and lead CocoaPods for years. However, he’s been doing other things. He has been for about a year now, and we don’t get to see so much of him anymore. We were booked to speak together at Pragma Mark, the leading Italian Cocoa conference. 
+A few weeks after NSSpain I headed over to Milan, to finally catch up with the enigmatic Fabio Pelosin. Fabio is a business type that got into programming to give himself an edge. Turns out that he’s a really prolific programmer, and lead CocoaPods for years. However, he’s been doing other things. He has been for about a year now, and we don’t get to see so much of him anymore. We were booked to speak together at Pragma Mark, the leading Italian Cocoa conference.
 
 He arrived super close to when we were meant to talk, I had been preparing to do it without him. He was super enthused about the work that he was doing outside of CocoaPods and it was infectious. I hope he gets what he is looking for.
 
@@ -131,15 +131,15 @@ Milan was fun. It was amazing to see the [initial working version][61] of CocoaP
 
 We had Pizza. It was the second best pizza I had had. Good job Italy. 👍 ( for those interested, my favourite is in my hometown, [Bar Maroc][62].)
 
-One of the weeks that I was back in the UK, I asked if anyone had office space, and took up residence in a friends office for a few days. He showed me a project he had been working on. It was building a website for creating custom metalwork. Not quite the same as 3D printing something, but conceptually the same. I send them illustrator files they send you back objects. 
+One of the weeks that I was back in the UK, I asked if anyone had office space, and took up residence in a friends office for a few days. He showed me a project he had been working on. It was building a website for creating custom metalwork. Not quite the same as 3D printing something, but conceptually the same. I send them illustrator files they send you back objects.
 
 I had wanted to play with the idea of having a real objects to reflect contributions to CocoaPods. I like the idea that you could have something on your desk that someone could ask you about, and you can say with pride that you helped out a community. So I ordered these coins for people who had contributed to the CocoaPods code-base.  The full write up is on the [cocoapods blog][63].
 
 From the end of A Swift Start, till the end of October was a brutal march towards getting Eidolon out. We _vastly_ underestimated how much using Swift ( and by proxy Xcode betas )  would effect the timing on our app. Once I had started to realise this, you can see the panic in the amount of changes I was making [to the app][64] ([backup screenshot][65]).
 
-I believe that releasing a version 1.0 is hard. So far, every 1.0 has required personal sacrifice. I am willing to take these hits, and put myself into a crunch mode, but not for long. 
+I believe that releasing a version 1.0 is hard. So far, every 1.0 has required personal sacrifice. I am willing to take these hits, and put myself into a crunch mode, but not for long.
 
-Eidolon was the worst crunch I have done. I’ve never felt more frustrated at a computer, and never had to outright take time off to cool down. I don’t believe in the startup culture of working all the time, I skipped the games industry entirely for it’s crunch culture. Yet I still managed to do it to myself. 
+Eidolon was the worst crunch I have done. I’ve never felt more frustrated at a computer, and never had to outright take time off to cool down. I don’t believe in the startup culture of working all the time, I skipped the games industry entirely for it’s crunch culture. Yet I still managed to do it to myself.
 
 I have a strong element of personal pride in my work, it is to a large extent how I define myself. My record of making successful releases is still 100%, but I worry that my ability to jump in and just do what it takes can negatively affect the future culture of the Artsy mobile team. Perhaps we need more [Gordian Knot][66] style answers for these things. I must work on this.
 
@@ -152,7 +152,7 @@ I flew directly from NYC over to Moscow, and then straight to bed. Then to go se
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/russia.jpg" tag_header="Yet Another Conference" tag_body="Moscow, Russia" url="https://orta.exposure.co/moscow" %}
 
 
-Moscow reinforced an idea that I’ve heard a million times. People everywhere are people. They are rarely 100% in agreement with the decisions made in their name. Living in America is a strong reminder that an American is nearly always nice, but America, the country, is dangerous. Find and replace with Russia. 
+Moscow reinforced an idea that I’ve heard a million times. People everywhere are people. They are rarely 100% in agreement with the decisions made in their name. Living in America is a strong reminder that an American is nearly always nice, but America, the country, is dangerous. Find and replace with Russia.
 
 The people were heart-warming, the conference atmosphere was full of people doing things they loved and inspired by the scale of the problems they were fixing. I talked about syncing problems with someone who was building custom offline maps for all of Russia. People had come from all over Russia to attend the conference, when someone said they were from Siberia I was floored. Siberia. Immediately after that conversation I read the wikipedia page on it. So much history.
 
