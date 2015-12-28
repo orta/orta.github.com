@@ -10,26 +10,24 @@ categories:
 
 It was another year with a birthday in New York City. At the moment I don't personally remember what was happening at the time, personally I don't think much was happening. I had a relatively calm time in the end of November in NYC.
 
-I had just got back from 2 months traveling around Asia with Danger, and we briefly experimented with moving in together for 2 weeks before I moved out to NYC for three months. 
+I had just got back from 2 months traveling around Asia with Danger, and we briefly experimented with moving in together for 2 weeks before I moved out to NYC for three months.
 
 
-In early December, Miami Basel happened, it's a party I've mentioned before where nearly all of the Arsty staff go down to Miami for a week and experience the art world at its most intense. I've talked about it before so there's no need to re-iterate but it was a lovely trip and I'm always glad to have the opportunity to do that. Eventually Artsy will get too big and it won't be feasible :(. 
+In early December, Miami Basel happened, it's a party I've mentioned before where nearly all of the Arsty staff go down to Miami for a week and experience the art world at its most intense. I've talked about it before so there's no need to re-iterate but it was a lovely trip and I'm always glad to have the opportunity to do that. Eventually Artsy will get too big and it won't be feasible :(.
 
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/miami.jpg" tag_header="Miami" tag_body="Florida" %}
 
 
-It was about this time we started slowing down work on an _instagram for Artsy_ -like iOS client that ended up mothballed. Instead switching back to the Artsy partner app Folio. Folio is a solid little app, that's already been dwarfed in lines of code by the current Artsy iOS app. 
+It was about this time we started slowing down work on an _instagram for Artsy_ -like iOS client that ended up mothballed. Instead switching back to the Artsy partner app Folio. Folio is a solid little app, that's already been dwarfed in lines of code by the current Artsy iOS app.
 
-I was offered to go and visit my amazing ex-housemate [Dave Grandinetti](http://twitter.com/dbgrandi) over Christmas and I took it. He lives up in the north of the state New York, in a place called Syracuse. I've _never_ seen so much snow. It started, and then overnight there was 6 foot covering everything. We travelled out into the country to spend time with 
+I was offered to go and visit my amazing ex-housemate [Dave Grandinetti](http://twitter.com/dbgrandi) over Christmas and I took it. He lives up in the north of the state New York, in a place called Syracuse. I've _never_ seen so much snow. It started, and then overnight there was 6 foot covering everything. We travelled out into the country to spend time with
 
 the rest of his family, it was a great experience and whilst I'm not the sort to get homesick it did remind me that I'd missed christmas for a few years in a row. Dave and his housemate were active users of my Put.IO app, so over Christmas I got some work done on it.
-
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/snow.jpg" tag_header="Syracuse" tag_body="New York State" %}
 
 # OSS
-
 
 By January I got back into the city and started to get more active in the open source community. I had always believed in the open source ideals, I've had `./free` tattoo'd on my arm since I was 16. Yet I didn't really feel like I had contributed enough back. So I came upon a course of action. There are some people who can write a lot of libraries, and there are some people that only need to write one. I started with open-sourcing a library I had slowly been building internally for abstracting out [Analytics in iOS apps](http://artsy.github.io/blog/2013/04/10/aranalytics/).
 
@@ -48,9 +46,9 @@ With my 3 month VISA wrapped up it was time to head back to the UK, there wasn't
 # UK Conferences
 
 
-My younger sister had her first child, February 1st. Kids are cute, but I'm glad it's not me. I don't really like the baby stage of a human being,  they sure get interesting by toddler stage though. By this point I was pretty active in the CocoaPods community, I still haven't ever submitted any code changes but where I am now it's probably better this way. 
+My younger sister had her first child, February 1st. Kids are cute, but I'm glad it's not me. I don't really like the baby stage of a human being,  they sure get interesting by toddler stage though. By this point I was pretty active in the CocoaPods community, I still haven't ever submitted any code changes but where I am now it's probably better this way.
 
-February marked the return of conferences for me, I had been to WWDC in 2007 and attended a few ruby conferences in the time between but I forgot just how amazing it was to be surrounded by your peers. 
+February marked the return of conferences for me, I had been to WWDC in 2007 and attended a few ruby conferences in the time between but I forgot just how amazing it was to be surrounded by your peers.
 
 NSConference was great, I saw some great talks, and I advertised myself as the goto-guy for CocoaPods discussion. I was interested in feedback, and trying to get an idea for where we're letting people down. I felt like I was faking being the CocoaPods guy at the time, which as Mattt told me later was a feeling that probably might not ever fade. There's an interesting debate about everything we do being a facade.
 
@@ -58,17 +56,17 @@ So I faked it, and I made it, I talked to a lot of people. I distinctly remember
 
 I owe [Niklas Saers](https://twitter.com/niklassaers) a thanks here, we talked a bunch of times at NSConference and he later would be the first person to ask me speak at a conference, triggering off it's own chain of events. You backed the right horse there. Thanks.
 
-The rest of February blurred by, I helped a long-time friend ( who I worked with back when I was 25 ) run TEDx Huddersfield, and started studying how people speak publicly. 
+The rest of February blurred by, I helped a long-time friend ( who I worked with back when I was 25 ) run TEDx Huddersfield, and started studying how people speak publicly.
 
 <h1 id="cocoadocs">CocoaDocs</h1>
 
 In preparation for these write-ups, I scour my calendar, talk to people and go over almost all my emails for each month. I normally have 5-6 lines of notes per month. In March I have one word. *CocoaDocs.*
 
-CocoaDocs is the second major event, over the course of a month and a half any non-artsy time was devoted to documentation and building a tool that would document thousands of open-source projects without falling over. It started pretty innocuously in a discussion with [@speednoisemovement](http://speednoisemovement.com) about how we never knew a method existed in AFNetworking and there should be a single place to go and get documentation from any project. This idea just took over everything, much like how the rush to iOS7 launch happened later in the story ( I warned my girlfriend "This will be like CocoaDocs but for months.") 
+CocoaDocs is the second major event, over the course of a month and a half any non-artsy time was devoted to documentation and building a tool that would document thousands of open-source projects without falling over. It started pretty innocuously in a discussion with [@speednoisemovement](http://speednoisemovement.com) about how we never knew a method existed in AFNetworking and there should be a single place to go and get documentation from any project. This idea just took over everything, much like how the rush to iOS7 launch happened later in the story ( I warned my girlfriend "This will be like CocoaDocs but for months.")
 
-CocoaDocs got built in secret, I didn't even mention it to the CocoaPods devs until it was starting to get ready to work with the CocoaPods specs repo I could start testing at scale and realtime. I just used to have my laptop running overnight parsing documents every night till it wouldn't fail on any that seemed reasonable to me. It still has issues with C projects. 
+CocoaDocs got built in secret, I didn't even mention it to the CocoaPods devs until it was starting to get ready to work with the CocoaPods specs repo I could start testing at scale and realtime. I just used to have my laptop running overnight parsing documents every night till it wouldn't fail on any that seemed reasonable to me. It still has issues with C projects.
 
-It's great to have a girlfriend that may not entirely understand your motives, but believes in you. I would be working on it before she woke up in a morning, then whist she was getting ready to go to work - I'd do my Artsy stuff, then arrive back at 1-2am and we'd barely overlap. 
+It's great to have a girlfriend that may not entirely understand your motives, but believes in you. I would be working on it before she woke up in a morning, then whist she was getting ready to go to work - I'd do my Artsy stuff, then arrive back at 1-2am and we'd barely overlap.
 
 By April CocoaDocs was public, Danger and I celebrate by me saying "I'll buy us a champagne" and then never doing it. We waited till I declared myself "internet famous". This was when [@mattt](https://twitter.com/mattt) followed me and I was almost at 1,000. I bought the most expensive Champagne I could find.
 
@@ -99,7 +97,7 @@ In June, WWDC happened, and so did my first major twitter follower count. WWDC i
 
 The Apple designers were all super impressed, and a few were already using Artsy the website which worked. Their feedback was minor, which meant we were on the right direction. Once I got back we started talking with Apple about our aims for an iOS7 launch, it would be tight - we had to cut a lot of features, and rely on the artsy mobile artsy website to get it out, but it was solid. And a lot of the internal feedback couldn't tell when the app ended and the website started, which meant we could work it.
 
-It was a pretty gruelling 2 months trying to get the app out, you could see the entire Obj-C community just be totally inactive for this time till the iOS app submission window around the 5th of September. I celebrated the app submission by running 12 mile obstacle course in the middle of Yorkshire. 
+It was a pretty gruelling 2 months trying to get the app out, you could see the entire Obj-C community just be totally inactive for this time till the iOS app submission window around the 5th of September. I celebrated the app submission by running 12 mile obstacle course in the middle of Yorkshire.
 
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/27/orta-beer.jpg" tag_header="" tag_body="" %}
