@@ -56,7 +56,7 @@ I wasn’t happy to write about this, so I held off on starting  for a few weeks
 
 They’re actively talking with the community and us, finding ways to share work and to promote collaboration. It’s eased a lot of the friction I had been feeling. Apple has a fresh start in a way we could not, and will be able to do things much better than the CocoaPods team could.
 
-All in all, when people have been asking what I want to do in the next year, I’m feel pretty done on the “lowering the barrier to entry” space, this year it became less fun.
+All in all, when people have been asking what I want to do in the next year, I’m feeling pretty done on the “lowering the barrier to entry” space, this year it became less fun.
 
 *TLDR* - People wrote a competitor for something I work on, it has different ideas that aren’t about the community, people use it and it makes it harder for new people to contribute to the community I care about, this bums me out. Ironically, Apple is potentially saving the day by doing their own competitor too. They’re not known for being good in this space.
 
@@ -103,15 +103,15 @@ I’ve lived with [Dave Grandinetti][15] for a year now, this has been amazing. 
 
 We have this really cool policy of regularly inviting people to crash at ours, so the place always feels fresh, and it’s nice to have people to interact with. Plus people are much more likely to come over and say hi.
 
-One of the upsides of having a place, is that Danger can actually come over. She NYC visited three times this year. I’ll go into this later.
+One of the upsides of having a place, is that Danger can actually come over. She visited NYC three times this year. I’ll go into this later.
 
-Over the course of the year, we completed a few games, I feel like the one we put the most time into was The Binding of Isaac. I put a few hundred hours in to Team Fortress 2 this year, don’t worry, I’ve got a [rare coin thing][16] for my time.
+Over the course of the year, I completed a few games, I feel like the one I put the most time into was The Binding of Isaac. I put a few hundred hours in to Team Fortress 2 this year, don’t worry, I’ve got a [rare coin thing][16] for my time. Me and Danger completed a bunch of good ones too.
 
 {% include subheading.html title="Danger" %}
 
 So, Danger lives in [Huddersfield][17] in the UK.
 
-Now that I have an apartment, it’s actually feasible for Danger to come to New York City. It could have been possible via Airbnb, but it never really came up as an option. Last year, I came back to see her roughly every 2 months. This year we tried flipping that around, and having more her come to the city.
+Now that I have an apartment, it’s actually feasible for Danger to come to New York City. It could have been possible via Airbnb, but it never really came up as an option. Last year, I came back to see her roughly every 2 months. This year we tried flipping that around, and have her come to me in the city.
 
 In doing so; I didn’t need to book so many conference talks, and more interestingly I could show the rest of our team that having no vacation policy does not mean [never taking time off][18].
 
