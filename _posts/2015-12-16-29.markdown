@@ -160,7 +160,7 @@ It’s not a simple process, and it’s idealistic and utopian in its vision, bu
 
 We’ve shipped a lot of things I’m super proud of helping out in.
 
- * Shipping an Apple TV app.
+* Shipping an Apple TV app.
 * Deciding to not ship a Apple Watch app.
 * Eigen and Folio went Universal.
 * Eigen got support for a lot of modern features, the sort that gets Apple features. Shared Keychain, Push-Pop, Spotlight Search and a whole new interface.
