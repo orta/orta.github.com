@@ -190,7 +190,7 @@ Regardless of my general state of inspiration for OSS, I’ve still managed to s
 
 * I shipped CocoaPods Stats, letting an author know the exact number of apps that your library is used in. Something no other package manager does. We also show the raw download counts, but that’s just a vanity number.
 
-	It also provides a sense of scale for CocoaPods, turns out its even more popular than I expected. Either that of the community is bigger than I guessed.
+	It also provides a sense of scale for CocoaPods, turns out its even more popular than I expected. Either that or the community is bigger than I guessed.
 
 * I created a collection of heuristics, based on years of discussion with the community, that create positive feedback cycles on ways in which you can improve your library.
 
