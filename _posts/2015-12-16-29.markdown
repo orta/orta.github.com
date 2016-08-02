@@ -202,7 +202,7 @@ As a team there’s been a bunch of solid releases, and the command-line gem has
 
 {% include subheading.html title="Nerves" %}
 
-I tried to make myself nervous for a few years. I feel like I regularly take a lot of safe bet options, and am now have enough liquid cash that most problems aren't problems. So on my 28th birthday. Danger + I went to a casino, I gave myself a hard limit of being able to lose up-to £1,000. We played on the roulette table all night, I had been [practicing Blackjack][43] for a bit, and was pretty comfortable with it, but the tables were all busy. By playing slow, not making silly moves we ended up coming out with £500 from the house. Deciding that was enough and you can’t win forever, we went [for Pizza][44], and  put the rest of the cash towards a car.
+I tried to make myself nervous for a few years. I feel like I regularly take a lot of safe bet options, and now have enough liquid cash that most problems aren't problems. So on my 28th birthday. Danger + I went to a casino, I gave myself a hard limit of being able to lose up-to £1,000. We played on the roulette table all night, I had been [practicing Blackjack][43] for a bit, and was pretty comfortable with it, but the tables were all busy. By playing slow, not making silly moves we ended up coming out with £500 from the house. Deciding that was enough and you can’t win forever, we went [for Pizza][44], and  put the rest of the cash towards a car.
 
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/29/speaking.jpg" tag_header="I did a lot of talks" tag_body="Less than last year, more than most." %}
