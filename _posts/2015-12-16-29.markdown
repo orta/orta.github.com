@@ -190,7 +190,7 @@ Regardless of my general state of inspiration for OSS, I’ve still managed to s
 
 * I shipped CocoaPods Stats, letting an author know the exact number of apps that your library is used in. Something no other package manager does. We also show the raw download counts, but that’s just a vanity number.
 
-	It also provides a sense of scale for CocoaPods, turns out its even more popular than I expected. Either that of the community is bigger than I guessed.
+	It also provides a sense of scale for CocoaPods, turns out its even more popular than I expected. Either that or the community is bigger than I guessed.
 
 * I created a collection of heuristics, based on years of discussion with the community, that create positive feedback cycles on ways in which you can improve your library.
 
@@ -202,7 +202,7 @@ As a team there’s been a bunch of solid releases, and the command-line gem has
 
 {% include subheading.html title="Nerves" %}
 
-I tried to make myself nervous for a few years. I feel like I regularly take a lot of safe bet options, and am now have enough liquid cash that most problems aren't problems. So on my 28th birthday. Danger + I went to a casino, I gave myself a hard limit of being able to lose up-to £1,000. We played on the roulette table all night, I had been [practicing Blackjack][43] for a bit, and was pretty comfortable with it, but the tables were all busy. By playing slow, not making silly moves we ended up coming out with £500 from the house. Deciding that was enough and you can’t win forever, we went [for Pizza][44], and  put the rest of the cash towards a car.
+I tried to make myself nervous for a few years. I feel like I regularly take a lot of safe bet options, and now have enough liquid cash that most problems aren't problems. So on my 28th birthday. Danger + I went to a casino, I gave myself a hard limit of being able to lose up-to £1,000. We played on the roulette table all night, I had been [practicing Blackjack][43] for a bit, and was pretty comfortable with it, but the tables were all busy. By playing slow, not making silly moves we ended up coming out with £500 from the house. Deciding that was enough and you can’t win forever, we went [for Pizza][44], and  put the rest of the cash towards a car.
 
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/29/speaking.jpg" tag_header="I did a lot of talks" tag_body="Less than last year, more than most." %}
