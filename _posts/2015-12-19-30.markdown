@@ -1,0 +1,80 @@
+---
+layout: on_being
+title: "30"
+categories:
+- "on"
+- "being"
+---
+
+<style type="text/css" media="screen">
+a {
+  background-color:#d7d7d7;
+  color:#6b6b6b;
+}
+</style>
+
+{% include subheading.html title="2017" %}
+
+2016, what a year. The geo-political scene is slowly turning on it's head, it turns out thirty-year olds really do have different problems. As a British citizen, watching Brexit happen has been deeply dissapointing, and living in America means that I'll be living a county with a President like Trump.
+
+Both of these events remind me there are millions of people with viewpoints that are very different from mine, and that there's enough of them to really shift the direction of our democracies.
+
+---
+
+So let's just start with the highlight - I got married 💍. Danger has been featured in thse posts since [On Being 26][26], 5 years ago, where [I created an iPad app][mixtapes] for her. A lot of my conference travel has been motivated by our remote-ness, by travelling from NYC to the EU, I could spend some time with Danger back in England, or she could come along to where-ever.
+
+We started 
+
+
+-   Got Married (Sat Oct 29) honeymoon
+-   Got an O-1 VISA
+
+---
+
+[On Being 29][29] opened with a very, very long discussion on the Open Source iOS community and my feelings over the year. Not much has changed on that front and Apple are still working on something which could hopefully replace CocoaPods as the core community build infrastructure.
+
+For people who don't get the tech community, I donate the majority of my free time to building and maintaining infrastructure that makes it significantly easier to build iOS apps. I've done this for the last 4 years - it's a fun but tiring position, there's a handful of volunteers working on a project used by hundreds of thousands of people a month.   
+
+Personally I'll be glad to see Apple take over, CocoaPods is a huge community project and a lot of people rely on it. However, knowing that it's a project which will be replaced by an official version means that there's little motivation to improve. This is totally fine, but as it's a community project - who keeps the lights on?
+
+This is a predicament discussed a lot in [Roads and Bridges][roads-bridges], a paper on community infrastructure and dichotomy of so many relying on so few. There are a few answers to keep the lights on, but I don't have the energy or the will to start those ( as they are arguably more time consuming than keeping the lights on. )
+
+The downside of knowing you'll be replaced is that people eventually stop contributing, which is normal, but new people don't necessarily take their place at the same rate. People will fix small annoyances, but it's harder for the project to keep up to date or do anything new. 
+
+{% include subheading.html title="Books" %}
+
+Fiction: 
+- Library at Mount Char
+- Automation books
+
+{% include subheading.html title="Books" %}
+
+- Stephen Universe
+- West World
+
+{% include subheading.html title="Shipped" %}
+
+-   Doing less CocoaPods
+-   CocoaPods 1.0
+-   Built CocoaPods Mac App
+-   Built Danger
+-   C4Q
+
+* * *
+
+{% include subheading.html title="Travel" %}
+
+-   Siberia
+-   Alps
+-   WWDC
+
+{% include subheading.html title="Work" %}
+
+-   OSS by default won
+-   Move to JS
+-   Weird role
+
+[mixtapes]: https://github.com/orta/Mixtapes
+[26]: /on/being/26
+[29]: /on/being/29
+[roads-bridges]: http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/  
