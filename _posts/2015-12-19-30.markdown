@@ -25,11 +25,11 @@ She's an awesome lady, and getting married hasn't really changed us as a couple.
 
 One of the inspirations for the change is that my VISA status has changed from H1B to O-1. The H1B meant Danger could come over to NYC with me, but would have forced her to either study or volunteer full time. The O-1 means that she could work in NYC, and that means independence.
 
-I expect 2018 will be dominated by helping her move, and helping her get settled and finding her feet.
+I expect 2018 will be dominated by helping her move, and helping her get settled and finding her feet. This should be quite a lot of fun, I've reduced a lot of my larger responsibilities and am continuing in that direction so that we can start with Danger having a great introduction to NYC. Instead of me always on a laptop working on some community project.
 
 {% include subheading.html title="2016" %}
 
-2016, what a year. The geo-political scene is slowly turning on it's head, it turns out thirty-year olds really do have different problems. As a British citizen, watching Brexit happen has been deeply troubling, and as an immigrant in America, I'll be living a country that elected a President like Trump.
+2016, what a year though. The geo-political scene is slowly turning on it's head, it turns out thirty-year olds really do have different problems. As a British citizen, watching Brexit happen has been deeply troubling, and as an immigrant in America, I'll be living a country that elected a President like Trump.
 
 I don't have much to add to that global conversation, but I can understand why so many people are so angry.
 
@@ -37,11 +37,11 @@ Due to this, a lot of my non-fiction reading has been around three main topics: 
 
 The highlights on each topic:
 
-- Whole Earth Discipline
-- Coming Apart - White America from 1960 - 2010
-- Machines of Loving Grace
+- [Whole Earth Discipline](https://en.wikipedia.org/wiki/Whole_Earth_Discipline)
+- [Coming Apart - White America from 1960 - 2010](https://en.wikipedia.org/wiki/Coming_Apart_(book))
+- [Machines of Loving Grace](https://www.amazon.com/Machines-Loving-Grace-Between-2015-08-25/dp/B017YCGJ74%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-osx-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB017YCGJ74)
 
-I am inspired by CDSSDC CSDC from Brett Victor to start looking at larger patterns. Which feels difficult when the problems seem to big and abstract.
+I am inspired by [What can a technologist do about climate change? ](http://worrydream.com/ClimateChange/) from Brett Victor to start looking at larger patterns. Which feels difficult when the problems seem to big and abstract. So far though, this is mostly at data collection stage. Maybe this sort of stuff just isn't important enough for me, I get so angry about privacy and talk about crypto, but I've yet to make any larger contributions.
 
 
 {% include subheading.html title="iOS Community" %}
@@ -63,6 +63,22 @@ This year I joined the JavaScript community.
 One of my favourite differences between the JavaScript community and the iOS community is the feeling of being able to build and fix your own problems. You can work on an entirely open stack, use open tools and can help out whereever you want..
 
 JavaScript is basically the primordial soup of programming, which was fascinating to watch - and as a contributor this makes it easy to make a big impact. It feels like so many people are focusing on building the _next big thing_. This leaves a lot of gaps where you can put some time to bridging concepts and really making serious productivity improvements.
+
+It's been 4 months since I started taking JavaScript serious, and I've done quite a lot of useful work in the space. I've put considerable time into three main places of tooling:
+
+* Visual Studio Code
+* Testing via Jest
+* Typing JavaScript via Flow, and TypeScript
+
+The TLDR: a lot of the tooling has so much potential. The fact that everything is open means that they all kind of work together and it's up to you to figure out how to make the jigsaw of small pieces work together. I've found a lot of places where a tiny bit of effort can really make a strong different to the editing experience. I've writing a lot about this on the [Artsy blog](http://artsy.github.io/author/orta/) so it's exploration here should be short. 
+
+In summary, I'd have never expected a year ago to be spending so much time writing and improving JavaScript. 
+
+The reasons for this is it feels like native iOS development has let down developers who are writing apps what convert API data into user interfaces. It does not feel like it's in Apple's interests to change either. Long explaination for that is here:
+
+<iframe src="https://player.vimeo.com/video/190737663" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/190737663">Mobile Era 2016 - Orta Therox: &quot;Building outside of the sandbox&quot;</a> from <a href="https://vimeo.com/mobileera">Mobile Era</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 {% include subheading.html title="Fiction" %}
 
