@@ -19,13 +19,24 @@ Danger has been featured in thse posts since [On Being 26][26], 5 years ago, whe
 
 Danger lives in the UK, so a lot of my conference travel has been motivated by our remote-ness. By travelling from NYC to the EU, I could spend some time with Danger back in England, or she could come along to where-ever. This made remote over the long run easier.
 
-I spent a lot of time talking about how I should ask her to get married in the run up. She was coming over the NYC for 2 weeks, and I had the option to really do anything I wanted with that time. I settled on the simplest option - we went for a picnic in Central Park, and I asked her if she wanted to get married. We spent the next few hours looking for Pokémon in the Park and trying to plan the next few years of our lives together.
+I spent a lot of time talking with others about how I should ask her to get married in the run up. I know women get asked a lot, and I want her to have something great to say for the rest of her life. She was coming over the NYC for 2 weeks, and I had the option to really do anything I wanted with that time. . 
+
+It was fun, I had spoken at an Instagram/Facebook conference a few weeks earlier and they gave me a picnic set for speaking. So I went with the simplest option - we went for a picnic in Central Park, and I asked her if she wanted to get married.
+
+We spent the next few hours looking for Pokémon in the Park and trying to plan the next few years of our lives together. 
+
+Aiming for simplicity, we did our [marriage + paperwork](https://www.facebook.com/photo.php?fbid=831399404610&set=a.522655050770.36080.283900865&type=3&theater) as soon as I got back to the UK with plans for something bigger in May 2017.
+
+
+<center>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D831399404610%26set%3Da.522655050770.36080.283900865%26type%3D3%26theater&width=750&show_text=true&appId=488972500155&height=563" width="750" height="563" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</center>
 
 She's an awesome lady, and getting married hasn't really changed us as a couple. We can make more more dumb jokes now.
 
 One of the inspirations for the change is that my VISA status has changed from H1B to O-1. The H1B meant Danger could come over to NYC with me, but would have forced her to either study or volunteer full time. The O-1 means that she could work in NYC, and that means independence.
 
-I expect 2018 will be dominated by helping her move, and helping her get settled and finding her feet. This should be quite a lot of fun, I've reduced a lot of my larger responsibilities and am continuing in that direction so that we can start with Danger having a great introduction to NYC. Instead of me always on a laptop working on some community project.
+I expect 2017 will be dominated by helping her move, and helping her get settled and finding her feet. This should be quite a lot of fun, I've reduced a lot of my larger responsibilities and am continuing in that direction so that we can start with Danger having a great introduction to NYC. Instead of me always on a laptop working on some community project.
 
 {% include subheading.html title="2016" %}
 
@@ -43,18 +54,19 @@ The highlights on each topic:
 
 I am inspired by [What can a technologist do about climate change? ](http://worrydream.com/ClimateChange/) from Brett Victor to start looking at larger patterns. Which feels difficult when the problems seem to big and abstract. So far though, this is mostly at data collection stage. Maybe this sort of stuff just isn't important enough for me, I get so angry about privacy and talk about crypto, but I've yet to make any larger contributions.
 
+Am I just not at a point where I feel like those kind of activities are as simple as forking a repo and making a quick Pull Request? What do I need to change to do that?
 
 {% include subheading.html title="iOS Community" %}
 
-[On Being 29][29] opened with a long discussion on the Open Source iOS community and my feelings over the year. The fracture never healed for me, as not much has changed on that community front. Apple are still working on something which could hopefully replace CocoaPods as the core community build infrastructure, which is 👍.
+[On Being 29][29] opened with a long discussion on the Open Source iOS community and my feelings over the year. The fracture never healed for me, and not much has changed on that community front. Apple are still working on something which could hopefully replace CocoaPods as the core community build infrastructure, which is 👍.
 
 For people who don't get the tech community, I donate the majority of my free time to building and maintaining infrastructure that makes it significantly easier to build iOS apps. I've done this for the last 4 years - it's a gratifying but tiring position, there's a handful of volunteers working on a project used by hundreds of thousands of people a month.
 
-Personally I'll be glad to see Apple take over, CocoaPods is a huge community project and a lot of people rely on it. However, knowing that it's a project which will be replaced by an official version means that there's little motivation to improve. This is totally fine, but as it's a community project - **how does CocoaPods keeps the lights on?**
+Personally I'll be glad to see Apple take over, CocoaPods is a huge community project and a lot of people rely on it. 1.5 million apps (not all published) have used CocoaPods to improve. However, knowing that it's a project which will be replaced by an official version means that there's less to improve fpr. This is totally fine, but as it's a community project - how does CocoaPods keeps the lights on once most people have migrated? 
 
-This is a predicament presented in [Roads and Bridges][roads-bridges], a paper on community infrastructure and dichotomy of so many relying on so few. There are a few answers to keep the lights on, but I don't have the energy or the will to start those ( as they are arguably more time consuming than keeping the lights on. )
+This is a predicament presented in [Roads and Bridges][roads-bridges], a paper on community programming infrastructure and dichotomy of so many relying on so few. There are a few answers to keep the lights on, but I don't have the energy or the will to start those ( as they are arguably more time consuming than keeping the lights on ) perhaps someone else will take that mantle.
 
-The downside of knowing you'll be replaced is that people eventually stop contributing, which is normal, but new people don't necessarily take their place at the same rate. People will fix small annoyances, but it's harder for the project to keep up to date or do anything new.
+The downside of knowing the project will be replaced is that people eventually stop contributing, which is normal, but new people don't necessarily take their place at the same rate. People will fix small annoyances, but it's harder for the project to keep up to date or do anything new.
 
 {% include subheading.html title="JS Community" %}
 
@@ -66,9 +78,9 @@ JavaScript is basically the primordial soup of programming, which was fascinatin
 
 It's been 4 months since I started taking JavaScript serious, and I've done quite a lot of useful work in the space. I've put considerable time into three main places of tooling:
 
-* Visual Studio Code
-* Testing via Jest
-* Typing JavaScript via Flow, and TypeScript
+* Visual Studio Code (The Editor)
+* Testing via Jest ( The most modern Testing framework)
+* Typing JavaScript via Flow, and TypeScript (The way to make an editor shine)
 
 The TLDR: a lot of the tooling has so much potential. The fact that everything is open means that they all kind of work together and it's up to you to figure out how to make the jigsaw of small pieces work together. I've found a lot of places where a tiny bit of effort can really make a strong different to the editing experience. I've writing a lot about this on the [Artsy blog](http://artsy.github.io/author/orta/) so it's exploration here should be short. 
 
@@ -76,7 +88,10 @@ In summary, I'd have never expected a year ago to be spending so much time writi
 
 The reasons for this is it feels like native iOS development has let down developers who are writing apps what convert API data into user interfaces. It does not feel like it's in Apple's interests to change either. Long explaination for that is here:
 
+<center>
 <iframe src="https://player.vimeo.com/video/190737663" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</center>
+
 <p><a href="https://vimeo.com/190737663">Mobile Era 2016 - Orta Therox: &quot;Building outside of the sandbox&quot;</a> from <a href="https://vimeo.com/mobileera">Mobile Era</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
@@ -86,13 +101,34 @@ The reasons for this is it feels like native iOS development has let down develo
 - Stephen Universe
 - West World
 
+
+{% include subheading.html title="Tech" %}
+
+
+- Overwatch
+- VR
+
 {% include subheading.html title="Shipped" %}
 
 I helped shipped a lot of large scale projects this year.
 
-I helped get CocoaPods 1.0 out of the door, as well
+I helped get CocoaPods 1.0 out of the door, it's strange to think that this was this year. It feels so long ago, and it's been discussed for _so long_. It is a statement of "these are our last major breaking changes" which I think [Segiddins][] does a [great job explaining](http://blog.cocoapods.org/CocoaPods-1.0/). 
 
--   Doing less CocoaPods
+[Segiddins][] did the majority of the 1.0 work there, but I matched it by taking [Alloy]'s work on an integrated CocoaPods environment and turned it into a beautiful elegant Mac app. I'm super proud of how it turned out, it's a simple codebase which does some really tricky things elegantly.
+
+### Danger
+
+I wanted Danger at the start of 2015. Danger was started in September 2015, but didn't get a mention last year. This makes sense, I may have started the project then, but work [only really started](https://github.com/danger/danger/releases?after=v0.1.1) in January 2016 when [Felix Krause started to help](https://github.com/danger/danger/compare/v0.1.0...0.1.1) out.
+
+Explaining Danger, the software projects, is fun. I've introduced a lot of confusing ambiguity in the project that makes it fun to explain. The name alone is [confusing](https://twitter.com/mxstbr/status/812028946682408962) but Danger and I [came to it](https://github.com/artsy/mobile/issues/31#issuecomment-118543364) together, and then [the anthropromophism](http://danger.systems/guides/faq.html#danger-keeps-getting-refered-to-as-quot-her-she-quot-what-gives) muddies the discussion even further. 
+
+Danger makes the process of Code Review easier, by making it possible to automate parts of your team workflow. We wanted to be able to write CHANGELOGs, and add tiny, useful bits of process. We could do this by making project specific rules using Danger.
+
+This year Danger 
+
+
+CocoaPods 
+
 -   CocoaPods 1.0
 -   Built CocoaPods Mac App
 -   Built Danger
@@ -110,16 +146,17 @@ I helped get CocoaPods 1.0 out of the door, as well
 
 I'm now 5 years in to Artsy. When I joined we could fit on two tables, now we fit on 3 floors and 4 HQs. The company continues to grow, our scope continues to increase and the problems we face have changed. 
 
-This was the year that we wrapped up Open Source by Default for Artsy, almost every project that _should_ be Open Source is now Open. It's awesome being able to always show your true work, and to be able to publicly show your struggles.
+This was the year that we wrapped up Open Source by Default for Artsy, almost every project that _should_ be Open Source is now Open. It's awesome being able to always show your true work, and to be able to publicly show your [struggles](https://github.com/artsy/eigen/issues/586).
 
 Artsy "the product" is maturing, a lot of the fundamental pieces required to pull off an idea like Artsy are set and work. This is awesome, because it gives us the chance to start thinking a bit further forwards than a quarter or two. I've mentioned over the years the new people I've helped hire for the mobile team, and last year we hired [Maxim] - she stands out as a solid engineer, a great speaker and a real product visionary.
 
-I stopped being a manager this year, with that responsibility mostly falling to [Alloy]. He's always had more focus on what _needs_ to be built than I have. In leau of the managerial responsibilities, I've picked up a lot of janitorial tasks throughout Artsy - jumping between different projects depending on what seems to need engineering energy the most.
+I stopped being a manager this year, with that responsibility mostly falling to [Alloy]. He's always had more focus on what _needs_ to be built than I have. In leau of the managerial responsibilities, I've picked up a lot of janitorial tasks throughout Artsy - jumping between different projects depending on what seems to need engineering energy the most. This suites my personality better, and makes it easier to have the breaks from work I am expecting this year. That is, my honeymoon and a month or two out in America when Danger lands in 2017.
 
 
 [mixtapes]: https://github.com/orta/Mixtapes
 [26]: /on/being/26
 [29]: /on/being/29
 [roads-bridges]: http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
-[Maxim]: asdas
-[Alloy]: asdasdadsd
+[Maxim]: http://mennenia.com
+[Alloy]: https://github.com/alloy
+[Segiddins]: http://segiddins.me
