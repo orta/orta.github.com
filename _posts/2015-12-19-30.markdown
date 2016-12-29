@@ -60,7 +60,10 @@ Am I just not at a point where I feel like those kind of activities are as simpl
 
 [On Being 29][29] opened with a long discussion on the Open Source iOS community and my feelings over the year. The fracture never healed for me, and not much has changed on that community front. Apple are still working on something which could hopefully replace CocoaPods as the core community build infrastructure, which is 👍.
 
+
 For people who don't get the tech community, I donate the majority of my free time to building and maintaining infrastructure that makes it significantly easier to build iOS apps. I've done this for the last 4 years - it's a gratifying but tiring position, there's a handful of volunteers working on a project used by hundreds of thousands of people a month.
+
+It's hard to remember the specifics of why I [wrote this](http://orta.io/rebase/impact/), but it was around the CocoaPods 1.0 launch where I was turning down a lot of offers to do things. It worried Danger.
 
 Personally I'll be glad to see Apple take over, CocoaPods is a huge community project and a lot of people rely on it. 1.5 million apps (not all published) have used CocoaPods to improve. However, knowing that it's a project which will be replaced by an official version means that there's less to improve fpr. This is totally fine, but as it's a community project - how does CocoaPods keeps the lights on once most people have migrated? 
 
@@ -82,9 +85,11 @@ It's been 4 months since I started taking JavaScript serious, and I've done quit
 * Testing via Jest ( The most modern Testing framework)
 * Typing JavaScript via Flow, and TypeScript (The way to make an editor shine)
 
-The TLDR: a lot of the tooling has so much potential. The fact that everything is open means that they all kind of work together and it's up to you to figure out how to make the jigsaw of small pieces work together. I've found a lot of places where a tiny bit of effort can really make a strong different to the editing experience. I've writing a lot about this on the [Artsy blog](http://artsy.github.io/author/orta/) so it's exploration here should be short. 
+The TLDR: a lot of the tooling has so much potential. The fact that everything is open means that they all kind of work together and it's up to you to figure out how to make the jigsaw of small pieces fit. I've found a lot of places where a tiny bit of effort can really make a strong different to the editing experience. I've writing a lot about this on the [Artsy blog](http://artsy.github.io/author/orta/) so it's exploration here should be short. 
 
-In summary, I'd have never expected a year ago to be spending so much time writing and improving JavaScript. 
+In summary, I'd have never expected a year ago to be spending so much time writing and improving JavaScript. It feels really good to be working on an entirely open platform, which doesn't feel like doing work for a mega-corp for free.
+
+[Alloy][] put forward that React Native, should be the way in which Artsy handles mobile. 
 
 The reasons for this is it feels like native iOS development has let down developers who are writing apps what convert API data into user interfaces. It does not feel like it's in Apple's interests to change either. Long explaination for that is here:
 
@@ -97,15 +102,34 @@ The reasons for this is it feels like native iOS development has let down develo
 
 {% include subheading.html title="Fiction" %}
 
-- Library at Mount Char
-- Stephen Universe
-- West World
+- [Library at Mount Char](https://www.goodreads.com/book/show/26892110-the-library-at-mount-char)
+
+I came into this with relatively little expectations and was blown away. I'm afraid by me saying this I've raised that bar, but a lot of people have now read it in Artsy and love it.
+
+- [Stephen Universe](https://ashfurrow.com/blog/steven-universe-and-masculinity/)
+
+[Ash][] introduced me to Steven Universe, and I binge watched it over the course of a month and re-watched it with Danger a second time. It's a much deeper show than the first 10 episodes initially imply. I think Ash covered a lot of my feelings about it really well.
+
+- [Westworld](https://ashfurrow.com/)
+
+Westworld is the new Game of Thrones, it's permeated culture so much that you probably already know if you like it. Danger + I loved it.
+
+- VR
+
+[Dave][] and I bought a full VR setup at our NYC apartment, it is _really_ impressive. For the first few months I used to spend 30 minutes each day playing [Audio Shield][] in the morning. We've tried  most VR games, and I've kept on top of what's going on in the scene.
+
+People ask, so, Porn isn't really a thing on VR, it's pretty bad. The most interesting bit to me is that [PornHub is producing their own][pornhub]. It's a bit like when Netflix started making their own series. Could bring a lot of changes.
+
+- [Overwatch](https://www.twitch.tv/directory/game/Overwatch)
+
+I [played TF2][tf2] for years. I played in leagues back when I was 21/22 but once I moved to Huddersfield (and left my Windows computer behind) I never really got back into these kind of games. Overwatch changed that. It offered a more fresh, modern take on the root concept of TF2 with a lot less machoism.
+
+I try
 
 
 {% include subheading.html title="Tech" %}
 
 
-- Overwatch
 - VR
 
 {% include subheading.html title="Shipped" %}
@@ -118,14 +142,17 @@ I helped get CocoaPods 1.0 out of the door, it's strange to think that this was 
 
 ### Danger
 
-I wanted Danger at the start of 2015. Danger was started in September 2015, but didn't get a mention last year. This makes sense, I may have started the project then, but work [only really started](https://github.com/danger/danger/releases?after=v0.1.1) in January 2016 when [Felix Krause started to help](https://github.com/danger/danger/compare/v0.1.0...0.1.1) out.
+I wanted Danger at the start of 2015. Danger was started in September 2015, but didn't get a mention last year. This makes sense, I may have started the project then, but work [only really started](https://github.com/danger/danger/releases?after=v0.1.1) in January 2016 when [Felix Krause started to help](https://github.com/danger/danger/compare/v0.1.0...0.1.1) after a trip to NYC.
 
 Explaining Danger, the software projects, is fun. I've introduced a lot of confusing ambiguity in the project that makes it fun to explain. The name alone is [confusing](https://twitter.com/mxstbr/status/812028946682408962) but Danger and I [came to it](https://github.com/artsy/mobile/issues/31#issuecomment-118543364) together, and then [the anthropromophism](http://danger.systems/guides/faq.html#danger-keeps-getting-refered-to-as-quot-her-she-quot-what-gives) muddies the discussion even further. 
 
-Danger makes the process of Code Review easier, by making it possible to automate parts of your team workflow. We wanted to be able to write CHANGELOGs, and add tiny, useful bits of process. We could do this by making project specific rules using Danger.
+I do somewhere between 10-20 [code reviews][] a day. Danger makes the process of code review easier. By making it possible to automate parts of your team workflow. We wanted to be able to write CHANGELOGs, and add tiny, useful bits of process. We could do this by making project specific rules using Danger.
 
-This year Danger 
+Danger started out solving one specific problem, and eventually became useful in many, many places. I built the start of Danger out of the the CocoaPods codebase in Ruby, and as we redefined what Artsy mobile looked like I started to sense that I needed a version that could run JavaScript. So I made a fork which [runs JavaScript][] - this lasted for a little bit, but felt uncanny valley.
 
+So I started a fresh re-write of Danger in JavaScript. I didn't have much experience shipping NPM modules, so it gave me the chance to really figure out the kinks and get used to it. 
+
+Both projects are doing really well, the Ruby version has had [help from so many people][danger-graph] and is now a solid mature codebase. The JavaScript project has only just got to a point where it works for Artsy, so ease for adoption elsewhere isn't a priority yet.
 
 CocoaPods 
 
@@ -160,3 +187,11 @@ I stopped being a manager this year, with that responsibility mostly falling to 
 [Maxim]: http://mennenia.com
 [Alloy]: https://github.com/alloy
 [Segiddins]: http://segiddins.me
+[Ash]: https://ashfurrow.com/
+[tf2]: http://orta.io/on_culture/games
+[Dave]: http://dbgrandi.github.io
+[Audio Shield]: https://www.youtube.com/results?search_query=audio%20shield
+[pornhub]: http://mashable.com/2016/03/23/pornhub-free-vr-porn-channel/#kCfetsDLvZqS
+[code reviews]: https://en.wikipedia.org/wiki/Code_review
+[runs JavaScript]: https://github.com/danger/danger/pull/422
+[danger-graph]: https://github.com/danger/danger/graphs/contributors
