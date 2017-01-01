@@ -62,9 +62,9 @@ Am I just not at a point where I feel like those kind of activities are as simpl
 
 For people who don't get the tech community, I donate the majority of my free time to building and maintaining infrastructure that makes it significantly easier to build iOS apps. I've done this for the last 4 years - it's a gratifying but tiring position, there's a [handful of volunteers](https://cocoapods.org/about#team) working on a project used by hundreds of thousands of people a month.
 
-It's hard to remember the specifics of why I [wrote this](http://orta.io/rebase/impact/), but it was around the CocoaPods 1.0 launch where I was turning down a lot of offers to do in order to ship a lot of software. It worried Danger.
+It's hard to remember the specifics of why I [wrote this](http://orta.io/rebase/impact/), but it was around the CocoaPods 1.0 launch where I was turning down a lot of offers to social stuff do in order to ship a lot of software. It worried Danger.
 
-Personally I'll be glad to see Apple take over, CocoaPods is a huge community project and a lot of people rely on it. 1.5 million apps (not all published) have used CocoaPods to improve. However, knowing that it's a project which will be replaced by an official version means that there's less to improve fpr. This is totally fine, but as it's a community project - how does CocoaPods keeps the lights on once most people have migrated?
+Personally I'll be glad to see Apple take over, CocoaPods is a huge community project and a lot of people rely on it. 1.5 million apps (not all published) have used CocoaPods to improve. However, knowing that it's a project which will be replaced by an official version means that there's less incentive to improve. This is totally fine, but as it's a community project - how does CocoaPods keeps the lights on once most people have migrated?
 
 This is a predicament presented in [Roads and Bridges][roads-bridges], a paper on community programming infrastructure and dichotomy of so many relying on so few. There are a few answers to keep the lights on, but I don't have the energy or the will to start those ( as they are arguably more time consuming than keeping the lights on ) perhaps someone else will take that mantle.
 
@@ -102,9 +102,9 @@ The reasons for this is a general discomfort with the current status-quo around 
 
 I came into this with relatively little expectations and was blown away. I'm afraid by me saying this I've raised that bar, but a lot of people have now read it in Artsy and love it.
 
--   [Stephen Universe](https://ashfurrow.com/blog/steven-universe-and-masculinity/)
+-   [Stephen Universe](http://www.themarysue.com/steven-universe-101/)
 
-[Ash][] introduced me to Steven Universe, and I binge watched it over the course of a month and re-watched it with Danger a second time. It's a much deeper show than the first 10 episodes initially imply. I think Ash covered a lot of my feelings about it really well.
+[Ash][] introduced me to Steven Universe, and I binge watched it over the course of a month and re-watched it with Danger a second time. It's a much deeper show than the first 10 episodes initially imply. I [think Ash covered](https://ashfurrow.com/blog/steven-universe-and-masculinity) a lot of my feelings about it really well.
 
 -   [Westworld](https://ashfurrow.com/)
 
@@ -114,7 +114,7 @@ Westworld is the new Game of Thrones, it's permeated culture so much that you pr
 
 [Dave][] and I bought a full VR setup at our NYC apartment, it is _really_ impressive. For the first few months I used to spend 30 minutes each day playing [Audio Shield][] in the morning. We've tried  most VR games, and I've kept on top of what's going on in the scene.
 
-People ask, so, Porn isn't really a thing on VR, it's pretty bad. The most interesting bit to me is that [PornHub is producing their own][pornhub] content. It's a bit like when Netflix started making their own series. Could bring a lot of changes.
+As I have a VR setup, people ask if porn on VR is going to be the next big thing. Porn doesn't really a thing on VR yet, it's pretty bad right now. The most interesting bit to me is that [PornHub is producing their own][pornhub] content. It's a bit like when Netflix started making their own series. Could bring a lot of changes.
 
 VR is obviously at very early adopters stage, but I can't help feeling that serious adoption just won't happen. People don't like the idea of being totally enclosed and ignoring all external input, when I get out of being in VR into a dark room - it feels [really dystopian](http://i.imgur.com/odweUkw.jpg). When I demo it to others though, they tend to be impressed.
 
@@ -165,11 +165,11 @@ I helped get CocoaPods 1.0 out of the door, it's strange to think that this was 
 
 {% include subheading.html title="<a href='http://danger.systems'><img src='/assets/images/30/danger-electro.png'/></a>" %}
 
-I wanted Danger at the start of 2015, I spent a long time trying to pursuade others to make it. I failed, so Danger was started in September 2015, but didn't get a mention last year. This makes sense, I may have started the project then, but work [only really started](https://github.com/danger/danger/releases?after=v0.1.1) in January 2016 when [Felix Krause started to help](https://github.com/danger/danger/compare/v0.1.0...0.1.1) after a trip to NYC.
+I [do](https://github.com/orta/) somewhere between 10-20 [code review][] sessions a day. At that start of 2015, I wanted something to automate parts of our team workflow becase the Artsy mobile team was growing. We were looking to cover some of the simplest code review steps e.g. writing CHANGELOGs in an automatic way.
 
-Explaining Danger, the software projects, is fun. I've introduced a lot of confusing ambiguity in the project that makes it fun to explain. The name alone is [confusing](https://twitter.com/mxstbr/status/812028946682408962) but Danger and I [came to it](https://github.com/artsy/mobile/issues/31#issuecomment-118543364) together, and then [the anthropromophism](http://danger.systems/guides/faq.html#danger-keeps-getting-refered-to-as-quot-her-she-quot-what-gives) muddies the discussion even further.
+I spent a long time trying to pursuade others to make something to do this. I failed though, so Danger [was started](https://github.com/danger/danger/commit/54bff6406a9f3a880f00e14c13a2314f9e7173e0) in September 2015, but didn't get a mention in [On Being 29][29]. This makes sense, I may have started the project then, but work [only really started](https://github.com/danger/danger/releases?after=v0.1.1) in January 2016 when [Felix Krause started to help](https://github.com/danger/danger/compare/v0.1.0...0.1.1) after a trip to NYC.
 
-I do somewhere between 10-20 [code reviews][] a day. Danger makes the process of code review easier. By making it possible to automate parts of your team workflow. We wanted to be able to write CHANGELOGs, and add tiny, useful bits of process. We could do this by making project specific rules using Danger.
+Explaining Danger, the software projects, is fun. I've introduced a lot of confusing ambiguity in the project that makes it fun to explain. The name alone is [confusing](https://twitter.com/mxstbr/status/812028946682408962) but none of the options me and Danger came up with were free. Unpon realising that Danger was free, [I jumped on it](https://github.com/artsy/mobile/issues/31#issuecomment-118543364) together, and then [the anthropromophism](http://danger.systems/guides/faq.html#danger-keeps-getting-refered-to-as-quot-her-she-quot-what-gives) muddies the discussion even further.
 
 Danger started out solving one specific problem, and eventually became useful in many, many places. I built the start of Danger out of the the CocoaPods codebase in Ruby, and as we re-defined what Artsy mobile looked like I started to sense that I needed a version that could run JavaScript. So I made a fork which [runs JavaScript][] - this lasted for a little bit, but felt uncanny valley.
 
