@@ -50,7 +50,7 @@ I had hoped that the Cocoa community would have done what the Ruby community did
 
 It’s been personally disappointing, and something that I’ve avoided talking about publicly. I strive to publicly have an attitude of _be nice or shut up_, but that’s not very good for looking back in a few years trying to understand how I became who I am.
 
-I wasn’t happy to write about this, so I held off on starting  for a few weeks. I’m glad I did, something I had been waiting for years happened. When Apple open-source’d Swift, they announced a dependency manager, and have been doing a really job at taking the spirit of CocoaPods.
+I wasn’t happy to write about this, so I held off on starting for a few weeks. I’m glad I did, something I had been waiting for years happened. When Apple open-source’d Swift, they announced a dependency manager, and have been doing a really job at taking the spirit of CocoaPods.
 
 > CocoaPods aims to improve the engagement with, and discoverability of, third party open-source Cocoa libraries.
 
