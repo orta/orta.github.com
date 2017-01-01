@@ -165,11 +165,14 @@ I helped get CocoaPods 1.0 out of the door, it's strange to think that this was 
 
 {% include subheading.html title="<a href='http://danger.systems'><img src='/assets/images/30/danger-electro.png'/></a>" %}
 
-I wanted Danger at the start of 2015, I spent a long time trying to pursuade others to make it. I failed, so Danger was started in September 2015, but didn't get a mention last year. This makes sense, I may have started the project then, but work [only really started](https://github.com/danger/danger/releases?after=v0.1.1) in January 2016 when [Felix Krause started to help](https://github.com/danger/danger/compare/v0.1.0...0.1.1) after a trip to NYC.
+I do somewhere between 10-20 [code reviews][] a day - it's an important part of any modern software development, and essential if you are doing Open Source. I was feeling tension as the Artsy Mobile team grew as we added process to handle growth specifically around code review. 
 
-Explaining Danger, the software projects, is fun. I've introduced a lot of confusing ambiguity in the project that makes it fun to explain. The name alone is [confusing](https://twitter.com/mxstbr/status/812028946682408962) but Danger and I [came to it](https://github.com/artsy/mobile/issues/31#issuecomment-118543364) together, and then [the anthropromophism](http://danger.systems/guides/faq.html#danger-keeps-getting-refered-to-as-quot-her-she-quot-what-gives) muddies the discussion even further.
+We wanted to add some pretty simple steps, like keeping a CHANGELOG and applying formatting linters. Having humans checking these adds undue pressure to both people who care, and those who don't. In early 2015, [I pitched we needed this](https://github.com/artsy/mobile/issues/31), then tried to pursuade others to do it.
 
-I do somewhere between 10-20 [code reviews][] a day. Danger makes the process of code review easier. By making it possible to automate parts of your team workflow. We wanted to be able to write CHANGELOGs, and add tiny, useful bits of process. We could do this by making project specific rules using Danger.
+I failed, so Danger was started in September 2015, but didn't get a mention last year. This makes sense, I may have started the project then, but work [only really started](https://github.com/danger/danger/releases?after=v0.1.1) in January 2016 when [Felix Krause started to help](https://github.com/danger/danger/compare/v0.1.0...0.1.1) after a trip to NYC.
+
+Explaining Danger, the software projects, is fun. I've introduced a lot of confusing ambiguity in the project that makes it fun to explain. The name alone is [confusing](https://twitter.com/mxstbr/status/812028946682408962) but all the names Danger and I [choose](https://github.com/artsy/mobile/issues/31#issuecomment-118543364) were not free, and Danger was free. It also really fit the project concept. To finalize the confusion, [the "she" anthropromophism](http://danger.systems/guides/faq.html#danger-keeps-getting-refered-to-as-quot-her-she-quot-what-gives) muddies the discussion even further.
+
 
 Danger started out solving one specific problem, and eventually became useful in many, many places. I built the start of Danger out of the the CocoaPods codebase in Ruby, and as we re-defined what Artsy mobile looked like I started to sense that I needed a version that could run JavaScript. So I made a fork which [runs JavaScript][] - this lasted for a little bit, but felt uncanny valley.
 
