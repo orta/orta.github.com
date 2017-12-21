@@ -5,3 +5,4 @@ website.sublime-project
 website.sublime-workspace
 .Ulysses-Group.plist
 .UlyssesRoot
+node_modules
