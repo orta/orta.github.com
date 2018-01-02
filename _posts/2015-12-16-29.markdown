@@ -34,7 +34,7 @@ div.authors_notes {
 I feel like an opener here is that, so far, this is the most-overdue writeup yet. So let's
 [eat a frog](https://twitter.com/mokagio/status/663429029542793216). Coming in at just before New Years Eve 2015.
 Upfront, I expect it to be the least simplest I’ve worked on. Previous years have had much less need for nuance, except
-for 26, when I first wrote that article I included some javascript to only show certain paragraphs after 1 year.
+for 26, when I first wrote that article I included some JavaScript to only show certain paragraphs after 1 year.
 
 Danger told me over iMessage that this year has been my darkest, that this is the first year that she’s seen long
 periods where I’m just uninspired to do things. She’s seemed genuinely worried after reading [Impact][4]. Unravelling
