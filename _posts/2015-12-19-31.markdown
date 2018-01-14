@@ -355,3 +355,4 @@ So, I gave myself two new years resolutions:
 [18]: https://www.google.com/search?tbs=imgo%3A1&tbm=isch&sa=1&ei=WaBaWrwgq6mCB_2-ncAN&q=halifax+uk&oq=halifax+uk&gs_l=psy-ab.3..0l6j0i5i30k1j0i8i30k1l2j0i24k1.2823.3373.0.3608.3.3.0.0.0.0.81.230.3.3.0....0...1c.1.64.psy-ab..0.3.230...0i67k1.0.dmC8uoGC4iQ
 [dm_fb]: https://www.facebook.com/gem.mcshane/media_set?set=a.10155059204004882.1073741839.508939881&type=3
 [or_ex]: https://orta.exposure.co/japan-honeymoon
+[gh_jest]: https://github.com/jest-community/
