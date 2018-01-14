@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "prettier": "^1.9.2"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "proseWrap": "always"
+  }
+}
