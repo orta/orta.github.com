@@ -230,7 +230,7 @@ Each one of these projects are serious in their own right, and maintaining them 
 year I've shipped around 250 PRs to the danger org, and handled
 [thousands of issues](https://github.com/search?utf8=✓&q=involves%3Aorta&type=). That's a lot of spare time code.
 
-Peril is a great idea, but an engineer at GitHub is building a similar project, [probot][14]. It's great, we use it.
+[Peril is a great idea](http://www.ustream.tv/recorded/102891636), but an engineer at GitHub is building a similar project, [probot][14]. It's great, we use it.
 Peril occupies another space, but the venn diagram for what they do has a strong overlap. I could easily spend the next
 year or two building and exploring Peril, _but should I?_ Sometimes the answer feels like yes, sometimes the answer
 feels like no.

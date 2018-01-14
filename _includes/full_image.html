@@ -1,6 +1,6 @@
-</p>
-</div>
-</div>{% if include.url %}
+{::nomarkdown}
+</p></div></div>
+{% if include.url %}
 <a class="fancybox" href="{{ include.url }}" target="_blank">{% endif %}
   <div class="clearfix slide photo_slide" style="background:url('{{ include.image }}')  center 0 no-repeat #d7d7d7; background-size: cover;">
     <div class="container clearfix">
@@ -14,3 +14,4 @@
   </div>{% if include.url %}</a>{% endif %}
 <div class="container clearfix">
   <div class="grid_10 body_content clearfix">
+{:/nomarkdown}
