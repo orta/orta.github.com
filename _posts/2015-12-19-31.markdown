@@ -6,6 +6,15 @@ categories:
 - "being"
 ---
 
+
+<style type="text/css" media="screen">
+a {
+  background-color:#d7d7d7;
+  color:#6b6b6b;
+}
+</style>
+
+
 This one is late. I started writing my first words mid-December. I think it’s best to quote my friend Maddie: “How do
 you write anything positive with such a shit-show of a year?” - last year we had Brexit and Trump. This year both are
 showing to worsen. It’s hard not to be constantly anxious when the place you grew up in is splitting apart and the place
@@ -162,8 +171,8 @@ work with people who are willing to dive deep into all sorts of potential techno
 in the "disruption" business (check out [this repo][5] for more info) both at business level and within the dev team,
 we’re still an outstanding example of community-wide contributors within the iOS and front-end world for our size.
 
-There's an upcoming re-org that I'm apprehensive about, but it's likely we'll be expanding the dev team in 2019 and I'm
-excited for that.
+There's an upcoming re-org that I'm apprehensive about, and I'm less excited about improving dev culture at work than I
+used to be, but it's likely we'll be expanding the dev team in 2019 and I'm excited for that.
 
 {% include subheading.html title="Code" %}
 
