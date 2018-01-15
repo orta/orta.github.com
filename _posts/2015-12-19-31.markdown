@@ -172,7 +172,7 @@ in the "disruption" business (check out [this repo][5] for more info) both at bu
 we’re still an outstanding example of community-wide contributors within the iOS and front-end world for our size.
 
 There's an upcoming re-org that I'm apprehensive about, and I'm less excited about improving dev culture at work than I
-used to be, but it's likely we'll be expanding the dev team in 2019 and I'm excited for that.
+used to be, but it's likely we'll be expanding the dev team in 2018 and trying new things - I'm excited for that.
 
 {% include subheading.html title="Code" %}
 
