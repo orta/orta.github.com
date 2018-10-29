@@ -2,10 +2,9 @@
 layout: on_being
 title: "31"
 categories:
-- "on"
-- "being"
+  - "on"
+  - "being"
 ---
-
 
 <style type="text/css" media="screen">
 a {
@@ -13,7 +12,6 @@ a {
   color:#6b6b6b;
 }
 </style>
-
 
 This one is late. I started writing my first words mid-December. I think it’s best to quote my friend Maddie: “How do
 you write anything positive with such a shit-show of a year?” - last year we had Brexit and Trump. This year both are
@@ -195,7 +193,7 @@ replacement. This environment meant most active developer on the CocoaPods team 
 time.
 
 However, you can't just drop a big project like that, servers need to keep running, PRs need to be merged and the needs
-of your dependants aren't static. Luckily, there's fresh blood in the project,
+of your dependents aren't static. Luckily, there's fresh blood in the project,
 [Dimitris Koutsogiorgas](https://github.com/dnkoutso) is basically handling pushing the project forwards on his own now.
 There are other people like me who ensure things don't fall over, but that's it. I don't have the time, energy or
 inclination to help grow the contributor base any more. So it'll just stay as is. Which is sad.
@@ -211,9 +209,9 @@ to knowing that that Artsy can influence this. The JavaScript culture is pretty 
 A lot of this move has been technical, I've made contributions to many of the key tools that we are using to build our
 apps with. For example:
 
-* I am in the GitHub orgs for: [Storybooks][10], [Styled Components][11] and [Jest Community][gh_jest]
-* I am a member of the Jest core team
-* I've made PRs to React, React Native, Yarn, VS Code and TypeScript
+- I am in the GitHub orgs for: [Storybooks][10], [Styled Components][11] and [Jest Community][gh_jest]
+- I am a member of the Jest core team
+- I've made PRs to React, React Native, Yarn, VS Code and TypeScript
 
 I feel a lot more comfortable in the JavaScript community this year. It's only been a year and a half, but I think I
 understand where I fit and how the majority of the many node ecosystems work.
@@ -227,22 +225,22 @@ I covered the whys and hows pretty comprehensively in this Artsy Engineering [bl
 
 Danger is something that has gone from being a quick, small project to scratch an itch, to a complex many-headed hydra:
 
-* [Danger Ruby](https://github.com/danger/danger)
-* [Danger JavaScript](https://github.com/danger/danger-js)
-* [Peril](https://github.com/danger/peril)
-* [Danger Process](http://danger.systems/js/usage/danger-process.html)
-* [Danger Swift](https://github.com/danger/danger-swift)
-* [Process separated Danger JavaScript](https://github.com/danger/danger-js/pull/395)
-* [Process separated Peril](https://github.com/danger/peril/issues/159)
+- [Danger Ruby](https://github.com/danger/danger)
+- [Danger JavaScript](https://github.com/danger/danger-js)
+- [Peril](https://github.com/danger/peril)
+- [Danger Process](http://danger.systems/js/usage/danger-process.html)
+- [Danger Swift](https://github.com/danger/danger-swift)
+- [Process separated Danger JavaScript](https://github.com/danger/danger-js/pull/395)
+- [Process separated Peril](https://github.com/danger/peril/issues/159)
 
 Each one of these projects are serious in their own right, and maintaining them all is a non-trivial task. In the last
 year I've shipped around 250 PRs to the danger org, and handled
 [thousands of issues](https://github.com/search?utf8=✓&q=involves%3Aorta&type=). That's a lot of spare time code.
 
-[Peril is a great idea](http://www.ustream.tv/recorded/102891636), but an engineer at GitHub is building a similar project, [probot][14]. It's great, we use it.
-Peril occupies another space, but the venn diagram for what they do has a strong overlap. I could easily spend the next
-year or two building and exploring Peril, _but should I?_ Sometimes the answer feels like yes, sometimes the answer
-feels like no.
+[Peril is a great idea](http://www.ustream.tv/recorded/102891636), but an engineer at GitHub is building a similar
+project, [probot][14]. It's great, we use it. Peril occupies another space, but the venn diagram for what they do has a
+strong overlap. I could easily spend the next year or two building and exploring Peril, _but should I?_ Sometimes the
+answer feels like yes, sometimes the answer feels like no.
 
 Some other highlights:
 
@@ -271,10 +269,10 @@ they ended up being very [male by default][15] - which turned me off finishing m
 that was such a great decision. There are so many great youtube channels devoted to critical analysis of great
 movies/shows.
 
-* [CinemaWins](https://www.youtube.com/channel/UCL8h3ri2WN_-IbviBlWtUcQ)
-* [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting)
-* [Filmjoy / Movies with Mikey](https://www.youtube.com/user/chainsawsuitoriginal)
-* [Now you see it](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw)
+- [CinemaWins](https://www.youtube.com/channel/UCL8h3ri2WN_-IbviBlWtUcQ)
+- [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting)
+- [Filmjoy / Movies with Mikey](https://www.youtube.com/user/chainsawsuitoriginal)
+- [Now you see it](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw)
 
 I can sit and watch hours of people picking apart media. This year, I have listened to around a hundred hours of a
 podcast doing critical analysis on _just one book_ ([it's a great book][16]). Danger and I watched **a lot** of movies
@@ -304,13 +302,13 @@ really helps wrap the pieces together.
 I don't really know how to end this. I've re-drafted these paragraph so many times for this year, here are some of the
 highlights:
 
-* I've flip-flopped so many times on what I think I want to do in 2018
-* Sometimes I just want to stop working in tech
-* Almost of all of the books I've read have been been super depressing
-* I'm really conflicted about my role in this industry
+- I've flip-flopped so many times on what I think I want to do in 2018
+- Sometimes I just want to stop working in tech
+- Almost of all of the books I've read have been been super depressing
+- I'm really conflicted about my role in this industry
 
 None of these got past the full review cycle - but they are all feelings I've felt, which makes it real. This is a year
-where the good outweighs the bad. I used to always say _"this has been my best year"_ and for 2017? it's not really been
+where the good outweighs the bad. I used to always say _"this has been my best year"_ and for 2017? it's not really been
 the case.
 
 I explored feelings like this before in 2015 when I felt a resurgence of anger at the NSA/GHCQ with ["Spheres of
@@ -322,19 +320,19 @@ have left Artsy and the culture feels different. These used to be core pillars o
 crumbled a bit. Maybe it's a transition year.
 
 I'd been in this really weird/low head-space for months, but the thing that really broke me out feels so irrelevant. I
-recieved a notification for some code review on for one of
+received a notification for some code review on for one of
 [our Swift repos](https://github.com/sirlantis/eidolon/pull/1). It runs one of our iOS apps through a code formatter
 which we use in JavaScript, but for Swift. I felt really optimistic, and happy for the people I've moved on from.
-There's like a million great things that happened in the last 6 months, but a code formattering pull request is what
-made me break back through the ice. Aren't humans weird?
+There's like a million great things that happened in the last 6 months, but a code formatting pull request is what made
+me break back through the ice. Aren't humans weird?
 
 So, I gave myself two new years resolutions:
 
-* Do more to make Danger happy.
+- Do more to make Danger happy.
 
   She moved to NYC for me, and I want to do more to make her feel comfortable here.
 
-* Do more with C4Q
+- Do more with C4Q
 
   I can have my doubts about the industry, which I've not really expored here, but leaving it doesn't really feel like
   an option to me. So, I want to do things that make me happy, and make me feel better about being an engineer.
@@ -361,7 +359,8 @@ So, I gave myself two new years resolutions:
 [15]: http://tvtropes.org/pmwiki/pmwiki.php/Main/MenAreGenericWomenAreSpecial
 [16]: https://www.goodreads.com/book/show/18713259-worm
 [17]: http://orta.io/rebase/spheres-of-influence
-[18]: https://www.google.com/search?tbs=imgo%3A1&tbm=isch&sa=1&ei=WaBaWrwgq6mCB_2-ncAN&q=halifax+uk&oq=halifax+uk&gs_l=psy-ab.3..0l6j0i5i30k1j0i8i30k1l2j0i24k1.2823.3373.0.3608.3.3.0.0.0.0.81.230.3.3.0....0...1c.1.64.psy-ab..0.3.230...0i67k1.0.dmC8uoGC4iQ
+[18]:
+  https://www.google.com/search?tbs=imgo%3A1&tbm=isch&sa=1&ei=WaBaWrwgq6mCB_2-ncAN&q=halifax+uk&oq=halifax+uk&gs_l=psy-ab.3..0l6j0i5i30k1j0i8i30k1l2j0i24k1.2823.3373.0.3608.3.3.0.0.0.0.81.230.3.3.0....0...1c.1.64.psy-ab..0.3.230...0i67k1.0.dmC8uoGC4iQ
 [dm_fb]: https://www.facebook.com/gem.mcshane/media_set?set=a.10155059204004882.1073741839.508939881&type=3
 [or_ex]: https://orta.exposure.co/japan-honeymoon
 [gh_jest]: https://github.com/jest-community/

@@ -1,0 +1,195 @@
+---
+layout: on_being
+title: "32"
+categories:
+  - "on"
+  - "being"
+---
+
+Hrm, so yeah - not an easy one to start. Or probably, to read. Sorry.
+
+Hey, at least I started writing this when I was supposed to this year. It feels like all of the year's larger narrative
+arcs are pretty much resolved by October.
+
+So, it's tricky, I think one of the most insightful points in [on being 31][31] is that the definition of "my best year"
+is starting to shift.
+
+> This is a year where the good outweighs the bad. I used to always say _"this has been my best year"_ and for 2017?
+> it's not really been the case.
+
+This year also doesn't really feel like my best either. I'm not even sure what I'd do differently if I had the chance? I
+feel like I've been more of a passive observer though-out the year and the biggest things happen to me - rather than the
+other way around.
+
+I started the year with two main aims:
+
+- Do more to make Danger happy.
+- Do more with C4Q
+
+I think there's a few over-arching notes for this year:
+
+- Living with Danger in NYC
+
+  - Miami
+  - Feb first job
+  - Moving to our new apartment
+  - New friends
+  - Taking trips up-state
+
+* Murphy's first year
+
+  - Start
+  - Schedule
+  - End
+
+### Life at Artsy
+
+I didn't end the last on being 31 with too much of a positive note about working at Artsy:
+
+> It feels like the last few months at Artsy have just been a bunch of sucker punches
+
+2018 really just continued that. I feel a general anxiety about working at Artsy nowadays, a lot of it is fueled by the
+growth of the company. A lot of my issues come from feeling like something is good for Artsy, but less good for me. This
+is the first year I've had to take multiple week-long vacations just to not do work.
+
+- A lot of my friends left Artsy this year too. The re-org mentioned in [on being 31[31] happened and it caused a lot of
+  churn. Alan, Maxim, Kana, Will, Sarah, Katarina, Madeline all left to go and do their own thing. Making it the first
+  time that people I hired left the company.
+
+- Outside of the tech org, the people who I connected to the most as being folks with a similar also left:
+  [Elena][elena], [Legacy][legacy] & [Maja][maja]. These were folk who really represented the Arts world outside of
+  daily work, when they got new jobs it was art industry news! They were some of my favourite 1-on-1s and I miss them.
+
+- I have a new manager for the first time who I don't really share much in common with. My old manager relationship had
+  always been very hands off, occasionally meeting once every month or two but we shared so much in common that it
+  wasn't ever really anything to talk about other than how everything is going. I feel like it's reasonable for me to
+  have a new manager, that relationship was never really something I thought about for the previous 6 year - in making
+  that change it's become a bit like a wobbly tooth.
+
+- 2018 went from me enjoying working with everyone to pushing for where I wanted to work based on least-bad interactions
+  with folks. I switched teams midway through the year because I wanted to move away from daily interactions with
+  someone who didn't really agree with how I was working, to a team where I don't like someone but rarely need to
+  interact with them. I'd like to hope you're thinking that as these are work relationships I can easily fix them, but
+  honestly, I'm just not sure. The differences are about fundamental perspectives on how to do things.
+
+  I think having different perspectives in the company is great, and literally something we strive for in hiring. So, I
+  wouldn't really want it any other way.
+
+I made a list of places that I was interested in working at during this phase, which I think is worth highlighting for
+looking back at in a few years. Ordered by alphabetical.
+
+- [GDS][gds] - It feels kinda mind blowing that an agency in the UK government can create such high quality sites. I'd
+- GitHub on [Integrations][integrations] - They were trying to address the same problems as Peril
+- [Keybase][keybase] - It's still not quite exploded in usage, but I believe in Keybase's core idea
+- Microsoft on [Visual Studio Code][vscode] - I know right? Back when I was graduating, I wanted to eventually work at
+  Apple. How the world has changed. I think VS Code is one of the best examples of a IDE built to allow others to build
+  on it.
+- Microsoft on [TypeScript][tsc] - Could I work on a programming language? I'm not sure, but maybe the change is drastic
+  enough that I could get a lot out of it, and it's unlikely the team has someone with my kind of skills.
+- [Our world in data][indata] - A site built to help put a lot ideas in perspective. I use it to raise my mood.
+- [Signal Foundation][signal] - They are one of the love to contribute to that.
+- [The Guardian][guardian] - Still shipping some of the best journalism in the world
+- [The Intercept][intercept] - A scrappier newspaper whose focus aligns much more with my own
+- [Zeit][zeit] - A small tight team, building JS projects that have a lot of many interesting JS projects
+
+It's important to note that it's not all doom and gloom. I specifically choose to not leave Artsy this year, which isn't
+a conscious decision I've needed to make before, but it's still an important statement on the future of Artsy.
+
+I did quite a few things that I'm really proud of this year too.
+
+- I wrapped up my series on [React Native at Artsy][rnaa]. This is a series of posts that I've been working on over the
+  course of years, covering multiple retrospectives and a few "how does this one specific thing work?" The bow to wrap
+  up the series is a tutorial to get the same setup as us that took a week or two of thinking.
+
+- I was debating running a conference with only Artsy folk speaking in NYC, and wanted to see what that looked like. To
+  get a sense of how many people would step up to speak or help organize - we ended up making a really cool series of
+  workshops that covered the front end patterns we'd been working on for the last 2 years called
+  [JavaScriptures][jscriptures].
+
+  This made it really easy to onboard new engineers, as each part of the Artsy front-end stack was covered from first
+  principals. It felt pretty stressful to run because of some internal Artsy politics, enough to put off the idea of
+  running a larger event in NYC. That said, it was net awesome. They're technical, but you can see [the series
+  here][jscriptures].
+
+-
+
+* Introduction of Product
+* ARKit app
+* JavaScriptures
+* Artsy x React Native
+
+* Folks Leaving
+
+  - Old schoolers
+
+    - Elena
+    - Legacy
+    - Maja
+
+  - Dev
+    - Will
+    - Maxim
+    - Alan
+    - Kana
+    - Sarah
+    - Katarina
+    - Madeline
+
+- Peril
+
+  - Danger JS being "done"
+  - Peril being an avenue for escape and fixing a large problem
+
+This year most of my non-Artsy programming time went to Peril. I had been building out Peril pretty slowly in 2017, but
+I really switched to devote a lot my thinking time to Peril. Peril is the natural evolution of Danger, helping you to
+work at an even higher level of abstraction.
+
+Building it out, I had offers for funding Peril full-time, and during some of my lower phases during Artsy, Peril was
+what I would do had I chose to leave the company.
+
+Roughly, if Danger was the equivalent to a automatically running a spell-checker when people collaborate on documents.
+Then Peril is a way to run the spell checker on every document. It's a lossy metaphor, but it's enough.
+
+Peril is probably the most complicated system I've built (maybe outside of Artsy's iOS app) - it's a complex collection
+of many servers coming together to be able to handle the potential throughput of activity. I'm super proud of how many
+tests the project has, it's hard to do that when you're the only person working on a project.
+
+That said, I'll quote myself from a year ago:
+
+> [Peril is a great idea](http://www.ustream.tv/recorded/102891636), but an engineer at GitHub is building a similar
+> project, [probot][14]. It's great, we use it. Peril occupies another space, but the venn diagram for what they do has
+> a strong overlap. I could easily spend the next year or two building and exploring Peril, _but should I?_ Sometimes
+> the answer feels like yes, sometimes the answer feels like no.
+
+That got decided for me in 2018 when GitHub announced they were creating a project called [GitHub Actions][actions]. It
+replicates the hardest (and most valuable) parts of Peril and makes it available to everyone. It's a fresh
+implementation, so I want to stress I'm definitely not trying to play the "they copied me" card. It validated a few of
+the tough decisions I had spent months thinking/procrastinating about. Which is awesome. It makes the idea available to
+a lot more people, and has a level of integration with GitHub that is unfeasible from a third party.
+
+Sometimes, you just get sherlocked.
+
+I can be both happy and sad about it.
+
+## Wrap-up
+
+My non-Artsy programming time side project wa
+
+### Murphy
+
+[31]: http://orta.io/on/being/31
+[actions]: https://github.com/features/actions/?WT.mc_id%3Dch9-yt-chwarren
+[elena]: https://news.artnet.com/market/elena-soboleva-david-zwirner-1328585
+[legacy]: http://www.artnews.com/2018/08/09/studio-museum-harlem-names-legacy-russell-associate-curator/
+[zeit]: https://zeit.co/
+[integrations]: https://github.com/marketplace
+[keybase]: https://keybase.io/
+[signal]: https://en.wikipedia.org/wiki/Signal_Foundation
+[gds]: https://gds.blog.gov.uk
+[guardian]: https://www.theguardian.com/uk
+[intercept]: https://theintercept.com
+[indata]: https://ourworldindata.org
+[vscode]: https://code.visualstudio.com
+[tsc]: https://www.typescriptlang.org
+[rnaa]: http://artsy.github.io/series/react-native-at-artsy/
+[jscriptures]: http://artsy.github.io/series/javascriptures/
