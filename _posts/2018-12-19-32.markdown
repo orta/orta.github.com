@@ -24,6 +24,18 @@ I started the year with two main aims:
 - Do more to make Danger happy.
 - Do more with C4Q
 
+I asked Danger about her opinions on the first. She says that she is happier now, and that it's not my responsibility to
+own that. For her the best changes are getting a job, and finding her own friends in NYC. I think
+
+Cool Danger surprises:
+
+- RuPaul's Drag Race World Tour
+- Bushwig
+- Blood Mansion
+- Kidnapping a dog
+- Brother's visit
+- William Fitzsimmons
+
 I think there's a few over-arching notes for this year:
 
 - Living with Danger in NYC
@@ -92,7 +104,7 @@ maybe leave Artsy.
 At the start of the year, I'd started taking notes on my mood and the ups and downs. It's a few wins, and a lot of
 downers. I took a week off multiple times to debate it, and danger would ask every few days for a few months what the
 percentage chance was of me calling it. It eventually hit around 80% and I started booking meetings with all of
-leadership at Artsy to try figure out
+leadership at Artsy to try figure out if any of them could change my mind.
 
 I made a list of places that I was interested in working at during this phase, which I think is worth highlighting for
 looking back at in a few years. Ordered by alphabetical.
@@ -106,6 +118,7 @@ looking back at in a few years. Ordered by alphabetical.
 - Microsoft on [TypeScript][tsc] - Could I work on a programming language? I'm not sure, but maybe the change is drastic
   enough that I could get a lot out of it, and it's unlikely the team has someone with my kind of skills.
 - [Our world in data][indata] - A site built to help put a lot ideas in perspective. I use it to raise my mood.
+- [Pursuit][pursuit] - Already proven to be valuable, lots of great work to do there.
 - [Signal Foundation][signal] - They are one of the love to contribute to that.
 - [The Guardian][guardian] - Still shipping some of the best journalism in the world
 - [The Intercept][intercept] - A scrappier newspaper whose focus aligns much more with my own
@@ -130,20 +143,31 @@ I did quite a few things that I'm really proud of this year.
   running a larger event in NYC. That said, it was net awesome. They're technical, but you can see [the series
   here][jscriptures].
 
-- I
+- I shipped an Augmented Reality mode in the Artsy app. I'm pretty bearish on AR and VR in general, I've found from
+  spending a lot og time with both that they are only really useful for small toy-like experiences. Artsy's use case at
+  least is realistically useful - seeing an artwork on your walls with correct sizing and lighting. It's a great fit. We
+  struggled to find the right way to get a user set up, but eventually came to a pretty good setup.
+
+- We pulled off our first dev conference at Artsy. I've ran one before [in 2014][aswifts] and that went really well,
+  I've organized a lot of meetups since then, but not got back up-to a full day serious event. [Maxim Cramer][maxim] and
+  I spec'd it out (after another company offered to sponsor it) and when she announced she was going to leave Artsy we
+  opted to really take it seriously and to make it a leaving celebration for her.
+
+  We roped in Eloy Durán to wrap up our speakers, and ended up with an all-Artsy speaker set - mixing both talks and
+  workshops. Then, we reached out to my favourite Facebook employee, mr [Christoph Nakazawa][cpojer] and we found a way
+  for Facebook to handle a lot of the event-space organization and audio/visuals.
+
+  It all went beautifully, and was an awesome experience.
 
 -
 
--
+* Introduction of Product
+* ARKit app
+* Artsy x React Native
 
-- Introduction of Product
-- ARKit app
-- JavaScriptures
-- Artsy x React Native
+* Folks Leaving
 
-- Folks Leaving
-
-* Dev
+- Dev
 
   - Will
   - Maxim
@@ -153,7 +177,7 @@ I did quite a few things that I'm really proud of this year.
   - Katarina
   - Madeline
 
-* Peril
+- Peril
 
   - Danger JS being "done"
   - Peril being an avenue for escape and fixing a large problem
@@ -222,3 +246,7 @@ really thrive in a place where thoroughness and comprehension are more important
 [tsc]: https://www.typescriptlang.org
 [rnaa]: http://artsy.github.io/series/react-native-at-artsy/
 [jscriptures]: http://artsy.github.io/series/javascriptures/
+[pursuit]: https://www.pursuit.org
+[aswifts]: https://github.com/orta/life/issues/42
+[maxim]: https://www.mennenia.com
+[cpojer]: http://cpojer.net
