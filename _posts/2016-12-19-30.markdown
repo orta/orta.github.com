@@ -194,7 +194,7 @@ there's also Overwatch.
 - [Twitch.tv](https://www.twitch.tv/)
 
 Twitch is the main "TV" channel in our apartment, and so is worth a mention. In the process of writing this, I have
-watched a full run through of [Final FantasyNovosibirskwww.twitch.tv/directory/game/Final%20Fantasy%20VII),
+watched a full run through of [Final Fantasy](www.twitch.tv/directory/game/Final%20Fantasy%20VII),
 [Crash Bandicoot](https://www.twitch.tv/directory/game/Crash%20Bandicoot%202:%20Cortex%20Strikes%20Back),
 [Shining Force II](https://www.twitch.tv/directory/game/Shining%20Force%20II) and a lot of
 [Overwatch](https://www.twitch.tv/directory/game/Overwatch) and
@@ -323,11 +323,12 @@ I used the time to write a quick book on [iOS Testing][] and to play a lot of ca
 I have long ago given up on 5-year plans. 2016 was a statement that the status-quo is changing - so any attempt at
 predictions feels like a waste of time. I still feel like every year has been my best year. So here's to being 31.
 
+<!-- prettier-ignore-start -->
+
 [mixtapes]: https://github.com/orta/Mixtapes
 [26]: /on/being/26
 [29]: /on/being/29
-[roads-bridges]:
-  http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
+[roads-bridges]: http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
 [maxim]: http://mennenia.com
 [alloy]: https://github.com/alloy
 [segiddins]: http://segiddins.me
@@ -343,9 +344,10 @@ predictions feels like a waste of time. I still feel like every year has been my
 [pony island]: https://en.wikipedia.org/wiki/Pony_Island
 [xcom2]: https://xcom.com/agegate/
 [ios testing]: https://github.com/orta/pragmatic-testing/
-[monopoly deal]:
-  https://www.amazon.com/Hasbro-B0965-Monopoly-Deal-Card/dp/B00NQQTZCO/ref=pd_sbs_21_2?_encoding=UTF8&pd_rd_i=B00NQQTZCO&pd_rd_r=B9J13SJDR1J07121B0TS&pd_rd_w=33h6v&pd_rd_wg=8sREZ&psc=1&refRID=B9J13SJDR1J07121B0TS
+[monopoly deal]: https://www.amazon.com/Hasbro-B0965-Monopoly-Deal-Card/dp/B00NQQTZCO/ref=pd_sbs_21_2?_encoding=UTF8&pd_rd_i=B00NQQTZCO&pd_rd_r=B9J13SJDR1J07121B0TS&pd_rd_w=33h6v&pd_rd_wg=8sREZ&psc=1&refRID=B9J13SJDR1J07121B0TS
 [pony island]: https://www.youtube.com/watch?v=7vLzSh1UKgs
 [clustertruck]: http://landfall.se/clustertruck
 [splatoon]: https://en.wikipedia.org/wiki/Splatoon
 [that react native]: http://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/
+
+<!-- prettier-ignore-end -->

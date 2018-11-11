@@ -1,9 +1,9 @@
 ---
 layout: post
-title: on being 25
+title: 25
 categories:
-- "on"
-- being
+  - "on"
+  - being
 updated_at: 2011-12-08
 uuid: 5EED618A-A041-4EBE-843F-67352C540AA4
 ---
@@ -15,7 +15,7 @@ was Shelley, and she was stunning. A brunette fashion student who was a local to
 an hours train ride from where I lived. And that is how I started my 25th year of existence.
 
 <center>
-![looking confused](/assets/images/25/header2.jpg)
+<img src="/assets/images/25/header2.jpg"/>
 </center>
 
 I'd been with Shelley for about half a year, and it was starting to come to an end. She and I had started to argue, and
@@ -58,7 +58,7 @@ travelling ( infact I think I’ll have a stamp on every page of my passport way
 mostly related to me doing work somewhere, or having something pretty specific to do.
 
 <center>
-![Rio](/assets/images/25/rio.jpg)
+<img src="/assets/images/25/rio.jpg"/>
 </center>
 
 This trip to Rio involved a lot of hanging out, I walked throughout most of the city. I would just walk for hours on
@@ -70,7 +70,7 @@ the youth culture there and you learn to accept it. I was over at the same time 
 and she and I got to rock out in some weird places. My favourite being a club that was showing porn all night long.
 
 <center>
-![BTP](/assets/images/25/kierononon.jpg)
+<img src="/assets/images/25/kierononon.jpg"/>
 </center>
 
 In February [Kieronononon](http://brutaltechnopunk.com/) started recording
@@ -97,7 +97,7 @@ the last 6 are interesting looks at some of the people in Huddersfield. April is
 McShane, a girl I knew who has a tendency to say yes to interesting things.
 
 <center>
-![Danger](/assets/images/25/gem.jpg)
+<img src="/assets/images/25/gem.jpg"/>
 </center>
 
 I knew her because she used to date one of my friends from Huddersfield, and for a while I got lots of free tickets to
@@ -122,7 +122,7 @@ Awesome Kev nowadays. We used to play videogames together every night, now we ju
 steam occasionally.
 
 <center>
-![looking confused](/assets/images/25/hastings.jpg)
+<img src="/assets/images/25/hastings.jpg"/>
 </center>
 
 The Green Man really just involves walking around Hastings dressed up green. We just apply liberal amounts of facepaint
@@ -136,7 +136,7 @@ made the mistake of using new boots and lost skin on my feet that still hasn't h
 the whole experience in his typical far too excited about everything ways here.
 
 <center>
-![the three peaks](/assets/images/25/yorkshire.jpg)
+<img src="/assets/images/25/yorkshire.jpg"/>
 </center>
 
 I got to visit Northern Ireland, Belfast has a pretty terrible zoo.
@@ -153,7 +153,7 @@ to the UK. Up until this time I was used to programming till late then going out
 apply the brakes and switch that to about once a month had quite an impact on my ability to hold my drink.
 
 <center>
-![princeton](/assets/images/25/princeton.jpg)
+<img src="/assets/images/25/princeton.jpg"/>
 </center>
 
 My job was to teach iPhone app development, something I'd been doing professionally for a while. So my knowledge wasn't
@@ -170,7 +170,7 @@ the same city as pH and hopefully I'll get an excuse to go to SXSW and go see Ro
 were talking daily about everything.
 
 <center>
-![the three peaks](/assets/images/25/everclear.jpg)
+<img src="/assets/images/25/everclear.jpg"/>
 </center>
 
 Once all the students left Princeton we had a party. There was a $200 account for booze as there was about 5-6 people
@@ -185,7 +185,7 @@ back. I knew that I was going to push for us to go further, so I went and talked
 reaction was pretty admirable, her reaction was to tell me that that wasn't going to happen.
 
 <center>
-![the three peaks](/assets/images/25/yorkshire_park.jpg)
+<img src="/assets/images/25/yorkshire_park.jpg"/>
 </center>
 
 Now back in England Danger and I went to the Yorkshire sculpture park, I really enjoyed that. I remembered how much I
@@ -206,11 +206,11 @@ wedding are amazing, you should take a look at the
 [@jamesmeliaphotos](http://twitter.com/jamesmeliaphotos).
 
 <center>
-![ kid at the wedding AWWWWWW](/assets/images/25/jen1.jpg)
+<img src="/assets/images/25/jen1.jpg"/>
 </center>
 
 <center>
-![bride / groom etc](/assets/images/25/jen2.jpg)
+<img src="/assets/images/25/jen2.jpg"/>
 </center>
 
 I had offered to do a Pecha Kucha of my own, after my impromptu one earlier in the year a few days after I got back from
@@ -250,7 +250,7 @@ whilst being chased by zombies. It was amazing, and I hope to attend other event
 together as a pair of scientists and met some cool people.
 
 <center>
-![zombie partners](/assets/images/25/zombies.jpg)
+<img src="/assets/images/25/zombies.jpg"/>
 </center>
 
 The week after that we attended the latest in the Kazimier shows. This was called
@@ -281,7 +281,7 @@ heard of the concept. Gem went back with her Mum, and I did some Kierononon gigs
 first time we had a keyboardist in the band.
 
 <center>
-![comic con](/assets/images/25/danger3.jpg)
+<img src="/assets/images/25/danger3.jpg"/>
 </center>
 
 We finished off October by going down to London for a comic convention. I'm a closet comic book nerd, and Danger had
@@ -298,7 +298,7 @@ songs. But he is quite funny and interesting on stage, not something you really 
 t-shirt.
 
 <center>
-![danger](/assets/images/25/danger2.jpg)
+<img src="/assets/images/25/danger2.jpg"/>
 </center>
 
 She left to quite a bit of fanfare it was really nice to see her get all dressed up and watch everyone make such a big
@@ -310,5 +310,5 @@ I have hope for this place. I'm still feeling a bit awkward in the city, as big 
 lot of choice sometimes just makes me freeze. But I am here now, and 26.
 
 <center>
-![be happy](/assets/images/25/happy.jpg)
+<img src="/assets/images/25/happy.jpg"/>
 </center>

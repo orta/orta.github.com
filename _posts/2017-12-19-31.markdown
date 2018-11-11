@@ -161,7 +161,7 @@ moved to JavaScript.
 gonna miss them.
 
 Even with those lows, in 2017 Artsy continues to be a really cool place to work. I still think the work is a net
-positive to the world and worthwhile of my time.
+positive to the world and worthwhile of my time.
 
 When I think to myself, _“what would I want to do if I left Artsy?”_ - it’s basically exactly what I’m doing now. I’d
 want to work on the type of projects I work on at Artsy: sometimes bleeding edge, sometimes perfectly boring. I get to
@@ -178,8 +178,8 @@ Somehow this year I ended up being [one of the top 20][6] most active OSS contri
 life-hack called [Open Source by Default][7]. I’ve been focusing on 3 things in particular this year:
 
 **Hardening of CocoaPods**: The last 3 years have been pretty crap in the world of iOS, especially if you care about
-mundane topics like dependency management and dev tooling. They're's not flashy problems, but are the biggest
-on-boarding barriers for joining and participating in a community.
+mundane topics like dependency management and dev tooling. They are not flashy problems, but are the biggest on-boarding
+barriers for joining and participating in a community.
 
 What spoiled working on CocoaPods for me was that the GitHub Mac team shipped Carthage which stuck around and fragmented
 the ecosystem. Then a couple of months later Apple announced their own dependency manger which deprecated both Carthage

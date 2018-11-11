@@ -25,7 +25,8 @@ I started the year with two main aims:
 - Do more with C4Q
 
 I asked Danger about her opinions on the first. She says that she is happier now, and that it's not my responsibility to
-own that. For her the best changes are getting a job, and finding her own friends in NYC. I think
+own that. For her the best changes are getting a job, having our own place and finding her own friends in NYC. That is
+mainly just a time thing, and she's got this.
 
 Cool Danger surprises:
 
@@ -73,38 +74,38 @@ growth of the company. A lot of my issues come from feeling like something is go
   art world interesting and providing a lot of useful perspective. It's not that all of my richest connections have
   gone, but I'm down to about half of the people I would regularly keep tabs on.
 
-- I have a new manager for the first time, who I don't really share much in common with. My old manager relationship had
-  always been very hands off, occasionally meeting once every month or two but we shared so much in common that it
-  wasn't ever really anything to talk about other than how everything is going.
+- I have a new manager for the first time, who I don't really share much in common with. We both just have different
+  core drives. My old manager relationship had always been very hands off, occasionally meeting once every month or two
+  but we shared so much in common that it wasn't ever really anything to talk about other than how everything is going.
+  I never really even thought of them as my manager.
 
   I feel like it's reasonable for me to have a new manager given our team size changes, but that relationship was never
   something I thought about for the previous 6 years - in changing it, I became more aware of how the match feels off to
-  me. This was compounded as we went from being 3 levels of managerial deep (IC -> Manager -> CTO) to 5 ( IC -> Manager
-  -> Grand-Manager -> VP -> CTO) which also meant some of the quarterly 1-on-1s I had with C-level execs were cancelled.
+  me. This was compounded as we went from being 3 levels of managerial deep `(IC -> Manager -> CTO)` to 4
+  `(IC -> Manager -> VP -> CTO)` which also meant I lost some useful 1-on-1s with C-level execs were cancelled.
 
-  I don't really want to end up in a place where my manager is responsible for deciding what to do my time, or my
-  career. I think this is somewhat unreasonable, but not really something I'm willing to give up. It's just something
-  this year ended up bringing to the table.
+  I don't really want to end up in a place where someone else is responsible for deciding what to do my time, or my
+  career. Unlike the above, I think this is somewhat unreasonable, but not really something I'm willing to give up. It's
+  likely a something this year ended up bringing to the table.
 
 - 2018 went from me enjoying working with everyone, to pushing that I wanted to work in a particular team based on
-  least-bad interactions with team-members. I switched teams midway through the year because I wanted to move away from
-  daily interactions with someone who didn't really agree with how I was working, to a team where I don't like someone
-  but rarely need to interact with them.
+  least-bad interactions with team-members in them. I switched teams midway through the year because I wanted to move
+  away from daily interactions with someone who didn't really agree with how I was working, to a team where I strongly
+  don't like someone but rarely need to interact with them.
 
   I'd like to hope you're thinking that as these are work relationships I can easily fix them, but honestly, I'm just
-  not sure. The differences are about fundamental perspectives on how to do things. I think having different
+  not sure. The differences revolved around fundamental perspectives on how to do things. I think having different
   perspectives in the company is great, and literally something we strive for in hiring. So, I wouldn't really want it
-  any other way.
+  any other way. But, it grates, and is a source of friction once every week or two.
 
-We introduced a product org to our company, I think by the end of the year this worked out well and there's proof of it
-that I'll cover later. However, the introduction went real bad, and included a decision on people's positions that
-caused a lot of high level churn in Engineering. Including triggering the start of me deciding that it's time for me to
-maybe leave Artsy.
+- We introduced a product org to our company, I think by the end of the year this worked out well and there's proof of
+  it that I'll cover later. However, the introduction went real bad, and included a decision on people's positions that
+  caused a lot of high level churn in Engineering. Including triggering the start of me deciding that it's time for me
+  to maybe leave Artsy in 2018.
 
-At the start of the year, I'd started taking notes on my mood and the ups and downs. It's a few wins, and a lot of
-downers. I took a week off multiple times to debate it, and danger would ask every few days for a few months what the
-percentage chance was of me calling it. It eventually hit around 80% and I started booking meetings with all of
-leadership at Artsy to try figure out if any of them could change my mind.
+At the start of the year, I'd started taking regular notes on my mood. It's a few wins, and a lot of downers. I took a
+week off multiple times to debate "Could I leave?" and "What would I do?", and danger would ask every few days for a few
+months what the percentage chance was of me calling it.
 
 I made a list of places that I was interested in working at during this phase, which I think is worth highlighting for
 looking back at in a few years. Ordered by alphabetical.
@@ -122,7 +123,11 @@ looking back at in a few years. Ordered by alphabetical.
 - [Signal Foundation][signal] - They are one of the love to contribute to that.
 - [The Guardian][guardian] - Still shipping some of the best journalism in the world
 - [The Intercept][intercept] - A scrappier newspaper whose focus aligns much more with my own
-- [Zeit][zeit] - A small tight team, building JS projects that have a lot of many interesting JS projects
+- [Zeit][zeit] - A small tight team, building JS projects with serious impact
+
+It eventually hit around 80% and I started booking meetings with all of leadership at Artsy to try figure out if any of
+them could change my mind. Turns out the person who I didn't book a meeting with did over drinks during someone's
+leaving do.
 
 It's important to note that it's not all doom and gloom. I specifically choose to not leave Artsy this year, which isn't
 a conscious decision I've needed to make before, but it's still an important statement on the future of Artsy.
@@ -157,13 +162,15 @@ I did quite a few things that I'm really proud of this year.
   workshops. Then, we reached out to my favourite Facebook employee, mr [Christoph Nakazawa][cpojer] and we found a way
   for Facebook to handle a lot of the event-space organization and audio/visuals.
 
-  It all went beautifully, and was an awesome experience.
+  It all went beautifully, and was an awesome experience. It was made so much easier by having Maxim as a people &
+  detail oriented person to ensure everyone was fine and scheduling was working out. I'd be hesitant to do something
+  like this solo now that I know how good it can be as a duet.
 
--
+- I restructured and consolidated all of Artsy's documentation to be open first, and then fallback to private when we
+  need it. Here's a [longer write-up][docs] on the process, and I'm proud of where we ended up. I've been at Artsy for
+  so long that I really don't know the processes at other companies, and would love if more folks did stuff like this.
 
-* Introduction of Product
-* ARKit app
-* Artsy x React Native
+  Related: I ported over a documentation idea I had from Peril to apply to all of Artsy: [Highlight docs][high].
 
 * Folks Leaving
 
@@ -181,6 +188,8 @@ I did quite a few things that I'm really proud of this year.
 
   - Danger JS being "done"
   - Peril being an avenue for escape and fixing a large problem
+
+### Peril
 
 This year most of my non-Artsy programming time went to Peril. I had been building out Peril pretty slowly in 2017, but
 I really switched to devote a lot my thinking time to Peril. Peril is the natural evolution of Danger, helping you to
@@ -250,3 +259,5 @@ really thrive in a place where thoroughness and comprehension are more important
 [aswifts]: https://github.com/orta/life/issues/42
 [maxim]: https://www.mennenia.com
 [cpojer]: http://cpojer.net
+[docs]: http://artsy.github.io/blog/2018/08/21/OSS-by-Default-Docs/
+[high]: https://github.com/artsy/README/blob/master/culture/highlights.md#highlights

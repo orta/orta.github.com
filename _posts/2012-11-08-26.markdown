@@ -2,85 +2,178 @@
 layout: on_being
 title: "26"
 categories:
-- "on"
-- "being"
+  - "on"
+  - "being"
 ---
 
-I became 26 in the UK, a day before I had been in New York City, a less than a week later I was back. My 26th year can be summed up up quite easily as being travel and code.
+I became 26 in the UK, a day before I had been in New York City, a less than a week later I was back. My 26th year can
+be summed up up quite easily as being travel and code.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/nyc.jpg" tag_header="America" tag_body="New York City" %}
 
-I had wanted to get out to NYC sooner, my job at Artsy still hadn't fully started as at Art.sy everyone gets a 3 month intro period before being offered full employment. This process keeps it democratic and everyone invovled gets a say in whether someone works with us. I wanted to meet all these screen names for the dev chat. I’d also made a promise to Kierononon^on that I’d do a gig in November. I’d been trying to put off making any plans longer than a month or two away because I couldn’t be too sure of when I was heading out.
+I had wanted to get out to NYC sooner, my job at Artsy still hadn't fully started as at Art.sy everyone gets a 3 month
+intro period before being offered full employment. This process keeps it democratic and everyone invovled gets a say in
+whether someone works with us. I wanted to meet all these screen names for the dev chat. I’d also made a promise to
+Kierononon^on that I’d do a gig in November. I’d been trying to put off making any plans longer than a month or two away
+because I couldn’t be too sure of when I was heading out.
 
-In the end I went out to NYC for a week then came back for an extended weekend, it was a lot of flying, and the only real advantage was that I finished my “On being 25” on a bunch of flights and  Kieronononon gig was good. Getting back into the states was difficult after that. I was the last person on after being held back for some additional questioning about my travel plans. Turns out you can't get into the states on a tourist VISA if you've not booked a flight back on the same airline.
+In the end I went out to NYC for a week then came back for an extended weekend, it was a lot of flying, and the only
+real advantage was that I finished my “On being 25” on a bunch of flights and Kieronononon gig was good. Getting back
+into the states was difficult after that. I was the last person on after being held back for some additional questioning
+about my travel plans. Turns out you can't get into the states on a tourist VISA if you've not booked a flight back on
+the same airline.
 
-With myself firmly planted on terra firma for a few days it was time to go to Miami. 
+With myself firmly planted on terra firma for a few days it was time to go to Miami.
 
-It’s become an annual thing, even as Artsy has grown we’ve still gone down to Miami as a group and hosted an opening event. So what’s in Miami in December? Miami Art Basel. Art Basel is a contemporary art exhibition held in the smallish town of Basel in Switzerland. It’s basically the biggest / most influental art fair in the world. And according to people I’ve talked to at both events a lot of the large private deals ( read: not auctions ) go down at Art Basel. For ten years they’ve also ran a sister exhibition in Miami. Miami Basel gets more visitors. But that’s probably because of the parties. 
+It’s become an annual thing, even as Artsy has grown we’ve still gone down to Miami as a group and hosted an opening
+event. So what’s in Miami in December? Miami Art Basel. Art Basel is a contemporary art exhibition held in the smallish
+town of Basel in Switzerland. It’s basically the biggest / most influential art fair in the world. And according to
+people I’ve talked to at both events a lot of the large private deals ( read: not auctions ) go down at Art Basel. For
+ten years they’ve also ran a sister exhibition in Miami. Miami Basel gets more visitors. But that’s probably because of
+the parties.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/miami.jpg" tag_header="America" tag_body="Miami" %}
 
-So Artsy rented a beautiful place from AirBnB and we stayed down there for a week. Artsy hosted the pre-Exhibition party on the beach in the evening. The food was AMAZING. [It was also full of celebrities](http://worldredeye.com/2011/12/art-sy-party-at-soho-beach-house/), but I didn’t recognise them. Though I would have recognised Paris Hilton has I seen her.
+So Artsy rented a beautiful place from AirBnB and we stayed down there for a week. Artsy hosted the pre-Exhibition party
+on the beach in the evening. The food was AMAZING.
+[It was also full of celebrities](http://worldredeye.com/2011/12/art-sy-party-at-soho-beach-house/), but I didn’t
+recognise them. Though I would have recognised Paris Hilton has I seen her.
 
-Coming over to NYC was interesting. I got to meet a lot of people who previously were just committers on github repos. We didn’t use any kinda on internal chat, and my only experience of the vast majority of my colleagues was [through sprint demos](http://artsy.tumblr.com/post/27194860302/sprint-demo-july-2012). It turned out no one sucked. So that was great. I spent most of my time in NYC crashing with a friend of mine, essentially my programming mentor. [Benjamin Jackson](http://90wpm.com/hello). Ben is the first guy to offer me a programming job and he got me the Artsy gig.
+Coming over to NYC was interesting. I got to meet a lot of people who previously were just committers on github repos.
+We didn’t use any kinda on internal chat, and my only experience of the vast majority of my colleagues was
+[through sprint demos](http://artsy.tumblr.com/post/27194860302/sprint-demo-july-2012). It turned out no one sucked. So
+that was great. I spent most of my time in NYC crashing with a friend of mine, essentially my programming mentor.
+[Benjamin Jackson](http://90wpm.com/hello). Ben is the first guy to offer me a programming job and he got me the Artsy
+gig.
 
-When I was back and settled in NYC I only had a few weeks before moving onwards. I tried to do city-stuff and mix working on Mixtapes. I was another wide eyed Brit around NYC, so I felt genuinely lucky to have had [Julia Colavita](http://juliacolavita.com) guide me around the city. Going with her to the Brookyln Brewery tour and coming back hammered in the middle of the day was a highlight that NYC trip. 
+When I was back and settled in NYC I only had a few weeks before moving onwards. I tried to do city-stuff and mix
+working on Mixtapes. I was another wide eyed Brit around NYC, so I felt genuinely lucky to have had
+[Julia Colavita](http://juliacolavita.com) guide me around the city. Going with her to the Brookyln Brewery tour and
+coming back hammered in the middle of the day was a highlight that NYC trip.
 
-I also spotted a spoken word event by Corey Taylor which was fascinating. Corey Taylor is the lead singer from a band called Slipknot. Slipknot are a masked heavy metal band who formed when I was a teenager. They’re super heavy. But they were dealing with the accidental overdose of their bassist and were on a break. It was surreal watching a man who I’ve only really heard screaming, talking. He sounded heartbroken. 
+I also spotted a spoken word event by Corey Taylor which was fascinating. Corey Taylor is the lead singer from a band
+called Slipknot. Slipknot are a masked heavy metal band who formed when I was a teenager. They’re super heavy. But they
+were dealing with the accidental overdose of their bassist and were on a break. It was surreal watching a man who I’ve
+only really heard screaming, talking. He sounded heartbroken.
 
-Christmas was a low-key event, I spent the time wrapping up an app I had made for Danger in Australia so I could share playlists for her. It’s called [Mixtapes](http://mixtapesapp.com) and it uses Spotify to let me create mixtapes for other people to use. I have her logged in on my account and she can see playlists that I can edit on my computer. It looks pretty, and it works nicely. So it was on boxing day that I got the final version out for her. My Christmas day was spent programming in the office eating chocolate preztels and yoghurt. People always feel sympathetic when I tell them this, but I had a nice time.
+Christmas was a low-key event, I spent the time wrapping up an app I had made for Danger in Australia so I could share
+playlists for her. It’s called [Mixtapes](http://mixtapesapp.com) and it uses Spotify to let me create mixtapes for
+other people to use. I have her logged in on my account and she can see playlists that I can edit on my computer. It
+looks pretty, and it works nicely. So it was on boxing day that I got the final version out for her. My Christmas day
+was spent programming in the office eating chocolate preztels and yoghurt. People always feel sympathetic when I tell
+them this, but I had a nice time.
 
-I spent the new year in NYC, all my english peers were surprised to find I wasn’t interested in doing the “New York Ball Drop” event. From what I’d gathered it sucks, and my work buddies were mostly out of town. Instead I opted to run a half marathon around central park. In a onesie. It was a great way to bring in the new year, and it was good to start to taking running more seriously. 
+I spent the new year in NYC, all my english peers were surprised to find I wasn’t interested in doing the “New York Ball
+Drop” event. From what I’d gathered it sucks, and my work buddies were mostly out of town. Instead I opted to run a half
+marathon around central park. In a onesie. It was a great way to bring in the new year, and it was good to start to
+taking running more seriously.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/canada.jpg" tag_header="Canada" tag_body="Banff" %}
 
+I didn’t spend much time in the new year at NYC, because I had the other wedding of my siblings to attend. This time
+instead of the ridiculous heat it was the freezing mountains of Banff Canada. My demi-celebrity sister won a UK based
+reality TV show called Tool Academy, and is now married to the man who she won it with, he’s pretty awesome BTW. So we
+did a small family trip to go and live with my other sister in Canada whilst everything got setup.
 
-I didn’t spend much time in the new year at NYC, because I had the other wedding of my siblings to attend. This time instead of the ridiculous heat it was the freezing mountains of Banff Canada. My demi-celebrity sister won a UK based reality TV show called Tool Academy, and is now married to the man who she won it with, he’s pretty awesome BTW. So we did a small family trip to go and live with my other sister in Canada  whilst everything got setup. 
+It wasn’t just my family who went along, we invited the amazingly talented James Melia to come along as wedding
+photographer after he did an amazing job on my older sisters wedding in crete the year later.
+[Check his site!](http://www.boho-weddings.com/2012/01/04/jenny-and-bens-beautiful-grecian-pool-side-wedding/).
 
-It wasn’t just my family who went along, we invited the amazingly talented James Melia to come along as wedding photographer after he did an amazing job on my older sisters wedding in crete the year later. [Check his site!](http://www.boho-weddings.com/2012/01/04/jenny-and-bens-beautiful-grecian-pool-side-wedding/).
-
-I arrived back from Canada with the family with some fresh aspirations; I was working full time with Artsy making the amazing Artsy Folio remotely, and Danger was out in Austrailia so I opted to try sharpen my portuguese again. Last year I went to Brazil, this year I opted for Portugual. I picked the only city I had really heard of and moved to Porto for a month. To be honest I spent the entire time working and running around the city (lots of cool hills and old buildings) as I was pushing to get version 1 of Folio out. It was a pretty hectic month but it was possible to get a real high level of focus out there.
+I arrived back from Canada with the family with some fresh aspirations; I was working full time with Artsy making the
+amazing Artsy Folio remotely, and Danger was out in Australia so I opted to try sharpen my portuguese again. Last year I
+went to Brazil, this year I opted for Portugual. I picked the only city I had really heard of and moved to Porto for a
+month. To be honest I spent the entire time working and running around the city (lots of cool hills and old buildings)
+as I was pushing to get version 1 of Folio out. It was a pretty hectic month but it was possible to get a real high
+level of focus out there.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/family.jpg" tag_header="&nbsp;" tag_body="Photo by James Melia" %}
 
-I did take some time to reflect on my wardrobe out in Porto. I was beginning to feel that I was done with jeans. They’re all just different shades of blue and black, I wanted colours. So I threw all my jeans away and started fresh, buying as many different colours and materials as possible.
+I did take some time to reflect on my wardrobe out in Porto. I was beginning to feel that I was done with jeans. They’re
+all just different shades of blue and black, I wanted colours. So I threw all my jeans away and started fresh, buying as
+many different colours and materials as possible.
 
-I arrived back from Porto and had no place to live, after moving out of my shared house at the start of this year. [Dave Grandinetti](http://twitter.com/dbgrandi) offered to let me crash at his as he was going to America for a few months and he would have an empty place. What a nice guy. So I set up camp in his spare room hooking myself up with a hammock. I wanted to experiment with paint and figured this was as good a time as any, so I started painting, daily. I thought it could help me understand people who collect art better, so I would create little gallery shows in the house. 
+I arrived back from Porto and had no place to live, after moving out of my shared house at the start of this year.
+[Dave Grandinetti](http://twitter.com/dbgrandi) offered to let me crash at his as he was going to America for a few
+months and he would have an empty place. What a nice guy. So I set up camp in his spare room hooking myself up with a
+hammock. I wanted to experiment with paint and figured this was as good a time as any, so I started painting, daily. I
+thought it could help me understand people who collect art better, so I would create little gallery shows in the house.
 
-Whilst painting I would watch TV. During this I started thinking that there just isnt a good experience for dealing with media and just throwing it on an Apple TV. So I found Put.IO, saw they had an API and figured I could work with their backend to have an amazing search and stream interface. Since the website itself is pretty plain, and there’s a bunch of cheap low quality iPhone / iPad apps. I figured it was a good idea to build something with a great experience. Though to be honest if I had known how many months it would take to make I’m not sure I would have done it. Because here I am nine months after I started the project still making more features for the app. _-- editors note, still submitting fixes, last one was October 2013_
+Whilst painting I would watch TV. During this I started thinking that there just isnt a good experience for dealing with
+media and just throwing it on an Apple TV. So I found Put.IO, saw they had an API and figured I could work with their
+backend to have an amazing search and stream interface. Since the website itself is pretty plain, and there’s a bunch of
+cheap low quality iPhone / iPad apps. I figured it was a good idea to build something with a great experience. Though to
+be honest if I had known how many months it would take to make I’m not sure I would have done it. Because here I am nine
+months after I started the project still making more features for the app. _-- editors note, still submitting fixes,
+last one was October 2013_
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/folio.jpg" tag_header="UK" tag_body="Huddersfield" %}
 
-The app was an interesting approach to a hosted file sharing, it is the app I use to experiment with new ideas before using them in Folio. My reviews have been positive, it’s currently at 4.5 stars. It is my first app that people have to pay to use, that was a hard decision but I feel that it’s worked out. 
+The app was an interesting approach to a hosted file sharing, it is the app I use to experiment with new ideas before
+using them in Folio. My reviews have been positive, it’s currently at 4.5 stars. It is my first app that people have to
+pay to use, that was a hard decision but I feel that it’s worked out.
 
-Once I had started to get a grasp on how long Put.IO was going to make I spent a weekend making Mixtapes usable for people other than me and Danger and got that nagging side project shipped. 
+Once I had started to get a grasp on how long Put.IO was going to make I spent a weekend making Mixtapes usable for
+people other than me and Danger and got that nagging side project shipped.
 
-By April, Dave had started work on a website that needed to use fitness devices like fitbits to work, and so he got one. I thought it rocked. So the rest of the guys in the office ( Henk & Ian ) grabbed one and started the most analytical few months of my life. We competed on things like most stairs climbed, genuinely going out of our way to walk up them. Or walking miles into work daily to beat everyone on steps.
+By April, Dave had started work on a website that needed to use fitness devices like fitbits to work, and so he got one.
+I thought it rocked. So the rest of the guys in the office ( Henk & Ian ) grabbed one and started the most analytical
+few months of my life. We competed on things like most stairs climbed, genuinely going out of our way to walk up them.
+Or walking miles into work daily to beat everyone on steps.
 
-I was beginning to feel a bit frustrated that I couldn’t get a copy of my both of my sisters weddings on an iPad with a good experience ( yes, this is a pattern. ) I had bought both of them iPads the year before, and by this point both of my parents were using them as their main home devices.  so I took a week out of Put.IO work and moved it into writing an iPad app for Melia’s private photo archives. It turned out pretty nice, in part because I tried to get as little interface as possible and just let the pictures speak for themselves. I’d spent 9 months thinking of this kinda thing for Art.sy so a lot of the hard decisions had already been talked out. I debated taking the app further and adding the ability to buy prints through the app. That turned into a mess of not fun issues that eventually just made me drop the entire idea. I did get some interesting ideas out of the app though, and everyone I know who has a copy is is really happy with it. 
+I was beginning to feel a bit frustrated that I couldn’t get a copy of my both of my sisters weddings on an iPad with a
+good experience ( yes, this is a pattern. ) I had bought both of them iPads the year before, and by this point both of
+my parents were using them as their main home devices. so I took a week out of Put.IO work and moved it into writing an
+iPad app for Melia’s private photo archives. It turned out pretty nice, in part because I tried to get as little
+interface as possible and just let the pictures speak for themselves. I’d spent 9 months thinking of this kinda thing
+for Art.sy so a lot of the hard decisions had already been talked out. I debated taking the app further and adding the
+ability to buy prints through the app. That turned into a mess of not fun issues that eventually just made me drop the
+entire idea. I did get some interesting ideas out of the app though, and everyone I know who has a copy is is really
+happy with it.
 
-Dave moved out in May, so I got to rock his super comfy bed in Huddersfield. I was asked if I could free up some time to do a few features to a charity’s iPhone app, so I gave a few weekends to making Ushahidi’s public iOS project support video uploads. 
+Dave moved out in May, so I got to rock his super comfy bed in Huddersfield. I was asked if I could free up some time to
+do a few features to a charity’s iPhone app, so I gave a few weekends to making Ushahidi’s public iOS project support
+video uploads.
 
-I did take the chance to do another 2.8 Hours Later, this time in Liverpool. There’s [a video](https://www.youtube.com/watch?v=297YylTtLoI) this time.
+I did take the chance to do another 2.8 Hours Later, this time in Liverpool. There’s
+[a video](https://www.youtube.com/watch?v=297YylTtLoI) this time.
 
-Basel the Art fair in Switzerland happened in June, it turned out to be a great quiet affair where I could hang out with some of the Art.sy team. As I work remotely it was rare to talk to anyone outside of the dev team on IRC. Basel had art, I got art fatigue. It turns out that exists.
+Basel the Art fair in Switzerland happened in June, it turned out to be a great quiet affair where I could hang out with
+some of the Art.sy team. As I work remotely it was rare to talk to anyone outside of the dev team on IRC. Basel had art,
+I got art fatigue. It turns out that exists.
 
-As if that wasn’t enough, I made weekend plans to try see some works by my favourite painter. We missed the last train to see the works which kinda sucks. I think grax enjoyed it though. 
+As if that wasn’t enough, I made weekend plans to try see some works by my favourite painter. We missed the last train
+to see the works which kinda sucks. I think grax enjoyed it though.
 
-My older sister had a kid in June, with a cool mathematical name of Delta. I’ve yet to meet her though. Except on skype. The other had a kid in Febuary 2013.
+My older sister had a kid in June, with a cool mathematical name of Delta. I’ve yet to meet her though. Except on skype.
+The other had a kid in Febuary 2013.
 
-These few months were kinda slow for events, I spent a lot of my free time exercising and working on Put.IO. I did some lazer quest, I had a hilarious poker night go wrong when I won the pot and paid for everyone’s drinks. My cousins wedding happened, it was a fun affair. I started getting regular massages. I joined a gym. I did 6-a-side football every week. I ran a few miles everyday, after I’d lost my second fitbit. I should learn to just use runkeeper.
+These few months were kinda slow for events, I spent a lot of my free time exercising and working on Put.IO. I did some
+lazer quest, I had a hilarious poker night go wrong when I won the pot and paid for everyone’s drinks. My cousins
+wedding happened, it was a fun affair. I started getting regular massages. I joined a gym. I did 6-a-side football every
+week. I ran a few miles everyday, after I’d lost my second fitbit. I should learn to just use runkeeper.
 
-I played a lot of Monopoly the card game. Thanks Fenn. I gave another Pecha Kucha, but this one was about Monopoly the game and its various histories. It turns out there’s a lot of contention in the history. Did you know that board game rules can’t be patented, only the pieces. Anti-Monopoly looks kinda cool.
+I played a lot of Monopoly the card game. Thanks Fenn. I gave another Pecha Kucha, but this one was about Monopoly the
+game and its various histories. It turns out there’s a lot of contention in the history. Did you know that board game
+rules can’t be patented, only the pieces. Anti-Monopoly looks kinda cool.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/dave.jpg" tag_header="&nbsp;" tag_body="Photo by Karl Baird" %}
 
-Dave arrived back in August and soon enough I was helping him set down shop, he was going to move back to America ( spoiler: I just spent Xmas + New Years with him. ) Which was fine as I had been setting up plans to go out of the country myself. About 2 weeks before I left my makey makey arrived, and a few days earlier I had agreed to talk to kids at a school on things to do with maths. So I did what any programmer would do, I wrote a program that works with my makey makey to show how you simple maths can do cool animations. By mixing that with awesome banana piano action I think they might’ve got a bit more of an inkling to create.
+Dave arrived back in August and soon enough I was helping him set down shop, he was going to move back to America (
+spoiler: I just spent Xmas + New Years with him. ) Which was fine as I had been setting up plans to go out of the
+country myself. About 2 weeks before I left my makey makey arrived, and a few days earlier I had agreed to talk to kids
+at a school on things to do with maths. So I did what any programmer would do, I wrote a program that works with my
+makey makey to show how you simple maths can do cool animations. By mixing that with awesome banana piano action I think
+they might’ve got a bit more of an inkling to create.
 
-So Danger wasn’t back, for that we had to wait till November. I had debated going out to see her a few times during the year during slow spots but it always felt to me like I’d be intruding on her over there. So I didn’t. However she had planned on going to Asia for the last 6 weeks of being abroad, and she asked if I wanted to come along.  As this was the opposite, I couldn’t think of a reason to say no. 
+So Danger wasn’t back, for that we had to wait till November. I had debated going out to see her a few times during the
+year during slow spots but it always felt to me like I’d be intruding on her over there. So I didn’t. However she had
+planned on going to Asia for the last 6 weeks of being abroad, and she asked if I wanted to come along. As this was the
+opposite, I couldn’t think of a reason to say no.
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/danger.jpg" tag_header="" tag_body="" %}
 
-We met up in Bangkok and spent a few days getting used to the heat / timezone and then moved up to the north of Thaliand.
+We met up in Bangkok and spent a few days getting used to the heat / timezone and then moved up to the north of
+Thailand.
 
-We got back in mid November, we spent two weeks together in the UK spending only a day or two apart. And by december I was back out to New York.
+We got back in mid November, we spent two weeks together in the UK spending only a day or two apart. And by december I
+was back out to New York.
