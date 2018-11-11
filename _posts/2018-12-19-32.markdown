@@ -47,7 +47,12 @@ I think there's a few over-arching notes for this year:
   - New friends
   - Taking trips up-state
 
-* Murphy's first year
+### Murphy
+
+Last year's [on being 31][31] had our adoption of Murphy act as really good counter-balance to some of the general
+sadness. I'm afraid this year, he can't really do that. Murphy died suddenly this year, and that sucks.
+
+- Murphy's first year
 
   - Start
   - Schedule
@@ -119,8 +124,8 @@ looking back at in a few years. Ordered by alphabetical.
 - Microsoft on [TypeScript][tsc] - Could I work on a programming language? I'm not sure, but maybe the change is drastic
   enough that I could get a lot out of it, and it's unlikely the team has someone with my kind of skills.
 - [Our world in data][indata] - A site built to help put a lot ideas in perspective. I use it to raise my mood.
-- [Pursuit][pursuit] - Already proven to be valuable, lots of great work to do there.
-- [Signal Foundation][signal] - They are one of the love to contribute to that.
+- [Pursuit][pursuit] (C4Q) - Already proven to be valuable, lots of great work to do there.
+- [Signal Foundation][signal] - Still something I care about a lot
 - [The Guardian][guardian] - Still shipping some of the best journalism in the world
 - [The Intercept][intercept] - A scrappier newspaper whose focus aligns much more with my own
 - [Zeit][zeit] - A small tight team, building JS projects with serious impact
@@ -133,6 +138,21 @@ It's important to note that it's not all doom and gloom. I specifically choose t
 a conscious decision I've needed to make before, but it's still an important statement on the future of Artsy.
 
 I did quite a few things that I'm really proud of this year.
+
+- We pulled off our first dev conference at Artsy. I've ran one before [in 2014][aswifts] and that went really well,
+  I've organized a lot of meetups since then, but not got back up-to a full day serious event. [Maxim Cramer][maxim] and
+  I spec'd it out (after another company offered to sponsor it) and when she announced she was going to leave Artsy we
+  opted to really take it seriously and to make it a leaving celebration for her.
+
+  We roped in Eloy Durán to wrap up our speakers, and ended up with an all-Artsy speaker set - mixing both talks and
+  workshops. Then, we reached out to my favourite Facebook employee, mr [Christoph Nakazawa][cpojer] and we found a way
+  for Facebook to handle a lot of the event-space organization and audio/visuals.
+
+  It all went beautifully, and was an awesome experience. It was made so much easier by having Maxim as a people &
+  detail oriented person to ensure everyone was fine and scheduling was working out. I'd be hesitant to do something
+  like this solo now that I know how good it can be as a duet.
+
+  [photos]
 
 - I wrapped up my series on [React Native at Artsy][rnaa]. This is a series of posts that I've been working on over the
   course of years, covering multiple retrospectives and a few "how does this one specific thing work?" The bow to wrap
@@ -153,24 +173,20 @@ I did quite a few things that I'm really proud of this year.
   least is realistically useful - seeing an artwork on your walls with correct sizing and lighting. It's a great fit. We
   struggled to find the right way to get a user set up, but eventually came to a pretty good setup.
 
-- We pulled off our first dev conference at Artsy. I've ran one before [in 2014][aswifts] and that went really well,
-  I've organized a lot of meetups since then, but not got back up-to a full day serious event. [Maxim Cramer][maxim] and
-  I spec'd it out (after another company offered to sponsor it) and when she announced she was going to leave Artsy we
-  opted to really take it seriously and to make it a leaving celebration for her.
-
-  We roped in Eloy Durán to wrap up our speakers, and ended up with an all-Artsy speaker set - mixing both talks and
-  workshops. Then, we reached out to my favourite Facebook employee, mr [Christoph Nakazawa][cpojer] and we found a way
-  for Facebook to handle a lot of the event-space organization and audio/visuals.
-
-  It all went beautifully, and was an awesome experience. It was made so much easier by having Maxim as a people &
-  detail oriented person to ensure everyone was fine and scheduling was working out. I'd be hesitant to do something
-  like this solo now that I know how good it can be as a duet.
+  [photos]
 
 - I restructured and consolidated all of Artsy's documentation to be open first, and then fallback to private when we
   need it. Here's a [longer write-up][docs] on the process, and I'm proud of where we ended up. I've been at Artsy for
   so long that I really don't know the processes at other companies, and would love if more folks did stuff like this.
 
   Related: I ported over a documentation idea I had from Peril to apply to all of Artsy: [Highlight docs][high].
+
+- I did a deep dive into machine learning for a month, we have an annual Artsy salon (basically an exhibition where all
+  the participants are staff) where I built a semi-realtime style-transfer app. I took the time to learn how to build my
+  own machine learning models, and understand the ecosystem. The app ended up working out real nice, if slow enough to
+  not bother taking too serious and pitching it should go into the main app.
+
+  [screenshot]
 
 * Folks Leaving
 
@@ -195,15 +211,15 @@ This year most of my non-Artsy programming time went to Peril. I had been buildi
 I really switched to devote a lot my thinking time to Peril. Peril is the natural evolution of Danger, helping you to
 work at an even higher level of abstraction.
 
-Building it out, I had offers for funding Peril full-time, and during some of my lower phases during Artsy, Peril was
-what I would do had I chose to leave the company.
-
 Roughly, if Danger was the equivalent to a automatically running a spell-checker when people collaborate on documents.
 Then Peril is a way to run the spell checker on every document. It's a lossy metaphor, but it's enough.
 
 Peril is probably the most complicated system I've built (maybe outside of Artsy's iOS app) - it's a complex collection
 of many servers coming together to be able to handle the potential throughput of activity. I'm super proud of how many
 tests the project has, it's hard to do that when you're the only person working on a project.
+
+Building it out, I had offers for funding Peril full-time, and during some of my darker phases during Artsy, Peril an
+escape hatch culturally and as a door for what I could do next.
 
 That said, I'll quote myself from a year ago:
 
@@ -212,19 +228,34 @@ That said, I'll quote myself from a year ago:
 > a strong overlap. I could easily spend the next year or two building and exploring Peril, _but should I?_ Sometimes
 > the answer feels like yes, sometimes the answer feels like no.
 
-That got decided for me in 2018 when GitHub announced they were creating a project called [GitHub Actions][actions]. It
-replicates the hardest (and most valuable) parts of Peril and makes it available to everyone. It's a fresh
-implementation, so I want to stress I'm definitely not trying to play the "they copied me" card. It validated a few of
-the tough decisions I had spent months thinking/procrastinating about. Which is awesome. It makes the idea available to
-a lot more people, and has a level of integration with GitHub that is unfeasible from a third party.
+I came to a decision on this in 2018 when GitHub announced they were creating a project called [GitHub
+Actions][actions]. It replicates the hardest (and most valuable) parts of Peril and makes it available to everyone.
 
-Sometimes, you just get sherlocked.
+It's a fresh implementation with a really great perspective on the problem, so I want to stress I'm definitely not
+trying to play the "they copied me" card. It validated a few of the tough decisions I had spent months
+thinking/procrastinating about. Which is awesome.
+
+It makes the abstractions in Peril available to a lot more people, and has a level of integration with GitHub that is
+unfeasible from a third party.
+
+Sometimes, you just [get sherlocked][sherlocked].
 
 I can be both happy and sad about it.
 
+This is the second time something I've devoted years to became less valuable long term because the domain owner started
+owning the problem. Previously, I started working on Danger because Apple start re-creating the last project I devoted
+years to (CocoaPods see [on being 29][29]). That's not gone very well, as we're three years down the line since they
+announced it and it's still not very close to fixing the main issue (and someone who was once on the team estimated it
+would [be fixed by 2020][sbs]).
+
+I'm more optimistic about GitHub pulling it off though.
+
 ## Wrap-up
 
-My non-Artsy programming time side project wa
+I'm moving into 2019 with no larger programming goals for the first time in 7 or 8 years, which is new. I have an
+inkling of what I might do (maybe make the Artsy omakase JS stack super well documented and de-couple it from artsy) but
+it feels a lot closer to "work work" than I'd like for a side project which I typically scope to having industry-wide
+impact that's useful for daily work.
 
 I want to bring it back to the idea of this year not being my best year.
 
@@ -234,10 +265,13 @@ around.
 
 Which in the case of Artsy, just seems off, I have a lot of political capital and freedom and use that to help fix
 problems in a way that helps out a lot of folks in many smaller ways. I'm in control in a lot of this, but what if I'm
-just stubborn and in the way? A small and scrappy mind-set is useful when working in ambiguous environments, but can it
-really thrive in a place where thoroughness and comprehension are more important?
+just stubborn and in the way? A small and scrappy mind-set is useful when working in ambiguous environments, but can
+that mind-set really thrive in a place where thoroughness and comprehension are more important?
 
-### Murphy
+So, maybe, the key to shifting my annual perspective in 2019 is:
+
+- Be more pro-active about what I want
+- Become confident at work
 
 [31]: http://orta.io/on/being/31
 [actions]: https://github.com/features/actions/?WT.mc_id%3Dch9-yt-chwarren
@@ -261,3 +295,8 @@ really thrive in a place where thoroughness and comprehension are more important
 [cpojer]: http://cpojer.net
 [docs]: http://artsy.github.io/blog/2018/08/21/OSS-by-Default-Docs/
 [high]: https://github.com/artsy/README/blob/master/culture/highlights.md#highlights
+[sherlocked]: https://www.economist.com/babbage/2012/07/13/youve-been-sherlocked
+[29]: /on/being/29
+[sbs]: https://www.swiftbysundell.com/podcast/36
+
+]
