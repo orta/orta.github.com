@@ -57,6 +57,11 @@ time there and it's never felt like a bad use of my time.
 Last year's [on being 31][31] had our adoption of Murphy act as really good counter-balance to some of the general
 sadness. I'm afraid this year, he can't really do that. Murphy died suddenly this year, and that sucks.
 
+I covered this in [a post][mdman] from a few days after, but that was really about trying to cope with the grief of such
+a unexpected ending to a great life. I
+
+It's funny though, I've never experienced death like this, it
+
 - Murphy's first year
 
   - Start
@@ -69,9 +74,9 @@ I didn't end the last on being 31 with too much of a positive note about working
 
 > It feels like the last few months at Artsy have just been a bunch of sucker punches
 
-2018 really just continued that. I feel a general anxiety about working at Artsy nowadays, a lot of it is fueled by the
-growth of the company. With perhaps the core idea coming from agreeing on things which are good for Artsy, but less good
-for me.
+2018 really just continued that. I feel a low-level anxiety about working at Artsy quite often nowadays, a lot of it is
+fueled by the growth of the company. With perhaps the core tenet being agreeing on things which are good for Artsy, but
+less good for me.
 
 - A lot of my friends left Artsy this year. The re-org mentioned in [on being 31[31] happened and it caused a lot of
   churn. [Alan][alan], [Maxim][maxim], [Kana][kana], [Will][will], [Sarah][sarah], [Katarina][katarina],
@@ -100,22 +105,23 @@ for me.
 
 - 2018 went from me enjoying working with everyone, to pushing that I wanted to work in a particular team based on
   least-bad interactions with team-members in them. I switched teams midway through the year because I wanted to move
-  away from daily interactions with someone who didn't really agree with how I was working, to a team where I strongly
-  don't like someone but rarely need to interact with them.
+  away from daily interactions with someone who I liked but didn't really agree with how I should be working, to a team
+  where I strongly don't like someone but rarely need to interact with them. Trades.
 
   I'd like to hope you're thinking that as these are work relationships I can easily fix them, but honestly, I'm just
-  not sure. The differences revolved around fundamental perspectives on how to do things. I think having different
+  not sure. The differences are pretty much fundamental perspectives on how to do things. I think having different
   perspectives in the company is great, and literally something we strive for in hiring. So, I wouldn't really want it
-  any other way. But, it grates, and is a source of friction.
+  any other way. But, it grates, and is a source of friction. Anyway, not [everyone likes T.J][tj].
 
 - We introduced a product org to our company, I think by the end of the year this worked out well and there's proof of
   it that I'll cover later. However, the introduction went real bad, and included a decision on people's positions that
-  caused a lot of high level churn in Engineering. Including triggering the start of me deciding that it's time for me
-  to maybe leave Artsy in 2018.
+  caused a lot of high level churn in Engineering. This was the first time that we'd **really** done something that I
+  pretty strongly disagreed with. So, as people started handing in their notice, for the first time I wondered that
+  maybe it was time for me to think about leaving Artsy in 2018.
 
-At the start of the year, I'd started taking regular notes on my mood. It's a few wins, and a lot of downers. I took a
-week off multiple times to debate "Could I leave?" and "What would I do?", and danger would ask every few days for a few
-months what the percentage chance was of me calling it.
+At the start of the year, I'd started taking regular notes on my mood. It's a few wins, and a lot of downers. So over
+the course of a few months, I took a week here and there to debate "Could I leave?" and "What would I do?", and danger
+would ask every few days for a few months what the percentage chance was of me calling it.
 
 #### Options
 
@@ -137,29 +143,42 @@ looking back at in a few years. Ordered by alphabetical.
 - [The Intercept][intercept] - A scrappier newspaper whose focus aligns much more with my own
 - [Zeit][zeit] - A small tight team, building JS projects with serious impact
 
-It eventually hit around 80% and I started booking meetings with all of leadership at Artsy to try figure out if any of
-them could change my mind. Turns out the person who I didn't book a meeting with did over drinks during someone's
-leaving do.
+My percentage chance of me leaving eventually hit around 80% after a few negative interactions in a row and I started
+booking meetings with all of leadership at Artsy to try figure out if any of them could change my mind. Turns out the
+person who I didn't book a meeting with did over drinks during someone elses leaving do.
 
-It's important to note that it's not all doom and gloom. I specifically choose to not leave Artsy this year, which isn't
-a conscious decision I've needed to make before, but it's still an important statement on the future of Artsy.
+They re-framed my arguments back in the form of things that I wanted to do, and how they could still get done at Artsy.
+Showed me how almost all these decisions are trade-offs for everyone, and tried to help me see people and not actions.
+Maybe I'm romaticising it a bit, but it was a chat that started to lower the chance till eventually I could start
+thinking medium to long term, instead of just floating through the day in a mental limbo.
 
-I did quite a few things that I'm really proud of this year.
+I specifically choose to not leave Artsy this year, which isn't a conscious decision I've needed to make before, but
+it's still an important statement on the future of Artsy. Once I got back into the mental state that I was staying, I
+needed to start working on improving things.
 
-- We pulled off our first dev conference at Artsy. I've ran one before [in 2014][aswifts] and that went really well,
-  I've organized a lot of meetups since then, but not got back up-to a full day serious event. [Maxim Cramer][maxim] and
-  I spec'd it out (after another company offered to sponsor it) and when she announced she was going to leave Artsy we
-  opted to really take it seriously and to make it a leaving celebration for her.
+So, I did quite a few things that I'm really proud of this year.
 
-  We roped in Eloy Durán to wrap up our speakers, and ended up with an all-Artsy speaker set - mixing both talks and
-  workshops. Then, we reached out to my favourite Facebook employee, mr [Christoph Nakazawa][cpojer] and we found a way
-  for Facebook to handle a lot of the event-space organization and audio/visuals.
+- We pulled off our first dev conference at Artsy. I've ran a conference before [in 2014][aswifts] and that went really
+  well, I've organized a lot of meetups since then, but not got back up-to a full day serious event.
+
+  [Maxim Cramer][maxim] and I spec'd it out (after another company offered to sponsor it (maybe as a joke?)) and when
+  she announced she was going to leave Artsy we opted to take it seriously and to make it a leaving celebration for her.
+
+  We roped in Eloy Durán to wrap up the speakers from Artsy's side. We aimed to mix both talks and workshops. Then, we
+  reached out to my favourite Facebook employee, mr [Christoph Nakazawa][cpojer] and we found a way for Facebook to
+  handle a lot of the event-space organization and audio/visuals.
 
   It all went beautifully, and was an awesome experience. It was made so much easier by having Maxim as a people &
   detail oriented person to ensure everyone was fine and scheduling was working out. I'd be hesitant to do something
   like this solo now that I know how good it can be as a duet.
 
-  [photos]
+  It's strange that I find it kinda hard to write about, it was exhausting and exhilarating. I've been taking time off
+  conference speaking, to spend time getting Danger comfy in NYC, so going back to that environment was refreshing.
+
+  <iframe class="exposure-post-cover-embed" src="https://orta.exposure.co/artsy-x-react-native/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br>
+
+  I met so many cool folks, and we created some of the best learning materials for iOS developers to get started with
+  and the introspection really helped us understand our own motivations better.
 
 - I wrapped up my series on [React Native at Artsy][rnaa]. This is a series of posts that I've been working on over the
   course of years, covering multiple retrospectives and a few "how does this one specific thing work?" The bow to wrap
@@ -276,17 +295,22 @@ over 3 weekends.
 
 It's a time-sink, but I find it pretty gratifying, I mean look at how cool my selfies are:
 
-[photos from raiding]
+<iframe class="exposure-post-embed" src="https://orta.exposure.co/the-last-wish?embed=true" style="width:100%;height:550px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe>
 
 I found a fun clan, who have [low expectations][low] and I would try play an hour or two every day to get to a spot
 where I could contribute on a raid. It felt good.
 
 ## Wrap-up
 
+For a good few years now, my perspective had been about straight up impact ([2016][2016], [2017][2017], [2018][2018]) of
+my time. Leverage your time for the most amount of potential positive change for everyone. Work on a dependency manager
+because it helped the most people, I built danger because it saved time and would be useful in almost every engineering
+project.
+
 I'm moving into 2019 with no larger programming goals for the first time in 7 or 8 years, which is new. I have an
-inkling of what I might do (maybe make the Artsy omakase JS stack super well documented and de-couple it from artsy) but
+inkling of what I might do (maybe make the Artsy Omakase JS stack super well documented and de-couple it from artsy) but
 it feels a lot closer to "work work" than I'd like for a side project which I typically scope to having industry-wide
-impact that's useful for daily work.
+impact (but still useful for daily work).
 
 I want to bring it back to the idea of this year not being my best year.
 
@@ -297,9 +321,13 @@ around.
 Which in the case of Artsy, just seems off, I have a lot of political capital and freedom and use that to help fix
 problems in a way that helps out a lot of folks in many smaller ways. I'm in control in a lot of this, but what if I'm
 just stubborn and in the way? A small and scrappy mind -set is useful when working in ambiguous environments, but can
-that mind-set really thrive in a place where thoroughness and comprehension are more important?
+that mind-set continue to thrive once we become a place where thoroughness and comprehension are more important?
 
-So, maybe, the key to shifting my annual perspective in 2019 is:
+When I talk to folks about it, everyone seems to say yes, but there's a sense of disconnect which may just be entirely
+in my head - but it didn't used to be there.
+
+So, maybe, the key is not necessarily to have goals for 2019, but to instead consider trying to shift my perspective in
+2019 to:
 
 - Be more pro-active about what I want
 - Become confident at work
@@ -341,5 +369,9 @@ So, maybe, the key to shifting my annual perspective in 2019 is:
 [raid-vid]: https://www.youtube.com/watch?v=ZmKL2pW4gpw
 [low]: https://www.bungie.net/en/Forums/Post/240000832?page=0
 [bungie]: https://www.bungie.net/en/PGCR/2967544338?character=2305843009310177314
-
-[dfd]:
+[dfd]: https://www.facebook.com/DogFashionDisco
+[2016]: https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/
+[2017]: https://academy.realm.io/posts/orta-therox-try-swift-tokyo-building-your-own-tools/
+[2018]: http://artsy.github.io/blog/2018/08/10/On-Context-Switching/
+[tj]: https://www.reddit.com/r/television/comments/8uy8a8/no_matter_what_you_do_not_everyones_gonna_like/
+[mdman]: http://orta.io/rebase/murphman
