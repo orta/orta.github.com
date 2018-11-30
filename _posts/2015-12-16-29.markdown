@@ -375,7 +375,7 @@ div.authors_notes {
 [23]: https://www.youtube.com/watch?v=XRYZIXxzaME
 [24]: http://www.ranchodlaw.com/blog/h1b-visas/spouses-h1b-visa-holders/
 [25]: http://www.uscis.gov/working-united-states/temporary-workers/o-1-visa-individuals-extraordinary-ability-or-achievement
-[27]: http://orta.github.com/on/being/28
+[27]: http://orta.github.io/on/being/28
 [28]: https://www.goodreads.com/book/show/2741559-tribal-leadership?from_search=true&search_version=service
 [29]: https://www.goodreads.com/book/show/17396014-the-year-without-pants?from_search=true&search_version=service
 [30]: https://www.goodreads.com/book/show/180463.Leadership_and_Self_Deception?from_search=true&search_version=service
