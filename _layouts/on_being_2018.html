@@ -1,0 +1,36 @@
+---
+layout: default_2013
+---
+
+<style>
+  p,
+  li {
+    font-size: 22px;
+    line-height: 36px;
+  }
+
+  .headline h1 {
+    font-size: 10em;
+  }
+
+  h2 {
+    margin-top: 3em;
+    font-size: 6em;
+  }
+</style>
+
+<div class="slide headline container initial">
+  <div class="grid_12 header-unit clearfix">
+    <h1>On<span style="font-size:84px">//</span>Being<span style="font-size:84px">//</span>{{ page.title }}</h1>
+  </div>
+</div>
+
+<div class="container clearfix">
+  <div class="grid_10 clearfix body_content">{{ content }}</div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".fancybox").fancybox();
+  });
+</script>
