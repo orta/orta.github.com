@@ -133,6 +133,8 @@
         var ticking = false;
         var photo_slides = document.querySelectorAll(".photo_slide");
         var last_scroll = document.documentElement.scrollTop ? document.documentElement.scrollTop : window.pageYOffset;
+        // Notes that the runloop has run once, to set the defaults on load
+        var run_once = false;
 
         function onResize() {
           updateElements();
@@ -156,10 +158,12 @@
           var window_y = document.documentElement.scrollTop ? document.documentElement.scrollTop : window.pageYOffset;
           var window_height = window.innerHeight;
 
-          if (window_y == last_scroll) {
+          if (run_once && window_y == last_scroll) {
             ticking = false;
             return;
           }
+
+          run_once = true;
 
           for (var i = 0; i < photo_slides.length; i++) {
             var slide = photo_slides[i];
