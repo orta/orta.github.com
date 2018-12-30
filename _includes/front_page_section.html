@@ -4,7 +4,7 @@
   }
 </style>
 
-<div class="slide photo_slide" id="{{ include.id }}-header">
+<div class="slide photo_slide" id="{{ include.id }}-header" {% if include.new %}data-new{% endif %}>
   <div class="container clearfix">
     <div class="grid_12">
       <div class="photo_caption">

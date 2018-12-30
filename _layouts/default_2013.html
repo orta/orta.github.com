@@ -166,7 +166,8 @@
 
             var slide_top_y = slide.offsetTop;
             var slide_bottom_y = slide.offsetTop + slide.offsetHeight;
-            var amount_to_scroll = 320;
+            var distance = slide.getAttributeNames().includes("data-new") ? 640 : 160;
+            var amount_to_scroll = distance;
 
             // bottom below the screen top                   // above the screen bottom
             var is_onscreen = slide_top_y > window_y - slide.offsetHeight && slide_top_y < window_y + window_height;
