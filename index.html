@@ -3,25 +3,41 @@ layout: default_2013
 title: Home
 ---
 
-<div class="slide headline container initial" style="height: 100px;">
+
+<style>
+	@media screen and (max-width: 560px) {
+		.mobile_only {
+			display: block !important;
+		}
+		.mobile_margin {
+			margin: 20px;
+		}
+	}
+</style>
+
+<div class="slide headline container initial" >
 	<div class="grid_12 header-unit clearfix ">
-		<h1>Polylingual<span style="font-size:84px">//</span>Programmer</h1>
+		<h1>Polylingual<span style="font-size:84px">/<br style="display:none;" class="mobile_only"/>/</span>Programmer</h1>
 	</div>
 </div>
 
-<div class="slide headline container initial" style="height: 200px;">
-	<div class="clearfix grid_6">
-		<p>I am an Engineer meets Designer. With a focus on large scale, high impact, Open Source projects.</p>
-	</div>
-	
-	<div class=" clearfix grid_6 omega">
-		<p>I've spent most of my life working on native apps and tools, and have focused on JS for the last few years.</p>
-	</div>
+<div class=" container" style="height: 100%">
+	<div class="mobile_margin" >
+		<div class="grid_6">
+			<p>I am an Engineer meets Designer. With a focus on large scale, high impact, Open Source projects.</p>
+		</div>
+		
+		<div class=" grid_6 omega">
+			<p>I've spent most of my life focused on native apps and tools, and explored JS for the last few years.</p>
+		</div>
 
-	<div class=" clearfix grid_12 omega">
-		<p>I work almost exclusively in the open, and aim to make almost all of my contributions industry-wide impact.</p>
+		<div class="grid_12 omega" style="margin-bottom: 120px;">
+			<p>I work almost exclusively in the open, and aim to make almost all of my contributions industry-wide impact.</p>
+		</div>
 	</div>
 </div>
+<div class="clearfix"></div>
+
 
 {% include front_page_section.html   id="js" header="Design + JS"    subtitle="Giving back by design." title="Pretty potentate"   body="<p>I've been helping out some of my favourite JavaScript dev-tools by re-designing and consolidating their homepages.</p>"   button1url="https://prettier.io" button1text="Prettier" button2url="https://github.com/facebook/jest/issues/7265"   button2text="Jest" new="true" %}
 
