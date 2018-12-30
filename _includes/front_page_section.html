@@ -1,52 +1,58 @@
 <style>
-#{{include.id}}-header {
-  background:url('http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}1.jpg')  center 0 no-repeat #d7d7d7;
-}
+  #{{include.id}}-header {
+    background:url('http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}1.jpg')  center -140px no-repeat #d7d7d7;
+  }
 </style>
 
-<div class="slide photo_slide" id = "{{ include.id }}-header">
+<div class="slide photo_slide" id="{{ include.id }}-header">
   <div class="container clearfix">
-
-		<div class="grid_12">
-	      <div class="photo_caption">
-	        <h1>{{ include.header }}</h1>
-	        <h2>{{ include.subtitle }}</h2>
-	      </div>
-		</div>
-
-	</div>
+    <div class="grid_12">
+      <div class="photo_caption">
+        <h1>{{ include.header }}</h1>
+        <h2>{{ include.subtitle }}</h2>
+      </div>
+    </div>
+  </div>
 </div>
 
-
 <div class="slide photo_info">
-	<div class="container clearfix">
-
-		<div class="grid_7">
-			<h2>{{ include.title }}</h2>
+  <div class="container clearfix">
+    <div class="grid_7">
+      <h2>{{ include.title }}</h2>
 
       {{ include.body }}
 
-			<div class="buttons">
-        {% if include.button1url %}
-          <a href= "{{ include.button1url }}">{{ include.button1text }}</a>
-        {% endif %}
-        {% if include.button2url %}
-          <a href= "{{ include.button2url }}">{{ include.button2text }}</a>
-        {% endif %}
-        {% if include.button3url %}
-          <a href= "{{ include.button3url }}">{{ include.button3text }}</a>
-        {% endif %}
-			</div>
-		</div>
+      <div class="buttons">
+        {% if include.button1url %} <a href="{{ include.button1url }}">{{ include.button1text }}</a> {% endif %} {% if
+        include.button2url %} <a href="{{ include.button2url }}">{{ include.button2text }}</a> {% endif %} {% if
+        include.button3url %} <a href="{{ include.button3url }}">{{ include.button3text }}</a> {% endif %}
+      </div>
+    </div>
 
-		<div class="grid_5 omega thumbnails">
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}1-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}1.jpg" class="selected">
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}2-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}2.jpg">
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}3-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}3.jpg">
+    <div class="grid_5 omega thumbnails">
+      <img
+        src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}1-small.jpg"
+        data-target="{{ include.id }}-header"
+        data-url="{{ include.id }}1.jpg"
+        class="selected"
+      />
+      <img
+        src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}2-small.jpg"
+        data-target="{{ include.id }}-header"
+        data-url="{{ include.id }}2.jpg"
+      />
+      <img
+        src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}3-small.jpg"
+        data-target="{{ include.id }}-header"
+        data-url="{{ include.id }}3.jpg"
+      />
       {% unless include.skiplastthumbnail %}
-		  <img src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}4-small.jpg" data-target="{{ include.id }}-header" data-url="{{ include.id }}4.jpg">
+      <img
+        src="http://ortastuff.s3.amazonaws.com/site/images/{{ include.id }}4-small.jpg"
+        data-target="{{ include.id }}-header"
+        data-url="{{ include.id }}4.jpg"
+      />
       {% endunless %}
-		</div>
-
-	</div>
+    </div>
+  </div>
 </div>
