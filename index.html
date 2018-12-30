@@ -3,23 +3,25 @@ layout: default_2013
 title: Home
 ---
 
-<div class="slide headline container initial ">
+<div class="slide headline container initial" style="height: 100px;">
 	<div class="grid_12 header-unit clearfix ">
 		<h1>Polylingual<span style="font-size:84px">//</span>Programmer</h1>
 	</div>
-<!-- 
-	<div style="position: relative; bottom: 40px; background-color:red;">
-		<div class="clearfix grid_6">
-			<p>I am an Engineer meets Designer. With a focus on large scale, high impact, Open Source projects.</a>
-		</div>
-		
-		<div class=" clearfix grid_6 omega">
-			<p>I've spent most of my life working with native tools, but have been spending an awful lot of time in JS lately.</p>
-		</div>
-	</div> -->
 </div>
 
+<div class="slide headline container initial" style="height: 200px;">
+	<div class="clearfix grid_6">
+		<p>I am an Engineer meets Designer. With a focus on large scale, high impact, Open Source projects.</p>
+	</div>
+	
+	<div class=" clearfix grid_6 omega">
+		<p>I've spent most of my life working on native apps and tools, and have focused on JS for the last few years.</p>
+	</div>
 
+	<div class=" clearfix grid_12 omega">
+		<p>I work almost exclusively in the open, and aim to make almost all of my contributions industry-wide impact.</p>
+	</div>
+</div>
 
 {% include front_page_section.html   id="js" header="Design + JS"    subtitle="Giving back by design." title="Pretty potentate"   body="<p>I've been helping out some of my favourite JavaScript dev-tools by re-designing and consolidating their homepages.</p>"   button1url="https://prettier.io" button1text="Prettier" button2url="https://github.com/facebook/jest/issues/7265"   button2text="Jest" new="true" %}
 
@@ -63,35 +65,62 @@ title: Home
 
 {% include subheading.html title="writing" %}
 
- <div class="slide container">
-   <div class="clearfix grid_6 project">
-		 <h2>Cocoa Architecture</h2>
 
-		 <ul style="padding:30px;">
+<div class="slide container">
+	<div class="clearfix grid_6 project">
+		<h2>Culture</h2>
+		<ul style="padding:30px;">
+			<li><a href="https://www.objc.io/issues/22-scale/artsy/">iOS at Scale: Artsy</a></li>
+			<li><a href="https://open.nytimes.com/five-questions-with-orta-therox-d5bb9659c50b">NY Times Open: 5 Questions with Orta Therox</a></li>
+			<li><a href="http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/">Interviewing, applying and getting your first job in iOS</a></li>
+			<li><a href="http://artsy.github.io/blog/2018/10/19/pair-programming/">The Hows and Whys of Pair Programming </a></li>
+			<li><a href="http://artsy.github.io/blog/2018/08/21/OSS-by-Default-Docs/">Open Source by Default: Docs</a></li>
+			<li><a href="http://artsy.github.io/blog/2018/10/18/long-term-highlights">Engineering Highlights</a></li>
+			<li><a href="http://artsy.github.io/blog/2017/10/10/C4Q-QandA/">C4Q&A - How I started programming</a></li>
+		</ul>
+	</div>
+
+	<div class="clearfix grid_6 omega project">
+		<h2>JavaScript</h2>
+		<ul style="padding:30px;">
+			<li><a href="http://artsy.github.io/blog/2017/02/05/Front-end-JavaScript-at-Artsy-2017/">Front-end JS at Artsy</a></li>
+			<li><a href="http://artsy.github.io/series/javascriptures//">JavaScriptures</a></li>
+			<li><a href="http://artsy.github.io/blog/2017/06/30/danger-one-oh-again/">Announcing Danger in JS</a></li>
+			<li><a href="http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/">Intro to React Native for an iOS Developer</a></li>
+			<li><a href="http://artsy.github.io/blog/2017/09/04/Introducing-Peril/">Introducing Peril to the Artsy Org</a></li>
+			<li><a href="http://artsy.github.io/blog/2018/06/18/On-Obsessive-Statelessness/">How Peril avoids state</a></li>
+			<li><a href="http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/">GraphQL Stitching 101</a></li>
+		</ul>
+	</div>
+</div>
+
+
+<div class="slide container">
+	<div class="clearfix grid_6 project">
+		<h2>Cocoa</h2>
+		<ul style="padding:30px;">
+				<li><a href="http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/">JS vs Swift at Artsy</a></li>
+				<li><a href="http://artsy.github.io/blog/2015/09/18/Cocoa-Architecture-Dependencies/">How Artsy chooses dependencies</a></li>
 			 <li><a href="https://www.objc.io/issues/15-testing/snapshot-testing/">How to do iOS testing via Snapshots</a></li>
-			 <li><a href="http://artsy.github.io/blog/2016/06/19/graphql-for-mobile/">GraphQL for iOS Developers</a></li>
-			 <li><a href="\http://artsy.github.io/blog/2016/06/29/code-spelunking-injection/">Code Spelunking: Injection for Xcode Plugin</a></li>
-			 <li><a href="http://artsy.github.io/blog/2014/06/17/building-the-xcode-plugin-snapshots/">Building the Xcode Plugin Snapshots</a></li>
+			 <li><a href="http://artsy.github.io/blog/2016/06/29/code-spelunking-injection/">Code Spelunking: Injection for Xcode Plugin</a></li>
+			 <li><a href="http://artsy.github.io/blog/2014/06/17/building-the-xcode-plugin-snapshots/">Building an Xcode Plugin: Snapshots</a></li>
 			 <li><a href="http://artsy.github.io/blog/2015/09/01/Cocoa-Architecture-Dropped-Design-Patterns/">Dropped Design Patterns</a></li>
 			 <li><a href="http://artsy.github.io/blog/2015/08/24/Cocoa-Architecture-Hybrid-Apps/">Hybrid Apps</a></li>
 			 <li><a href="http://artsy.github.io/blog/2015/08/19/Cocoa-Architecture-Switchboard-Pattern/">Switchboard Pattern</a></li>
-			 <li><a href="http://artsy.github.io/blog/2015/09/18/Cocoa-Architecture-Dependencies/">How Artsy chooses dependencies</a></li>
 			 <li><a href="http://artsy.github.io/blog/2015/08/15/Cocoa-Architecture-Router-Pattern/">Router Pattern</a></li>
 			 <li><a href="http://artsy.github.io/blog/2014/06/11/testing-core-data-migrations/">Testing Core Data Migrations</a></li>
 		 </ul>
-
    </div>
 
 	 <div class="clearfix grid_6 omega project">
-		 <h2>Open Source / Culture</h2>
+		 <h2>Open Source</h2>
 		 <ul style="padding:30px;">
-			 <li><a href="https://www.objc.io/issues/22-scale/artsy/">iOS at Scale: Artsy</a></li>
 			 <li><a href="http://artsy.github.io/blog/2016/01/13/OSS-Expectations/">Open Source Expectations</a></li>
 			 <li><a href="http://artsy.github.io/blog/2015/04/28/how-we-open-sourced-eigen/">How we Open Source'd Eigen</a></li>
 			 <li><a href="http://artsy.github.io/blog/2015/08/06/open-sourcing-energy/">Open Sourcing Energy</a></li>
 			 <li><a href="http://artsy.github.io/blog/2016/07/03/handling-big-projects/">Handling Large OSS Projects Defensively</a></li>
-			 <li><a href="http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/">Interviewing, applying and getting your first job in iOS</a></li>
 			 <li><a href="http://artsy.github.io/blog/2014/06/20/artsys-first-closed-source-pod/">Artsy's First Closed Source Pod</a></li>
+			 <li><a href="http://artsy.github.io/blog/2017/01/04/OSS-FAQ/">Open source FAQ for Artsy Engineers</a></li>
 		 </ul>
    </div>
  </div>
@@ -99,9 +128,57 @@ title: Home
 {% include subheading.html title="opensource" %}
 
 <div class="slide container project">
+	<div class=" clearfix grid_3 ">
+	<h2>Flow for VSCode</h2>
+	<p>I took over maintenance of a well-used extension for the last few years without using it myself.</a>
+	</div>
+
+	<div class="clearfix grid_3">
+	<h2>VSCode Jest</h2>
+	<p>I started, and handed-off a well-used VS Code extension for Jest.</p>
+	</div>
+
+	<div class="clearfix grid_3">
+		<h2>RFC process at Artsy</h2>
+		<p>I created a process for improving processes by taking the best ideas from big OSS projects.</p>
+	</div>
+
+	<div class=" clearfix grid_3 omega">
+	<h2>Artsy Engineering Principles</h2>
+	<p>I <a href="https://github.com/artsy/README/blob/master/culture/engineering-principles.md">documented</a> the things that makes Engineering unique.</p>
+	</div>
+</div>
+
+<div class=" clearfix grid_12"></div>
+
+<div class="slide container project">
+	<div class=" clearfix grid_3 ">
+	<h2>Jest Core</h2>
+	<p>I help out with the Jest testing library for JavaScript.</a>
+	</div>
+
+	<div class="clearfix grid_3">
+	<h2>Komondor</h2>
+	<p>I ported over a JS tool for <a href="https://github.com/orta/Komondor">git-hooks</a> to Swift.</p>
+	</div>
+
+	<div class="clearfix grid_3">
+		<h2>cocoapods-fix-RN</h2>
+		<p>I built a CocoaPods Plugin to automatically <a href="https://github.com/orta/cocoapods-fix-react-native">host-fix</a> React Native with CocoaPods.</p>
+	</div>
+
+	<div class=" clearfix grid_3 omega">
+	<h2>PackageConfig</h2>
+	<p>I built a SwiftPM package for  <a href="https://github.com/orta/PackageConfig">consolidating</a> the configuration for build tools.</p>
+	</div>
+</div>
+
+	<div class=" clearfix grid_12"></div>
+
+<div class="slide container project">
   <div class=" clearfix grid_3 ">
 	<h2>Specta/Expecta</h2>
-	<p>I took over maintainance of <a href="https://github.com/specta/specta/">Specta</a> and <a href="https://github.com/specta/expecta/">Expecta</a>, the  BDD testing frameworks for the Cocoa community.</a>
+	<p>I took over maintenance of <a href="https://github.com/specta/specta/">Specta</a> and <a href="https://github.com/specta/expecta/">Expecta</a>, the  BDD testing frameworks for the Cocoa community.</a>
   </div>
 
   <div class="clearfix grid_3">
@@ -119,6 +196,8 @@ title: Home
 	<p>Resources for 3 learn Swift courses for anyone to run in their own company. 2 years running now.</p>
   </div>
 </div>
+
+<div class=" clearfix grid_12"></div>
 
 <div class="slide container project">
   <div class=" clearfix grid_3 ">
@@ -279,12 +358,9 @@ title: Home
 
 <div class="slide" >
 	<div class="container clearfix">
-		<div class="grid_4">
-      <img src="http://ortastuff.s3.amazonaws.com/site/images/kkkl320.png" width="100%" height="100%" alt="OK COOL">
-    </div>
-
-		<div class="grid_5">
-      <h4>whoami?</h4>
+		
+		<div class="grid_6">
+			<h4>whoami?</h4>
       <p>ortatherox NYC/UK</p>
 			<p>Omni-Engineer at <a href="https://artsy.net">Artsy</a></p>
       <p><a href="mailto:orta.therox@gmail.com">orta.therox@gmail.com</a></p>
@@ -293,14 +369,15 @@ title: Home
       <p>I make stuff here: <a href="http://github.com/orta">github.com/orta</a></p>
       <p>I natter here: <a href="http://twitter.com/orta">twitter.com/orta</a></p>
     </div>
-		<div class="grid_3 omega">
-      <h4>non-technical bestof?</h4>
+		<div class="grid_6 omega">
+			<h4>non-technical bestof?</h4>
       <ul>
-        <li>On being <a href="/on/being/23">23</a>, <a href="/on/being/24">24</a>, <a href="/on/being/25">25</a>,  <a href="/on/being/26/">26</a>, <a href="/on/being/27">27</a>, <a href="/on/being/28">28</a> <a href="/on/being/29">29</a>, <a href="/on/being/30">30</a>, <a href="/on/being/31">31</a> &amp; <a href="/on/being/32">32</a>.</li>
+				<li>On being <a href="/on/being/23">23</a>, <a href="/on/being/24">24</a>, <a href="/on/being/25">25</a>,  <a href="/on/being/26/">26</a>, <a href="/on/being/27">27</a>, <a href="/on/being/28">28</a> <a href="/on/being/29">29</a>, <a href="/on/being/30">30</a>, <a href="/on/being/31">31</a> &amp; <a href="/on/being/32">32</a>.</li>
         <li><a href="http://orta.github.io/on_making/iphone/games/">old, old iPhone games</a></li>
         <li><a href="http://kieronononon.heroku.com">My old band of 7 years, Kieronononon</a></li>
         <li><a href="http://orta.github.io/rebase/on/overusing/keyboards/">Essential keyboard shortcuts</a></li>
       </ul>
+			<img style="margin-top: 60px;" src="http://ortastuff.s3.amazonaws.com/site/images/kkkl320-2.jpg" width="50%" alt="OK COOL">
     </div>
 
   </div>
