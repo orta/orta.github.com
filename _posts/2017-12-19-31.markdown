@@ -189,8 +189,8 @@ management (Swift server/CLI apps) and left iOS/macOS apps to CocoaPods. This su
 
 For the last 2 years, Apple has made it not worth putting time into the biggest iOS community project, relied on by
 millions of apps][8]. This took the energy out of the community, and they have one full-time employee working on a
-replacement. This environment meant most active developer on the CocoaPods team left to pursue projects more worth their
-time.
+replacement. This environment meant most active developers on the CocoaPods team left to pursue projects more worth
+their time.
 
 However, you can't just drop a big project like that, servers need to keep running, PRs need to be merged and the needs
 of your dependents aren't static. Luckily, there's fresh blood in the project,
