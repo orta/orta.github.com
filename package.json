@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "echo 'Hi'"
+  },
   "devDependencies": {
     "prettier": "^1.14.3"
   },
