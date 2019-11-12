@@ -35,13 +35,13 @@ working on the Mac client for a program called WeJay , which was an app for shar
 your friends. As this was the application used in demos it had to be shiny. But I worked hard on it and I am proud of
 how it turned out.
 
-November had been the first few [Kieronononon](http://brutaltechnopunk.com) (my band of 6 years with
-[Floatstarpx](http://floatstarpx.co.uk) and Goat-Buoy) gigs that used a new format. We had ditched a few instruments and
-tried to streamline the amount of stuff we needed, for two reasons. The first is that I'd got rid of my car and had no
-intention of driving again for a long time. So everyone needs to be able to transport their stuff. The second was to try
-and up the showmanship of our gigs. It's not that we had problems, but it's always good to try new ideas. These gigs
-were fun! You could feel that audiences really couldn't do anything but watch whilst we play. The gigs were bloody, I
-had my arm pierced, and they were always leaking. Especially in gigs.
+November had been the first few [Kieronononon](https://kieronononon.s3-external-3.amazonaws.com/index.html) (my band of
+6 years with [Floatstarpx](http://floatstarpx.co.uk) and Goat-Buoy) gigs that used a new format. We had ditched a few
+instruments and tried to streamline the amount of stuff we needed, for two reasons. The first is that I'd got rid of my
+car and had no intention of driving again for a long time. So everyone needs to be able to transport their stuff. The
+second was to try and up the showmanship of our gigs. It's not that we had problems, but it's always good to try new
+ideas. These gigs were fun! You could feel that audiences really couldn't do anything but watch whilst we play. The gigs
+were bloody, I had my arm pierced, and they were always leaking. Especially in gigs.
 
 December I had gigs with my other band, Stack 'O Barrels. I played bass for these guys. It’s a real different experience
 to being a front-man. I was never particularly good at bass and arguably with any instrument. But we endeavoured on. The
@@ -73,14 +73,14 @@ and she and I got to rock out in some weird places. My favourite being a club th
 <img src="/assets/images/25/kierononon.jpg"/>
 </center>
 
-In February [Kieronononon](http://brutaltechnopunk.com/) started recording
-[Komplaints Deptartment](http://brutaltechnopunk.com/music). It takes a few weekends of recording, and then a few months
-of mixing to make a good Kieronononon record, and so a lot of credit needs to go to both
-[@floatstarpxlol](http://twitter.com/floatstarpxlol) and [@raffmonkey](http://twitter.com/raffmonkey) for the time they
-put in tweaking the release to sound just right. This release felt lighter than the previous Kieronononon EPs, it feels
-like it isn’t taking itself too seriously. In a good way. It came with my favourite Kierononon cover, Holding Out for a
-Hero. Or as we called it “Letters to Celine”, in honour of the original singer/songwriter Celine Dion. It’s definitely
-our most easily accessible collection of songs. If you’ve never tried us, click play on the video below.
+In February [Kieronononon](https://kieronononon.s3-external-3.amazonaws.com/index.html/) started recording
+[Komplaints Deptartment](https://kieronononon.s3-external-3.amazonaws.com/music.html). It takes a few weekends of
+recording, and then a few months of mixing to make a good Kieronononon record, and so a lot of credit needs to go to
+both [@floatstarpxlol](http://twitter.com/floatstarpxlol) and [@raffmonkey](http://twitter.com/raffmonkey) for the time
+they put in tweaking the release to sound just right. This release felt lighter than the previous Kieronononon EPs, it
+feels like it isn’t taking itself too seriously. In a good way. It came with my favourite Kierononon cover, Holding Out
+for a Hero. Or as we called it “Letters to Celine”, in honour of the original singer/songwriter Celine Dion. It’s
+definitely our most easily accessible collection of songs. If you’ve never tried us, click play on the video below.
 
 <center>
   <iframe width="560" height="315" src="http://www.youtube.com/embed/64tePVem9ms" frameborder="0" allowfullscreen></iframe>
@@ -173,7 +173,7 @@ were talking daily about everything.
 <img src="/assets/images/25/everclear.jpg"/>
 </center>
 
-Once all the students left Princeton we had a party. There was a $200 account for booze as there was about 5-6 people
+Once all the students left Princeton we had a party. There was a \$200 account for booze as there was about 5-6 people
 who drank, so it was substantial. I got to try Everclear, a 180% proof alcohol that rips the skin from the inside of
 your mouth. I enjoyed that. Probably could've just had that. Still, the night ended rather calmly. So me and my last
 drinking partner went to get sandwiches, then I went to bed. I was woken up by the police making sure I was still alive.

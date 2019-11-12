@@ -1,13 +1,67 @@
 ---
 layout: on_being_2018
 title: "33"
+body_tag: "flappy"
 categories:
   - "on"
   - "being"
 ---
 
-2019, whoah - hi there. So, I'm getting things back on track. I felt like being 32 was a passive year with a generally
-downward curve. This year I worked hard to undo that and to try get back to feeling better. I succeeded at that.
+{::nomarkdown}
+
+<style>
+body {
+  background-color: #ebf6ff;
+}
+
+.flappy h1 {
+  color: black;
+}
+
+#clouds {
+    background-image: url("https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/clouds.png");
+    background-repeat: repeat-x;
+    background-size: 296px 86px;
+    height: 86px;
+}
+
+#city {
+    background-image: url("https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/city.png");
+    background-repeat: repeat-x;
+    background-size: 296px 58px;
+    height: 58px;
+    margin-top: -58px;
+}
+
+#trees {
+    background-image: url("https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/bushes.png");
+    background-repeat: repeat-x;
+    background-size: 296px 36px;
+    height: 36px;
+    margin-top: -36px;
+}
+
+#ground {
+    background-image: url(https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/ground.png), url(https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/ground.png);
+    background-repeat: repeat-x,repeat-x;
+    background-position-y: 0,82px;
+    background-size: 480px 267px;
+    padding-top: 60px;
+    padding-bottom: 21px;
+}
+
+</style>
+
+</p></div></div>
+<div id="sky"><div id="clouds"></div><div id="city"></div><div id="trees"></div></div>
+<div id="ground"></div>
+
+<div style="background-color:#dfdfdf; padding-top: 200px">
+<div class="container clearfix"><div class="grid_10 clearfix body_content">
+{:/nomarkdown}
+
+2019, whoah - hi there. So, I'm getting things back on track. I felt like being 32 was a passive year which continued a
+generally downward curve. This year I worked hard to undo that and to try start trending upwards. I succeeded at that.
 Self-care is important in a period of uncertainty.
 
 <p style="text-align:right; margin-top:8em;">This write-up ended up being split apart because of the sheer amount of 
@@ -20,23 +74,38 @@ Danger says she's never really had to worry about me before last year. I'm a pre
 I'm down for for such a long time. I choose to define myself through what I create digitally, and through the community
 work I do, this tends to be focused through the lens of what's useful to my work.
 
-I think of the above as a virtuous cycle of "I need x for work" -> "With a bit more work x can be useful for everyone"
--> "Make x sustainable and discover a larger pattern of y" -> "I need y for work". Work gets better stuff, I solve
-problems I enjoy working on.
+I think of the above as a virtuous cycle of <code>"I need x for work" -> "With a bit more work x can be useful for
+everyone" -> "Make x sustainable and discover a larger pattern of y" -> "I need y for work"</code>. Work gets better
+stuff, I solve problems I enjoy working on.
+
+This worked well until it didn't, you can read on the pushes and pulls which on why <a href="/on/leaving/artsy">I left
+Artsy and join Microsoft</a>.
 
 ## Back on the Talks Horse
 
 For the last two years, I'd taken a break from conference speaking. This is something dear to my heart, but tension at
-Artsy and a desire to help Danger get accommodated to New York meant it just wasn't a good trade to accept offers to
-speak. But this year both of those things have changed.
+Artsy and a desire to help Danger get accommodated to New York meant I politely declined all speaking opportunities
+which required travel. As I started up at Microsoft, and as Danger had a stable friend group and some roots then it felt
+like a good time to start back up.
 
-I was super lucky to basically have an amazing offer thrown in my lap to speak at BrazilJS within my second month. It
-was late notice, but I've got pretty good at making a solid talk in about a week. I flew out and ended up getting stuck
-in Panama for a day, so I visited the Panama canal and learned about it's history. Hanging out in Brazil was so cool, it
-had been about a decade since I lived there. After a few days, it felt like my portuguese was back to mostly
-conversational.
+To force myself to get back into the spotlight, and to get back into the teaching via speaking at two conferences a
+which would have no bearing on TypeScript. I agreed to talk at [React Native EU][rneu] and the [GraphQL Summit][gql-sm].
+It was great to meet whole new sets of GitHub avatars in real life.
 
-The conference BrazilJS was very cool, run by a bunch of punks with a real inclusive vision.
+I was super lucky to have an amazing offer speaking thrown in my lap in my second month at Microsoft. I was offered the
+chance to speak at [BrazilJS][brjs] on very late notice. I've had enough practice and can make a solid talk in about a
+week if I need to. Most of that time tends to be about trying to see a problem from every angle before diving into the
+details.
+
+Brazil holds a special place in my heart, my first programming job was in Brazil - in fact, I started my annual
+write-ups a decade ago when I was leaving [that job at 23][23].
+
+I flew out Porto Alegre and ended up getting stuck in Panama for a day. I got the chance to visit the Panama canal and
+learned about it's complicated history. On arrival in Brazil I hung out with the [lovliest][gl-tw] [ladies][cz-tw] who
+helped me get my portuguese back to kinda-mostly-conversational-if-you-speak-to-me-in-english.
+
+The conference BrazilJS was very cool, run by a bunch of punks with a real inclusive vision - if I ever tried to do
+something bigger than the last two conferences I ran: I'd want it to be like Brazil JS. [My talk][br-talk]
 
 ## Open Source
 
@@ -155,13 +224,48 @@ can make myself an office I can be proud of.
 
 We moved from Manhattan to Brooklyn, it's still super expensive, but it's very spacious.
 
+## Body Work
+
+I decided I wanted to underestand how folks did the gym. I bought a membership, but mostly just ran so when
+[@alloy][alloy] stay at my house at the start of the year, I asked him to show me the ropes and by doing it every day I
+felt reasonably competent. Unfortunately the closest gym was pretty far from our new place, so instead at our Brookyln
+apartment I have some sets of weights and [a bowflex][bowflex].
+
+I should do it more often, but it's good start.
+
+This year I focused on fixing up my teeth, having been real bad at brushing my teeth in my youth - it really started to
+catch up to me and eventually [at 27][27] I got a bad enough toothache to provide sufficient inspiration to work on it.
+This year I had dental surgery 5 times, removing a bunch of teeth and setting up permanent caps and replacements. It was
+some pretty rough days, but now that's almost all over.
+
+I'd like to try devote next year to fixing my posture.
+
+## Gaming Duets
+
+While last year I had one big mega-game (Destiny 2) as a non-technical side-project, I dropped that at that the start of
+this year as having gotten "far enough." I had completed every raid that was available, and that sense of FOMO I had
+about understanding what it looks like to participate in those style of games had gone.
+
+I swapped it out for a really exploitive Gacha-style mobile game. I skipped on previous toxic-ish mobile/social games
+like farmville, or Clash of Titans but thought it would be worth trying to give the idea a shot once Nintendo released
+on of these games of its own. So, I've been playing [Dragalia Lost](https://dragalialost.com/en/), and it's pretty good.
+
+Any game where your IRL time is a currency is bound to have flaws but it's where the market for large-scale mobile games
+is today, and so it felt worth trying to understand the mechanics. It's weird because this is a game where you can
+basically let it auto-play for the "game" and all you really do is the inventory management. It's basically only
+paperwork. It does mean you can play it as the same time as other games though?
+
+This is the first year where playing co-op with Danger became a thing:
+
+- T
+
 - first day https://twitter.com/orta/status/1138071674450898945
 
 - Fostered Oby
 
 - Danger left Job
 - Got off Google
-- Started Pursuit Peer Lab?
+
 - Dad's not well
 - Dragalia Lost?
 - Teeth
@@ -173,17 +277,21 @@ We moved from Manhattan to Brooklyn, it's still super expensive, but it's very s
 {::nomarkdown}
 
 </p></div></div>
-<div class="clearfix" style="padding:200px 0; background-color: #eafeff; text-align:center;">
-  <img src="https://ortastuff.s3.amazonaws.com/site/on_being/32/completed-obra-dinn.png" />
+<div class="clearfix" style="padding:0; background-color: black; text-align:center;">
+  <a href="https://imgur.com/a/0Ud90xO"><img src="https://i.imgur.com/IS2pZid.jpg" /></a>
 </div>
+<div class="container clearfix"><div class="grid_10 clearfix body_content">
 {:/nomarkdown}
 
 [knp]: https://www.youtube.com/watch?v=LUTpumYboDs
 [byond]: https://www.youtube.com/watch?v=gAN-ngbS0ps
+[23]: http://orta.io/on/being/23
 [25]: http://orta.io/on/being/25
+[27]: http://orta.io/on/being/27
 [32]: http://orta.io/on/being/31
 [32]: http://orta.io/on/being/32
 [zg]: https://twitter.com/helvetica
+[alloy]: https://twitter.com/alloy
 [elw]: https://twitter.com/lazerwalker
 [hc]: https://www.facebook.com/thehappychappo
 [new-ceo]: https://www.crainsnewyork.com/technology/artsy-aims-next-growth-stages-new-leadership
@@ -214,11 +322,19 @@ We moved from Manhattan to Brooklyn, it's still super expensive, but it's very s
 [oort]: https://en.wikipedia.org/wiki/Oort_cloud
 [sherlocked]: https://www.urbandictionary.com/define.php?term=sherlocked
 [quora]: https://www.quora.com/Why-are-compilers-so-hard-to-write
+[rneu]: https://www.youtube.com/watch?v=wVJxb36wjjA
+[gql-sm]: https://www.youtube.com/watch?v=STk8eWQL1ns
+[brjs]: https://braziljs.org
+[gl-tw]: https://twitter.com/glaucia_lemos86
+[cz-tw]: https://twitter.com/cynthiazanoni
+[br-talk]: https://www.youtube.com/watch?v=9UtOL7SPZ3E&feature=youtu.be&t=12211
 
 <!-- prettier-ignore-start -->
-
-[db-info]: https://code.dblock.org/2016/08/30/phone-screens-are-harmful-and-the-benefits-of-the-informational-interview.html
-
-[doc-info]: https://github.com/artsy/README/commit/61cbd68a9aa32f773efcee4bc663e9c5c70e82d7#diff-2ea2cc7f82987a23e348d6e905aa52a8R24
+[bowflex]:
+  https://www.amazon.com/Bowflex-PR1000-Home-Gym/dp/B0764JNG73/ref=sr_1_3?dchild=1&keywords=bowflex&qid=1573537379&sr=8-3
+[db-info]:
+  https://code.dblock.org/2016/08/30/phone-screens-are-harmful-and-the-benefits-of-the-informational-interview.html
+[doc-info]:
+  https://github.com/artsy/README/commit/61cbd68a9aa32f773efcee4bc663e9c5c70e82d7#diff-2ea2cc7f82987a23e348d6e905aa52a8R24
 
 <!-- prettier-ignore-end -->

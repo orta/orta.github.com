@@ -6,5 +6,13 @@
     "Katarina",
     "favourite",
     "informationals"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#20d527",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#5e59e6",
+    "activityBarBadge.foreground": "#e7e7e7"
+  },
+  "peacock.color": "#19a91f"
 }

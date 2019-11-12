@@ -1,0 +1,28 @@
+name: Build Website
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out, and set up the node/ruby infra
+      - uses: actions/checkout@v1
+      - uses: actions/setup-ruby@v1
+
+      # Build v1
+      - name: Build website
+        run: bundle exec jekyll build
+
+      # PR: Deploy preview
+      - uses: actions/setup-node@v1
+      - name: Deploy PR
+        if: github.event_name == 'pull_request'
+        run:
+          'if test -z "$NOW_ACCESS_TOKEN"; then echo "Skipping deploy"; else npx now site/ --token="$NOW_ACCESS_TOKEN"
+          --name="orta-io-$PR_NUMBER"; fi'
+        env:
+          NOW_ACCESS_TOKEN: ${{ secrets.NOW_ACCESS_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
