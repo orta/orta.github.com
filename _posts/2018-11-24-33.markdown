@@ -81,7 +81,7 @@ stuff, I solve problems I enjoy working on.
 This worked well until it didn't, you can read on the pushes and pulls which on why <a href="/on/leaving/artsy">I left
 Artsy and join Microsoft</a>.
 
-## Back on the Talks Horse
+## Public Facing
 
 For the last two years, I'd taken a break from conference speaking. This is something dear to my heart, but tension at
 Artsy and a desire to help Danger get accommodated to New York meant I politely declined all speaking opportunities
@@ -104,8 +104,13 @@ I flew out Porto Alegre and ended up getting stuck in Panama for a day. I got th
 learned about it's complicated history. On arrival in Brazil I hung out with the [lovliest][gl-tw] [ladies][cz-tw] who
 helped me get my portuguese back to kinda-mostly-conversational-if-you-speak-to-me-in-english.
 
+{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/panama.jpg" tag_header="" tag_body="" %}
+
 The conference BrazilJS was very cool, run by a bunch of punks with a real inclusive vision - if I ever tried to do
-something bigger than the last two conferences I ran: I'd want it to be like Brazil JS. [My talk][br-talk]
+something bigger than the last two conferences I ran: I'd want it to be like Brazil JS. [My talk][br-talk] went well and
+on my way back we stopped at Sao Paulo to attend some workshops and TypeScript meetups.
+
+I also gave a remote talk at [ts-conf.it][tsit]
 
 ## Open Source
 
@@ -226,7 +231,7 @@ We moved from Manhattan to Brooklyn, it's still super expensive, but it's very s
 
 ## Body Work
 
-I decided I wanted to underestand how folks did the gym. I bought a membership, but mostly just ran so when
+I decided I wanted to understand how folks did the gym. I bought a membership, but mostly just ran so when
 [@alloy][alloy] stay at my house at the start of the year, I asked him to show me the ropes and by doing it every day I
 felt reasonably competent. Unfortunately the closest gym was pretty far from our new place, so instead at our Brookyln
 apartment I have some sets of weights and [a bowflex][bowflex].
@@ -328,6 +333,7 @@ This is the first year where playing co-op with Danger became a thing:
 [gl-tw]: https://twitter.com/glaucia_lemos86
 [cz-tw]: https://twitter.com/cynthiazanoni
 [br-talk]: https://www.youtube.com/watch?v=9UtOL7SPZ3E&feature=youtu.be&t=12211
+[tsit]: https://ts-conf.it
 
 <!-- prettier-ignore-start -->
 [bowflex]:

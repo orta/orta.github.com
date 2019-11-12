@@ -6,7 +6,35 @@ categories:
   - "leaving"
 ---
 
-## Artsy
+{::nomarkdown}
+
+<style>
+  .headline h1 {
+    font-size: 8em;
+  }
+
+  .highlighter-rouge {
+    color: #222;
+    background-color: #ebebeb;
+    padding: 20px;
+    font-size: 14px;
+    border-radius: 10px;
+  }
+
+  body {
+    background-image: url(https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/artsy.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  .body_content {
+    margin-top: 75vw;
+  }
+</style>
+
+{:/nomarkdown}
+
+## 👋🏽 Artsy
 
 Well, it's over, after about 8 years of Artsy I handed in my notice 6 months ago. I am so deeply shaped by my
 experiences there. For a lot of folks, a job is just a job - but my work at Artsy really was a core part of my identity.
@@ -259,6 +287,8 @@ with the rest of the company and ship some big things. I think the idea of "what
 company" is a pretty good pattern for anyone who has a long tenure at a company to explore. It gives your current
 company a way to show off it's best attributes and you already have the existing relationships to make it work.
 
+Looking at it 6 months later, it feels a lot like a mix of internal cheerleader, ad-hoc contributor and dev-rel.
+
 ### Letting People Know
 
 I spent a considerable amount of time thinking about this. I'm not sure there's a perfect way, but I can at least talk
@@ -305,7 +335,7 @@ someone else picks it up and tries to match the timelines.
 We really did make something special with the iOS team, and we kept our global reputation as we moved from a native
 focus to react native one. We were a diverse team with everyone having some polymathic tendencies. That made it a
 pleasure to get up to work every day. It's kinda intense that for [4 years][4yr] the iOS team was a tight team, then
-within a year from now all but one of us left.
+within a year all but one of us left the company.
 
 ## Interviewing
 
@@ -384,6 +414,8 @@ this team I'm regularly in over my head in conversations about how things work i
 likely to be many years, if ever, that I'll get a similar level of familiarity with the intrinsic (and essential)
 complexity involved in a project like TypeScript.
 
+{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/ts-team.jpg" tag_header="" tag_body="" %}
+
 There are many verticals in this one codebase.
 
 For the non-technical, working on TypeScript is working on a compiler - and compilers are _kinda_ like the "rocket
@@ -392,7 +424,7 @@ Here's [44 people replying][quora] to why it's so hard to work on a compiler if 
 look at my comment" vs "Hrm, yeah, it is kinda tricky". I'm including my favourite quote for you:
 
 > Writing a compiler is the software equivalent to taking LSD.
-
+>
 > It fundamentally alters your perception of the world. Hard problems get simpler. All the mysterious, arcane, and
 > unknowable pieces of computing are reduced to a small, easy to grasp set of principles. And once you understand well
 > how the machine executes code, your ability to reason about the performance of other code improves dramatically.
