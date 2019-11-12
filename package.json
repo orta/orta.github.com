@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "echo 'Hi'"
+    "build": "bundle install; bundle exec jekyll build; mv _site public"
   },
   "devDependencies": {
     "prettier": "^1.14.3"
