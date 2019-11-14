@@ -74,12 +74,12 @@ Danger says she's never really had to worry about me before last year. I'm a pre
 I'm down for for such a long time. I choose to define myself through what I create digitally, and through the community
 work I do, this tends to be focused through the lens of what's useful to my work.
 
-I think of the above as a virtuous cycle of <code>"I need x for work" -> "With a bit more work x can be useful for
-everyone" -> "Make x sustainable and discover a larger pattern of y" -> "I need y for work"</code>. Work gets better
-stuff, I solve problems I enjoy working on.
+I think of the above as a virtuous cycle of
+`"I need x for work" -> "With a bit more work x can be useful for everyone" -> "Make x sustainable and discover a larger pattern of y" -> "I need y for work"`.
+Work gets better stuff, I solve problems I enjoy working on.
 
-This worked well until it didn't, you can read on the pushes and pulls which on why <a href="/on/leaving/artsy">I left
-Artsy and join Microsoft</a>.
+This worked well until it didn't, you can read on the pushes and pulls which on why [I left Artsy and join
+Microsoft][leave-artsy].
 
 ## Public Facing
 
@@ -100,17 +100,19 @@ details.
 Brazil holds a special place in my heart, my first programming job was in Brazil - in fact, I started my annual
 write-ups a decade ago when I was leaving [that job at 23][23].
 
+{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/panama.jpg" tag_header="" tag_body="" %}
+
 I flew out Porto Alegre and ended up getting stuck in Panama for a day. I got the chance to visit the Panama canal and
 learned about it's complicated history. On arrival in Brazil I hung out with the [lovliest][gl-tw] [ladies][cz-tw] who
 helped me get my portuguese back to kinda-mostly-conversational-if-you-speak-to-me-in-english.
-
-{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/panama.jpg" tag_header="" tag_body="" %}
 
 The conference BrazilJS was very cool, run by a bunch of punks with a real inclusive vision - if I ever tried to do
 something bigger than the last two conferences I ran: I'd want it to be like Brazil JS. [My talk][br-talk] went well and
 on my way back we stopped at Sao Paulo to attend some workshops and TypeScript meetups.
 
-I also gave a remote talk at [ts-conf.it][tsit]
+{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/jsbr.jpg" tag_header="" tag_body="" %}
+
+I also gave a remote talk at [ts-conf.it][tsit] on why betting on TypeScript seemed like a pretty legit option.
 
 ## Open Source
 
@@ -130,14 +132,10 @@ Obviously, that's now how it turned out, but it was an option.
 I didn't replace that Peril-shaped hole with a new big idea. Useful big ideas only come every few years to me, so
 instead I contributed by falling back to my design skills instead. I helped out on the design side a bunch for a series
 of large OSS projects [React][rn-rd1] [Native][rn-rd2], [Jest][j-rd] and [GraphQL][gql-rd]. They're different scopes,
-but still have a pretty big impact for time.
+but still have a pretty big impact for my time. Plus design isn't a skill you see too often in OSS contributors, so I
+can really help out a team by just focusing on that aspect.
 
-Since joining TypeScript, one of the interesting things I've noticed about working on the team is that I'm finding I
-don't quite have the same incentives for doing OSS anymore.
-
-I used to have a feedback cycle where I'd work on things related to Artsy to fix Artsy problems in my spare time. Now
-it's just kinda all TypeScript stuff... Which is less healthy. I'll need to think about what this looks like long-term,
-but for now it feels reasonable.
+{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/danger-images.jpg" tag_header="" tag_body="" %}
 
 ## Flappy Royale
 
@@ -194,7 +192,9 @@ There are a few highlights from working on Flappy Royale:
 - Reading all the reviews! These were websites I regularly read. I had to sit down outside to read this Kotaku one. I
   basically told everyone I met that day out in Seattle.
 
-- The panic once we did the math to figure out how much Flappy Royale could cost us if the traffic didn't go down. I
+  [![https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/kotaku-tweet.png](https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/kotaku-tweet.png)](https://mobile.twitter.com/Kotaku/status/1144335438691352577)
+
+* The panic once we did the math to figure out how much Flappy Royale could cost us if the traffic didn't go down. I
   genuinely froze for a full day, and didn't feel comfortable making any changes. luckily, Em took over and sorted it
   out bringing the costs down from thousands per month to being in the free tier (now that we're on the tail end of
   traffic.)
@@ -217,7 +217,7 @@ We moved last year, and we moved again this year. This was triggered by two thin
 joined Microsoft and would work remote.
 
 The first one is a long-one, but TLDR: They never signed our lease because it said we would have a dog. So, we couldn't
-have a dog in our apartment even though we specifically mentioned it multiple times during the signing provcess, and
+have a dog in our apartment even though we specifically mentioned it multiple times during the signing process, and
 _y'know_ it was in our lease. This was a long-running problem that didn't have an obvious end.
 
 When it became obvious that I was going to work remote. That added a fire to get stuff moving.
@@ -225,7 +225,8 @@ When it became obvious that I was going to work remote. That added a fire to get
 Moving house is expensive in New York, so we weren't particularly excited to have to move apartments twice in a year but
 I couldn't work full-time from a living room. I needed a space to work, that could either be a co-working space or at
 home. I could probably get Microsoft to pay for a co-working space, but I'd had great experiences at home before, and I
-can make myself an office I can be proud of.
+can make myself an office I can be proud of. I did that, [this is easily][office] the best working environments I've
+ever had.
 
 We moved from Manhattan to Brooklyn, it's still super expensive, but it's very spacious.
 
@@ -243,7 +244,15 @@ catch up to me and eventually [at 27][27] I got a bad enough toothache to provid
 This year I had dental surgery 5 times, removing a bunch of teeth and setting up permanent caps and replacements. It was
 some pretty rough days, but now that's almost all over.
 
+{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/teeth.jpg" tag_header="" tag_body="" %}
+
 I'd like to try devote next year to fixing my posture.
+
+## Danger in NYC
+
+2 and a bit years into Danger in NYC, she's reasonably settled. Not 100% sold, but with a social friend group or two.
+She's recently wrapped up work at dog training facility and is exploring what to do next. We got time, and she's not
+quite so career-ish focused as I am.
 
 ## Gaming Duets
 
@@ -260,24 +269,59 @@ is today, and so it felt worth trying to understand the mechanics. It's weird be
 basically let it auto-play for the "game" and all you really do is the inventory management. It's basically only
 paperwork. It does mean you can play it as the same time as other games though?
 
-This is the first year where playing co-op with Danger became a thing:
+This is the first year where playing co-op with Danger became a thing, we have always played games together - treating
+it a bit like an interactive movie which I controlled and we would make decisions together. Instead I searched out for
+games where we could both play at the same time, or ones where Danger could be in charge and I would be a patient
+spectator.
 
-- T
+- [Kingdom: Two Crowns][king]
 
-- first day https://twitter.com/orta/status/1138071674450898945
+  Having played the previous Kingdom games, I knew what I was getting into - a slow and beautiful side-scrolling RTS
+  where we both can slowly build out a cool castle and defend. Very low on twitch mechanics, just a lot of horse riding
+  and occasionally dropping coins in the right place.
 
-- Fostered Oby
+- [Spyro][spyro]
 
-- Danger left Job
-- Got off Google
+  I'm pretty sure I learned how to handle 3D games through Spyro, and I wanted that experience for Danger. We got
+  through quite a lot of it before Danger started to bore of it and we moved on to other thigns
 
-- Dad's not well
-- Dragalia Lost?
-- Teeth
-- LSD
-- OSS design
+- [Baba is You][bbisyou]
 
-- Danger + Peril
+  A dumb-cute meta game where your goal is to manipulate the rules of the game to eventually win. It's hard to describe,
+  but [the trailer][bbisyou] does a great job.
+
+- [Stretchers][stretch]
+
+  Super dumb but fun.
+
+- [Just Dance 2019][just-dance]
+
+  A chill exercise-ish game that we compete on. Danger always wins. It's been a good way to de-clam up.
+
+- [Zelda: Link's Awakening][link]
+
+  Danger-led our run through the dungeons of Hyrule.
+
+We learned quite a lot from watching this video on another couple where someone teaches their partner how to play games,
+and more importantly - [what is the vocabulary and language of games][vocab]?
+
+## Media
+
+Aside from sharing games, I've enjoyed:
+
+- Re-watching Lost
+
+  I was just smart enough to kinda get lost, but I also watched it as it came out and it never really clicked.
+  Re-watching it now, I really enjoy it's structures and pacing. It's a well-thought out show and even in the
+  contemporary golden age of long-form video media - it can stand it's ground.
+
+- Control
+
+  This game really just came out of the blue for me. I saw [@NeoNacho tweet][boris-control] about it, then a few days
+  later when I was trying out the new Epic Games store I spotted it and figured it must be interesting. A few hours into
+  it, I discovered that it supported [Ray Tracing][control-rtx] and bought a new [graphics card][rtx] to give it a try.
+
+  The game is stunning. They did some amazing [work with architecture][control-arch] and lighting.
 
 {::nomarkdown}
 
@@ -287,6 +331,64 @@ This is the first year where playing co-op with Danger became a thing:
 </div>
 <div class="container clearfix"><div class="grid_10 clearfix body_content">
 {:/nomarkdown}
+
+- Red Dead Redemption 2
+
+I've never really had strong feelings for open-world games, they tend to struggle on narrative and instead rely on the
+player making their own fun and I don't really make much time for that. Red Dead Redemption 2 has been a bit of an
+odd-ball there. At first I really wasn't sure about the game, I described it to Danger as a horse-riding simulator with
+5 minutes of game every 30 minutes of story. Turns out I just didn't get what they were trying to do.
+
+I left a [4 hour YouTube video about Red Dead Redemption 2][rdr2-4] on in the background (until it sounded like
+spoilers) as I started work on these articles, and started to grok what the western genre is and why Red Dead Redemption
+2 doesn't play like normal games. It's given me a greater appreciation for it, and so I'm taking it slow.
+
+## Being More Social
+
+{% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/board-game-nights.jpg" tag_header="Board Game Nights" tag_body="" %}
+
+I'm slightly less social now that I work remote, and have a quieter team in general. To trade that off, I've done more
+structured fun things. A few of us run a monthly-ish board game night, where we try invite 2-3 different folks to play
+the [a few games][bonhnaza]. This has been fun! We've also got a place big enough to do parties, so we've hosted a house
+warming and an upcoming birthday house party.
+
+I've got enough space for 2 other people to work comfortably in my office, so I've had people co-work at my place
+occasionally and that's been good fun. Finally, having Danger around during the day has been nice - I have someone to
+chat to occasionally and it's always great to be able to make a tea for two.
+
+## Stronger Doses
+
+Back in 2012 I started being [mostly vegetarian][] based on the recommendations from Michael Pollan, when I heard he was
+writing a book on [how psychedelics are wasted on the youth][change-mind], I figured I'd give the book and then
+psychedelics a shot. I tried a few different dosages of LSD to explore whether the dissociative effects would provide
+insight into my question of whether I should leave my job. Hey, at least I came in with some kind of goal.
+
+That goal didn't really pan out too well, but I had a good time trying it, going through ego-death and then re-building
+my id incrementally was an experience I wouldn't trade. I just came in with mis-guided intentions. It was fun, I'd
+recommend it. Hopefully it will become more legal sometime soon.
+
+## Deteriorating Dad
+
+My father is an old man. I get my chill from him. He's starting to get older and frailer, which is a shame - I've booked
+quite a lot of time in the UK over winterval to spend some time in the UK.
+
+## Wrap-up
+
+I decided to make pretty drastic life changes this year to stop the downward trend documented in these last 2 writeups.
+
+I can't change Brexit, American Politics and I've not put any effort into Climate Change. If I couldn't harness my anger
+at the surveillance state when I [was 29][serv] to change my focus, I'm not sure I have it in me, I expect to focus on
+programming ecosystems for a long time.
+
+I had no engineering goals in 2019. I only really have one engineering-ish goal for 2020 and that is to be a competent
+compiler engineer. I want to use my OSS time to explore how people learn TypeScript (you can read my [6 month review
+here][review]) which I think will effectively kill the desire to do anything outside of that sphere.
+
+I think I'm gonna call it an 8/10 year. I regained my confidence in what I want to focus my work time on, and I feel
+pretty strongly that working on TypeScript is a net-benefit for all of the JavaScript eco-system. That's a lot of people
+who we're lowering the barriers for.
+
+We're getting back on track.
 
 [knp]: https://www.youtube.com/watch?v=LUTpumYboDs
 [byond]: https://www.youtube.com/watch?v=gAN-ngbS0ps
@@ -344,3 +446,23 @@ This is the first year where playing co-op with Danger became a thing:
   https://github.com/artsy/README/commit/61cbd68a9aa32f773efcee4bc663e9c5c70e82d7#diff-2ea2cc7f82987a23e348d6e905aa52a8R24
 
 <!-- prettier-ignore-end -->
+
+[king]: https://youtu.be/IXYjdGmhD_Y?t=88
+[bbisyou]: https://www.youtube.com/watch?v=Ca5BYKRVXHM
+[boris-control]: https://twitter.com/NeoNacho/status/1166213579063738368
+[control-rtx]: https://www.youtube.com/watch?v=gJ7gdBGXODI
+[rtx]: https://www.tech-critter.com/gigabyte-rtx-2060-super-gaming-oc-8g-review/
+[control-arch]: https://www.gamasutra.com/view/news/352097/The_real_buildings_that_inspired_Controls_Oldest_House.php
+[leave-artsy]: /on/leaving/artsy
+[office]: https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/IMG_4810.MOV
+[rdr2-4]: https://www.youtube.com/watch?v=2utf6yph_QQ
+[bonhnaza]: https://www.boardgamegeek.com/boardgame/11/bohnanza
+[spyro]: https://www.youtube.com/watch?v=3j9o1OptMS8
+[stretch]: https://www.youtube.com/watch?v=7tfCvYLnwWk&feature=emb_title
+[veg]: https://github.com/orta/rebase/blob/gh-pages/_posts/2012-04-15-meat.textile
+[change-mind]: https://en.wikipedia.org/wiki/How_to_Change_Your_Mind
+[review]: https://gist.github.com/orta/d2b3cc779cdf6b5ccf2e5cfc04c75682
+[serv]: https://orta.io/on/being/29#Surveillance
+[just-dance]: https://www.youtube.com/watch?v=yRMxumfCNC0
+[link]: https://www.youtube.com/watch?v=ZROB4TnYH_I
+[vocab]: https://www.youtube.com/watch?v=ax7f3JZJHSw

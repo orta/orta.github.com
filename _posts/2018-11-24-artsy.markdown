@@ -37,9 +37,9 @@ categories:
 ## 👋🏽 Artsy
 
 Well, it's over, after about 8 years of Artsy I handed in my notice 6 months ago. I am so deeply shaped by my
-experiences there. For a lot of folks, a job is just a job - but my work at Artsy really was a core part of my identity.
-I grew alongside Artsy. I joined as a small-town developer doing remote feature-work on an throwaway app, hired on a
-recommendation by a friend.
+experiences at Artsy. For a lot of folks, a job is just a job - but my work at Artsy really was a core part of my
+identity. I grew alongside Artsy. I joined as a small-town developer doing remote feature-work on an throwaway app,
+hired on a recommendation by a friend.
 
 Now, I'm recognized on the street in large cities, and almost permanently at places where developers hang. I contribute
 to code and projects used by millions of programmers, with billions of users down the line. My [final blog
@@ -408,15 +408,20 @@ got humbled - that's better for everyone.
 
 ## Life at TypeScript
 
-The TypeScript team is a different bag from the Artsy Engineering team. The TypeScript team is full of incredibly smart
-engineers with an exceptional depth in compilers, type-theory and JavaScript's underlying warts. Months into joining
-this team I'm regularly in over my head in conversations about how things work in different parts of the compiler. It's
-likely to be many years, if ever, that I'll get a similar level of familiarity with the intrinsic (and essential)
-complexity involved in a project like TypeScript.
+I [started][day1] in June. I joined the compiler team, which means I work on a program which "compiles" text written in
+the TypeScript programming language into a database. This database is used to create something a machine can easily
+understand, and to provide information back to programmer's test editors.
+
+The TypeScript team is a different bag culturally from the Artsy Engineering team. The TypeScript team is full of
+incredibly smart engineers with an exceptional depth in compilers, type-theory and JavaScript's underlying warts. Months
+into joining this team I'm regularly in over my head in conversations about how things work in different parts of the
+compiler. It's likely to be many years, if ever, that I'll get a similar level of familiarity with the intrinsic (and
+essential) complexity involved in a project like TypeScript.
 
 {% include full_image.html image="https://ortastuff.s3.us-east-1.amazonaws.com/site/on_being/33/ts-team.jpg" tag_header="" tag_body="" %}
 
-There are many verticals in this one codebase.
+There are many verticals in this one codebase, someone could easily spend many years only working in one part of the
+compiler.
 
 For the non-technical, working on TypeScript is working on a compiler - and compilers are _kinda_ like the "rocket
 science" of building software. ( I wouldn't be surprised if modern rocket science is probably 70% software nowadays ).
@@ -489,3 +494,4 @@ of notes on how the compiler works and a bunch of tests which one day will be gr
 <!-- prettier-ignore-end -->
 
 [lifecycle]: https://en.wikipedia.org/wiki/Technology_adoption_life_cycle
+[day1]: https://twitter.com/orta/status/1138071674450898945
