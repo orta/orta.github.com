@@ -342,6 +342,9 @@ So, I gave myself two new years resolutions:
 
   <a href='https://www.facebook.com/CoalitionForQueens/photos/ms.c.eJxFVFuuBTEI2tFNfdDq~;jd2M3LUvwlBi4gjcIW7Qj3yHv8TAuYpuHqlgVcMoBkWr0pcG7gXoZp5pySqh7wG8nyMeF3i4tVD8ANw7WO8zAa8moZM06wSGJbxAR7WOh6bohnuXsIkmmFajGxhVgw7y3D2CKzS6uHN8JMFoJ~;Fed~_0EsMQGiRjkEm9Yu0phCUvdria9jaAV2sQlTGZ0m9LR2o59k4zoF~_JeQtz5SrfPJtWTU8LQ4A9pumjpztcoErkLFAM99VRgI2napw2ByhP38H6UUqvb0kBkw~;7ir419PYtshjnjlLq2FheMnRLuEqfZxlLm1ga~_MqbjEV5GjGe3kvXxw~_rEp~_s4wS3P1lncHODewhgAA3e3JwYyJjh~;BYDe4RXyWhhznzo5MPDeGLt~_peHr0eOQfmqx51oGwHFKq2mMZtLZn3GN3C3ZxnMuk2keC8x94JTy5bR8X1~;gC3ABE20jcPZDAc7dH3~_DgyM7A~;F6QfWMaOFsygIfyjblFlP~_wdCHgX~;.bps.a.1542543182489711.1073741863.240516186025757/1542544835822879/?type=3&theater'><img src='https://ortastuff.s3.amazonaws.com/site/on_being/31/c4q-award.jpg'></a>
 
+<!-- prettier-ignore-start -->
+
+
 [1]: https://www.animalhavenshelter.org
 [2]: http://reports.wisdompanel.com/dnareport/cUh8w6SR8VXDZc6WT_3Hz6EWF7pr8xQxS8RH3HKQAmC5jpEeryLNsPLaElCpN8yz#/
 [3]: https://www.youtube.com/watch?v=MBRqu0YOH14
@@ -359,8 +362,10 @@ So, I gave myself two new years resolutions:
 [15]: http://tvtropes.org/pmwiki/pmwiki.php/Main/MenAreGenericWomenAreSpecial
 [16]: https://www.goodreads.com/book/show/18713259-worm
 [17]: http://orta.io/rebase/spheres-of-influence
-[18]:
-  https://www.google.com/search?tbs=imgo%3A1&tbm=isch&sa=1&ei=WaBaWrwgq6mCB_2-ncAN&q=halifax+uk&oq=halifax+uk&gs_l=psy-ab.3..0l6j0i5i30k1j0i8i30k1l2j0i24k1.2823.3373.0.3608.3.3.0.0.0.0.81.230.3.3.0....0...1c.1.64.psy-ab..0.3.230...0i67k1.0.dmC8uoGC4iQ
+[18]: https://www.google.com/search?tbs=imgo%3A1&tbm=isch&sa=1&ei=WaBaWrwgq6mCB_2-ncAN&q=halifax+uk&oq=halifax+uk&gs_l=psy-ab.3..0l6j0i5i30k1j0i8i30k1l2j0i24k1.2823.3373.0.3608.3.3.0.0.0.0.81.230.3.3.0....0...1c.1.64.psy-ab..0.3.230...0i67k1.0.dmC8uoGC4iQ
 [dm_fb]: https://www.facebook.com/gem.mcshane/media_set?set=a.10155059204004882.1073741839.508939881&type=3
 [or_ex]: https://orta.exposure.co/japan-honeymoon
 [gh_jest]: https://github.com/jest-community/
+
+
+<!-- prettier-ignore-end -->

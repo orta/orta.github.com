@@ -390,6 +390,9 @@ who we're lowering the barriers for.
 
 We're getting back on track.
 
+<!-- prettier-ignore-start -->
+
+
 [knp]: https://www.youtube.com/watch?v=LUTpumYboDs
 [byond]: https://www.youtube.com/watch?v=gAN-ngbS0ps
 [23]: http://orta.io/on/being/23
@@ -437,15 +440,9 @@ We're getting back on track.
 [br-talk]: https://www.youtube.com/watch?v=9UtOL7SPZ3E&feature=youtu.be&t=12211
 [tsit]: https://ts-conf.it
 
-<!-- prettier-ignore-start -->
-[bowflex]:
-  https://www.amazon.com/Bowflex-PR1000-Home-Gym/dp/B0764JNG73/ref=sr_1_3?dchild=1&keywords=bowflex&qid=1573537379&sr=8-3
-[db-info]:
-  https://code.dblock.org/2016/08/30/phone-screens-are-harmful-and-the-benefits-of-the-informational-interview.html
-[doc-info]:
-  https://github.com/artsy/README/commit/61cbd68a9aa32f773efcee4bc663e9c5c70e82d7#diff-2ea2cc7f82987a23e348d6e905aa52a8R24
-
-<!-- prettier-ignore-end -->
+[bowflex]: https://www.amazon.com/Bowflex-PR1000-Home-Gym/dp/B0764JNG73/ref=sr_1_3?dchild=1&keywords=bowflex&qid=1573537379&sr=8-3
+[db-info]: https://code.dblock.org/2016/08/30/phone-screens-are-harmful-and-the-benefits-of-the-informational-interview.html
+[doc-info]: https://github.com/artsy/README/commit/61cbd68a9aa32f773efcee4bc663e9c5c70e82d7#diff-2ea2cc7f82987a23e348d6e905aa52a8R24
 
 [king]: https://youtu.be/IXYjdGmhD_Y?t=88
 [bbisyou]: https://www.youtube.com/watch?v=Ca5BYKRVXHM
@@ -466,3 +463,5 @@ We're getting back on track.
 [just-dance]: https://www.youtube.com/watch?v=yRMxumfCNC0
 [link]: https://www.youtube.com/watch?v=ZROB4TnYH_I
 [vocab]: https://www.youtube.com/watch?v=ax7f3JZJHSw
+
+<!-- prettier-ignore-end -->

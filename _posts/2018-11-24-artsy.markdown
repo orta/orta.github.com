@@ -484,12 +484,10 @@ of notes on how the compiler works and a bunch of tests which one day will be gr
 [stitching]: https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/
 [bod]: https://artsy.github.io/blog/2018/08/10/On-Context-Switching/
 
- <!-- prettier-ignore-start -->
+<!-- prettier-ignore-start -->
 
-[db-info]:
-  https://code.dblock.org/2016/08/30/phone-screens-are-harmful-and-the-benefits-of-the-informational-interview.html
-[doc-info]:
-  https://github.com/artsy/README/commit/61cbd68a9aa32f773efcee4bc663e9c5c70e82d7#diff-2ea2cc7f82987a23e348d6e905aa52a8R24
+[db-info]: https://code.dblock.org/2016/08/30/phone-screens-are-harmful-and-the-benefits-of-the-informational-interview.html
+[doc-info]: https://github.com/artsy/README/commit/61cbd68a9aa32f773efcee4bc663e9c5c70e82d7#diff-2ea2cc7f82987a23e348d6e905aa52a8R24
 
 <!-- prettier-ignore-end -->
 
