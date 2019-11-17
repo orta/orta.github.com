@@ -55,33 +55,27 @@ and the introduction of a product org.
 
 ### Leadership churn
 
-It's hard to believe that people in all these leadership roles left in the last two years, a lot didn't stay for a year
-and most of these roles don't exist in anymore:
+There was a lot of people at the leadership level churn. Folks in these leadership roles left in the last two years:
 
-- Cofounder and COO
-- CTO
-- Legal Counsel
-- Head of Design
-- Head of Product
-- Head of Marketing
-- Head of Direct Sales
-- Head of Auctions Partnerships
+> Cofounder and COO, CTO, General Counsel, Head of Design, Head of Product, Head of Marketing, Head of Direct Sales and
+> Head of Auctions Partnerships
 
-That's almost every business and product lead in the company. When the folks deciding the long term vision are in deep
-disagreement to the point of leaving, it becomes real hard to get actual work done at all levels of the company.
+That's almost every business, technical and product lead in the company. I'm sure everyone had their reasons for
+leaving, but when the folks deciding the long term vision are in deep disagreement to the point of leaving, it becomes
+real hard to get actual work done at the levels below them of the company.
 
 These vision disagreements caused fissures down the orgs via job role ambiguity, low morale, or defensiveness within
-teams which feel threatened by the jostling.
+teams which feel threatened by the jostling. When I reflect back on how some of my work relationships soured over the
+last two years, I now think of them as symptoms from this cause.
 
-There are ways to work around this, effective middle management can provide clarity umbrellas under their org and on
-engineering we did a reasonable job there. At least, my one on ones with folks in our org treated most of these
-departures as abstractly related to our work. Engineering was lucky there, but it's not great for cross company
-relationships when there's a set of folks who are always safe from worries.
+There are ways to have successful teams with a good culture in this environment, effective middle management can provide
+clarity umbrellas under their org and on engineering we did a reasonable job there. At least, my one on ones with folks
+in our org treated most of these departures as abstractly related to our work. Engineering was lucky there, but it's not
+great for cross company relationships when there's a set of folks who are always safe from worries.
 
-Now I'm on the outside, I keep tabs on how things are going. It's harder to know, but I trust my inference. Artsy's
-replacement for a COO eventually landed [a new CEO instead][new-ceo]. It's likely this should bring about about some
-leadership stability in the company, though it will be at the trade-off of a new vision and perspective on what the
-company is and should do.
+Now I'm on the outside, I keep tabs on how things are going at leadership level. It's harder to know, but I generally
+trust my instincts. Artsy's replacement for a COO eventually landed [a new CEO instead][new-ceo]. I'd bet this will
+bring about leadership stability in the company.
 
 Perhaps that's for the best, most folks who I talk to are optimistic.
 
@@ -105,7 +99,7 @@ management role within the auctions team.
 
 The first six months of changing the team's structure were pretty disastrous. For the first time, people who I had hired
 left the company and the engineering culture took a hit which it never really recovered from. It felt like quite a lot
-of new people were under a lot of pressure to show results very quickly from these team changes, and this created
+of new people were under a lot of pressure to show results very quickly from these team changes. This pressure created
 incentives for people to take shortcuts, or make culture changes hard and fast without necessarily covering all their
 bases. People in all aspects of the business felt a loss of control and we spent a long time trying to find ways to get
 that feeling back. Gradually, it just kinda re-appeared with time and effort.

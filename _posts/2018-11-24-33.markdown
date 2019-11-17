@@ -211,6 +211,10 @@ signing all those W3 tax forms.
 That made coming back to keep doing updates not feel worth it; it's a trade-off on doing TypeScript work at TypeScript
 scale vs a fun game in a crowded scene. It's awesome we did it, I'm glad we got it off the ground.
 
+## Oby
+
+On the subject of cute animals, we've been looking after a dog for the last year.
+
 ## Moved to Brooklyn
 
 We moved last year, and we moved again this year. This was triggered by two things, our landlord screwed us over and I
@@ -220,7 +224,7 @@ The first one is a long-one, but TLDR: They never signed our lease because it sa
 have a dog in our apartment even though we specifically mentioned it multiple times during the signing process, and
 _y'know_ it was in our lease. This was a long-running problem that didn't have an obvious end.
 
-When it became obvious that I was going to work remote. That added a fire to get stuff moving.
+When it became obvious that I was going to work remote. That added some pressure to get stuff moving.
 
 Moving house is expensive in New York, so we weren't particularly excited to have to move apartments twice in a year but
 I couldn't work full-time from a living room. I needed a space to work, that could either be a co-working space or at
