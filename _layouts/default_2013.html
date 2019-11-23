@@ -9,10 +9,11 @@
     <!-- 01 Nov 2015 -->
     <!-- 05 Sep 2016 -->
     <!-- 30 Dec 2018 -->
+    <!-- 11 Nov 2019  -->
 
     <meta name="author" content="orta; http://orta.github.io/" />
     <meta name="title" content="orta therox" />
-    <meta name="description" content="programmer and general rockerouterer." />
+    <meta name="description" content="Omni-Engineer, design and code. Works on TypeScript." />
     <meta
       name="keywords"
       content="orta, ios, ortatherox, design, designer, code, iphone, awesome, iphone games, iphone apps, cocoa, cocoa apps, therox, cocos2d, html, css, github"
@@ -199,8 +200,14 @@
           navigator.userAgent.match(/Windows Phone/i)
         ) {
         } else {
-          win.addEventListener("resize", onResize, false);
-          win.addEventListener("scroll", onScroll, false);
+          win.addEventListener("resize", onResize, {
+            capture: true,
+            passive: true
+          });
+          win.addEventListener("scroll", onScroll, {
+            capture: true,
+            passive: true
+          });
           updateElements();
         }
       })(window, document);

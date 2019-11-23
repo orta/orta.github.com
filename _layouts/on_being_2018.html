@@ -16,16 +16,45 @@ layout: default_2013
   h2 {
     margin-top: 3em;
     font-size: 6em;
+    color: black;
+  }
+
+  h3 {
+    margin-top: 1em;
+    font-size: 3.5em;
+  }
+
+  h4 {
+    margin-top: 1em;
+    font-size: 2.5em;
+    line-height: 1.1em;
+    color: #8a8683;
+  }
+
+  summary {
+    padding: 20px;
+    background-color: #8a8683;
+    color: white;
+  }
+
+  details {
+    border-left: 3px solid #8a8683;
+    padding-left: 20px;
+  }
+
+  .container p a {
+    background-color: #8a8683;
+    padding: 0 6px;
   }
 </style>
 
-<div class="slide headline container initial">
+<div class="slide headline container initial {{ page.body_tag }}">
   <div class="grid_12 header-unit clearfix">
     <h1>On<span style="font-size:84px">//</span>Being<span style="font-size:84px">//</span>{{ page.title }}</h1>
   </div>
 </div>
 
-<div class="container clearfix">
+<div class="container clearfix {{ page.body_tag }}">
   <div class="grid_10 clearfix body_content">{{ content }}</div>
 </div>
 
