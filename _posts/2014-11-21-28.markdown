@@ -89,7 +89,7 @@ Tap talk is another ephemeral photos app. It's aimed towards taking a picture (o
 
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/images/28/taptalk.jpg" tag_header="TAPTALK" tag_body="The World" url="http://orta.io/taptalk" %}
 
-I really, really enjoyed UIKonf. I felt like it was exactly the sort of conference I would like to run myself. Also rather convienently  Afterwards I went back to England to spend some quality time with Danger before setting off to San Francisco, it was WWDC in time for June.
+I really, really enjoyed UIKonf. I felt like it was exactly the sort of conference I would like to run myself. Also rather conveniently  Afterwards I went back to England to spend some quality time with Danger before setting off to San Francisco, it was WWDC in time for June.
 
 WWDC is this big thing. It's a monolithic conference ran by Apple that for many years was the only Mac + iOS conference, and is pretty much the only thing at it's scale for our community. It brings thousands of developers to San Francisco for a few weeks and is a great time to meet a bunch of people that you've only seen an avatar for. I went early, the lovely Delisa Mason let me crash at her place and we went to the Ruby Motion [motion#inspect][56] conference to say hi to [Alloy][57] and the Motion team. They announced Motion on Android, I think that's super awesome. It was fun to hang out. Delisa and I played some video games. The rest of the Artsy mobile team came out ( they had WWDC tickets ) to SF later too! It was fun, it was the first time we had the entire mobile Artsy team in a single place.
 

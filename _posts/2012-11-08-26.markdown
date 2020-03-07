@@ -12,7 +12,7 @@ be summed up up quite easily as being travel and code.
 {% include full_image.html image="https://ortastuff.s3.amazonaws.com/2013/images/26/nyc.jpg" tag_header="America" tag_body="New York City" %}
 
 I had wanted to get out to NYC sooner, my job at Artsy still hadn't fully started as at Art.sy everyone gets a 3 month
-intro period before being offered full employment. This process keeps it democratic and everyone invovled gets a say in
+intro period before being offered full employment. This process keeps it democratic and everyone involved gets a say in
 whether someone works with us. I wanted to meet all these screen names for the dev chat. I’d also made a promise to
 Kierononon^on that I’d do a gig in November. I’d been trying to put off making any plans longer than a month or two away
 because I couldn’t be too sure of when I was heading out.
@@ -145,7 +145,7 @@ As if that wasn’t enough, I made weekend plans to try see some works by my fav
 to see the works which kinda sucks. I think grax enjoyed it though.
 
 My older sister had a kid in June, with a cool mathematical name of Delta. I’ve yet to meet her though. Except on skype.
-The other had a kid in Febuary 2013.
+The other had a kid in February 2013.
 
 These few months were kinda slow for events, I spent a lot of my free time exercising and working on Put.IO. I did some
 lazer quest, I had a hilarious poker night go wrong when I won the pot and paid for everyone’s drinks. My cousins
