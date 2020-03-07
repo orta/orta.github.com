@@ -111,7 +111,7 @@ the project to keep up to date or do anything new.
 This year I joined the JavaScript community.
 
 One of my favourite differences between the JavaScript community and the iOS community is the feeling of being able to
-build and fix your own problems. You can work on an entirely open stack, use open tools and can help out whereever you
+build and fix your own problems. You can work on an entirely open stack, use open tools and can help out wherever you
 want..
 
 JavaScript is basically the primordial soup of programming, which was fascinating to watch - and as a contributor, this
@@ -139,7 +139,7 @@ to overstate the change that this is. I wanted to be a Mac developer since I sta
 Objective-C and native apps for a decade and this year that changed.
 
 The reason for this is a general discomfort with the current status-quo around building apps. It does not feel like it's
-in Apple's interests to change either. Long explaination for that is here:
+in Apple's interests to change either. Long explanation for that is here:
 
 <iframe src="https://player.vimeo.com/video/190737663" width="100%" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -175,7 +175,7 @@ room - it feels [really dystopian](http://i.imgur.com/odweUkw.jpg). When I demo 
 impressed on the shorter term.
 
 As we have a full VR setup at home, I get asked about what Porn is like on it. Porn isn't really a thing on VR, it's
-pretty bad. They tend to be 360 videos, which I can only image are relaly awkward to film. The most interesting aspect
+pretty bad. They tend to be 360 videos, which I can only image are really awkward to film. The most interesting aspect
 to me is that [PornHub is producing their own][pornhub] content. It's a bit like when Netflix started making their own
 series. Could bring a lot of changes to the industry.
 

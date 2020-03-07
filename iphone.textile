@@ -225,7 +225,7 @@ So, sometimes people want to diverge into games. This is cool, so its always a g
 
 "!/assets/images/iphone/sedgwickpong.jpg(Pong Game)!":/assets/files/iphone/SedgwickPong.zip
 
-This is the first app that uses _#define_ to let us create readble code when dealing with numbers. It also is the first to have a seperate run loop ( in this case it is below, running the ball movement and collision detection. )
+This is the first app that uses _#define_ to let us create readble code when dealing with numbers. It also is the first to have a separate run loop ( in this case it is below, running the ball movement and collision detection. )
 
 h4(code_heading). PongLayer.h - header file
 
@@ -269,9 +269,9 @@ h1. Project 8
 
 h2. ILikeSpring
 
-This app is about dealing with persistance, so saving data and loading it. This app keeps track of how many times you've agreed with the fact that Spring Rools.
+This app is about dealing with persistence, so saving data and loading it. This app keeps track of how many times you've agreed with the fact that Spring Rools.
 
-"!/assets/images/iphone/spring.jpg(Persistance App)!":/assets/files/iphone/ILikeSpring.zip
+"!/assets/images/iphone/spring.jpg(Persistence App)!":/assets/files/iphone/ILikeSpring.zip
 
 This application deals with NSUserDefaults, which are a great way to store small amounts of data, and it should be stored across devices with iCloud.
 
@@ -372,7 +372,7 @@ h1. Project 11
 
 h2. PingPong
 
-This is a peer-to-peer chat client that allows you to send text messages between 2 iOS devices, it comes with its own seperate networking class which is generified and can be used in any project and it uses GameKit as the framework for sending data.
+This is a peer-to-peer chat client that allows you to send text messages between 2 iOS devices, it comes with its own separate networking class which is generified and can be used in any project and it uses GameKit as the framework for sending data.
 
 "!/assets/images/iphone/pingpong.jpg(Chat App)!":/assets/files/iphone/PingPong.zip
 
