@@ -29,7 +29,7 @@ Here's my general theory on what's happening:
    nets, but in the UK and US at least, those are frayed and breaking. Today, not having a job isn't really an option
    for a fulfilling life and we're not making enough new jobs.
 
-   Just taking America into account, and _excluding 2020 as an potential abberation_, for the last decade
+   Just taking America into account, and _excluding 2020 as an "abberation"_ (lol), for the last decade
    [~4 million people are born per year](https://www.cdc.gov/nchs/fastats/births.htm) and there are
    [~2 million new jobs](https://finance.yahoo.com/news/job-creation-strong-2019-could-162245516.html) being made a
    year.
@@ -59,6 +59,10 @@ Here's my general theory on what's happening:
    That's a slither of Google. Amazon, Microsoft and Apple all have the same fundamental fluidity at heart too. It's
    easier to build on existing software, it's not like re-tooling a factory.
 
+   The ability for modern technology to concentrate power and resources have created **obscenely** wealthy people. In
+   [2012](https://www.bbc.co.uk/news/business-16545898) it was bad, and it's getting
+   [much worse](https://www.theguardian.com/news/2019/sep/09/inequality-is-it-rising-and-can-we-reverse-it).
+
    Further reading:
    [EU Antitrust on Amazon](https://eandt.theiet.org/content/articles/2020/11/eu-smacks-amazon-with-antitrust-charges-over-seller-data/)
    [US Antitrust on Google](https://www.nytimes.com/2020/10/20/technology/antitrust-google.html)
@@ -87,3 +91,8 @@ Here's my general theory on what's happening:
 
    Further reading: [Filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble)
    [The WIRED Guide to Online Conspiracy Theories](https://www.wired.com/story/wired-guide-to-conspiracy-theories/)
+
+There's no-one to blame discretely.
+
+However, there are incentives which drive teams, companies and individuals to slowly re-create a digital version of the
+tragedy of the commons which has sent shockwaves through the real world.
