@@ -8,14 +8,18 @@ categories:
   - "increasing"
 ---
 
-As time progresses, western society is growing further and further apart. The last 5 years have been a cultural
-shit-show and it's looking like the 2020s will continue to get worse.
+As time progresses, people inside western society are growing further and further apart. The last 5 years have been a
+cultural shit-show and it's looking like the 2020s will continue to get worse.
 
 I can sense myself being polarized. Concepts like
 [defunding the police](https://en.wikipedia.org/wiki/Defund_the_police),
 [abolishing prisons](https://www.gq.com/story/what-is-prison-abolition) and
-[universal basic income](https://www.investopedia.com/terms/b/basic-income.asp) are somewhat far away from general
-mainstream culture. Not to mention feeling like we're at a point where capitalism has really stopped paying its weight.
+[universal basic income](https://www.investopedia.com/terms/b/basic-income.asp) were not mainstream culture even a year
+ago. I'm also not sold that capitalism is paying its weight anymore. These are radical ideas. They are about drastic
+systemic changes, and they live in contrast to an opposite set of opinions which are also as dramatically about
+re-architecting huge systems.
+
+It's not healthy for culture.
 
 Here's my general theory on what's happening:
 
@@ -94,5 +98,13 @@ Here's my general theory on what's happening:
 
 There's no-one to blame discretely.
 
-However, there are incentives which drive teams, companies and individuals to slowly re-create a digital version of the
-tragedy of the commons which has sent shockwaves through the real world.
+However, there are incentives which drive teams, companies and individuals to slowly re-enact a constant tragedy of the
+commons which continues to unsettle the terrains of our lives.
+
+I think, roughly, somewhere in
+[the 1980s](https://en.wikipedia.org/wiki/Corporate_personhood#Corporate_political_spending) the the power to enact and
+decide laws flipped from
+[(elite) individuals to corporations](https://www.mic.com/articles/87719/princeton-concludes-what-kind-of-government-america-really-has-and-it-s-not-a-democracy).
+The amount of money in the system damages the safety valves in the democratic process. It also means that people don't
+trust that things can change in their favour. As that trust erodes, so does the ability to believe that ideas of the
+status quo can fix structural problems. This pushes people to believe that the only possible fixes need to be drastic.
