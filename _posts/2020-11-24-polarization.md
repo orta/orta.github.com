@@ -1,6 +1,6 @@
 ---
 layout: on_being_2018
-title: "Polarization"
+title: "Polarized"
 body_tag: "apple"
 categories:
   - "on"
@@ -15,15 +15,20 @@ I can sense myself being polarized. Concepts like
 [defunding the police](https://en.wikipedia.org/wiki/Defund_the_police),
 [abolishing prisons](https://www.gq.com/story/what-is-prison-abolition) and
 [universal basic income](https://www.investopedia.com/terms/b/basic-income.asp) were not mainstream culture even a year
-ago. I'm also not sold that capitalism is paying its weight anymore. These are radical ideas. They are about drastic
-systemic changes, and they live in contrast to an opposite set of opinions which are also as dramatically about
-re-architecting huge systems.
+ago. I'm also not sold that capitalism is paying its weight anymore.
+
+These are radical ideas. They are about drastic systemic changes, and they live in contrast to an opposite set of
+opinions which are also as dramatically about re-architecting huge systems which allow humans to flourish.
 
 It's not healthy for culture.
 
-Here's my general theory on what's happening:
+What I think is happening:
 
-1. ## Technology used to generate more opportunities for everyone
+<img src="/assets/images/34/ineq.png">
+
+A longer, deeper dive:
+
+1. ### Technology used to generate more opportunities for everyone
 
    Globally, we _need_ to add new jobs at the same rate (or more) as the birth rate globally. Older generations of
    technology replaced and augmented muscles, but the stuff we're making today replaces brains. A modern technology
@@ -43,7 +48,7 @@ Here's my general theory on what's happening:
    [Kurtzgesagt - Rise of the Machines](https://kurzgesagt.org/portfolio/the-rise-of-the-machines/)
    [CPG Grey - Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU).
 
-1. ## Technology concentrates
+1. ### Technology concentrates
 
    The biggest tech companies have the resources to create almost any other sort of business. Is Slack getting popular?
    Microsoft can create a competitor and
@@ -73,8 +78,10 @@ Here's my general theory on what's happening:
    [Antitrust speculation on Apple](https://www.fool.com/investing/2020/11/03/apple-warns-investors-of-antitrust-risks/)
    [Oxford Law: The New Brandeis Movement: America’s Antimonopoly Debate](https://academic.oup.com/jeclap/article/9/3/131/4915966)
    [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
+   [DW: Inequality in Germany](https://www.youtube.com/watch?v=AFIxi7BiScI)
+   [Financial Times: How the pandemic is worsening inequality](https://www.ft.com/content/cd075d91-fafa-47c8-a295-85bbd7a36b50?accessToken=zwAAAXa9li8okdPNB12R-vpHyNOilYW716NrUA.MEYCIQDq1OZ18iMlQ7jBBRz8UjkIykjoGr5rd1sof0zyGddmdgIhAKwxpLMdIVBY3OuE9s8rMJjE4qcSMHXlYPE8Om_NcJTk&sharetype=gift?token=620e9931-7ebd-4738-8080-4e1ad7069643)
 
-1. ## Connectivity isn't actually that great
+1. ### Connectivity isn't actually that great
 
    A phone in your pocket can give you access to all of the words information instantly.
 
@@ -84,27 +91,33 @@ Here's my general theory on what's happening:
    is what constantly gets you feedback from others.
 
    Further reading:
+   [Ten Arguments For Deleting Your Social Media Accounts Right Now](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now)
+   [This Is Your Brain Off Facebook](https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html)
+   [The Welfare Effects of Social Media](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190658)
 
-1. ## There's too much of everything, so we filter it
+1. ### There's too much of everything, so we filter it
 
    Want to find an article on the internet backup up your feeling? There's almost always something somewhere. That makes
-   it easy to feel gratified, but also means that people end up with completely different realities. These realities are
-   dangerous because there is often not much shared space for mundane common beliefs. In one reality, world leaders are
-   being controlled by a secret cabal with sinister - in another they are inept, and a deep cause for concern for the
-   state of politics.
+   it easy to feel gratified, but also means that people end up with completely different realities. It's like there is
+   an infinite number of perspectives on the same event.
 
-   Further reading: [Filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble)
+   These realities are dangerous because there is often not much shared space for mundane common beliefs. In one
+   reality, world leaders are being controlled by a secret cabal with sinister aims - in another they are inept, and a
+   deep cause for concern for the state of politics.
+
+   That said, there's interesting research that [exposure to opposing views](https://www.pnas.org/content/115/37/9216)
+   can be polarizing too. So, it's kinda lose-lose when handling the scale of access to opinions.
+
+   Further reading:
+   [The truth behind filter bubbles: Bursting some myths](https://reutersinstitute.politics.ox.ac.uk/risj-review/truth-behind-filter-bubbles-bursting-some-myths)
+   [Wikipedia: Filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble)
    [The WIRED Guide to Online Conspiracy Theories](https://www.wired.com/story/wired-guide-to-conspiracy-theories/)
 
-There's no-one to blame discretely.
+There's no single group to point the blame at.
 
-However, there are incentives which drive teams, companies and individuals to slowly re-enact a constant tragedy of the
+However, there are incentives which drive companies, teams and individuals to slowly re-enact a constant tragedy of the
 commons which continues to unsettle the terrains of our lives.
 
-I think, roughly, somewhere in
-[the 1980s](https://en.wikipedia.org/wiki/Corporate_personhood#Corporate_political_spending) the the power to enact and
-decide laws flipped from
-[(elite) individuals to corporations](https://www.mic.com/articles/87719/princeton-concludes-what-kind-of-government-america-really-has-and-it-s-not-a-democracy).
-The amount of money in the system damages the safety valves in the democratic process. It also means that people don't
-trust that things can change in their favour. As that trust erodes, so does the ability to believe that ideas of the
-status quo can fix structural problems. This pushes people to believe that the only possible fixes need to be drastic.
+Solutions to these sorts of problems require substantial systematic changes and when the world is constantly being
+battered between edge ideologies, but to some extent - these are the only answers which can solve some of the drastic
+societal issues which have festered for a long time.
