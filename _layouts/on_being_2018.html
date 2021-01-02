@@ -50,7 +50,7 @@ layout: default_2013
 
 <div class="slide headline container initial {{ page.body_tag }}">
   <div class="grid_12 header-unit clearfix">
-    <h1>On<span style="font-size:84px">//</span>Being<span style="font-size:84px">//</span>{{ page.title }}</h1>
+    <h1>On<span style="font-size:84px">//</span>{% if page.subtitle != null %}{{ page.subtitle }}{% else %}Being{% endif %}<span style="font-size:84px">//</span>{{ page.title }}</h1>
   </div>
 </div>
 
