@@ -116,8 +116,10 @@ A longer, deeper dive:
 There's no single group to point the blame at.
 
 However, there are incentives which drive companies, teams and individuals to slowly re-enact a constant tragedy of the
-commons which continues to unsettle the terrains of our lives.
+commons which continues to unsettle the terrains of our lives. Constant growth requires it.
 
-Solutions to these sorts of problems require substantial systematic changes and when the world is constantly being
-battered between edge ideologies, but to some extent - these are the only answers which can solve some of the drastic
-societal issues which have festered for a long time.
+Solutions to these sorts of problems require substantial systematic changes. These changes get more drastic as the world
+is constantly being whiplashed between diverging ideologies: raising the possible ceiling of personal achievement vs
+lowering the furthest someone could fall. It feels like a lot of the time you only get the choice of "not that person"
+and never really someone who could actually do the long-term systematic work necessary.
+
