@@ -85,10 +85,13 @@ A longer, deeper dive:
 
    A phone in your pocket can give you access to all of the words information instantly.
 
-   It also gives you access to all of the disinformation and everyone's opinions. I think all social media companies are
-   fundamentally built to connect, but are optimized for engagement. You get the biggest open funnel for new users, and
-   then build features to get them keep coming back. Friction gets followers, and having strong opinions on the internet
-   is what constantly gets you feedback from others.
+   It also gives you access to all of the disinformation and everyone's opinions (right, wrong, justified, callous or
+   wasteful). I think all social media companies are fundamentally built to connect, but are optimized for engagement.
+   You get the biggest open funnel for new users, and then build features to get them keep coming back. Friction gets
+   followers, and having strong opinions on the internet is what constantly gets you feedback from others.
+
+   Can you ever build a website for that many people to connect and not have it be a net negative for the culture of the
+   participants?
 
    Further reading:
    [Ten Arguments For Deleting Your Social Media Accounts Right Now](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now)
@@ -120,6 +123,9 @@ commons which continues to unsettle the terrains of our lives. Constant growth r
 
 Solutions to these sorts of problems require substantial systematic changes. These changes get more drastic as the world
 is constantly being whiplashed between diverging ideologies: raising the possible ceiling of personal achievement vs
-lowering the furthest someone could fall. It feels like a lot of the time you only get the choice of "not that person"
-and never really someone who could actually do the long-term systematic work necessary.
+lowering the furthest someone could fall. It feels like a lot of the time with our political systems you only get the
+choice of "not that person" and never really someone who could actually do the long-term systematic work necessary.
 
+I think there have always been people working on improving things, seeing anti-trust discussions, unionisation, concepts
+like 'small tech', ideas like degrowth all help to reign in some of the dangers of the concentration of wealth and power
+which technology is responsible for. Hopefully, we can work through it.
