@@ -8,6 +8,19 @@ categories:
   - "increasing"
 ---
 
+{::nomarkdown}
+
+<style>
+div.container p a {
+    background-color: transparent;
+    color: black;
+    padding: 0 6px;
+}
+
+</style>
+
+{:/nomarkdown}
+
 As time progresses, people inside western society are growing further and further apart. The last 5 years have been a
 cultural shit-show and it's looking like the 2020s will continue to get worse.
 
@@ -28,15 +41,15 @@ What I think is happening:
 
 A longer, deeper dive:
 
-1. ### Technology used to generate more opportunities for everyone
+1. #### Technology used to generate more opportunities for everyone
 
    Globally, we _need_ to add new jobs at the same rate (or more) as the birth rate globally. Older generations of
    technology replaced and augmented muscles, but the stuff we're making today replaces brains. A modern technology
    company can run on significantly less people, and have significantly more impact than one without the a tech focus.
 
    Not all jobs can be automated, but a lot are, and a lot more will be automated in the future. We built social safety
-   nets, but in the UK and US at least, those are frayed and breaking. Today, not having a job isn't really an option
-   for a fulfilling life and we're not making enough new jobs.
+   nets, but in the UK and US at least, those are frayed and breaking. Today, if you're not born obscenely rich, you
+   need a job to lead a fulfilling life and we're not making enough new jobs.
 
    Just taking America into account, and _excluding 2020 as an "abberation"_ (lol), for the last decade
    [~4 million people are born per year](https://www.cdc.gov/nchs/fastats/births.htm) and there are
@@ -45,10 +58,10 @@ A longer, deeper dive:
 
    Further reading:
    [MIT Review: How technology is destroying jobs](https://www.technologyreview.com/2013/06/12/178008/how-technology-is-destroying-jobs/)
-   [Kurtzgesagt - Rise of the Machines](https://kurzgesagt.org/portfolio/the-rise-of-the-machines/)
+   / [Kurtzgesagt - Rise of the Machines](https://kurzgesagt.org/portfolio/the-rise-of-the-machines/) /
    [CPG Grey - Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU).
 
-1. ### Technology concentrates
+1. #### Technology concentrates
 
    The biggest tech companies have the resources to create almost any other sort of business. Is Slack getting popular?
    Microsoft can create a competitor and
@@ -74,14 +87,15 @@ A longer, deeper dive:
 
    Further reading:
    [EU Antitrust on Amazon](https://eandt.theiet.org/content/articles/2020/11/eu-smacks-amazon-with-antitrust-charges-over-seller-data/)
-   [US Antitrust on Google](https://www.nytimes.com/2020/10/20/technology/antitrust-google.html)
+   / [US Antitrust on Google](https://www.nytimes.com/2020/10/20/technology/antitrust-google.html) /
    [Antitrust speculation on Apple](https://www.fool.com/investing/2020/11/03/apple-warns-investors-of-antitrust-risks/)
+   /
    [Oxford Law: The New Brandeis Movement: America’s Antimonopoly Debate](https://academic.oup.com/jeclap/article/9/3/131/4915966)
-   [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
-   [DW: Inequality in Germany](https://www.youtube.com/watch?v=AFIxi7BiScI)
+   / [Why Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) /
+   [DW: Inequality in Germany](https://www.youtube.com/watch?v=AFIxi7BiScI) /
    [Financial Times: How the pandemic is worsening inequality](https://www.ft.com/content/cd075d91-fafa-47c8-a295-85bbd7a36b50?accessToken=zwAAAXa9li8okdPNB12R-vpHyNOilYW716NrUA.MEYCIQDq1OZ18iMlQ7jBBRz8UjkIykjoGr5rd1sof0zyGddmdgIhAKwxpLMdIVBY3OuE9s8rMJjE4qcSMHXlYPE8Om_NcJTk&sharetype=gift?token=620e9931-7ebd-4738-8080-4e1ad7069643)
 
-1. ### Connectivity isn't actually that great
+1. #### Connectivity isn't actually that great
 
    A phone in your pocket can give you access to all of the words information instantly.
 
@@ -95,10 +109,10 @@ A longer, deeper dive:
 
    Further reading:
    [Ten Arguments For Deleting Your Social Media Accounts Right Now](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now)
-   [This Is Your Brain Off Facebook](https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html)
+   / [This Is Your Brain Off Facebook](https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html) /
    [The Welfare Effects of Social Media](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190658)
 
-1. ### There's too much of everything, so we filter it
+1. #### There's too much of everything, so we are forced to try filter it
 
    Want to find an article on the internet backup up your feeling? There's almost always something somewhere. That makes
    it easy to feel gratified, but also means that people end up with completely different realities. It's like there is
@@ -113,7 +127,7 @@ A longer, deeper dive:
 
    Further reading:
    [The truth behind filter bubbles: Bursting some myths](https://reutersinstitute.politics.ox.ac.uk/risj-review/truth-behind-filter-bubbles-bursting-some-myths)
-   [Wikipedia: Filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble)
+   / [Wikipedia: Filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble) /
    [The WIRED Guide to Online Conspiracy Theories](https://www.wired.com/story/wired-guide-to-conspiracy-theories/)
 
 There's no single group to point the blame at.
@@ -127,5 +141,5 @@ lowering the furthest someone could fall. It feels like a lot of the time with o
 choice of "not that person" and never really someone who could actually do the long-term systematic work necessary.
 
 I think there have always been people working on improving things, seeing anti-trust discussions, unionisation, concepts
-like 'small tech', ideas like degrowth all help to reign in some of the dangers of the concentration of wealth and power
-which technology is responsible for. Hopefully, we can work through it.
+like 'small tech', ideas like [degrowth](https://www.youtube.com/watch?v=0MXP2E09dJQ) all help to reign in some of the
+dangers of the concentration of wealth and power which technology is responsible for. Hopefully, we can work through it.
