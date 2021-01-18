@@ -45,9 +45,9 @@ A longer, deeper dive:
 
    Globally, we _need_ to add new jobs at the same rate (or more) as the birth rate globally. Older generations of
    technology replaced and augmented muscles, but the stuff we're making today replaces brains. A modern technology
-   company can run on significantly less people, and have significantly more impact than one without the a tech focus.
+   company can run on significantly less people, and have significantly more impact than one without a tech focus.
 
-   Not all jobs can be automated, but a lot are, and a lot more will be automated in the future. We built social safety
+   Not all jobs can be automated, but a lot can, and a lot more will be automated in the future. We built social safety
    nets, but in the UK and US at least, those are frayed and breaking. Today, if you're not born obscenely rich, you
    need a job to lead a fulfilling life and we're not making enough new jobs.
 
@@ -66,22 +66,22 @@ A longer, deeper dive:
    The biggest tech companies have the resources to create almost any other sort of business. Is Slack getting popular?
    Microsoft can create a competitor and
    [offer it for free](https://www.techradar.com/uk/news/slack-is-taking-microsoft-teams-to-court) to existing
-   subscribers. Is your shop selling a product on Amazon? they will create cheaper Amazon basics brand to undercut you
+   subscribers. Is your shop selling a product on Amazon? they will create a cheaper Amazon basics brand to undercut you
    and then buy your company.
 
    It should be weird that that Google sells ads, but also offers fibre internet, internet via balloons, wants to
    [run taxes themselves](https://www.theglobeandmail.com/business/article-sidewalk-labs-document-reveals-companys-early-plans-for-data/),
    is trying [to undo aging](https://www.calicolabs.com), offers a million free services, operates YouTube, creates the
    software which powers most phones, sells phones, sells computers, sells computers to developers in the cloud, has
-   built Ai systems which beat humans at [Go](https://deepmind.com/research/alphago/) and
+   built AI systems that beat humans at [Go](https://deepmind.com/research/alphago/) and
    [Starcraft](https://www.theverge.com/2019/10/30/20939147/deepmind-google-alphastar-starcraft-2-research-grandmaster-level)
    and the company still has time to achieve
    [breakthroughs in quantum mechanics](https://www.inverse.com/article/59507-full-quantum-supremacy-paper).
 
-   That's a slither of Google. Amazon, Microsoft and Apple all have the same fundamental fluidity at heart too. It's
+   That's just a sliver of Google. Amazon, Microsoft and Apple all have the same fundamental fluidity at heart too. It's
    easier to build on existing software, it's not like re-tooling a factory.
 
-   The ability for modern technology to concentrate power and resources have created **obscenely** wealthy people. In
+   The ability for modern technology to concentrate power and resources has created **obscenely** wealthy people. In
    [2012](https://www.bbc.co.uk/news/business-16545898) it was bad, and it's getting
    [much worse](https://www.theguardian.com/news/2019/sep/09/inequality-is-it-rising-and-can-we-reverse-it).
 
@@ -97,11 +97,11 @@ A longer, deeper dive:
 
 1. #### Connectivity isn't actually that great
 
-   A phone in your pocket can give you access to all of the words information instantly.
+   A phone in your pocket can give you access to all of the worlds information instantly.
 
    It also gives you access to all of the disinformation and everyone's opinions (right, wrong, justified, callous or
    wasteful). I think all social media companies are fundamentally built to connect, but are optimized for engagement.
-   You get the biggest open funnel for new users, and then build features to get them keep coming back. Friction gets
+   You get the biggest open funnel for new users, and then build features to get them to keep coming back. Friction gets
    followers, and having strong opinions on the internet is what constantly gets you feedback from others.
 
    Can you ever build a website for that many people to connect and not have it be a net negative for the culture of the
@@ -112,9 +112,9 @@ A longer, deeper dive:
    / [This Is Your Brain Off Facebook](https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html) /
    [The Welfare Effects of Social Media](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20190658)
 
-1. #### There's too much of everything, so we are forced to try filter it
+1. #### There's too much of everything, so we are forced to try and filter it
 
-   Want to find an article on the internet backup up your feeling? There's almost always something somewhere. That makes
+   Want to find an article on the internet to backup up your feelings? There's almost always something somewhere. That makes
    it easy to feel gratified, but also means that people end up with completely different realities. It's like there is
    an infinite number of perspectives on the same event.
 
@@ -133,7 +133,7 @@ A longer, deeper dive:
 There's no single group to point the blame at.
 
 However, there are incentives which drive companies, teams and individuals to slowly re-enact a constant tragedy of the
-commons which continues to unsettle the terrains of our lives. Constant growth requires it.
+commons that continues to unsettle the terrains of our lives. Constant growth requires it.
 
 Solutions to these sorts of problems require substantial systematic changes. These changes get more drastic as the world
 is constantly being whiplashed between diverging ideologies: raising the possible ceiling of personal achievement vs
@@ -141,5 +141,5 @@ lowering the furthest someone could fall. It feels like a lot of the time with o
 choice of "not that person" and never really someone who could actually do the long-term systematic work necessary.
 
 I think there have always been people working on improving things, seeing anti-trust discussions, unionisation, concepts
-like 'small tech', ideas like [degrowth](https://www.youtube.com/watch?v=0MXP2E09dJQ) all help to reign in some of the
-dangers of the concentration of wealth and power which technology is responsible for. Hopefully, we can work through it.
+like 'small tech', ideas like [degrowth](https://www.youtube.com/watch?v=0MXP2E09dJQ), all help to reign in some of the
+dangers of the concentration of wealth and power that technology is responsible for. Hopefully, we can work through it.
