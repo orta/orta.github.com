@@ -52,4 +52,20 @@ how difficult balancing building a sustainable tech business is when you are aim
 to start losing staff.
 
 I moved away from almost all of the industry giants - but it's not an easy task, and I also made most of the move while
-concurrently working for one of the biggest corporation in the world. Like a lot of
+concurrently working for one of the biggest corporation in the world. But this is now largely complete:
+
+- Google: I stopped using gmail as my primary email, and now periodically check it 2-3 times a week. I have an android
+  phone (because you can't _really_ not have a phone at all) but I'd like to get linux on it some time. I still use
+  YouTube a lot and would debate paying ~5 euros to remove ads from it.
+
+- Apple: It got hard to use Linux in Microsoft after
+  [SolarWinds](https://www.microsoft.com/security/blog/2021/07/13/microsoft-discovers-threat-actor-targeting-solarwinds-serv-u-software-with-0-day-exploit/)
+  which meant I was still using my MacPro for a lot of work work. However, post Microsoft I've not turned it back on. I
+  bought a Starbook to replace my MacBook Pro and it's been _OK_. (My 2019 MBP is the worst MacBook I've owned though.)
+
+- Amazon: I stopped my (10 year) Audible subscription, stopped using amazon for shopping and and haven't built any web
+  infra with AWS in a few years. I still use S3 as my main web storage medium.
+
+I also dropped [Spotify](http://orta.io/notes/apps/migrating-from-spotify) this year, and moved to SoundCloud (though
+Bandcamp is still a possibility). For almost all of these choices, my user experience is worse but I'd happily take a
+few productivity hits and snags for feeling like the people I'm supporting are doing good.
