@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude-code config:*)",
+      "Read(//Users/orta/.config/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
