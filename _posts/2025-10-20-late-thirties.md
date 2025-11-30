@@ -1,35 +1,54 @@
 ---
-layout: on_being
+layout: on_being_2018
 title: "late thirties"
 categories:
   - "on"
   - "being"
 ---
 
+{::nomarkdown}
+
 <style type="text/css" media="screen">
 a {
   background-color:#d7d7d7;
   color:#6b6b6b;
 }
+h3 {
+  font-size: 2rem;
+}
+#sky {
+  background-color: #FFC000;
+  height: 90px;
+}
+blockquote {
+  border-radius: 12px;
+}
 </style>
+
+</p></div></div>
+<div id="sky"></div>
+
+<div style="background-color:#dfdfdf; padding-top: 200px">
+<div class="container clearfix"><div class="grid_10 clearfix body_content">
+{:/nomarkdown}
 
 I've always been a fan of the "GitHub greens" approach to doing difficult things. Every day you contribute a little, kinda doesn't matter how good it is but you get to check it off and you keep on keeping on. Eventually, you have a real body of work.
 
-Writing up every year was like that for me, *until I needed to pause it*. Now coming back out of this privacy-hole it's been a a bit of a challenge to figure out what this document is and how to write or structure it.
+Writing up a "On Being" every year was like that for me, *until I needed to pause it*. Now coming back out of this digital hermit privacy-hole it's been a a bit of a challenge to figure out what this document is and how to write or structure it.
 
 When I was younger, I used to make 5 year plans. Some of my first ever plans were *'work at Apple'*, *'do a TED talk'* and be able to *'cover the song "I will follow you into the dark"'*. Something I quickly learned from these plans was that by the time I had hit the middle of 5 years, I was not the same person. The goals, and my wants had shifted so much that none of those targets felt right anymore.
 
-Which leaves me to open this write-up with a key question: How far away am *I* from the man who last wrote *'on being 34'* at the end of 2020. Locked in his apartment in Brooklyn in the midst of the COVID pandemic watching the January 6th insurrection happen in real0time while doing polish passes on my annual write up?
+Which leaves me to open this write-up with a key question: How far away am *I* from the man who last wrote *['on being 34'](/on/being/34)* at the end of 2020. Locked in his apartment in Brooklyn in the midst of the COVID pandemic watching the January 6th insurrection happen in realtime while doing polish passes on my annual write up?
 
 The opening frame of reference in *'on being 34'* was this statement:
 
-*How does anyone thrive in an environment like this?*
+> *How does anyone thrive in an environment like this?*
 
 Well, I managed it! Yet, it feels like a pyrrhic victory sometimes - I'd trade it all for a world where systemically things got better.
 
 ### **The 5 Missing Years**
 
-I stopped writing these posts because Zach Gage and I decided to take "Puzzle Box" seriously, and that required a new level of focus and secrecy around my work. Well, that and that the posts were getting progressively darker. I think a lot of us were going through some serious shit in 2020 and 2021. Here at the end of 2025, we're just *used* to the 2020's and what that means. But back in 2020... it was more raw.
+I stopped writing these posts because [Zach Gage](https://bsky.app/profile/stfj.net) and I decided to take "Puzzle Box" seriously, and that required a new level of focus and secrecy around my work. Well, that and that the posts were getting progressively darker. I think a lot of us were going through some serious shit in 2020 and 2021. Here at the end of 2025, we're just *used* to the 2020's and what that means. But back in 2020... it was more raw.
 
 To give myself a framing device, I'd say these are the highest level changes since 2020:
 
@@ -43,11 +62,13 @@ To give myself a framing device, I'd say these are the highest level changes sin
 * I started to enjoy player-vs-player video games
 * I have taken up gardening and understanding plant care very seriously
 
-and then, I'll leave trying to talk through the year 2025 as an exercise for myself for the rest of the year.
+and then, I'll leave trying to talk through the year 2025 as a potential Xmas exercise.
 
 ### **Puzzle Box \-\> Puzmo \-\> Puzzmo**
 
-At the end of '[On Being 34](/)' I was still working on TypeScript at Microsoft, I would have been starting to see the end in sight though.
+
+
+At the end of '[On Being 34](/on/being/34)' I was still working on TypeScript at Microsoft, I would have been starting to see the end in sight though.
 
 When I interviewed, I proposed a bunch of work to the TypeScript team, and I was coming to the end of that work. That left me with an option to either go deep on being a compiler engineer, or explore other teams / projects. I loved working on the team, and I have only the highest praise for everyone making TypeScript happen. It may turn out to be one of the most impactful roles I ever have. But, I was coming to the end of being super useful, and was just moving towards being pretty useful to the compiler team. I'm a breadth engineer, and for a compiler project being deep is generally better.
 
@@ -57,13 +78,15 @@ Zach had proposed an idea to me with an approachable scope for "Puzzle Box" whic
 
 To make the smaller scoped idea work, we needed to build with a partner. A few months into the project though, the partner we were exploring with changed their mind, and we felt like the only way to do the idea was to do it all ourselves. With that, we started to explore fund-raising for the newly named, "Puzmo."
 
-We hit a few dead-ends, and then absolutely lucked out by finding Astra - a non-profit dedicated to helping get more puzzle games into the world. We pitched a bigger investment than they'd ever done before and worked through making it happen. We used the money to hire [Saman]() who really balanced my hectic software maximalist approaches with a careful, considerate and reductive approach to getting things done.
+We hit a few dead-ends, and then absolutely lucked out by finding Astra - a non-profit dedicated to helping get more puzzle games into the world. Now [Astralogical](https://www.gamespress.com/-New-thinky-publisher-from-veteran-team-announced-Astra-Logical-Workin). We pitched a bigger investment than they'd ever done before and worked through making it happen. We used the money to hire [Saman](https://trashmoon.com/) who really balanced my hectic software maximalist approaches with a careful, considerate and reductive approach to getting things done.
 
 For a while, Astra acted somewhat close to a publisher for Puzmo. We reported to them pretty regularly, and for the first year of development Puzmo was a pretty solid 3 person project. This helped me to find some balance in working through the tail-end of the pandemic lockdowns and chilling out.
 
 I really do mean chilling out too, the first year of working on Puzmo in Dublin (2022) is possibly the calmest period I've had in a decade or so. I couldn't do Open Source, I didn't have meetups/conferences, I didn't have things to write on Twitter and so it gave a lot of time for long walks in the park, tending to houseplants, learning to skateboard, trying out bouldering, read way more books than normal and I tried video game outside of my usual genres.
 
 This all changed when Wordle got big.
+
+<img src="https://blog.puzzmo.com/posts/2024/04/17/v1-launch/launch-site.png" />
 
 Wordle obviously changed the *"puzzle games on the web"* space, converting it from a relatively niche space to something everyone has heard of, and a lot of folks become very interested in building games platforms.
 
@@ -80,6 +103,8 @@ The money isn't "fuck you" money, but it's more than most and more than enough f
 Now, almost 2 years since we went live, Puzzmo is a company with a functioning bureaucracy, games team and engineering team. 
 
 That's something I'm real proud of, it's not been a linear ride, and I've never really wanted to consider myself an entrepreneur but this project has been incredibly gratifying and Zach has been such a great partner over the last five years!
+
+<img src="https://blog.puzzmo.com/posts/2024/04/17/v1-launch/today-page-1.png"/>
 
 ### **Dublin \-\> London**
 
@@ -101,7 +126,7 @@ We opened our house to some Ukrainians for a few months, they ended up working f
 
 Danger got a little overboard with dog fostering, which makes for some fun stories and our dog Hayes loved moving from The Big City to a smaller quieter locale.
 
-I ended up on two documentaries while in Dublin, one for Svelte and another for TypeScript.
+I ended up on two documentaries while in Dublin, one for [Svelte](https://www.youtube.com/watch?v=kMlkCYL9qo0) ([20:57](https://youtu.be/kMlkCYL9qo0?si=WLP34s3oPrN7wWFi&t=1257)) and another for [TypeScript](https://www.youtube.com/watch?v=U6s2pdxebSo) ([53:46](https://youtu.be/U6s2pdxebSo?si=Kj0LlmtdQwMZcGML&t=3226)). Funny to watch my house-plants increase in the background. 
 
 After the acquisition, I was starting to wonder what it might look like to come out of my Puzzmo fugue and thought that I'd really like to get back to some of the things I loved about New York. I pitched that maybe London could be a place for Danger to hang out with her workmates IRL and that I'd be able to find a programming community with people that can challenge/push me.
 
@@ -238,7 +263,7 @@ We've always had a house-plant or two, Danger would get some easy to maintain pl
 
 I started pretty small, and we moved houses I've got to the point where every window has some plants and almost every free shelf spaces has something hanging and growing. Danger took to going serious on growing vegetables in the garden with me, and we're on year two of that now!
 
-The first year we managed to get a few tomatoes - I was happy to call anything a win. This year however, we had huge amounts of tomatoes, cucumbers and cucamelons. We had a few courgettes and potatoes. I've still got more to go though, eEvery year for 4 years I've tried pulling off growing chillis and I still not been able to pick one.
+The first year we managed to get a few tomatoes - I was happy to call anything a win. This year however, we had huge amounts of tomatoes, cucumbers and cucamelons. We had a few courgettes and potatoes. I've still got more to go though, every year for 4 years I've tried pulling off growing chillis and I still not been able to pick one.
 
 A lot of good plant husbandry is predictability and repetition, we're not like clockwork but we got down to during the summer months having a twice-weekly house watering session, and a daily veg update. It's very far from financially winning but it's gratifying to have Danger make a tomato soup with only our tomatoes.
 
