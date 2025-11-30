@@ -11,7 +11,7 @@ categories:
 <style type="text/css" media="screen">
 a {
   background-color:#d7d7d7;
-  color:#6b6b6b;
+  
 }
 a.fancybox {
   color: black;
@@ -124,8 +124,9 @@ that by the time I had hit the middle of 5 years, I was not the same person. The
 that none of those targets felt right anymore.
 
 Which leaves me to open this write-up with a key question: How far away am _I_ from the man who last wrote
-_['on being 34'](/on/being/34)_ at the end of 2020. Locked in his apartment in Brooklyn in the midst of the COVID
-pandemic watching the January 6th insurrection happen in realtime while doing polish passes on my annual write up?
+_['on being 34'](/on/being/34)_ at the end of 2020. Locked in his apartment in
+<a class="fancybox" href="/assets/images/late-thirties/leaving-nyc.jpeg">Brooklyn</a> in the midst of the COVID pandemic
+watching the January 6th insurrection happen in realtime while doing polish passes on my annual write up?
 
 The opening frame of reference in _'on being 34'_ was this statement:
 
@@ -175,7 +176,8 @@ TypeScript, and for a while this felt possible. Here's my "On being 34" on it:
 
 To make the smaller scoped idea work, we needed to build with a partner. A few months into the project though, the
 partner we were exploring with changed their mind, and we felt like the only way to do the idea was to do it all
-ourselves. With that, we started to explore fund-raising for the newly named, "Puzmo."
+ourselves. With that, we started to explore fund-raising for the newly named,
+<a class="fancybox" href="/assets/images/late-thirties/puzmo.jpeg">"Puzmo"</a>
 
 We hit a few dead-ends, and then absolutely lucked out by finding Astra - a non-profit dedicated to helping get more
 puzzle games into the world. Now
@@ -190,8 +192,11 @@ through the tail-end of the pandemic lockdowns and chilling out.
 
 I really do mean chilling out too, the first year of working on Puzmo in Dublin (2022) is possibly the calmest period
 I've had in a decade or so. I couldn't do Open Source, I didn't have meetups/conferences, I didn't have things to write
-on Twitter and so it gave a lot of time for long walks in the park, tending to houseplants, learning to skateboard,
-trying out bouldering, read way more books than normal and I tried video game outside of my usual genres.
+on Twitter and so it gave a lot of time for long walks in
+<a class="fancybox" href="/assets/images/late-thirties/dubbo-parks.jpg">the park</a>, tending to houseplants, learning
+to <a class="fancybox" href="/assets/images/late-thirties/skating.jpeg">skateboard</a>,
+<a class="fancybox" href="/assets/images/late-thirties/maybe-first-bread.jpeg">baking</a>, trying out bouldering, read
+way more books than normal and I tried video game outside of my usual genres.
 
 This all changed when Wordle got big.
 
@@ -244,10 +249,10 @@ community. We got to know our neighbours and fellow locals in a way that's hard 
 parochial life!
 
 I liked to tell people I lived 0 miles from the
-<a class="fancybox" href="/assets/images/late-thirties/guiness-gate.jpeg">Guinness factory</a>, so it's as good as you
+<a class="fancybox" href="/assets/images/late-thirties/guiness-gates.jpeg">Guinness factory</a>, so it's as good as you
 can get!
 
-[photos]
+<img src="/assets/images/late-thirties/dubbo-parks.jpeg"/>
 
 I had hoped there would be a tech scene in Dublin, but it was too early post-lockdowns for that all to really happen.
 Ironically the first time I got COVID was when I ran my own meetup, which put the brakes on giving that another shot.
@@ -256,13 +261,15 @@ So, instead we took to being dog-walker people and for the "Puzmo" period: I lea
 short-term transport, and took it to the park often. I bought an annual pass for a local bouldering gym and learned to
 rock climb to a pretty good level as an alternative to going to a gym or running.
 
-We visited Northern Ireland a lot, (where Danger is from), and the north visited us a lot.
+We visited <a class="fancybox" href="/assets/images/late-thirties/northern-ireland.jpg">Northern Ireland</a> a lot,
+(where Danger is from), and the north visited us a lot.
 
 We opened our house to some Ukrainians for a few months, they ended up working for the Irish government helping more
 Ukrainians integrate into Ireland. A fun little positive feedback cycle.
 
-Danger got a little overboard with dog fostering, which makes for some fun stories and our dog Hayes loved moving from
-The Big City to a smaller quieter locale.
+Danger got a little overboard with dog fostering, which makes for some fun stories and our dog
+<a class="fancybox" href="/assets/images/late-thirties/hayes.jpg">Hayes</a> loved moving from The Big City to a smaller
+quieter locale.
 
 I ended up on two documentaries while in Dublin, one for [Svelte](https://www.youtube.com/watch?v=kMlkCYL9qo0)
 ([20:57](https://youtu.be/kMlkCYL9qo0?si=WLP34s3oPrN7wWFi&t=1257)) and another for
@@ -277,8 +284,9 @@ challenge/push me.
 
 #### **London**
 
-We have been living in London for about a year and a half now, and it's cool. I think we've both changed so much though
-that it's hard for us to really engage with a city like we used to.
+We have been living in <a class="fancybox" href="/assets/images/late-thirties/london-office.jpeg">London</a> for about a
+year and a half now, and it's cool. I think we've both changed so much though that it's hard for us to really engage
+with a city like we used to.
 
 In Manhattan, pre-pandemic, we may not have had space but we had time and energy to be doing stuff. Now, I'm so busy all
 the time that we're just not really taking advantage of the stuff the city provides. I arrived with a looser set of
@@ -332,8 +340,9 @@ It's hard to do from two angles:
 - Due to the sale of Puzzmo, my incentives are heavily aligned to simply _"Get Puzzmo successful"_ which means doing
   non-Puzzmo stuff (like writing this post) feels like I'm not focusing on my core goals
 
-I've never been this busy, for this long, with barely any downtime. Leadership level of Puzzmo is a lot more
-time-consuming than _technical_ leadership was at Artsy.
+I've never been this busy, for this long, with barely any downtime.
+
+C-level leadership levels of a company is a lot more time-consuming than _technical_ leadership was at Artsy.
 
 That leaves little time to do related-but-not contributions to collective efforts.
 
@@ -346,8 +355,8 @@ So, at the start of this 5 year gap, while working at one of the megacorps, I st
 Linux every day. At first this was difficult, but over time it got easy.
 
 Then, early this year, I agreed to make an iPhone app for Puzzmo and had to re-engage with the macOS ecosystem. It's
-great hardware, but it feels more and more like a consuming device as shared code from iOS squeezes the platform into a
-smaller and smaller design space.
+great hardware, but it feels more and more like a consuming device as shared code from iOS squeezes the desktop parts of
+the platform into a smaller and smaller design space.
 
 Working with Linux every day has been super gratifying though, the platform is stable, the tools for making Puzzmo work
 great - I could choose my own hardware, put it all together and make a really cool desktop. I've been using
@@ -356,7 +365,7 @@ nice touches that feel like it's being used every day by folks who care, and it'
 solid compatibility layer.
 
 I've yet to find a Linux laptop I enjoy using though, so that space is currently taken by the Mac I need for building
-iOS apps. I'm writing this on a mac right now.
+iOS apps. I've wrote about half of this on a Mac.
 
 ### **Un-Social Media**
 
@@ -416,7 +425,7 @@ This slow thinking approach has allowed us to really approach big long-term rela
 kids?'_ organically and with it never feeling like we had _the conversation_ but instead it has come up in so many
 spaces that we have a well articulated understanding of what the answer is. ( _No, my work is too important to me, and
 Danger is both creeped out at some of the body horror of pregnancy and doesn't want a significant part of her identity
-to being a mother \- maybe someday if I change my relationship to work, adoption could be a good option_. )
+to being a mother \- maybe someday if I change my relationship to work, adoption/fostering could be a good option_. )
 
 We've lived in a few countries, made a bunch of friend groups together and it's been really gratifying to see her fill
 out into a complex, confident adult. We've both grown in ways that complement each other, but still have strong
@@ -483,9 +492,9 @@ Billy Ford, Ollie (who I was introduced to via Apex) and I play in an Apex game 
 simplified as: everyone playing has stats tracked and compared against each other, wins and losses matter in a
 semi-permanent way.
 
-Collectively, we tend to sit somewhere in the top \~10% of all players in the game. We are very good at it. We've gone
-to watch professionals play Apex all over the EU, and I devote time to actually practice and train in the game to
-prepare for us playing.
+Collectively, we tend to sit somewhere in the <a class="fancybox" href="/assets/images/late-thirties/diamond.jpeg">top
+~10%</a> of all players in the game. We are very good at it. We've gone to watch professionals play Apex all over the
+EU, and I devote time to actually practice and train in the game to prepare for us playing.
 
 ### **Horticultural Hands**
 
@@ -514,7 +523,9 @@ with me, and we're on year two of that now!
 
 The first year we managed to get a few tomatoes - I was happy to call anything a win. This year however, we had huge
 amounts of tomatoes, cucumbers and cucamelons. We had a few courgettes and potatoes. I've still got more to go though,
-every year for 4 years I've tried pulling off growing chillis and I still not been able to pick one.
+every year for 4 years I've tried pulling off growing
+<a class="fancybox" href="/assets/images/late-thirties/hot-hot-hot.jpg">chillis</a> and I still not been able to pick
+one.
 
 A lot of good plant husbandry is predictability and repetition, we're not like clockwork but we got down to during the
 summer months having a twice-weekly house watering session, and a daily veg update. It's very far from financially
