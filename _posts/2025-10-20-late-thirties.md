@@ -59,14 +59,29 @@ a.fancybox::after {
 .lightbox-overlay.active img {
   transform: scale(1);
 }
+
 h3 {
   font-size: 2rem;
 }
-#sky {
-  border-top: 20px solid #3178C6;
-  background-color: #FFC000;
-  height: 90px;
+
+#main-headline {
+  background-image: url('/assets/images/late-thirties/lead.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 900px;
 }
+@media (max-width: 768px) {
+  #main-headline {
+    min-height: 1200px;
+  }
+}
+ 
+
+
+#main-headline   h1 {
+    color: white !important
+}
+
 blockquote {
   border-radius: 12px;
 }
@@ -103,11 +118,6 @@ blockquote {
 })();
 </script>
 
-</p></div></div>
-<div id="sky"></div>
-
-<div style="background-color:#dfdfdf; padding-top: 200px">
-<div class="container clearfix"><div class="grid_10 clearfix body_content">
 {:/nomarkdown}
 
 I've always been a fan of the "GitHub greens" approach to doing difficult things. Every day you contribute a little,
@@ -229,7 +239,8 @@ The money isn't "fuck you" money, but it's more than most and more than enough f
 that internal tension, I started a system of direct donations in a way that echos one of the most pivotal moments in my
 life. If you meet me IRL, I'll tell you about it.
 
-Now, almost 2 years since we went live, Puzzmo is a company with a functioning bureaucracy, games team and engineering
+Now, 5 years since the <a class="fancybox" href="/assets/images/late-thirties/initial-commit.jpeg">first line</a> of
+code and over 2 years since we went live, Puzzmo is a company with a functioning bureaucracy, games team and engineering
 team.
 
 That's something I'm real proud of, it's not been a linear ride, and I've never really wanted to consider myself an
@@ -327,6 +338,8 @@ things the way most folks do" which felt cool to discover and simplified a lot o
 I just don't have time for the breadth of community contributions I used to. Am I bummed about it? Yep. I met so many
 interesting people, and found a way to connect to so many people who had similar values but different interests.
 
+<img src="/assets/images/late-thirties/oss.png" />
+
 _"Wanting to do more OSS"_ is a lot like _"I'll do the gym next year"_, it's trivial to say, and for most engineers it
 probably is something they would like to actually do. Committing the time and actually doing it though is much harder.
 
@@ -381,10 +394,10 @@ period of not being able to talk about my work.
 
 During the 'Puzmo' period, Zach and I simply disappeared off these networks and were just heads down. Coming back, it
 doesn't feel as valuable as it once did. Most posts, on all platforms, often look like engagement baiting and not a good
-use of time.
+use of my time.
 
 Nowadays, I don't use a mobile phone, don't use native apps for social networks and then only really check bluesky every
-day or two. I mainly use it to search for "Puzzmo" to test the waters of folks using it, and to try and leave nice
+day or two. I mainly use it to search for "Puzzmo" to see what people are saying about it, and to try and leave nice
 comments to people who I met back in my Open Source days.
 
 ### **Do it Today**
@@ -418,6 +431,8 @@ Danger and I have been doing great. It's wild that you can go back and read
 ["On Being 25" (2012)](https://github.com/orta/orta.github.com/blob/39/on/being/25) and see us starting to date, and now
 we're a really settled-in married couple who still pushes each other to try new things, and acts as each other's core
 support structures.
+
+<img src ="/assets/images/late-thirties/me-and-dm.jpg" />
 
 Multiple times in the last 5 years, I've had someone describe us as their _'couples goal'_. Over the last few years, I
 think we've really gotten into a great space. We have a deep psychological safety net, and IMO have the ability to talk
@@ -499,6 +514,11 @@ Collectively, we tend to sit somewhere in the <a class="fancybox" href="/assets/
 ~10%</a> of all players in the game. We are very good at it. We've gone to watch professionals play Apex all over the
 EU, and I devote time to actually practice and train in the game to prepare for us playing.
 
+<img src="/assets/images/late-thirties/algs-1.jpeg" style="width: 49%; display: inline-block;" />
+<img src="/assets/images/late-thirties/algs-2.jpeg" style="width: 49%; display: inline-block;" />
+<img src="/assets/images/late-thirties/algs-3.jpeg" style="width: 49%; display: inline-block;" />
+<img src="/assets/images/late-thirties/algs-4.jpeg" style="width: 49%; display: inline-block;" />
+
 ### **Horticultural Hands**
 
 Sometimes I'm wary of having lived an over-optimised life. Someone once tweeted that there were a set of programmers
@@ -544,3 +564,5 @@ really pushed me.
 I don't do much open source, but the trade offs are worth it.
 
 Hopefully we'll all be OK!
+
+`*` Header illustration by [Angie Wang](https://okchickadee.com/)
