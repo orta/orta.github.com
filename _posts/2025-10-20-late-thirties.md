@@ -239,8 +239,8 @@ The money isn't "fuck you" money, but it's more than most and more than enough f
 that internal tension, I started a system of direct donations in a way that echos one of the most pivotal moments in my
 life. If you meet me IRL, I'll tell you about it.
 
-Now, 5 years since the <a class="fancybox" href="/assets/images/late-thirties/initial-commit.jpeg">first line</a> of
-code and over 2 years since we went live, Puzzmo is a company with a functioning bureaucracy, games team and engineering
+Now, 5 years since the <a class="fancybox" href="/assets/images/late-thirties/initial-commit.png">first line</a> of code
+and over 2 years since we went live, Puzzmo is a company with a functioning bureaucracy, games team and engineering
 team.
 
 That's something I'm real proud of, it's not been a linear ride, and I've never really wanted to consider myself an
