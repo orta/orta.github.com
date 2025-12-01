@@ -114,8 +114,8 @@ I've always been a fan of the "GitHub greens" approach to doing difficult things
 kinda doesn't matter how good it is but you get to check it off and you keep on keeping on. Eventually, you have a real
 body of work.
 
-Writing up a "On Being" every year was like that for me, _until I needed to pause it_. Now coming back out of this
-digital hermit privacy-hole it's been a a bit of a challenge to figure out what this document is and how to write or
+Writing up an "On Being" every year was like that for me, _until I needed to pause it_. Now coming back out of this
+digital hermit privacy-hole it's been a bit of a challenge to figure out what this document is and how to write and
 structure it.
 
 When I was younger, I used to make 5 year plans. Some of my first ever plans were _'work at Apple'_, _'do a TED talk'_
@@ -154,7 +154,7 @@ To give myself a framing device, I'd say these are the highest level changes sin
 - I started to enjoy player-vs-player video games
 - I have taken up gardening and understanding plant care very seriously
 
-and then, I'll leave trying to talk through the year 2025 as a potential Xmas exercise.
+Let's deep dive into these.
 
 ### **Puzzle Box \-\> Puzmo \-\> Puzzmo**
 
@@ -195,25 +195,25 @@ I've had in a decade or so. I couldn't do Open Source, I didn't have meetups/con
 on Twitter and so it gave a lot of time for long walks in
 <a class="fancybox" href="/assets/images/late-thirties/dubbo-parks.jpg">the park</a>, tending to houseplants, learning
 to <a class="fancybox" href="/assets/images/late-thirties/skating.jpeg">skateboard</a>,
-<a class="fancybox" href="/assets/images/late-thirties/maybe-first-bread.jpeg">baking</a>, trying out bouldering, read
-way more books than normal and I tried video game outside of my usual genres.
+<a class="fancybox" href="/assets/images/late-thirties/maybe-first-bread.jpeg">baking</a>, trying out bouldering,
+reading way more books than normal and I tried video games outside of my usual genres.
 
 This all changed when Wordle got big.
 
 <img src="https://blog.puzzmo.com/posts/2024/04/17/v1-launch/launch-site.png" />
 
 Wordle obviously changed the _"puzzle games on the web"_ space, converting it from a relatively niche space to something
-everyone has heard of, and a lot of folks become very interested in building games platforms.
+everyone has heard of, and a lot of folks became very interested in building games platforms.
 
 To me, this was sort of the switch from "Puzmo" to "Puzzmo". We had this choice: do we ship right now while Wordle
-culture is growing, or do we burn hard and aim to build something that aims to be like the 'next generation' of these
-games. We opted for the latter, and in the process, I gave up on all side-projects and Open Source.
+culture is growing, or do we burn hard and build something that aims to be like the 'next generation' of these games
+platforms. We opted for the latter, and in the process, I gave up on all side-projects and Open Source.
 
-Zach does a great job explaining some of our motivations for selling Puzzmo in this Puzzmo newsletter, but roughly: to
-make Puzzmo long-term successful we needed to be sure that there was a working business attached to Puzzmo the product.
-We couldn't just "develop/design it" and assume that we'd be able to figure out a business-side as we go along, as we
-were selling subscriptions and you really need a long-term business rather than some product people making something and
-moving on.
+One of mine + Zach initial discussions was that we needed to think of our ownership here as being long-term temporary,
+roughly: to make Puzzmo long-term successful we needed to be sure that there was a working business attached to Puzzmo
+the product. We couldn't just "develop/design it" and assume that we'd be able to figure out a business-side as we went
+along, as we were selling subscriptions and you really need a long-term business rather than some product people making
+something and moving on.
 
 We didn't predict that we'd be selling Puzzmo before it became live, I remember being out in Australia for a friend's
 wedding for three weeks as multiple offers started coming in, and I just kept ending up stuck in these brain loops -
@@ -222,8 +222,8 @@ affect X"_ was tricky to articulate and understand ahead of time. My poor wife j
 shell-shocks.
 
 Selling Puzzmo gave us the option of making the Crossword free, and gave us the chance to pick up one of the most
-interesting folks in the Crossword creation/editing space: Brooke - which I think had a massive positive effect on what
-we ended up shipping.
+interesting folks in the Crossword creation/editing space: [Brooke Husic](https://www.brookehusic.com/) - who I think
+had a massive positive effect on what we ended up shipping.
 
 The money isn't "fuck you" money, but it's more than most and more than enough for me and Danger. To try and accommodate
 that internal tension, I started a system of direct donations in a way that echos one of the most pivotal moments in my
@@ -342,7 +342,7 @@ It's hard to do from two angles:
 
 I've never been this busy, for this long, with barely any downtime.
 
-C-level leadership levels of a company is a lot more time-consuming than _technical_ leadership was at Artsy.
+C-level leadership of a company is a lot more time-consuming than _technical_ leadership was at Artsy.
 
 That leaves little time to do related-but-not contributions to collective efforts.
 
@@ -390,17 +390,20 @@ comments to people who I met back in my Open Source days.
 ### **Do it Today**
 
 Like everyone in the 2020s, I went through a few slumps. It's not right to call it a depression, the way folks who have
-that describe a depression seems so much more intense. But, they are like periods where everything just feels a bit
-weightless and un-inspiring. These can last weeks to months, and are generally something I can either distract myself
-through or think myself out of.
+have depression describe it makes it seem so much more intense than I experience.. But, there are periods where
+everything just feels a bit weightless and un-inspiring.
 
-My most recent slump ended by me coming to a pretty dark, but I think defensible, theory that is _'Things structurally
-are getting worse, and will probably continue to get worse. So, the best time to do something is right now.'_
+These can last weeks to months, and are generally something I can either distract myself through or think myself out of.
 
-It's been a few years now, and this one just continues to pay out. It offers a reason for agency, provides a way to
-empathise with others and fits really well with some of my other tenets like Optimistic Nihilism (roughly: _if nothing
-matters, and you can only have a subjective experience of the world, then you get to choose your own definitions of what
-matters_) or Work In Public (_always default to most the public way to interact_)
+ne of the longest slumps in recent memory ended by me coming to a pretty dark, but I think defensible, theory that is
+_'Things structurally are getting worse, and will probably continue to get worse. So, the best time to do something is
+right now.'_
+
+It's been a few years, and this one just continues to give dividends. It offers a reason for agency, provides a way to
+empathise with others and fits really well with some of my other tenets like
+[Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (roughly: _if nothing matters, and you can only have
+a subjective experience of the world, then you get to choose your own definitions of what matters_) or Work In Public
+(_always default to most the public way to interact_)
 
 At some point I should try collect all of the foundational philosophies I've found and try write them up. It's a bit
 like soul-searching for your value system.
@@ -508,24 +511,21 @@ intent of that message, I think back to my theory on velocity: a heterogeneous t
 team has the capacity to handle the breadth of complexity in the real world.
 
 I'd felt a growing desire to make sure I had more facets of depth; software is only one system, even if it's big enough
-that I can easily devote a lifetime to the craft and still have more work to do. Mix that with an pessimistic
-uncertainty for (waves hands) _"all this"_ and I wanted to make sure that I can do more than just ephemeral computer
-stuff.
+that I can easily devote a lifetime to the craft and still have more work to do. Mix that with a pessimistic uncertainty
+for (waves hands) _"all this"_ and I wanted to make sure that I can do more than just ephemeral computer stuff.
 
 We've always had a house-plant or two, Danger would get some easy to maintain plants and we'd have a few corners in the
 living room with a flash of colour. Mid-lockdown, I started to take over the responsibility for her plants, and started
 to put on real gloves when I concluded that having an understanding of growing and maintaining plants was a great
 secondary skillset.
 
-I started pretty small, and we moved houses I've got to the point where every window has some plants and almost every
-free shelf spaces has something hanging and growing. Danger took to going serious on growing vegetables in the garden
-with me, and we're on year two of that now!
+I started pretty small, but I've got to the point where every window has some plants and almost every free shelf spaces
+has something hanging and growing. Danger took to going serious on growing vegetables in the garden with me, and we're
+on year two of that now!
 
 The first year we managed to get a few tomatoes - I was happy to call anything a win. This year however, we had huge
 amounts of tomatoes, cucumbers and cucamelons. We had a few courgettes and potatoes. I've still got more to go though,
-every year for 4 years I've tried pulling off growing
-<a class="fancybox" href="/assets/images/late-thirties/hot-hot-hot.jpg">chillis</a> and I still not been able to pick
-one.
+every year for 4 years I've tried pulling off growing chillis and I still not been able to pick one.
 
 A lot of good plant husbandry is predictability and repetition, we're not like clockwork but we got down to during the
 summer months having a twice-weekly house watering session, and a daily veg update. It's very far from financially
