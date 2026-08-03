@@ -408,7 +408,7 @@ everything just feels a bit weightless and un-inspiring.
 
 These can last weeks to months, and are generally something I can either distract myself through or think myself out of.
 
-ne of the longest slumps in recent memory ended by me coming to a pretty dark, but I think defensible, theory that is
+One of the longest slumps in recent memory ended by me coming to a pretty dark, but I think defensible, theory that is
 _'Things structurally are getting worse, and will probably continue to get worse. So, the best time to do something is
 right now.'_
 
